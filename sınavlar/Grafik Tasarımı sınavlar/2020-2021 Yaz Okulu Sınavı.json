@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi resim üzerinde işlem yaparken öncelikli olarak göz önünde bulundurulmalıdır?",
+    "seçenekler": [
+      "A) Resmin çözünürlüğü",
+      "B) Resmin boyutu",
+      "C) Resmin renk ve tonlaması",
+      "D) Resmin yönelimi",
+      "E) Resmin kullanım amacına uygunluğu"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 Bir resim üzerinde işlem yaparken öncelikle resmin kullanım amacına uygunluğu değerlendirilmelidir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi Eylemler paneli menüsünden eyleme eklenebilecek ögelerden değildir?",
+    "seçenekler": [
+      "A) Menü öğesi",
+      "B) Durma",
+      "C) Yol",
+      "D) Stil",
+      "E) Koşullu ifade"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Eylemler Paneli menüsü üzerinde var olan bir eyleme gerekli görüldüğü durumlarda farklı öğeler de eklenebilmektedir. Bunlar; Menü öğesi, Durma, Koşullu ifade, Yoldur."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aylık ya da yıllık sürede kiralanarak kullanılabilen program aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Adobe Acrobat Reader",
+      "B) Adobe Photoshop CC",
+      "C) Adobe Photoshop CS6",
+      "D) GIMP",
+      "E) Corel Draw"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 2 Adobe Photoshop’un son sürümünün adı CC 2018’dir (Creative Cloud 2018). Bu sürüm 2014 yılından beni güncellemeler ile halen piyasadadır. Önceki sürümlerinden farklı olarak (CS6 ve öncesi), CC sürümünde yazılımın satın alınması mümkün değildir, ancak aylık ya da yıllık kiralayarak kullanabilirsiniz."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında noktada metin ekleme işlemi için doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Noktada metin ekleme, çalışılan dosya üzerinde tıklanılan yerden yatay veya dikey olarak bir metin satırının girilmesidir.",
+      "B) Noktada metin ekleme daha çok birkaç sözcük eklemek için kullanılır.",
+      "C) Nokta metin eklendiğinde her yazı satırı birbirinden bağımsızdır.",
+      "D) Noktada eklenen metinlerin hepsi aynı katmanda görüntülenir.",
+      "E) Çalışılan tasarım dosyası üzerine noktada metin eklemek için yatay yazı aracı tıklanır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 Noktada eklenen metinler birbirinden bağımsız oldukları için her biri farklı katmanda görüntülenir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop’un açabileceği dosya biçimlerinden biri değildir?",
+    "seçenekler": [
+      "A) PSD",
+      "B) PDF",
+      "C) DOCX",
+      "D) GIF",
+      "E) JPG"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 2 Günümüzde birçok ortamda bilginin sunulmasında yazıya ek olarak grafik kullanılmaktadır. Bu grafiklerin kullanılacağı yere göre (Internet, sosyal medya, mobil cihazlar, basılı medya vb.. gibi) aynı resmin farklı biçimlerde saklaması gerekir. Photoshop, JPG, GIF, TIFF, PDF, PNG BMP gibi birçok resim ve belge biçimindeki dosyayı açabilir ve o biçimde kaydedebilir. Öte taraftan kendi özelliklerini tam anlamıyla yansıtabildiği dosya biçimi PSD’dir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Çevre piksellerin incelenmesi sonucunda yeni pikseller eklenmesi işlemi aşağıdaki Yeniden Örnekleme özelliklerinden hangisine aitir?",
+    "seçenekler": [
+      "A) Bikübik",
+      "B) Bilineer",
+      "C) En Yakın Komşu",
+      "D) Ayrıntıları Koru",
+      "E) Bikübik Daha Yumuşak"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11 Bikübik: Çevre piksellerin incelenmesi sonucunda yeni pikseller eklenmesi işlemidir. Daha kesin ancak daha yavaş bir yöntemdir. Diğer örnekleme yöntemlerine göre daha karmaşık hesaplamalar yapılır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Bir katmanın tamamen şeffaf olması için girilecek değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Doygunluk - 0",
+      "B) Opaklık - %0",
+      "C) Renk doygunluğu - %0",
+      "D) Alfa Renk - %100",
+      "E) Alfa Renk - 255"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Photoshop’ta çizilen bir dikdörtgenin yükseklik ve genişliği ile ilgili ayarların düzenleneceği ekran aşağıdaki menülerden hangisinde bulunmaktadır?",
+    "seçenekler": [
+      "A) Pencere > Ayarlar",
+      "B) Pencere > Özellikler",
+      "C) Düzenle > Ayarlar",
+      "D) Düzenle > Özellikler",
+      "E) Kanallar > Katmanlar"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Kartvizitin üst kısmında bulunan şekil için arka plandan bir ton daha açık bir siyah renk barındıran genişlik 650 piksel (px) ve uzunluk 664 px olan bir dikdörtgen çizilir. Bu çizilen dikdörtgenin ayarları Pencere > Özellikler menüsüne tıklandığında açılan panelden düzenlenebilir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Photoshop programında daha önce oluşturulmuş bir eylemi yüklemek için aşağıdaki hangi komut kullanılmaktadır?",
+    "seçenekler": [
+      "A) Eylemleri Sıfırla",
+      "B) Tüm Eylemleri Temizle",
+      "C) Çoğalt",
+      "D) Eylemleri Yükle",
+      "E) Oynat"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Eylem yüklemenin ikinci bir yolu ise; Eylemler paneli menüsünden Eylemleri Yükle seçeneğini kullanmaktadır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki seçeneklerden hangisi Yollar panelinde bulunan seçeneklerden değildir?",
+    "seçenekler": [
+      "A) Seçim Yap",
+      "B) Yolu Doldur",
+      "C) Yola Kontur Ver",
+      "D) Yolu Çoğalt",
+      "E) Yolu Birleştir"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Şekil 10.21. Yollar paneli ve yol örnekleri"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Hazırlanan bir grafiksel ögedeki renklerin, yazıcıdan basılmadan önce önizlemesini yapmak için aşağıdakilerden hangisi kullanılabilir?",
+    "seçenekler": [
+      "A) Katmanları çoğalt",
+      "B) Akıllı renkler",
+      "C) Prova renkleri",
+      "D) Katmanlı renkler",
+      "E) RGB renkler"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Filtre içerisindeki filtrelerden biri değildir?",
+    "seçenekler": [
+      "A) Bulanıklaştırma Galerisi",
+      "B) Deforme et",
+      "C) Doku",
+      "D) Sanatsal",
+      "E) Stilize et"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 7 Doğru cevap A şıkkı olarak güncellendi."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Farklı katmanları aynı anda seçebilmek için aşağıdaki kısa yol tuşlarından hangisini kullanmak gerekir?",
+    "seçenekler": [
+      "A) Shift",
+      "B) Alt",
+      "C) Ctrl",
+      "D) Alt Gr",
+      "E) Windows"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 14 Ctrl tuşuna basılı tutarak farklı katmanlar aynı anda seçilebilir"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi Yollar paneli ile ilgili olarak yanlıştır?",
+    "seçenekler": [
+      "A) Yollar farklı katmanlarda oluşturulmalıdır.",
+      "B) Oluşturulan yollar seçime dönüştürülebilir.",
+      "C) Oluşturulan yolların kenarlıklarının görünür hale gelmesi sağlanabilir.",
+      "D) Daha önce oluşturulmuş bir yol silinebilir.",
+      "E) Çizilen yollar Yollar paneli üzerinde gözükmez."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Yollar, kalem aracıyla çizilen eğri ve doğrulardan oluşan ana hatlardır. Bu ana hatları seçime dönüştürebilir veya çeşitli renklerde doldurabilir veya kontur vererek ana hatlarının belirginleşmesini sağlayabilirsiniz. Kalem aracıyla çizilen her yol otomatik olarak Yollar panelinde Çalışma Yolu adı verilen bir yola kaydedilir. Yollar paneli, üzerine kaydedilen yolların çalışılan görüntü üzerine hızlı bir şekilde uygulanması için kullanılan bir paneldir. Yollar paneli açık olsun veya olmasın kalem aracı ile çizilen her yol buraya doğrudan kaydedilir. Yollar panelinde bir yol oluşturmadan çizim yapmaya başladığınızda Çalışma Yolu Photoshop programı tarafından otomatik olarak oluşturulur. Çiziminizi tamamladıktan sonra bu yolun adını değiştirebilirsiniz . Bu panelde kaydedilen yolun adı, oluşturulan yolun küçük hali görüntülenir. Yollar panelinin seçenekleri menüsünden yolların simgelerini oluşturan küçük çizimlerin boyutlarını düzenleyebilirsiniz veya görünmez hale getirebilirsiniz [1] Şekil 10.20 de gösterilen Yollar panelinde bulunan butonların görevleri Tablo 10.2 de sunulmuştur.Kalem aracılığıyla görüntü üzerinde seçim yapıldığında Şekil 10.21 de görülen çalışma yolu katmanı otomatik oluşturulmaktadır. Yeni yol oluşturulduktan sonra yapılan çizimleri içermektedir. Böylelikle farklı kaydedilen yolların görüntü üzerine ayrı ayrı uygulanması sağlanabilir. Birden fazla yol seçilerek görüntü üzerine uygulanabilir. Birden fazla yolu seçerken, birbiri ile bitişik olan yolları seçmek için Shift tuşu, bitişik olmayan yolları seçmek için Ctrl (Windows) veya Command (Mac OS) tuşları kullanılabilir. Yolların sırasını seçili olan yolu aşağı yukarı sürükleyerek değiştirebilirsiniz."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop programında Filtre kullanımıyla ilgili olarak yanlıştır?",
+    "seçenekler": [
+      "A) Bitmap biçimindeki ve dizinlenmiş renkte resimlere filtre uygulanamaz.",
+      "B) Filtre uygulayabilmek için etkin bir katmanın veya bir seçimin kullanılması gerekmektedir.",
+      "C) Bir görüntüye filtre uygularken bilgisayarınızın RAM bellek kapasitesi yetersiz ise hata uyarısı alabilirsiniz.",
+      "D) Filtre uygulamaları geri alınamaz.",
+      "E) 8 bitlik resimlere tüm filtreler uygulanabilirken, bazı filtreler sadece RGB modundaki resimlere uygulanabilir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 Uyguladığınız filtreyi beğenmediğiniz durumlarda Düzenle menüsünde yer alan Geri Al komutunu kullanarak veya Ctrl+Z kısa yolunu kullanarak yapılan değişiklikleri geri alabilirsiniz."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Photoshop’ta bir yazı katmanına “Metni, Rasterleştir” (Rasterize) işlemi yapılmasıyla elde edilen işlem aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Yazı çizim alanında taşınamaz.",
+      "B) Yazı, kayıt aşamasında resme dâhil edilmez.",
+      "C) Yazıya yeni kelime veya harf eklenemez.",
+      "D) Yazı katmanlar panelinden silinir.",
+      "E) Yazı ayarlama katmanı haline dönüşür."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 5 Yazı katmanlarına diğer katmanlar gibi bir çok efekt verilebilir ancak tasarımda bu katmanı yazı yerine çizim haline getirmek isteyebilir. Bunun için Katmanlar panelinde yazı katmanı üzerine sağ tıklayıp Metni, Rasterleştir (Rasterize) seçeneğini seçebilir. Bunu yaparsa, artık o katmanda diğer katmanlar gibi çizim katmanı olur, sembolü değişir ve içerisindeki yazı, (T) aracı ile değiştirilemez hale gelir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "I. Bitmap grafikleri milyonlarca renk değişimi aldığından tüm piksellerine müdahale edilmesi kolaydır. II. Bitmap grafiklerin boyutunu değiştirmek görüntünün kalitesinin bozulmasına yol açmaz. III. Vektör grafikler farklı boyut ve renklerde görüntü kalitesini yitirmemesi istenilen çalışmalarda kullanılır. Yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) I ve III",
+      "E) I,II ve III"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 1 Bitmap grafikleri milyonlarca renk değişimi alır bu nedenle tüm piksellerine müdahale edilmesi kolaydır. Böylece rötuşlama işlemi kolay olur. Ancak bitmap grafiklerin boyutunu değiştirmek görüntünün kalitesinin bozulmasına yol açar. Vektör grafikler farklı boyut ve renklerde görüntü kalitesini yitirmemesi istenilen çalışmalarda kullanılır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Cetvelleri hizalama aracı olarak kullanmak isteyen bir kullanıcı aşağıdakilerden hangisinden yararlanarak cetvelleri aktif hale getirebilir?",
+    "seçenekler": [
+      "A) Ctrl+K tuşlarına birlikte basabilir.",
+      "B) Ctrl+Z tuşlarına birlikte basabilir.",
+      "C) Ctrl+I tuşlarına birlikte basabilir.",
+      "D) Ctrl+R tuşlarına birlikte basabilir.",
+      "E) Ctrl+C tuşlarına birlikte basabilir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6 Cetveller tasarım alanındaki öğelerle ilgili konumlandırma ayarlarını yapmanıza yardımcı olan araçlardır. Cetvelleri görünür hale getirmek veya gizlemek için Görünüm menüsündeki Cetveller seçeneği tıklanabllir ya da kılavyeden Ctrl+R kısayol tuş kombinasyonu kullanılabilir. Cetveller görünür hale geldiğinde Şekil 6.7’de görüldüğü gibi tasarım alanının sol ve üst tarafında konumlanırlar. Cetvelin başlangıç noktası üst ve sol taraftan sıfır birim (0,0) olarak belirlenmiştir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Sınırlandırma kutusunu döndürme işlemi yapılırken 15° artış sağlamak için aşağıdaki hangi kısayol tuşuna basılı tutulmalıdır?",
+    "seçenekler": [
+      "A) Ctrl",
+      "B) Shift",
+      "C) Alt",
+      "D) Alt Gr",
+      "E) Windows"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Döndürme işlemi yapılırken 15° artış sağlamak için Shift tuşuna basılı tutulmalıdır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Keskinliğin en üst düzeyde korunduğu yeniden örnekleme seçeneği aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Bikübik",
+      "B) Bikübik Daha Keskin",
+      "C) Bilineer",
+      "D) Ayrıntıları Koru",
+      "E) En Yakın Komşu"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 11 Ayrıntıları koru: Görüntüyü yeniden boyutlandırırken ayrıntıların ve keskinliğin en üst düzeyde korunduğu sonuçlar verir."
+  }
+]

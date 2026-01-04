@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi hosting ve domain kavramlarıyla ilgili yanlış bir ifadedir?",
+    "seçenekler": [
+      "A) Hosting kavramı barındırma anlamına gelmektedir.",
+      "B) Web siteleri sadece IP adresleri kullanılarak görüntülenebilir.",
+      "C) Bir web sitesinin tüm içeriği bir sunucuda tutulur.",
+      "D) Her web sitesine ait bir IP adresi vardır.",
+      "E) IP adresleri dört bölümden oluşur."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "CEVAP B ŞIKKI OLARAK GÜNCELLENMİŞTİR."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Web sayfası içerisinde yatay olarak oluşturulmuş gezinme çubuğu yapısına ....................... adı verilir. Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Horizontal Navbar",
+      "B) Vertical Navbar",
+      "C) Navbar",
+      "D) Sticky NavBar",
+      "E) Fixed Navbar"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi \"\"çapraz tarayıcı uyumluluğu sorununun yaygın nedenleri\"\" arasında yer almaz?",
+    "seçenekler": [
+      "A) DOCTYPE kullanımı",
+      "B) Tarayıcıya özel CSS kullanımı",
+      "C) CSS sıfırlama",
+      "D) Yeni tarayıcı algılama",
+      "E) Eski tarayıcı algılama"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Yeni tarayıcı algılama bu sebeplerden birisi değildir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "1400 px ölçüsünden büyük kesme noktası tipi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Small (Küçük)",
+      "B) Medium (Orta)",
+      "C) Large (Büyük)",
+      "D) Extra large (Ekstra büyük)",
+      "E) Extra extra large (Ekstra ekstra büyük)"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Cevap extra extra large'dır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi Mock-Up hazırlama ortamlarından biri değildir?",
+    "seçenekler": [
+      "A) Mockminus",
+      "B) Moqups",
+      "C) Mockup Builder",
+      "D) Origami Studio",
+      "E) MockPlus"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Böyle bir tip yoktur."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi Bootstrap bileşenlerinden biri değildir?",
+    "seçenekler": [
+      "A) Alert",
+      "B) Bution",
+      "C) Square",
+      "D) Modal",
+      "E) Toast"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Böyle bir bileşen yoktur."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi meta etiketlerinden biri değildir?",
+    "seçenekler": [
+      "A) Title",
+      "B) Description",
+      "C) Keywords",
+      "D) Charset",
+      "E) Head"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi ekran genişliğinin 250px altında olması halinde arkaplan rengini kırmızı yapan koddur?",
+    "seçenekler": [
+      "A) @media only screen and (max-with: 250px) {body {background-color:yellow;}}",
+      "B) meta only screen and (max-with: 250px) {body {background-color:red;}}",
+      "C) @only screen and (max-with: 250px) {body {background- color:red;}}",
+      "D) only screen and (max-with: 250px) {body {background- color:red;}}",
+      "E) @media only screen and (max-with: 250px) {body {background-color:red;}}"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Çapraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi davranış uyumluluğunu ifade eder?",
+    "seçenekler": [
+      "A) Web sitesinin istenilen şekilde görünüp görünmediğini kontrol eder.",
+      "B) CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder.",
+      "C) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı çözünürlükteki görünümünü kontrol eder. Ayrıca mobil cihazın yatay veya dikey çevrilmesi sonucundaki oluşacak görüntüyü de kontrol eder.",
+      "D) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.",
+      "E) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder. Örneğin sitede bir butona tıklandığında yeni pencerede bir sayfa açılıyorsa bu işlemin bütün tarayıcılarda gerçekleşip gerçekleşmediğini kontrol eder."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder. Örneğin, sitede bir butona tıklandığında yeni pencerede bir sayfa açılıyorsa bu işlemin bütün tarayıcılarda gerçekleşip gerçekleşmediğini kontrol eder ifadesi doğru cevaptır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "CSS ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) HTML büyük ölçüde metin içeriğini belirlerken CSS görsel yapıyı, düzeni ve estetiği belirler.",
+      "B) CSS, bir internet sitesinin tasarımsal açıdan daha etkileyici görünmesini kolaylaştıran bir işaretleme dilidir.",
+      "C) CSS, İngilizce Cascade Style Sheet kelimelerinin kısaltılmasıdır.",
+      "D) Web sayfaları için etkileşimli görsel ögeler CSS ile tasarlanabilir.",
+      "E) CSS ilk kez 2010'lu yıllarda önerilmiş ve kullanılmaya başlanmıştır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "CSS, sanılanın aksine eskilere dayanan bir işaretleme dilidir. İlk kez 1994 yılında, Cern şehrinde Tim Barners-Lee ile birlikte çalışmakta olan Hakon Wium Lie tarafından önerilmiştir. Daha sonrasında W3C adını alan, çeşitli forum sitesi ve posta listelerinde yapılan birkaç farklı tarz sayfası dili taslağını da göz önünde bulundurarak, 1996 senesinde ilk CSS önerisi sunulmuştur."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "HTML5'te, *.css ve *.js uzantılı dosyaları HTML dokümanı içerisinde çağırırken sırasıyla hangi etiketler kullanılır?",
+    "seçenekler": [
+      "A) <  meter  > ve <  progress  >",
+      "B) <  details  > ve <  summary  >",
+      "C) <  figure  > ve <  figcaption  >",
+      "D) <  article  > ve <  section  >",
+      "E) <  link  > ve <  script  >"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "HTML, bir sayfanın iskeletini oluşturmaktadır. Bu iskeletin tasarımı CSS, etkileşimler ise JavaScript(JS) ile yapılmaktadır. *.css ve *.js uzantılı dosyaları HTML dokümanı içerisinde çağırırken CSS için , JS için etiketleri kullanılmaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": ".............................. , satır (row) ve sütunlardan (col) oluşan bir ızgara (Grid) yapısı içerisinde elementlerin alt alta dizilerek konumlandırılmasıyla ortaya çıkan form şeklidir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Horizontal Form",
+      "B) Inline Form",
+      "C) Vertical Form",
+      "D) Legend Form",
+      "E) Fieldset"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "HTML elementler üzerinde Bootstrap özellikleri ......... tanımı ile kullanılır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) data",
+      "B) style",
+      "C) class",
+      "D) head",
+      "E) link"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi tasarım sürecinin etkileri arasında yer almaz?",
+    "seçenekler": [
+      "A) Kullanıcı deneyimini etkiler.",
+      "B) Front-end geliştirmede kullanılacak bileşenlerin seçimini etkiler.",
+      "C) Üzerinde çalışılan web projesinin amacı ve kapsamını etkiler.",
+      "D) Kullanıcı memnuniyet düzeyini etkiler.",
+      "E) Sistem performansını etkiler."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Tasarım süreci: • Kullanıcı deneyimini etkiler. • Front-end geliştirmede kullanılacak bileşenlerin seçimini etkiler. • Kullanıcı memnuniyet düzeyini etkiler. • Sistem performansını etkiler Üzerinde çalışılan web projesinin amacı, kapsamı ve kullanıcı kitlesi tasarım aşamasını etkilemektedir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Canvas API ile dikdörtgen çizerken .................. dolgu rengi için kullanılırken .................. çizgi rengi için kullanılır. Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) fillStyle - strokeStyle",
+      "B) background - font",
+      "C) font - color",
+      "D) fillRect - clearRect",
+      "E) fillText - textAlign"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "fillStyle dolgu rengi için kullanılırken, strokeStyle çizgi rengi için kullanılır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi Flexbox kapsamında kullanılan özellikler arasında yer almaz?",
+    "seçenekler": [
+      "A) align-content",
+      "B) align-items",
+      "C) align-self",
+      "D) border",
+      "E) flex"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "3"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "CSS Flexbox’ta birden çok satıra yaymak için hangi özellik kullanılır?",
+    "seçenekler": [
+      "A) column",
+      "B) Align-item",
+      "C) Align-content",
+      "D) Flex-wrap",
+      "E) Flex-grow"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi CSS’nin dönüştürme özelliğidir?",
+    "seçenekler": [
+      "A) caption-side",
+      "B) transition",
+      "C) animation-direction",
+      "D) column-rule",
+      "E) perspective"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": ".................... x ve y ekseni bir uzayda html elementlerinin yerini değiştirme, döndürmek, ölçeklendirmek ve çarpıtmak için kullanılır. Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) 2D Transform",
+      "B) 2D Translate",
+      "C) 2D Rotate",
+      "D) 2D Scale",
+      "E) 2D Skew"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi WireFrame hazırlama ortamlarından biri değildir?",
+    "seçenekler": [
+      "A) Luxery",
+      "B) Wireframe.cc",
+      "C) Balsamiq",
+      "D) InDesign",
+      "E) Axure"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Böyle bir tip yoktur"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Bir döngünün belirli bir iterasyonunda iken,  kalan komutları atlayıp bir sonraki iterasyona geçmek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) case",
+      "B) switch",
+      "C) break",
+      "D) continue",
+      "E) throw"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6 BREAK VE CONTINUE DEYİMLERİ başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "a dizisinin a[2][3] elemanı aşağıdakilerden hangisiyle okunabilir?",
+    "seçenekler": [
+      "A) a[6]",
+      "B) a[3][2]",
+      "C) a[2][3]",
+      "D) a[2,3]",
+      "E) a[3,2]"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 Ünitenin giriş bölümünde yer almaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Bir C++ programının geçmesi gereken 7 aşama aşağıdakilerden hangisinde doğru sıralama ile verilmiştir?",
+    "seçenekler": [
+      "A) Yükleme - düzenleme - derleme - önişleme - birleştirme - çalıştırma - hata ayıklama",
+      "B) Düzenleme - önişleme - birleştirme - yükleme - derleme - çalıştırma - hata ayıklama",
+      "C) Önişleme - düzenleme - derleme - birleştirme - yükleme - çalıştırma - hata ayıklama",
+      "D) Düzenleme - birleştirme - önişleme - derleme - yükleme - çalıştırma - hata ayıklama",
+      "E) Düzenleme - önişleme - derleme - birleştirme - yükleme - çalıştırma - hata ayıklama"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 1 BİR C++ PROGRAMININ GELİŞTİRİLMESİ başlıklı konuda anlatılmaktadır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdaki deyimlerden hangisi p adındaki bir nesnenin kendi sınıfının public üye fonksiyonlarından olan Yap() isimli fonksiyona erişimini doğru biçimde göstermektedir?",
+    "seçenekler": [
+      "A) p(Yaz);",
+      "B) Yaz(p);",
+      "C) p>>Yaz();",
+      "D) p.Yaz();",
+      "E) p_Yaz();"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 14 Nesneler kendi sınıflarının \"\"public\"\" üyelerine nokta operatörü ( . ) ile erişebilir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "vector<int> yigin; vector<int>::iterator gosterici; for (int i=1; i<=6; i++)      yigin.push_back(i*10); gosterici=yigin.begin(); gosterici++; cout<<*gosterici<<endl; Yukarıdaki C++ kod bloğu çalıştırıldığında hangi ekran çıktısını üretir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 60",
+      "C) 10",
+      "D) 21",
+      "E) 20"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 6 elemana sahip yigin adındaki deponun 2. elemanı gösterilmiştir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Veriler aşağıdakilerden hangisinde bir anahtarla birlikte tutulur?",
+    "seçenekler": [
+      "A) stack",
+      "B) queue",
+      "C) list",
+      "D) set",
+      "E) map"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 Tablo 12.1 C++ STL kütüphanesinin desteklediği depo yapıları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisinde dizi tanımlanması yanlıştır?",
+    "seçenekler": [
+      "A) int B[]={1,2,3,4,5,6};",
+      "B) int B[]=\"\"123456\"\";",
+      "C) int B[6]={1,2,3,4,5,6};",
+      "D) int B[3];",
+      "E) int B6[6]={0};"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 Başlangıç değeri atama başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "stack<int> depo; depo.push(5); Yukarıdaki C++ kod bloğunun son satırında yer alan deyimin işlevi nedir?",
+    "seçenekler": [
+      "A) depo yığınının en üstüne 5 değerinde bir eleman eklemek",
+      "B) depo yığınının 5. elemanının boyutunu öğrenmek",
+      "C) depo yığınından 5 değerine sahip tüm elemanları silmek",
+      "D) depo yığınının en üstüne 5 adet eleman eklemek",
+      "E) depo yığınındaki son 5 elemanı listelemek"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 stack depo sınıflarında push ifadesi yığının en üstüne bir eleman ekler."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "int dizi[5] = { 5,10,15,20,25 }; for (int sayac = 0; sayac< 5; sayac++)      cout<<sayac<<\"\". sayi=\"\"<<dizi[sayac] + sayac<<endl; Verilen C++ kod parçacığı çalıştırıldığında aşağıdaki ekran çıktılarından hangisi elde edilir?",
+    "seçenekler": [
+      "A) 0. sayi=5 1. sayi=11 2. sayi=17 3. sayi=23 4. sayi=29",
+      "B) 1. sayi=5 2. sayi=10 3. sayi=15 4. sayi=20 5. sayi=25",
+      "C) 0. sayi=5 1. sayi=10 2. sayi=15 3. sayi=20 4. sayi=25",
+      "D) 0. sayi=6 1. sayi=11 2. sayi=16 3. sayi=21 4. sayi=26",
+      "E) 1. sayi=6 2. sayi=11 3. sayi=16 4. sayi=21 5. sayi=26"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 Tam sayı bir dizinin her elemanı diğer tam sayılar gibi matematiksel işlemlere girebilir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "int dizi[2][3][3]; Yukarıdaki gibi deklare edilmiş 3 boyutlu dizinin eleman sayısı kaçtır?",
+    "seçenekler": [
+      "A) 2",
+      "B) 3",
+      "C) 6",
+      "D) 9",
+      "E) 18"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Çok boyutlu dizilerde toplam eleman sayısı, her boyutiaki eleman sayısını çarpımına eşitir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "string metin =\"\"Beslenme Önemlidir!\"\"; metin.resize(6); cout << metin << endl; Yukarıdaki C++ kod bloğu çalıştırıldığında aşağıdaki ekran çıktılarından hangisini üretir?",
+    "seçenekler": [
+      "A) Beslenme Önemlidir!Beslen",
+      "B) Beslenme Önemlidir!",
+      "C) Beslen",
+      "D) Besle",
+      "E) BBBBBBeslenme Önemlidir!"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 resize, string'de yer alabilecek karakter sayısını yeniden belirler."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Bir programlama dilinin yazım ve gramer kurallarının ihlal edilmesi ile ortaya çıkan hata türü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Algoritma hatası",
+      "B) İşletim sistemi hatası",
+      "C) Söz dizim hatası",
+      "D) Mantık hatası",
+      "E) Yanlış kullanıcı girdisi hatası"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Söz dizim hataları, kodlama sırasında kullanılan programlama dilinin yanlış yazılmasından kaynaklanır. kodlar derlenemez ve program çalıştırılamaz."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Bir akış diyagramında aşağıdakilerden hangisi mutlaka olmalıdır?",
+    "seçenekler": [
+      "A) İşlem",
+      "B) Karşılaştırma",
+      "C) Döngü",
+      "D) Girdi",
+      "E) Başla"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "append üye fonksiyonu hangi amaçla kullanılır?",
+    "seçenekler": [
+      "A) String sınıfı değişkene yeni değer atamak için",
+      "B) String sınıfı değişkenin sonuna başka bir string ifade eklemek için",
+      "C) String sınıfı değişkenin başına başka bir string ifade eklemek için",
+      "D) String sınıfı değişkenin ortasına başka bir string ifade eklemek için",
+      "E) String sınıfı değişkeni silmek için"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 11. Sayfa append üye fonksiyonu alt başlığında ilk paragraf. Append üye fonksiyonu, String sınıfı değişkenin sonuna yeni değer eklemek için kullanılır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Bir C++ programında m değişkeninin n değişkeni ile bölünmesinden elde edilen kalan aşağıdakilerden hangisi ile bulunabilir?",
+    "seçenekler": [
+      "A) m / n",
+      "B) m * n",
+      "C) (m / n) – n",
+      "D) m % n",
+      "E) m * m - n * n"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 3 “Aritmetik İşlemler” bölümünde 2. Paragrafta sorunun cevabı yer alıyor."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "pow(3,4) hazır fonksiyonunun üreteceği sonuç aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 12",
+      "D) 81",
+      "E) 256"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 Tablo 7.1. Kullanıma Hazır Bazı cmath Kütüphanesi Fonksiyonları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Çalışma zamanı hatalarını tespit edip müdahale edebilmek için gelişmiş derleyicilerde, istisnai durum yönetimi bulunmaktadır. İstisnai durum yönetiminde her bir hata durumu bir sınıfa karşılık gelmektedir. İstisnai durum sınıfına karşılık gelen bir hata türü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Döngünün beklenenden farklı sayıda icra edilmesi",
+      "B) Bir dizinin indis sınırlarının aşılması",
+      "C) Matematiksel işlemlerde işlem önceliğinin dikkatien kaçırılması",
+      "D) Ondalıklı sayılarla çalışırken yuvarlamanın hesaba katılmaması",
+      "E) İç içe if kullanımında else bloğunun yerinin karıştırılması"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 İstisnai Durum Yönetimi başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi bütünleşik geliştirme ortamlarından beklenen temel fonksiyonlar arasında bulunmaz?",
+    "seçenekler": [
+      "A) Program yazılabilmesi",
+      "B) Programda değişiklik yapılabilmesi",
+      "C) Veri tabanı uygulamaları geliştirilebilmesi",
+      "D) Programın derlenip çalıştırılabilmesi",
+      "E) Programdaki hataların ayıklanabilmesi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 4 GİRİŞ BÖLÜMÜ ve BÜTÜNLEŞİK GELİŞTİRME ORTAMI konularında anlatılmaktadır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "char  dizi[15] = \"\"Programlama\"\"; dizi[5]='\\0'; cout<<dizi<<endl; Yukarıdaki C++ kod parçacığı çalıştırıldığında aşağıdaki ekran çıktılarından hangisi elde edilir?",
+    "seçenekler": [
+      "A) Programlama0000",
+      "B) Progr",
+      "C) Progr\\0lama",
+      "D) Progr0mlama",
+      "E) Progrmlama"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 \\0 (ters bölü ve sıfır) özel bir karakterdir, karakter dizilerinde, metni sonlandırır. Bu karakter ve sonrasını cout komutu yazmaz."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "0 < kenar < 100 Yukarıda verilen matematiksel ifadenin C++ programlama dilindeki karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0100",
+      "B) 0",
+      "C) kenar>100 && kenar<0",
+      "D) kenar<100 && kenar>0",
+      "E) kenar>100 || kenar>0"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 İfadedeki iki koşul ayrı ayrı kontrol edilmeli ve \"\"VE\"\" operatörü ile bağlanmalıdır."
+  }
+]

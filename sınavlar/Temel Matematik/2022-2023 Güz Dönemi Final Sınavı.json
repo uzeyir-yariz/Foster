@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "\u0000(\u0000) = −\u0000  2  + 4\u0000 − 6 fonksiyonunun azalan olduğu aralık aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) (−∞, 2)",
+      "B) (−2,0)",
+      "C) (−1,0)",
+      "D) (2, +∞)",
+      "E) (0,2)"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Eğer \u0000\u0000 \u0000 (\u0000,\u0000) için \u0000′(\u0000)"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "\\(x\\) ve \\(y\\)  sayılarının toplamları 60'tır. \\(x.y^{^{2}}\\) ’ni maksimum değer alabilmesi için \\(x\\) ve \\(y\\) sayıları kaç olmalıdır?",
+    "seçenekler": [
+      "A) 15  ve 45",
+      "B) 20  ve 40",
+      "C) 25  ve 35",
+      "D) 10  ve 40",
+      "E) 30  ve 30"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "\\(f\\left ( x \\right ) = \\frac{-x^{3^{}}+1}{2x^3{}-1}\\) eğrisinin yatay asimptotu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) \\(y=\\frac{-1}{2}\\)",
+      "B) \\(y=\\frac{-1}{3}\\)",
+      "C) \\(y=-2\\)",
+      "D) \\(y=2\\)",
+      "E) Yatay asimptotu yoktur."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "A=a, b, c  ve B=1, 2, 3, 4  kümeleri veriliyor. Buna göre A×B  kümesinin eleman sayısı kaçtır?",
+    "seçenekler": [
+      "A) 7",
+      "B) 8",
+      "C) 10",
+      "D) 12",
+      "E) 15"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "\\(lim\\) \\(x \\mapsto 2 \\) için \\(f(x)=x^{3}\\) fonksiyonunun limiti aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 8",
+      "E) 9"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "\\(\\lim_{x\\rightarrow 2} \\frac{3+x}{2x+1}\\) limitinin değeri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0",
+      "B) \\(\\frac{2}{3}\\)",
+      "C) yok",
+      "D) 1",
+      "E) \\(\\frac{3}{2}\\)"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "\\(log_{4}x^{3} + log_{2}\\sqrt{x} = 8\\) denkleminin çözümü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 4",
+      "D) 16",
+      "E) 32"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "5 tane sayının aritmetik ortalaması 28’dir. Bu sayılara hangi sayı eklenirse aritmetik 30 olur?",
+    "seçenekler": [
+      "A) 30",
+      "B) 32",
+      "C) 34",
+      "D) 38",
+      "E) 40"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdaki fonksiyonlardan hangisinin grafiği doğru belirtmez?",
+    "seçenekler": [
+      "A) \u0000 = 2x",
+      "B) \u0000 = x 2",
+      "C) \u0000 = \u0000 − 2",
+      "D) \u0000 = 2",
+      "E) \u0000 = 2"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "y= x^2 ikinci dereeden polinom fonksiyonu olup grafiği paraboldür"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "\\(f\\left ( x \\right ) = \\sqrt{x+1}\\) ise,   \\(f'\\left ( 1 \\right )\\) değeri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) \\(\\frac{1}{2}\\)",
+      "B) 2",
+      "C) \\(\\frac{1}{2\\sqrt{2}}\\)",
+      "D) \\(\\sqrt{2}\\)",
+      "E) \\(\\frac{\\sqrt{2}}{2}\\)"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "İki şehir arasında gidiş geliş iki farklı yoldan yapılmaktadır. 1. yol 5\u0000 km 2. yol ise \u0000 + 20 km dir. İkinci yol daha kısa olduğuna göre \u0000 için aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) 1 > \u0000",
+      "B) 4 < \u0000 < 5",
+      "C) 2 < \u0000 < 3",
+      "D) 1 < \u0000 < 2",
+      "E) \u0000 > 5"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "5x > x+20 x > 5"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "(1,3) noktasından geçen ve eğimi \u0000 = −2 olan doğrunun denklemi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) \u0000 = −2\u0000 + 3",
+      "B) \u0000 = −2x",
+      "C) \u0000 = −2\u0000 + 5",
+      "D) \u0000 = 3\u0000 − 2",
+      "E) \u0000 = 3\u0000 + 1"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "\u0000 − \u00001 = \u0000(\u0000 − \u00001) olduğuna göre y-3 = -2 (x-1) ise y= -2x+5"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "\u0000 ürün miktarı olmak üzere, bir ürün için toplam maliyet fonksiyonu \u0000(\u0000) = 5\u0000 2  − 20\u0000 + 34 olarak verilsin. Buna göre maliyetin en az olduğu ürün miktarı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 5",
+      "E) 10"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "\u0000(\u0000) = 5\u0000^2 − 20\u0000 + 34 \u0000'(\u0000) = 10x - 20 \u0000' (\u0000) = 0 eşitliğinden x = 2 de işaret tablosu incelendiğinde maliyetin en az olduğu ürün miktarıdır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Ix-1I ≥2  eşitsizliğinin çözümü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) \\(\\left [ -1,1 \\right ]\\)",
+      "B) \\(\\left ( -\\infty ,6 \\right )\\cup \\left ( 6,+\\infty \\right )\\)",
+      "C) \\(\\left ( -\\infty ,6 \\right )\\)",
+      "D) \\(\\left ( -\\infty ,-1 \\right )\\cup \\left [ 3,+\\infty \\right )\\)",
+      "E) \\( \\left [ 2,+\\infty \\right )\\)"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "log 2  (\u0000 − 5) = 4 denkleminin çözümü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 21",
+      "B) 20",
+      "C) 9",
+      "D) 5",
+      "E) 4"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "2^4 = x-5 16 = x-5 x ="
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "\\(f(x)=x^{3}+2x \\) ve  \\( h(x)=x^{2}-1 \\)ise  \\((f+h)'(1) \\) değeri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 5",
+      "E) 7"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "\\(x^{2}-13x+40\\) ifadesinin çarpanlarından biri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) \\(x+8\\)",
+      "B) \\(x-10\\)",
+      "C) \\(x+5\\)",
+      "D) \\(x-4\\)",
+      "E) \\(x-5\\)"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Toplamları 20, karelerinin toplamı minimum olan iki pozitif sayı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 10 ve 10",
+      "B) 11 ve 9",
+      "C) 12 ve 8",
+      "D) 13 ve 7",
+      "E) 15 ve 5"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "sayfa"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "3x-2=0  denkleminin çözümü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) \\(x=2\\)",
+      "B) \\(x=-2\\)",
+      "C) \\(x=\\frac{2}{3}\\)",
+      "D) \\(x=-\\frac{2}{3}\\)",
+      "E) \\(x=\\frac{3}{2}\\)"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "\\(f\\left ( x \\right ) = \\frac{3x+5}{x^{2}-x-6}\\) fonksiyonunun tanım kümesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) \\(\\left \\{ 2,3 \\right \\}\\)",
+      "B) \\(\\left ( -2,3 \\right )\\)",
+      "C) \\(\\mathbb{R}/\\left \\{ -2,3 \\right \\}\\)",
+      "D) \\(\\left ( -\\infty ,-2 \\right )\\cup \\left ( 3,\\infty \\right )\\)",
+      "E) \\(\\left \\{ 3,5,-6 \\right \\}\\)"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "0 2 4 6 8 10 Verilen ekran çıktısını elde etmek için aşağıdaki döngülerden hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) for ( int i = 0; i < 12; i += 2)   cout << i << \"\" \"\"",
+      "B) for ( int i = 0; i < 10; i += 2)   cout << i << \"\" \"\"",
+      "C) for ( int i = 0; i < 12; i += 1)  cout << i << \"\" \"\"",
+      "D) for ( int i = 0; i < 11; i += 1)   cout << i << \"\" \"\"",
+      "E) for ( int i = 0; i < 12; i -= 2)   cout << i << \"\" \"\""
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "double Cagir(int a, double b, bool c) {    double toplam = a + c;    b = b + toplam;    return b; } Verilen fonksiyon için aşağıdaki çağırımlardan hangisinde bilgi kaybı olmaksızın doğru sonuç elde edilir?",
+    "seçenekler": [
+      "A) double a=Cagir(1,2.5,true)",
+      "B) int a=Cagir(1,2.5,true)",
+      "C) bool a=Cagir(1,2.5,true)",
+      "D) char a=Cagir(1,2.5,false)",
+      "E) int  a=Cagir(1,2.5,false)"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Yerel değişkenler, program çalıştırıldığında aktif hale gelir ve kendisi için ayrılan bellek alanlarını kullanır. Ancak yer aldıkları blok sona erdiğinde bu bellek alanları iptal olur ve değişkenin içeriği tamamen yok olur. Aynı blok daha sonra tekrar başlasa bile, yerel değişkenler eski değerlerini alamazlar. Program içinde birden fazla fonksiyon varsa, sadece tanımlandığı fonksiyonda geçerli olabilecek değişkenlere yerel değişken adı verilir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Bir akış diyagramında aşağıdakilerden hangisi mutlaka olmalıdır?",
+    "seçenekler": [
+      "A) İşlem",
+      "B) Karşılaştırma",
+      "C) Döngü",
+      "D) Girdi",
+      "E) Başla"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "bool Call (int deg ) {             if (deg>=0 && deg < 10)                return true;             else                return false; } Tanımı verilen Call() fonksiyonu, herhangi bir program içerisinde nasıl çağırılabilir?",
+    "seçenekler": [
+      "A) float a=Call(5)",
+      "B) double a=Call(5)",
+      "C) if (Call(5)) cout<<\"\"rakam\"\"",
+      "D) Call(5) = \"\"rakam\"\"",
+      "E) Call(5)=a"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "ceil(2.15) hazır fonksiyonunun üreteceği sonuç aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) -2.99",
+      "B) 1",
+      "C) 2",
+      "D) 3",
+      "E) 99"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Tablo 7.1. Kullanıma Hazır Bazı cmath Kütüphanesi Fonksiyonları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi derleyici tarafından yakalanabilen söz dizimi hatalarından biri değildir?",
+    "seçenekler": [
+      "A) Bir deyimin sonuna noktalı virgül eklenmesinin unutulması",
+      "B) Matematiksel bir ifadede \"\"toplam\"\" olarak geçen bir değişkenin \"\"toplam1\"\" olarak tanımlanması",
+      "C) \"\"Merhaba Dünya\"\" yerine \"\"Merhba Dünya\"\" yazılması",
+      "D) Tamsayı tipinde bir değişken tanımlanırken int yerine Int yazılması",
+      "E) Programın sonunda } karakterinin unutulması"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "HATA DÜZELTME konusunda yer almaktadır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Bütünleşik geliştirme ortamlarından beklenen temel fonksiyonlar arasında aşağıdakilerden hangisi bulunmaz?",
+    "seçenekler": [
+      "A) Program yazılabilmesi",
+      "B) Programda değişiklik yapılabilmesi",
+      "C) Veri tabanı uygulamaları geliştirilebilmesi",
+      "D) Programın derlenip çalıştırılabilmesi",
+      "E) Programdaki hataların ayıklanabilmesi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "GİRİŞ BÖLÜMÜ ve BÜTÜNLEŞİK GELİŞTİRME ORTAMI konularında anlatılmaktadır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "C++ programlama dilinde mantıksal VEYA operatörü olarak aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) &&",
+      "B) ||",
+      "C) !",
+      "D) ##",
+      "E) !&"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Tablo 5.3. Mantıksal Operatörler tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Bir C++ programının geçmesi gereken 7 aşama aşağıdakilerden hangisinde doğru sıralama ile verilmiştir?",
+    "seçenekler": [
+      "A) Yükleme - düzenleme - derleme - önişleme - birleştirme - çalıştırma - hata ayıklama",
+      "B) Düzenleme - önişleme - birleştirme - yükleme - derleme - çalıştırma - hata ayıklama",
+      "C) Önişleme - düzenleme - derleme - birleştirme - yükleme - çalıştırma - hata ayıklama",
+      "D) Düzenleme - birleştirme - önişleme - derleme - yükleme - çalıştırma - hata ayıklama",
+      "E) Düzenleme - önişleme - derleme - birleştirme - yükleme - çalıştırma - hata ayıklama"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "BİR C++ PROGRAMININ GELİŞTİRİLMESİ başlıklı konuda anlatılmaktadır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "pow(3,4) hazır fonksiyonunun üreteceği sonuç aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 12",
+      "D) 81",
+      "E) 256"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Tablo 7.1. Kullanıma Hazır Bazı cmath Kütüphanesi Fonksiyonları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Bir C++ programında m = n + 10 deyimi  çalıştırıldığında m ve n değişkenlerinin son değerleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) m değişkeninin değeri n değişkeninin değerinin 10 fazlası olur, n değişkeninin değeri değişmez.",
+      "B) m değişkeninin değeri n değişkeninin değerinin 10 fazlası olur, n değişkeninin değeri 10 artar.",
+      "C) m değişkeninin değeri değişmez, n değişkeninin değeri 10 artar.",
+      "D) m ve n değişkenlerinin değerleri değişmez.",
+      "E) m değişkeninin değeri 10 artar, n değişkeninin değeri değişmez."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Bir sorunun çözüm adımlarının sıralı hâline ne ad verilir?",
+    "seçenekler": [
+      "A) Prosedür",
+      "B) Test",
+      "C) Analiz",
+      "D) Programlama",
+      "E) Algoritma"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Algoritma, bir sorunun çözüm adımlarının sıralı halidir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıda verilen C++ deyimlerinin hangisinde söz dizimi hatası yapılmıştır?",
+    "seçenekler": [
+      "A) cout<<\"\"C++\\n dersine hoşgeldiniz\\n\"\"",
+      "B) cout<<\"\"Ders notunun %%20 si uygulamalardan alınan puanlardan oluşacaktır\\n\"\"",
+      "C) cout<<\"\"Ödevler haftalık olarak verilecektir\\n\"\"",
+      "D) cout<<\"\"Başarılar dilerim\\n\"\"",
+      "E) cout<<\"\"Final sınavında 10 soru sorulacaktır\\n"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Bir C++ programında m değişkeninin n değişkeni ile bölünmesinden elde edilen kalan aşağıdakilerden hangisi ile bulunabilir?",
+    "seçenekler": [
+      "A) m / n",
+      "B) m * n",
+      "C) (m / n) – n",
+      "D) m % n",
+      "E) m * m - n * n"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "“Aritmetik İşlemler” bölümünde 2. Paragrafta sorunun cevabı yer alıyor."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "0 < kenar < 100 Yukarıda verilen matematiksel ifadenin C++ programlama dilindeki karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0100",
+      "B) 0",
+      "C) kenar>100 && kenar<0",
+      "D) kenar<100 && kenar>0",
+      "E) kenar>100 || kenar>0"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "İfadedeki iki koşul ayrı ayrı kontrol edilmeli ve \"\"VE\"\" operatörü ile bağlanmalıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "READ yaş IF ? THEN                 DISPLAY “Genç” ENDIF Verilen sözde koddaki ? yerine aşağıdakilerden hangisi yazılabilir?",
+    "seçenekler": [
+      "A) yas>=13 ve yas <=19",
+      "B) yas<49",
+      "C) yas>19",
+      "D) yas<13 ve yas>19",
+      "E) yas<13 veya yas>19"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "3"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Bir döngünün belirli bir iterasyonunda iken,  kalan komutları atlayıp bir sonraki iterasyona geçmek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) case",
+      "B) switch",
+      "C) break",
+      "D) continue",
+      "E) throw"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "BREAK VE CONTINUE DEYİMLERİ başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Akış diyagramlarında girdi ve çıktılar aşağıdakilerden hangisi ile gösterilebilir?",
+    "seçenekler": [
+      "A) Kare",
+      "B) Baklava",
+      "C) Paralelkenar",
+      "D) Daire",
+      "E) Elips"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "#include <iostream> #include <cmath> using namespace std; double NoktalarArasiUzaklik(int x1, int y1, int x2, int y2) {         int sonuc;         sonuc = pow(x2 - x1, 2) + pow(y2 - y1, 2);         sonuc = sqrt(sonuc);         return sonuc; } int main() {         cout <<NoktalarArasiUzaklik(1,1,5,4);         return 0; } Verilen C++ programının çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 0"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "SET toplam = 0 SET sayac = 0 WHILE sayac < 4           toplam = toplam + sayac*2           sayac = sayac+1 ENDWHILE DISPLAY toplam Verilen sözde kodun çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0",
+      "B) 4",
+      "C) 6",
+      "D) 8",
+      "E) 12"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  }
+]

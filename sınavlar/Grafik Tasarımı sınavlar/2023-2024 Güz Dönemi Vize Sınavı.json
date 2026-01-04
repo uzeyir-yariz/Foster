@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop'ta dışarıdan eklenen filtrelerin yer aldığı bölümdür?",
+    "seçenekler": [
+      "A) Filtre galerisi içerisinde",
+      "B) Dosya menüsünde",
+      "C) Filtre menüsü alt kısmında",
+      "D) Pencere menüsünde",
+      "E) Araç çubukları içerisinde"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Photoshop'ta bir yazı katmanına “Metni, Rasterleştir” (Rasterize) işlemi yapılmasıyla elde edilen işlem aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Yazıya yeni kelime veya harf eklenemez.",
+      "B) Yazı, kayıt aşamasında resme dâhil edilmez.",
+      "C) Yazı çizim alanında taşınamaz.",
+      "D) Yazı ayarlama katmanı hâline dönüşür.",
+      "E) Yazı katmanlar panelinden silinir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "I. RGB renk modu II. CMYK renk modu III. Lab renk modu IV. Gri tonlama modu Yukarıdakilerden hangisi ya da hangileri Adobe Photoshop CC 2018 programının desteklemiş olduğu renk modları arasında yer alır?",
+    "seçenekler": [
+      "A) III ve IV",
+      "B) Yalnız I",
+      "C) II ve III",
+      "D) I ve II",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 Renk Modları: RGB renk modu, CMYK renk modu, Lab renk modu, Gri tonlama modu, Bitmap modu, Çift ton modu, Dizinlenmiş renk modu, Çok kanal modu"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop programında Filtre kullanımıyla ilgili olarak yanlıştır?",
+    "seçenekler": [
+      "A) Bir görüntüye filtre uygularken bilgisayarınızın RAM bellek kapasitesi yetersiz ise hata uyarısı alabilirsiniz.",
+      "B) Filtre uygulayabilmek için etkin bir katmanın veya bir seçimin kullanılması gerekmektedir.",
+      "C) Bitmap biçimindeki ve dizinlenmiş renkte resimlere filtre uygulanamaz.",
+      "D) 8 bitlik resimlere tüm filtreler uygulanabilirken, bazı filtreler sadece RGB modundaki resimlere uygulanabilir.",
+      "E) Filtre uygulamaları geri alınamaz."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 7 Uyguladığınız filtreyi beğenmediğiniz durumlarda Düzenle menüsünde yer alan Geri Al komutunu kullanarak veya Ctrl+Z kısa yolunu kullanarak yapılan değişiklikleri geri alabilirsiniz."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Adobe Photoshop CC 2018 tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için izlenen yol aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Görünüm menüsünden Izgara seçeneğine tıklamak",
+      "B) Görünüm menüsünden Yeni Kılavuz seçeneğine tıklamak",
+      "C) Görünüm menüsünden Akıllı Kılavuzlar seçeneğine tıklamak",
+      "D) Görünüm menüsünden Kılavuzları Kilitle seçeneğine tıklamak",
+      "E) Görünüm menüsünden Kılavuzları Temizle seçeneğine tıklamak"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 Tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için ise Görünüm menüsünden Kılavuzları Temizle seçeneğini tıklayabilirsiniz."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında görüntüdeki kusurları düzeltebilme amacıyla kullanılan araçlara ne ad verilir?",
+    "seçenekler": [
+      "A) Çizme ve Yazma Araçları",
+      "B) Kırpma ve Dilimleme Araçları",
+      "C) Boyama Araçları",
+      "D) Seçim Araçları",
+      "E) Rötuş Araçları"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4 Rötüş araçları ekranda yer alan görsel üzerinde değişiklikler ve düzeltmeler yapılmasını sağlamaktadır. Kullanıcılar bu araçlar sayesinde işlem yaptıkları görüntü üzerinde yer alan lekeleri ve görüntü bozukluklarını kaldırabilmekte, kusurları düzeltebilmektedirler."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programında yer alan seçim araçlarından biri değildir?",
+    "seçenekler": [
+      "A) Taşıma aracı",
+      "B) Kement aracı",
+      "C) İşaretleme aracı",
+      "D) Dilim aracı",
+      "E) Hızlı seçim aracı"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 4 Seçim araçları grubunda “Taşıma”, “İşaretleme”, “Kement” ve “Hızlı seçim” araçları yer almaktadır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi sıcak ve soğuk renkler arasında yer almaz?",
+    "seçenekler": [
+      "A) Mavi",
+      "B) Sarı",
+      "C) Pembe",
+      "D) Kırmızı",
+      "E) Yeşil"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 3 Kırmızı, sarı ve turuncu sıcak, mavi, yeşil ve mor ise soğuk renklerdir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi çözünürlükten bağımsız olarak detay kaybetmeden yeniden ölçeklendirilebilen görüntü türüdür?",
+    "seçenekler": [
+      "A) GIF",
+      "B) Vektör Grafik",
+      "C) JPEG",
+      "D) Piksel Grafik",
+      "E) Bitmap"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 Vektör görüntü çözünürlükten bağımsızdır, piksel gibi yan yana gelen kutucuklardan oluşmaz ve detay kaybetmeden yeniden ölçeklendirilebilir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında yer alan araç çubuğuyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Fazla kullanılmayan araçlar “Ek Araçlar” bölümüne eklenebilir.",
+      "B) Önceden oluşturulmuş bir araç çubuğu tekrar kullanılamaz.",
+      "C) Oluşturulan araç çubuğunu kaydetmek için “Hazır Ayarı Kaydet” seçeneğine tıklanır.",
+      "D) Araç çubuğunu özelleştirmek mümkündür.",
+      "E) Varsayılan araç çubuğunu kullanmak için “Varsayılanları Geri Yükle” seçeneğine tıklanır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "I. Bir çizimin farklı ebatlarda üretilmesi veya kullanılması II. Çizimin ebatları değişse bile netliğinin değişmemesi III. Çizimin ebatları büyüse bile depolama birimlerinde büyük yer kaplamaması Yukarıdakilerden hangisi ya da hangileri vektörel çizimlerin avantajlarındandır?",
+    "seçenekler": [
+      "A) Yalnız II",
+      "B) Yalnız III",
+      "C) I ve III",
+      "D) I, II ve III",
+      "E) I ve II"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programının birden fazla resmi aynı anda yeniden boyutlandırabilme, renk efekti verebilme veya biçimini değiştirebilme özelliğine ne ad verilir?",
+    "seçenekler": [
+      "A) Sıkıştırma",
+      "B) Boyutlandırma",
+      "C) Katmanlama",
+      "D) Yığın işleme",
+      "E) Biçimlendirme"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 Profesyonellere yönelik birçok ek özellik içeren Photoshop, birden fazla resmi aynı anda yeniden boyutlandırabilir, renk efekti verebilir veya biçimini değiştirebilir. Bu özelliğine “Batch Procession” (Yığın işleme) denmektedir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında filtre ayarlamalarının sonradan değiştirilebilmesi için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) Koyu konturlar filtresi",
+      "B) Çapraz tarama filtresi",
+      "C) Akıllı nesneler",
+      "D) Püskürtülmüş konturlar filtresi",
+      "E) Sıçrama filtresi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 7 Filtre ayarlarınızın sonradan değiştirilebilir bir şekilde olmasını istiyorsanız, filtreleyeceğiniz görüntüyü içeren Akıllı Nesneyi seçmeniz gerekmektedir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisinde birincil renk sınıflandırmasındaki renkler yer alır?",
+    "seçenekler": [
+      "A) Yeşil, Kırmızı, Mavi",
+      "B) Sarı, Mavi, Yeşil",
+      "C) Kırmızı, Sarı, Mavi",
+      "D) Kırmızı, Mor, Mavi",
+      "E) Mavi, Yeşil, Mor"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 3 Kırmızı, sarı ve mavi birincil renklerdir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "I. Tasarımın %60'ında ana renk kullanılması II. Tasarımın %30'unda ikinci renk kullanılması III. Tasarımın %10'unda üçüncü renk kullanılması Yukarıdakilerden hangisi ya da hangileri grafik tasarımında üç renk kullanılmak istendiğinde renkler arasında dengeyi sağlamanın en kolay yoludur?",
+    "seçenekler": [
+      "A) I, II ve III",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) Yalnız I"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 Grafik tasarımında üç renk kullanmak istediğinizde renkler arasında dengeyi sağlamanın en kolay yolu 60-30-10 kuralına uymaktır. Bu kurala göre tasarımın %60'ında ana renk, geri kalan %30'da ikinci renk, %10'da ise üçüncü rengin kullanılmasıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Bir görüntünün doğal bir renk sunması ya da buna çok yaklaşmasına ne ad verilir?",
+    "seçenekler": [
+      "A) RGB renk modu",
+      "B) True color",
+      "C) 256 renk",
+      "D) High color",
+      "E) RGB modu"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 True color: Bir görüntü doğal bir renk sunduğunda veya buna çok yaklaştığında bu ismi alır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aylık ya da yıllık sürede kiralanarak kullanılabilen program aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Adobe Acrobat Reader",
+      "B) Corel Draw",
+      "C) GIMP",
+      "D) Adobe Photoshop CC",
+      "E) Adobe Photoshop CS6"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop CC 2018 ile kullanılabilecek bir ölçek birimi değildir?",
+    "seçenekler": [
+      "A) Metre",
+      "B) Santimetre",
+      "C) Milimetre",
+      "D) Yüzde",
+      "E) İnç"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında yeni katman eklemek için aşağıdaki klavye kısayol tuşlarından hangisi kullanılır?",
+    "seçenekler": [
+      "A) Shift-Ctrl-A",
+      "B) Shift-Ctrl-N",
+      "C) Ctrl-T",
+      "D) Ctrl-Z",
+      "E) Shift-Ctrl-M"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 5 Yeni katman eklemenin bir başka yolu ise klavyeden Shift-Ctrl-N tuşlarına aynı anda basmaktır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I. Bitmap grafikleri milyonlarca renk değişimi aldığından tüm piksellerine müdahale edilmesi kolaydır. II. Bitmap grafiklerin boyutunu değiştirmek görüntünün kalitesinin bozulmasına yol açmaz. III. Vektör grafikler farklı boyut ve renklerde görüntü kalitesini yitirmemesi istenilen çalışmalarda kullanılır. Bitmap ve vektör grafiklerle ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) I ve III",
+      "B) Yalnız I",
+      "C) I ve II",
+      "D) Yalnız III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "CEVAP ANAHTARI"
+  }
+]

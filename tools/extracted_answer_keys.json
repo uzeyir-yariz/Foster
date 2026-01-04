@@ -1,0 +1,803 @@
+[
+  {
+    "file": "Grafik Tasarımı sınavlar\\2018-2019 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. E3. E4. E5. E6. B7. E8. C9. C10. A11. B12. A13. D14. B15. D16. C17. A18. B19. C20. D"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2018-2019 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. A3. B4. C5. C6. E7. D8. D9. A10. E11. C12. D13. B14. E15. B16. B17. E18. D19. C20. A"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2018-2019 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. C3. E4. B5. A6. E7. D8. C9. C10. B11. D12. B13. B14. E15. D16. A17. C18. D19. E20. A"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2018-2019 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. A3. E4. D5. E6. E7. C8. D9. C10. D11. A12. C13. E14. B15. B16. A17. A18. E19. E20. A"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2019-2020 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. D3. A4. C5. B6. D7. B8. A9. A10. D11. C12. C13. E14. A15. B16. E17. E18. D19. B20. E"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2019-2020 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. D3. D4. E5. E6. D7. A8. A9. A10. D11. B12. E13. E14. D15. B16. D17. B18. E19. A20. A"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2019-2020 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. E3. A4. B5. C6. D7. E8. E9. E10. D11. A12. A13. D14. E15. B16. E17. C18. E19. A20. A"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2020-2021 Güz Dönemi Ara Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. D3. C4. E5. A6. B7. B8. A9. D10. Iptal11. A12. C13. D14. B15. B16. D17. B18. B19. D20. D"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2020-2021 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. B3. E4. D5. B6. D7. A8. C9. B10. E11. Iptal12. C13. A14. E15. B16. A17. A18. C19. B20. D"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2020-2021 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. D3. B4. D5. C6. A7. B8. B9. D10. E11. C12. A13. C14. E15. D16. C17. D18. D19. B20. D"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2021-2022 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. B3. A4. E5. C6. A7. A8. E9. D10. C11. C12. C13. C14. E15. D16. E17. C18. B19. D20. B"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2021-2022 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. E3. C4. E5. A6. D7. D8. A9. C10. E11. E12. E13. E14. D15. A16. E17. B18. A19. D20. B"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2021-2022 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. E3. B4. B5. B6. A7. A8. D9. D10. E11. C12. D13. A14. A15. E16. C17. B18. B19. A20. A"
+      }
+    ]
+  },
+  {
+    "file": "Grafik Tasarımı sınavlar\\2021-2022 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. A3. C4. B5. D6. E7. A8. B9. D10. E11. C12. B13. B14. E15. A16. E17. E18. E19. C20. E"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2018-2019 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. A3. B4. B5. C6. C7. D8. B9. D10. A11. D12. D13. C14. E15. A16. E17. E18. B19. A20. C"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2018-2019 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. A3. A4. D5. C6. C7. B8. B9. D10. A11. E12. B13. E14. B15. Iptal16. D17. E18. E19. C20. B"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2018-2019 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. D4. B5. C6. D7. E8. E9. B10. C11. D12. A13. A14. A15. E16. B17. C18. D19. C20. E"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2018-2019 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. D4. D5. C6. E7. E8. C9. D10. E11. D12. A13. D14. A15. E16. B17. D18. C19. D20. E"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2019-2020 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. D3. D4. C5. A6. C7. B8. E9. B10. E11. A12. D13. D14. A15. C16. B17. E18. C19. A20. E"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2019-2020 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. D3. E4. E5. D6. D7. A8. A9. C10. B11. B12. C13. C14. B15. E16. B17. C18. A19. A20. E"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2019-2020 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. A3. E4. C5. D6. C7. C8. B9. E10. D11. A12. E13. E14. D15. D16. A17. D18. C19. C20. E"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2019-2020 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. A3. E4. D5. E6. E7. B8. A9. A10. E11. C12. C13. E14. B15. D16. D17. B18. C19. B20. D"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2019-2020 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. B3. E4. E5. E6. B7. A8. D9. B10. D11. D12. C13. C14. D15. E16. A17. E18. E19. A20. D"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2020-2021 Güz Dönemi Ara Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. A3. B4. C5. E6. E7. D8. E9. C10. B11. B12. C13. E14. A15. C16. E17. E18. B19. D20. B"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2020-2021 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. A4. A5. C6. C7. B8. A9. D10. A11. D12. B13. C14. A15. E16. E17. C18. E19. D20. D"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2020-2021 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. A3. D4. A5. D6. D7. D8. D9. D10. E11. A12. E13. E14. D15. A16. B17. E18. E19. D20. B"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2021-2022 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. E3. E4. C5. D6. B7. E8. C9. B10. A11. E12. A13. D14. B15. A16. E17. C18. E19. E20. D"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2021-2022 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. B3. B4. C5. C6. A7. A8. D9. C10. B11. B12. D13. A14. D15. E16. D17. A18. A19. A20. E"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2021-2022 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. C4. D5. D6. D7. C8. C9. A10. C11. C12. D13. E14. A15. A16. D17. E18. C19. A20. D"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2021-2022 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. E3. C4. A5. D6. E7. B8. C9. B10. D11. A12. E13. D14. A15. A16. D17. D18. C19. D20. E"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2022-2023 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. C3. A4. C5. C6. D7. B8. B9. C10. B11. B12. C13. C14. D15. C16. C17. C18. B19. B20. C"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2022-2023 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. E3. Iptal4. A5. D6. E7. C8. B9. C10. E11. C12. D13. A14. C15. C16. B17. E18. Iptal19. E20. D"
+      }
+    ]
+  },
+  {
+    "file": "programlama temelleri\\2023-2024 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. A3. C4. B5. B6. E7. D8. D9. E10. Iptal11. E12. E13. B14. A15. D16. C17. D18. A19. Iptal20. C"
+      }
+    ]
+  },
+  {
+    "file": "Temel Bilgi Teknolojileri\\2021-2022 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. E3. B4. C5. A6. B7. D8. E9. A10. E11. C12. D13. D14. E15. E16. E17. B18. E19. E20. B"
+      }
+    ]
+  },
+  {
+    "file": "Temel Bilgi Teknolojileri\\2022-2023 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. E3. E4. Iptal5. D6. E7. C8. Iptal9. B10. A11. C12. C13. B14. Iptal15. B16. A17. Iptal18. B19. E20. D"
+      }
+    ]
+  },
+  {
+    "file": "Temel Bilgi Teknolojileri\\2022-2023 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. A3. Iptal4. A5. E6. B7. B8. C9. B10. D11. B12. B13. A14. C15. A16. A17. A18. C19. E20. B"
+      }
+    ]
+  },
+  {
+    "file": "Temel Bilgi Teknolojileri\\2024-2025 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. B3. C4. A5. D6. B7. D8. E9. C10. A11. D12. B13. A14. D15. E16. E17. B18. A19. E20. E"
+      }
+    ]
+  },
+  {
+    "file": "Temel Matematik\\2022-2023 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. B3. A4. D5. D6. D7. D8. E9. B10. C11. E12. C13. A14. Iptal15. A16. E17. E18. A19. C20. C"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2018-2019 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. C3. E4. E5. D6. B7. A8. E9. E10. B11. A12. E13. D14. D15. C16. D17. D18. C19. B20. A"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2018-2019 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. B3. B4. C5. A6. B7. E8. D9. A10. C11. E12. C13. A14. D15. A16. C17. E18. E19. D20. D"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2018-2019 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. C3. B4. A5. A6. B7. B8. B9. A10. C11. E12. D13. A14. E15. D16. C17. E18. E19. C20. D"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2018-2019 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. A3. C4. A5. D6. C7. D8. B9. E10. A11. C12. C13. C14. B15. E16. D17. B18. E19. A20. A"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2019-2020 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. A3. B4. E5. A6. E7. C8. D9. A10. A11. E12. B13. C14. B15. E16. D17. B18. C19. D20. C"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2019-2020 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. B3. A4. E5. C6. D7. E8. C9. B10. D11. E12. B13. D14. C15. A16. E17. C18. B19. Iptal20. A"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2019-2020 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. C3. E4. A5. E6. E7. A8. C9. C10. A11. A12. A13. C14. B15. B16. B17. A18. E19. B20. B"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2019-2020 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. C4. D5. C6. C7. C8. E9. B10. D11. B12. C13. A14. A15. A16. E17. B18. C19. B20. A"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2019-2020 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. C4. A5. E6. C7. D8. A9. A10. C11. D12. C13. B14. C15. E16. C17. C18. C19. B20. A"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2020-2021 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. E3. B4. A5. E6. E7. E8. D9. A10. A11. A12. E13. D14. D15. D16. A17. D18. E19. A20. B"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2020-2021 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. E3. A4. C5. B6. C7. E8. B9. D10. D11. A12. B13. A14. A15. E16. B17. E18. B19. E20. A"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2021-2022 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. Iptal3. C4. B5. A6. C7. D8. B9. B10. E11. E12. E13. A14. D15. D16. C17. A18. B19. D20. A"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2021-2022 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. D3. B4. B5. D6. E7. A8. C9. A10. B11. E12. E13. B14. A15. B16. D17. E18. E19. A20. A"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2021-2022 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. E3. E4. D5. B6. E7. B8. C9. E10. E11. D12. A13. E14. B15. E16. A17. D18. E19. D20. D"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2021-2022 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. Iptal2. B3. A4. D5. E6. E7. A8. D9. E10. D11. E12. E13. E14. E15. C16. D17. A18. E19. C20. B"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2022-2023 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. D3. E4. C5. B6. B7. E8. A9. B10. C11. E12. E13. B14. C15. C16. A17. E18. A19. A20. B"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2022-2023 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. C3. C4. C5. E6. Iptal7. B8. A9. A10. B11. E12. A13. A14. A15. C16. E17. C18. B19. E20. E"
+      }
+    ]
+  },
+  {
+    "file": "Türk Dili I\\2024-2025 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. C3. B4. D5. C6. B7. D8. C9. B10. D11. B12. C13. B14. E15. A16. E17. A18. C19. A20. E"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2018-2019 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. A3. D4. D5. D6. E7. E8. B9. E10. A11. C12. B13. C14. B15. D16. A17. A18. B19. E20. C"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2018-2019 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. B3. D4. A5. E6. A7. A8. D9. E10. Iptal11. B12. A13. C14. C15. B16. C17. E18. E19. B20. C"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2018-2019 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. E3. A4. C5. A6. B7. D8. C9. C10. E11. E12. A13. B14. B15. C16. A17. B18. D19. C20. C"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2018-2019 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. B3. D4. D5. E6. C7. D8. C9. B10. C11. D12. A13. B14. A15. E16. E17. E18. D19. A20. A"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2019-2020 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. D3. D4. B5. B6. A7. E8. A9. D10. C11. D12. B13. B14. E15. A16. C17. A18. C19. C20. E"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2019-2020 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. D3. C4. A5. A6. D7. B8. B9. A10. A11. B12. E13. C14. D15. E16. C17. C18. B19. E20. D"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2019-2020 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. B3. E4. B5. E6. D7. D8. A9. D10. B11. B12. C13. B14. A15. A16. D17. E18. E19. D20. C"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2019-2020 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. D3. D4. E5. D6. D7. A8. A9. A10. C11. D12. A13. B14. D15. C16. E17. A18. D19. E20. B"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2019-2020 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. D3. A4. B5. B6. D7. B8. C9. E10. D11. A12. E13. B14. B15. A16. A17. D18. E19. B20. D"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2020-2021 Güz Dönemi Ara Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. D3. D4. C5. D6. C7. B8. A9. A10. C11. D12. E13. A14. B15. E16. A17. E18. B19. A20. C"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2020-2021 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. E3. E4. B5. C6. C7. B8. E9. E10. A11. A12. E13. A14. C15. A16. B17. C18. A19. D20. E"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2020-2021 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. D3. E4. B5. C6. D7. C8. B9. D10. D11. D12. C13. E14. E15. A16. C17. E18. A19. A20. B"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2021-2022 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. B3. B4. C5. C6. A7. A8. A9. E10. E11. D12. A13. B14. B15. A16. D17. C18. A19. E20. A"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2021-2022 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. D4. E5. A6. C7. E8. Iptal9. E10. E11. E12. A13. C14. C15. A16. D17. D18. E19. A20. A"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2021-2022 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. B3. A4. E5. D6. E7. D8. A9. C10. C11. A12. A13. E14. D15. A16. A17. D18. D19. B20. A"
+      }
+    ]
+  },
+  {
+    "file": "Web Tasarımının Temelleri\\2021-2022 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. A3. E4. A5. A6. C7. B8. A9. D10. C11. C12. A13. A14. D15. A16. E17. C18. E19. B20. D"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2018-2019 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. A3. D4. D5. D6. A7. B8. E9. A10. B11. C12. B13. C14. C15. E16. B17. E18. A19. C20. E"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2018-2019 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. E3. D4. C5. B6. D7. C8. B9. C10. E11. A12. E13. B14. A15. B16. A17. E18. D19. D20. C"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2018-2019 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. B3. A4. E5. C6. C7. D8. A9. E10. A11. D12. C13. A14. C15. E16. B17. E18. D19. D20. B"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2018-2019 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. A3. E4. A5. A6. D7. E8. C9. B10. E11. E12. B13. B14. B15. B16. C17. A18. A19. B20. C"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2019-2020 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. A3. E4. B5. D6. B7. D8. A9. A10. D11. C12. C13. A14. E15. C16. C17. E18. B19. D20. B"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2019-2020 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. E3. B4. E5. A6. B7. D8. C9. E10. C11. B12. D13. A14. A15. D16. C17. B18. E19. D20. C"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2019-2020 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. A3. D4. B5. E6. D7. B8. D9. D10. D11. C12. C13. B14. Iptal15. E16. E17. A18. C19. C20. D"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2019-2020 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. C3. D4. C5. C6. C7. E8. E9. D10. D11. C12. B13. C14. E15. B16. A17. B18. E19. E20. E"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2019-2020 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. A3. E4. D5. E6. B7. C8. B9. A10. C11. B12. C13. A14. A15. D16. D17. D18. A19. D20. B"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2020-2021 Güz Dönemi Ara Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. D3. A4. D5. D6. C7. E8. A9. B10. D11. B12. B13. C14. B15. A16. B17. C18. A19. B20. B"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2020-2021 Yaz Okulu Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. D4. D5. A6. B7. C8. E9. B10. E11. B12. A13. A14. E15. C16. B17. A18. D19. A20. D"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2021-2022 Güz Dönemi Bütünleme Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. B2. A3. D4. D5. A6. C7. B8. A9. A10. A11. D12. C13. E14. E15. B16. D17. A18. E19. E20. E"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2021-2022 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. C2. B3. D4. A5. E6. A7. A8. B9. C10. E11. D12. A13. D14. B15. D16. D17. B18. C19. C20. C"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2021-2022 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. C3. C4. B5. D6. C7. A8. D9. C10. C11. A12. C13. D14. A15. B16. A17. B18. E19. E20. A"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2021-2022 Mezuniyet Üç Ders Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. A2. E3. A4. C5. C6. A7. A8. A9. A10. D11. B12. B13. B14. D15. E16. C17. D18. E19. A20. E"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2022-2023 Güz Dönemi Final Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. E2. Iptal3. A4. B5. B6. C7. A8. A9. A10. D11. A12. B13. D14. B15. A16. A17. D18. A19. B20. A"
+      }
+    ]
+  },
+  {
+    "file": "yabancı dil I\\2022-2023 Güz Dönemi Vize Sınavı.json",
+    "keys": [
+      {
+        "questionNumber": 20,
+        "extractedKey": "CEVAP ANAHTARI 1. D2. B3. E4. B5. C6. B7. D8. Iptal9. C10. B11. E12. A13. A14. A15. A16. Iptal17. B18. A19. B20. E"
+      }
+    ]
+  }
+]

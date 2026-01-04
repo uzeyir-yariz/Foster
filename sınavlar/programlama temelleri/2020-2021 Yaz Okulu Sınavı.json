@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "\"\"Örnek String.\"\" Yandaki string ifade için at(3) üye fonksiyonunun çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Ö",
+      "B) r",
+      "C) n",
+      "D) e",
+      "E) k"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 11 Ünite girişinde yer almaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "int a[2][3] = {2, 5, 8}; int b = a[0][1] + a[1][1]; cout<<b<<endl; Yukarıdaki C++ kod bloğu çalıştırıldığında üretilecek ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 5",
+      "B) 7",
+      "C) 8",
+      "D) 10",
+      "E) 13"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 ilk değeri verilmeyen elemanlar 0 değerini alır. 5 + 0 sonucu 5 olur."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "ceil(2.15) hazır fonksiyonunun üreteceği sonuç aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) -2.99",
+      "B) 1",
+      "C) 2",
+      "D) 3",
+      "E) 99"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 Tablo 7.1. Kullanıma Hazır Bazı cmath Kütüphanesi Fonksiyonları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "#include <iostream> using namespace std; int F2(int c) {           c = c + 1;           return c; } int F1(int b) {           b = b + 1;           b = F2(b);           return b; } int main() {          int a=1;          a=F1(a);          cout << a;          return 0; } Yukarıdaki C++ programı çalıştırıldığında çıktısı hangisi olur?",
+    "seçenekler": [
+      "A) Ekrana 3 yazar.",
+      "B) Ekrana 1 yazar.",
+      "C) Ekrana 2 yazar.",
+      "D) Hata verir, bir fonksiyon bitmeden diğeri çalışmaz.",
+      "E) Ekrana 0 yazar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "SET x=1, y=9 WHILE x < y       COMPUTE x = x + 1       COMPUTE y = y – 2 ENDWHILE PRINT X, Y Yukarıdaki sözde kodun çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 4 4",
+      "B) 5 4",
+      "C) 3 4",
+      "D) 4 3",
+      "E) 4 5"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 Sayfa 6 \"\"Döngü: WHILE - ENDWHILE"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Hata ayıklama prensipleriyle ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Hata izleriyle sebepleri akıldan ilişkilendirilebilir.",
+      "B) Hatanın sebebini bulma işi, şuuraltına bırakılabilir.",
+      "C) Hatanın başkasına anlatılması yoluna gidilebilir.",
+      "D) Deneme yanılma yönüyle hata ayıklama en etkin yöntemdir.",
+      "E) Hataların büyük bölümü bir arada bulunmaktadır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 Hatanın teşhis edilmesi başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "void DiziDoldur(int d[][3], int n) {      int a, b;      for (a = 0; a < n; a++)           for (b = 0; b < 3; b++)                d[a][b] = a * b; } int main() {      int dizi[2][3];      ?      return 0; } Yukarıdaki C++ programının ? karakteri yer alan satırına aşağıdakilerden hangisi yazılırsa ilgili alt fonksiyon doğru şekilde çağrılmış olur?",
+    "seçenekler": [
+      "A) DiziDoldur(2,3);",
+      "B) DiziDoldur(dizi[2][3]);",
+      "C) DiziDoldur(dizi[3], 2);",
+      "D) DiziDoldur(dizi, 2);",
+      "E) DiziDoldur(dizi[][],6);"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 iki boyutlu diziler fonksiyona parametre olarak gönderilirken eleman sayıları çağrı satırında yazılmaz."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "class Koli {     private:        double en;        double boy;        double yukseklik;     public:        double agirlik;        double Hacim(){ return en * boy * yukseklik;}; }; Yukarıdaki sınıf tanımına göre aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) en isimli üye değişkenine sınıfın nesneleri tarafından doğrudan erişilemez.",
+      "B) agirlik isimli üye değişkenine sınıfın nesneleri tarafından dogrudan erişilebilir.",
+      "C) Hacim isimli üye fonksiyonuna sınıfın nesneleri tarafından doğrudan erişilebilir.",
+      "D) boy isimli üye değişkenine sınıftaki bir üye fonksiyon içinden erişilemez.",
+      "E) agirlik isimli üye değişkeninin değeri sınıfın bir nesnesi tarafından doğrudan değiştirilebilir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 14 Private üye değişkenler sadece sınıf nesneleri tarafından erişilemezler, sınıfın üye fonksiyonlarından erişilebilirler."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "cout<<\"\"Bugun hava\\ncok guzel.\\n\"\"; deyimi çalıştırıldığında ekrana aşağıdakilerden hangisini yazdırır?",
+    "seçenekler": [
+      "A) Bugun hava cok guzel.",
+      "B) Bugun hava cok guzel.",
+      "C) Bugun hava cok guzel.",
+      "D) Bugun hava cok guzel.",
+      "E) Bugun hava cok guzel."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Nesneye yönelik programlamanın aşağıdakilerden hangisi önemli yapı taşlarından değildir?",
+    "seçenekler": [
+      "A) Kalıtım",
+      "B) Çok biçimlilik",
+      "C) Sınıf",
+      "D) Nesne",
+      "E) Döngüler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Sayfa 3 Paragraf 3 Ünite içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Belirtilen konumda aynı isimde dosya varsa, o dosyayı silerek yeniden dosya oluşturan dosya açma modu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) ios::trunc",
+      "B) ios::out",
+      "C) ios::app",
+      "D) ios::ate",
+      "E) ios::binary"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Tablo 13.1. Dosya Açma Modları ve Anlamları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "0 3 6 9 12 15 Yukarıda verilen ekran çıktısını elde etmek için aşağıdaki döngülerden hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) for ( int i = 0; i < 15; i++) cout << i << \"\" \"\";",
+      "B) for ( int i = 0; i < 15; i+=3) cout << i << \"\" \"\";",
+      "C) for ( int i = 0; i < 5; i+=3) cout << i << \"\" \"\";",
+      "D) for ( int i = 0; i < 18; i ++) cout << i << \"\" \"\";",
+      "E) for ( int i = 0; i < 16; i+=3) cout << i << \"\" \"\";"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 artış ve koşul E şıkkında doğru verilmiştir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi C++ programlama dilinde tanımlanmış ilişkisel operatörlerden biri değildir?",
+    "seçenekler": [
+      "A) >",
+      "B) <",
+      "C) >=",
+      "D) <=",
+      "E) ="
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "#include <iostream> #include <vector> using namespace std;  int main ()  {      vector<int> vek;      int toplam;      vek.push_front(12);      vek.push_back(10);      toplam= vek.front() + vek.back();      cout << toplam << endl;      return 0;  } Yukarıda verilen programın çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 2",
+      "B) 10",
+      "C) 12",
+      "D) 22",
+      "E) 24"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Bir list depodaki ilk ve son sayının toplamını bulacak C++ programını yazınız. Bu örneğin çözüm kısmında benzer bir program kodları yer almaktadır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "int a=1, b=3, c; Verilen değişken tanımlamalarına göre aşağıdaki C++ deyimlerinden hangisi söz dizimi hatasına neden olur?",
+    "seçenekler": [
+      "A) c = axb; cout << \"\"a x b\"\" = << c << endl;",
+      "B) c = a % b; cout << \"\"a mod b=\"\" << c <<endl;",
+      "C) c = a % b; cout<<a<< \"\" mod \"\" <<b<<\"\"=\"\"<<c<<endl;",
+      "D) c = a + b; cout << \"\"toplam=\"\" << c << endl;",
+      "E) c = a * b; cout<<\"\"carpim=\"\"<< c <<endl;"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 Çıktı ekranına yazılacak metinlerin çift tırnak içerisine alınması gerekir."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Dizi aşağıdakilerden hangisinde yanlış tanımlanmıştır?",
+    "seçenekler": [
+      "A) int dizi[4] = {4,6,8,10};",
+      "B) int dizi = { 4,6,8,10 };",
+      "C) int dizi[4] = {};",
+      "D) int dizi[4];",
+      "E) int dizi[] = {4,6,8,10};"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 Dizi Tanımlama başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Söz dizimsel hatalar arasında aşağıdakilerden hangisi bulunmaz?",
+    "seçenekler": [
+      "A) Komut sonuna noktalı virgülün konulmaması",
+      "B) Değişken tanımlamanın unutulması",
+      "C) Değer döndüren fonksiyonlarda return olmaması",
+      "D) Fonksiyon parametrelerinin sayısının tutmaması",
+      "E) Dosyanın düzgün kapatılamaması"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 8 Söz dizimsel hata örnekleri başlıklı konu içeriğinde yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "#include <iostream> using namespace std; int main() {        char dizi[10] = \"\"deneme1234\"\";        cout << dizi[6];        return 0; } Yukarıdaki C++ programı çalıştırıldığında ekrana hangi çıktıyı yansıtır?",
+    "seçenekler": [
+      "A) Ekrana \"\"deneme1234\"\" yazar.",
+      "B) Ekrana \"\"deneme\"\" yazar.",
+      "C) Ekrana \"\"1234\"\" yazar.",
+      "D) Ekrana \"\"1\"\" yazar.",
+      "E) Hata verir, çalıştırılamaz."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 Tüm diziye erişim başlıklı konu içeriğinde yer almaktadır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "ios::app moduyla açılan bir dosya ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Dosyadan okuma yapmak için dosya açılır.",
+      "B) Dosya yaratmak için dosya açılır, eğer aynı isimde dosya varsa hata oluşur.",
+      "C) Dosyadan veri okumak için dosya açılır, dosya yoksa yaratılır.",
+      "D) Dosyaya ekleme yapmak için dosya açılır, dosya yoksa yaratılır.",
+      "E) Var olan dosyanın içi temizlenerek dosya üzerine yeni veri yazmak için açılır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 ios::app ifadesi yeni bilgileri dosyanın sonuna ekleme yapmak için dosyayı açar. Eğer dosya yoksa o anda yaratılır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "int i; for (i = 0; i <= 10; i++) if (i % 3 > 1 ) break; cout << i << endl; Yukarıda verilen C++ kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 10",
+      "E) 11"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 break kelimesi döngüyü durdurur"
+  }
+]

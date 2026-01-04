@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Sıkıştırma algoritmasına sahip olmadığı için diğer resim formatlarına kıyasla daha çok yer kaplayan Microsoft firmasına ait dijital resim formatı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) XLS",
+      "B) DOCX",
+      "C) PPT",
+      "D) BMP",
+      "E) SWF"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "BMP: Sıkıştırma algoritmasına sahip olmadığı için diğer resim formatlarına kıyasla daha çok yer kaplayan Microsoft firmasına ait dijital bir resim formatıdır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi satın alınmak yerine kiralanarak kullanılabilir?",
+    "seçenekler": [
+      "A) Adobe Photoshop CC",
+      "B) Adobe Photoshop CS6",
+      "C) GIMP",
+      "D) Corel Draw",
+      "E) Adobe Acrobat"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi kartvizit, afiş, broşür, logo ve infografik tasarımında dikkat edilmesi gereken unsurlar arasında yer almaz?",
+    "seçenekler": [
+      "A) Sade ve anlaşılır olmalıdır.",
+      "B) Tasarım bütünlüğü sağlanmalıdır.",
+      "C) Uyumlu renklerin kullanımına dikkat edilmelidir.",
+      "D) Mevcut alan en etkili biçimde kullanılmalıdır.",
+      "E) Görselin amacı dışına çıkarak kapsam genişletilmelidir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Kartvizit, afiş, broşür, logo ve infografik farklı amaçlar için tasarlanan görseller olsa da hepsinin de tasarımında dikkat edilmesi gereken bazı unsurlar şu şekilde sıralanabilir: • Sade ve anlaşılır olmalıdır. • Tasarım bütünlüğü sağlanmalıdır. • Uyumlu renklerin kullanımına dikkat edilmelidir. • Gerekmedikçe yazı ve görsel kullanılmamalıdır. • Mevcut alan en etkili biçimde kullanılmalıdır. • Tasarlanacak görselin kapsam ve amacı net belirlenmelidir. • Görselin kapsam ve amacı dışına çıkmamak için dikkat edilmelidir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi resmin boyutunu fare ile serbest olarak değiştirme yöntemi için doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Resmin boyutunu fare ile değiştirebilmek için resmi katmana dönüştürmek gerekir.",
+      "B) Düzenle menüsünden Serbest Dönüştürme seçilir.",
+      "C) Resmin kenarlarında beliren küçük kareler şeklindeki tutamaçlardan tutup sürüklenerek fare aracılığıyla resmin boyutu değiştirilebilir.",
+      "D) Boyutlandırma yapılırken klavyeden Tab tuşuna basılı tutulursa resmin en boy oranı sabit kalır.",
+      "E) Eğer Alt tuşuna basılı tutulursa resmin eni ve boyu karşı kenara göre otomatik olarak büyür veya küçülür."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Boyutlandırma yapılırken; klavyeden Shift tuşuna basılı tutulursa resmin en boy oranı sabit kalır"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Photoshop programında animasyon oluştururken GIF dosyasının fazla alan kaplamasını engellemek için kullanılan komut aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tüm Kareleri Seç.",
+      "B) Git.",
+      "C) Kareleri ters çevir.",
+      "D) Her yeni kare için katman oluştur.",
+      "E) Animasyonu en iyileştir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Animasyonu En İyileştir, oluşturduğunuz GIF dosyasının fazla alan kaplamasını engellemektedir"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "I. Sıvılaştırma II. Ufuk noktası III. Gauss Bulanıklığı IV. Radyal Bulanıklık Yukarıdakilerden hangisi ya da hangileri 16 bitlik resimlere uygulanabilecek filtreler arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "16 bitlik resimlere uygulanabilecek filtreler şu şekildedir: Sıvılaştırma, Ufuk Noktası, Ortalama Bulanıklaştırma, Bulanıklaştırma, Daha Fazla Bulanıklaştırma, Kutu Bulanıklaştırma, Gauss Bulanıklığı, Mercek Bulanıklığı, Hareket Bulanıklığı, Radyal Bulanıklık, Yüzey Bulanıklaştırma, Şekil Bulanıklığı, Mercek Düzeltmesi, Parazit Ekleme, Gürültüyü Temizleme, Toz ve Çizikler, Medyan, Parazit Azaltma, Lifler, Bulutlar, Fark Bulutları, Mercek Parlaması, Keskinleştirme, Kenarları Keskinleştirme, Daha Fazla Keskinleştirme, Akıllı Keskinleştirme, Keskinliği Azaltma Maskesi, Kabartma, Kenarları Bulma, Solarizasyon, Taramasız Hale Getirme, NTSC Renkleri, Özel, Yüksek Geçiş, Maksimum, Minimum ve Kaydırma."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "RGB renk modunun renkleri aşağıdakilerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) Gri, Mavi, Kırmızı",
+      "B) Sarı, Mavi, Yeşil",
+      "C) Kırmızı, Yeşil, Mavi",
+      "D) Cam göbeği, Macenta, Sarı",
+      "E) Sarı, Siyah, Yeşil"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında noktada metin ekleme işlemi için doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Noktada metin ekleme, çalışılan dosya üzerinde tıklanılan yerden yatay veya dikey olarak bir metin satırının girilmesidir.",
+      "B) Noktada metin ekleme daha çok birkaç sözcük eklemek için kullanılır.",
+      "C) Nokta metin eklendiğinde her yazı satırı birbirinden bağımsızdır.",
+      "D) Noktada eklenen metinlerin hepsi aynı katmanda görüntülenir.",
+      "E) Çalışılan tasarım dosyası üzerine noktada metin eklemek için yatay yazı aracı tıklanır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Noktada eklenen metinler birbirinden bağımsız oldukları için her biri farklı katmanda görüntülenir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdaki katman stillerinden hangisi, katmanın kenarlarına çerçeve ekler?",
+    "seçenekler": [
+      "A) Gölge",
+      "B) Renk Kaplama",
+      "C) Kontur",
+      "D) Dış Işıma",
+      "E) Degrade Kaplama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programında yer alan boyama araçlarından değildir?",
+    "seçenekler": [
+      "A) Fırça aracı",
+      "B) Kurşun kalem aracı",
+      "C) Renk değiştirme aracı",
+      "D) Silgi aracı",
+      "E) Karıştırıcı fırça aracı"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Bir markanın veya değerin sembolünü ifade eden kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Logo",
+      "B) Afiş",
+      "C) Broşür",
+      "D) Kartvizit",
+      "E) İnfografik"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Logolar, bir tanıtım yapmaktan ziyade bir markanın veya değerin simgesi-sembolü değerindedir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında paragrafta metin ekleme işlemi için doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Paragraf şeklinde metin eklemek istenildiğinde, yatay veya dikey olarak sınırların kullanılması sağlanmalıdır.",
+      "B) Paragrafta metin ekleme genellikle afiş, broşür tasarımlarında paragraf eklemek için kullanılır.",
+      "C) Paragrafta metin ekleme işlemi ile paragraf birleştirme yani bloklama yapılamaz.",
+      "D) Paragrafta metin ekleme işlemi yapılırken belirlenen sınırlandırma kutusunun alabileceğinden daha fazla metin girilmesi sağlanabilir.",
+      "E) Paragrafta metin eklemek için yatay yazı aracı tıklanır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Paragrafta metin eklem işlemi ile istenilen kadar paragraf eklenebilir ve paragraf birleştirme (bloklama) yapılabilir"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop’taki yeniden örnekle seçenekleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Otomatik",
+      "B) Ayrıntıları Koru",
+      "C) En Yakın Komşu (Sert Kenarlar)",
+      "D) Bilineer (Çift Doğrusal)",
+      "E) 90° Saat Yönünün Tersine"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Photoshop’taki Yeniden Örnekle seçenekleri şöyledir; Otomatik, Ayrıntıları Koru (genişletme), Bikübik - Daha Yumuşak (genişletme), Bikübik - Daha Keskin (azaltma), Bikübik (yumuşak degradeler), En Yakın Komşu (sert kenarlar), Bilineer (Çift Doğrusal)."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Cetvellerin başlangıç konumunun bulunduğu yer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Cetvel başlığı",
+      "B) Yaslama yeri",
+      "C) Sıfır konumu",
+      "D) Cetvel boşluğu",
+      "E) Hizalama boşluğu"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Renk çemberi üzerinde eşit aralıklarla yer alan üç rengin oluşturduğu üçgen kullanılarak ortaya çıkan renk şeması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tek renkli (Monochromatic)",
+      "B) Triadic",
+      "C) Tetradic",
+      "D) Tamamlayıcı (Complementary)",
+      "E) Split-complementary"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Photoshop programında var olan ya da oluşturulan bir eylemi birden çok görsel üzerinde tek seferde uygulamak için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) Otomatik toplu işleme",
+      "B) Oynat",
+      "C) Kaynak",
+      "D) Hatalar",
+      "E) Hedef"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Otomatik Toplu İşleme: Var olan veya oluşturan bir eylemi birden çok görsel üzerinde tek seferde uygulamak için Toplu İş seçeneği kullanılmaktadır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Çevre piksellerin incelenmesi sonucunda yeni pikseller eklenmesi işlemi aşağıdaki Yeniden Örnekleme özelliklerinden hangisine aitir?",
+    "seçenekler": [
+      "A) Bikübik",
+      "B) Bilineer",
+      "C) En Yakın Komşu",
+      "D) Ayrıntıları Koru",
+      "E) Bikübik Daha Yumuşak"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Bikübik: Çevre piksellerin incelenmesi sonucunda yeni pikseller eklenmesi işlemidir. Daha kesin ancak daha yavaş bir yöntemdir. Diğer örnekleme yöntemlerine göre daha karmaşık hesaplamalar yapılır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "I. Katman dönüştürme II. Katman taşıma III. Katman birleştirme IV. Katman kaydetme Yukarıdakilerden hangileri katman işlemleri arasında yer alır?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) II ve III",
+      "C) III ve IV",
+      "D) II, III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Katman işlemleri: Katman Taşıma, Katman dönüştürme, Katman boyutlandırma, Katman kaydetme, Katman birleştirme, Katman gruplama"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Photoshop programında görüntünün açık tonlarının bir uçtaki renkle, koyu tonlarının diğer uçtaki renkle eşleşmesi sağlayan Ayarlar Paneli komutu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Ters Çevir",
+      "B) Renk Arama",
+      "C) Kanal Karıştırıcı",
+      "D) Siyah Beyaz",
+      "E) Degrade Eşleme"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Degrade Eşleme özelliği ile seçilen iki farklı renk, görüntünün açık tonlarının bir uçtaki renkle, koyu tonlarının diğer uçtaki renkle eşleşmesi sağlanır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Görüntüdeki pikselleri temsil etmek için iki renk değerinden (siyah veya beyaz) birini kullanan renk modu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Bitmap",
+      "B) Gri tonlama",
+      "C) Lab",
+      "D) RGB",
+      "E) CMYK"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Bitmap modunda, görüntüdeki pikselleri temsil etmek için iki renk değerinden (siyah veya beyaz) biri kullanılır."
+  }
+]

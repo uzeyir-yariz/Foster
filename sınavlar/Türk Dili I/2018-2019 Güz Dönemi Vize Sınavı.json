@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi kültürü oluşturan ögelerden biri değildir?",
+    "seçenekler": [
+      "A) Dil",
+      "B) Tarih",
+      "C) Edebiyat",
+      "D) Medeniyet",
+      "E) Ziraat"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Medeniyet"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdaki kelimelerden hangisi aldığı ekten dolayı \"\"Büyük Ünlü Uyumuna (Kalınlık-İncelik Uyumu)\"\" uymaz?",
+    "seçenekler": [
+      "A) Okuyorum",
+      "B) Gezerken",
+      "C) Sabahleyin",
+      "D) Yoldaş",
+      "E) Sesteş"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Sabahleyin"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "En temel ihtiyaçları karşılayan kelimeler, başta organ isimleri olmak üzere yemek, içmek, uyumak, gitmek, gelmek, almak, vermek gibi kavramlar; akrabalık adları, sayılar ve maddi ve manevi kültür içine giren çeşitli kavramlar bu başlık altında incelenir. Sözü edilen başlık aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Alt Söz Varlığı",
+      "B) Temel Söz Varlığı",
+      "C) Üst Söz Varlığı",
+      "D) İnce Söz Varlığı",
+      "E) Argo Söz Varlığı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Temel Söz Varlığı"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Türemiş isim: İsim veya fiil kök ve gövdeleriyle yansıma kelimelere yapım eki getirilmesiyle oluşturulmuş, şekil ve anlam bakımından türetilen yeni isimlere denir. Bu tanıma göre aşağıdaki cümlelerin hangisinde türemiş isim yoktur?",
+    "seçenekler": [
+      "A) Yıllar önce bu kitabı okumuştum.",
+      "B) Anlamını bilmediğiniz kelimelere sözlükten bakınız.",
+      "C) Yolcular yola koyuldu.",
+      "D) Bayram günü bayramlık elbisesini giymişti.",
+      "E) Yazıya başlık bulmada zorlandı."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Yıllar önce bu kitabı okumuştum. Bu cümlede yapım eki yoktur."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türkçenin genel özellikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Türkçe sözcüklerde erillik, dişillik (yani cinsiyet ayrımı) özelliği vardır.",
+      "B) Türkçede sayı sıfatlarından sonra gelen adlar çoğul eki almaz.",
+      "C) Önlük-artlık (kalınlık-incelik) ve düzlük-yuvarlaklık uyumları vardır.",
+      "D) F, j ve h ünsüzleri Türkçe kökenli sözcüklerde bulunmaz.",
+      "E) N ünsüzü Türkçe kökenli sözcüklerde yalnız ne ve ne'nin türevlerinde bulunur: ne, neden, niçin, nasıl vb."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Türkçe sözcüklerde, erillik, dişillik (yani cinsiyet ayrımı) özelliği vardır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "\"\"Türklerin kullandığı bu alfabe 4’ü sesli, 26’sı sessiz, 8’i bitişken olmak üzere 38 harften oluşur. Sağdan sola ve yukarıdan aşağıya doğru yazılır. Harfler birbiriyle bitişmez, çivi yazısına benzerliğinden dolayı taş ve eşya üzerine kazınmaya elverişlidir.\"\" Paragrafta bazı özellikleri verilen alfabe aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Uygur Alfabesi",
+      "B) Göktürk Alfabesi",
+      "C) Latin Alfabesi",
+      "D) Kiril Alfabesi",
+      "E) Brahmi Alfabesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Göktürk Alfabesi"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerin hangisinde \"\"Türkçedeki ünsüzlerin sınıflandırılması\"\" yanlış verilmiştir?",
+    "seçenekler": [
+      "A) Dudak ünsüzleri: b, p, m",
+      "B) Diş-dudak ünsüzleri: f, v, c",
+      "C) Ön damak ünsüzleri: g, k, l, r, y",
+      "D) Arka damak ünsüzleri: ğ",
+      "E) Gırtlak ünsüzü: h"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Diş-dudak ünsüzleri: f, v, c"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türklerin tarih boyunca kullandığı alfabelerden biri değildir?",
+    "seçenekler": [
+      "A) Göktürk Alfabesi",
+      "B) Gürcü Alfabesi",
+      "C) Soğd Alfabesi",
+      "D) Kiril Alfabesi",
+      "E) Arap Alfabesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Gürcü Alfabesi"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin kullanılış yerine göre adlandırılmasına bir örnektir?",
+    "seçenekler": [
+      "A) Gazete dili",
+      "B) Çocuk dili",
+      "C) Ana dil",
+      "D) Arkaik dil",
+      "E) Konuşma dili"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Gazete dili"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Türkiye, Azerbaycan, Kırgız, Kazak ve Türkmen Türkçelerinin arasındaki fark aşağıdaki kavramlardan hangisiyle ifade edilir?",
+    "seçenekler": [
+      "A) Ağız",
+      "B) Lehçe",
+      "C) Şive",
+      "D) Diksiyon",
+      "E) Dil ailesi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Şive"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Eski Türkçe Dönemi’nin dil, kültür ve edebiyat özelliklerini başarılı bir şekilde yansıtan ve Türk yazı dilinin başlangıcı olarak kabul edilen eser aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Şaman Yazıtları",
+      "B) Budizm Yazıtları",
+      "C) Türkmen Yazıtları",
+      "D) Uygur Yazıtları",
+      "E) Orhun (Göktürk) Yazıtları"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Orhun (Göktürk) Yazıtları"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdaki atasözlerinin hangisinde sıfat fiil vardır?",
+    "seçenekler": [
+      "A) Her yokuşun bir inişi vardır.",
+      "B) Sakla samanı, gelir zamanı.",
+      "C) Bir elin nesi var, iki elin sesi var.",
+      "D) İşleyen demir pas tutmaz.",
+      "E) El elden üstündür."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "işleyen"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "\"\"Sevgili öğrenciler, sınav süreniz olan 40 dakikayı verimli kullanınız.\"\" Yukarıdaki cümlede dilin hangi işlevi yerine getirilmiştir?",
+    "seçenekler": [
+      "A) Alıcıyı harekete geçirme işlevi",
+      "B) Kanalı kontrol işlevi",
+      "C) Dilin heyecana bağlı işlevi",
+      "D) Dilin göndergesel işlevi",
+      "E) Dilin sanatsal işlevi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Alıcıyı harekete geçirme işlevi."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki atasözlerinden hangisi gerçek anlamıyla kullanılmıştır?",
+    "seçenekler": [
+      "A) Ayağını yorganına göre uzat.",
+      "B) Çivi çiviyi söker.",
+      "C) Minareyi çalan kılıfını hazırlar.",
+      "D) Mum dibine ışık vermez.",
+      "E) Ölüm hak, miras helâl."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Ölüm hak, miras helâl."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde ismin hâl eklerinden biri yoktur?",
+    "seçenekler": [
+      "A) Okuldan eve dolmuşla giti.",
+      "B) Sabah namazını erkenden kılmış.",
+      "C) Kitaplıkta yeni bir kitap vardı.",
+      "D) Pencere kenarı kışın çok soğuk olur.",
+      "E) Evlerinin bahçesinde çay içtik."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Pencere kenarı kışın çok soğuk olur."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Türkçede ikilemelerin kullanılması Türkçenin hangi özelliği ile ilgilidir?",
+    "seçenekler": [
+      "A) Dilin kelime sayısındaki azlığı",
+      "B) Dilin kelime sayısındaki çokluğu",
+      "C) Anlatımın güçlü ve canlı olması",
+      "D) Anlatımın yetersizliği",
+      "E) Diğer dillerin etkisinde olması"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Anlatımın güçlü ve canlı olması ile"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde yapım eki kelimeye sevgi ve acıma anlamı katmıştır?",
+    "seçenekler": [
+      "A) Çocuk, evden okula çabucak gitmek istiyordu.",
+      "B) Adam elinde büyücek bir baltayla geziyordu.",
+      "C) Kendisine insanca davranmak istiyordu.",
+      "D) Ölçüsüz davranışlardan hoşlanmazdı.",
+      "E) Annesi yavrucağı okuldan almak istiyordu."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Annesi yavrucağı okuldan almak istiyordu."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "\"\"Yunus Emre’nin şiirlerinin dili, yazıldıkları dönem ve çevreden ayrı olarak ele alınamaz. Zira o ağacın kökleri gelenekle birlikte, yetiştiği topraklara sımsıkı bağlıdır.\"\" cümlesinde kültürün hangi özelliği vurgulanmıştır?",
+    "seçenekler": [
+      "A) Evrensel oluşuna",
+      "B) Dine bağlı oluşuna",
+      "C) Yaratıcı oluşuna",
+      "D) Hoşgörülü oluşuna",
+      "E) Millî oluşuna"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Milli oluşuna."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdaki tanımlardan hangisi dilin doğuşu ile ilgilidir?",
+    "seçenekler": [
+      "A) Dil, sıkı sıkıya millî varlığa ve topluma bağlıdır.",
+      "B) Dil, anlaşmayı sağlayan sistemli işaretler birliğidir.",
+      "C) Dil, temeli bilinmeyen zamanlarda atılmış gizli antlaşmalar sistemidir.",
+      "D) Dil, (aynı dili konuşan ve yazan) insanlar arasında anlaşmayı sağlayan doğal bir araçtır.",
+      "E) Dil, seslerden örülmüş toplumsal bir yapıdır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Dil, temeli bilinmeyen zamanlarda atılmış gizli antlaşmalar sistemidir."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi kültürün nesilden nesile aktarılmasında en önemli unsurdur?",
+    "seçenekler": [
+      "A) Din",
+      "B) Sanat",
+      "C) Mimari",
+      "D) Dil",
+      "E) Heykel"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Dil"
+  }
+]

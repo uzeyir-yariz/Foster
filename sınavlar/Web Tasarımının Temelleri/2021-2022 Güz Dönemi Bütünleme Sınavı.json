@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi duyarlı web sitesi avantajlarından biridir?",
+    "seçenekler": [
+      "A) Duyarlı web siteleri ile CSS ve HTML kullanmadan web sitesi tasarlanabilmektedir.",
+      "B) Farklı ekran ölçülerine uygun özgün tasarımlar yapılabilir.",
+      "C) Tek HTML kodu ile tüm ekranlara tasarım yapıldığı için oluşturulması ve devamlılığı sağlamak için diğer yapılara göre daha az emek ile yapılabilmektedir.",
+      "D) Duyarlı web tasarımı çevre bilinci ile ilgili konuları kapsamaktadır.",
+      "E) Duyarlı web tasarımları işitme engelli kişiler için tasarlanmaktadır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir form elementini kullanıcı etkileşimine kapatmak için kullanılan özelliktir?",
+    "seçenekler": [
+      "A) Readonly",
+      "B) Disabled",
+      "C) Closed",
+      "D) Form-readonly",
+      "E) Form-disabled"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdaki alan adı uzantıları ve kullanım alanı eşleştirmelerinden hangisi doğrudur?",
+    "seçenekler": [
+      "A) gov : Uluslararası organizasyonlar için ayrılmıştır.",
+      "B) edu: Eğitim kurumları tarafından kullanılır.",
+      "C) org: Kooperatifler tarafından kullanılır.",
+      "D) com: Seyahat acenteleri ve seyahat hizmetleri için kullanılır.",
+      "E) net: Organizasyonlar için kullanılır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 .edu Eğitim kurumları tarafından kullanılır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "HTML5 ile gelen API'ler ve görevleriyle ilgili olarak aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) geolocation - Konum bilgisini tanımlar.",
+      "B) drag and drop - Sayfa içindeki nesnelere sürükle-bırak tanımlar.",
+      "C) canvas - Ses ve görüntü oynatmayı tanımlar.",
+      "D) print - Yazdırma desteği sağlar.",
+      "E) webstorage - İstemci bilgisayarına veri depolamayı tanımlar."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 5 canvas - Grafik çizmeyi sağlar."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "CSS Flexbox’ta flex-direction ve flex-wrap özelliklerini tek seferde tanımlamak için hangi özellik kullanılır?",
+    "seçenekler": [
+      "A) Justify-content",
+      "B) Flex-start",
+      "C) Flex-flow",
+      "D) Flex-end",
+      "E) space-between"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML'nin güncel versiyonu olan HTML5'in sunduğu yeniliklerden biri değildir?",
+    "seçenekler": [
+      "A) Metinsel ifadeleri barındırma",
+      "B) Mobil optimizasyon",
+      "C) Çapraz tarayıcı uyumluluğu",
+      "D) Çevrim dışı önbelleğe alma",
+      "E) Dâhilî ses/video oynatabilme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 HTML5, önceki sürümlerle aynı özellikleri sunmasının yanı sıra kullanıcılara ve tasarımcılara birçok kolaylık sağlamaktadır. Bunların arasında dahili ses/video oynatabilme, çevrimdışı önbelleğe alma, çapraz tarayıcı uyumluluğu ve mobil optimizasyon gibi yenilikler bulunmaktadır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Farklı boyutlardaki cihazlarda özel tasarımlar yapabilmeyi sağlayan esnek yapılı tasarım aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Uyarlanabilir Tasarım",
+      "B) Duyarlı Tasarım",
+      "C) Uyarlı ve Duyarlı Tasarım",
+      "D) Masaüstü Görünümlü Tasarım",
+      "E) UX UI Tasarım"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Boostrap v5 versiyonu windows masaüstü ortamında aşağıdaki hangi internet tarayıcısı tarafından desteklenmemektedir?",
+    "seçenekler": [
+      "A) Safari",
+      "B) Firefox",
+      "C) Opera",
+      "D) Microsoft Edge",
+      "E) Chrome"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 Safari desteklemez."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Web tarayıcıya ekranı hangi genişlikte görüntüleyeceğini bildiren ifade aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Meta charset",
+      "B) Meta robot",
+      "C) Meta keywords",
+      "D) Meta title",
+      "E) Meta viewport"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 HTML 5 ile gelen yeni yeniliklerden Meta viewport etiketi tarayıcıya, ekranı hangi genişlikte görüntüleyeceğini bildirir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi “Navbar” yapısı tasarlanırken kullanılabilecek elementlerden biri değildir?",
+    "seçenekler": [
+      "A) <ul> </ul>",
+      "B) <ul> <li>  </li> </ul>",
+      "C) <a> </a>",
+      "D) <ol> </ol>",
+      "E) <row> </row>"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aaşağıdakilerden hangisi Flexbox Modeli'ne ait olan bir avantajdır?",
+    "seçenekler": [
+      "A) Bazı tarayıcılar tarafından desteklenir.",
+      "B) Ögelerde boyutlandırma yoktur.",
+      "C) Ögeler hizalanamaz.",
+      "D) Hemen hemen tüm tarayıcılar tarafından desteklenir.",
+      "E) Duyarlı ve uyarlanabilir web tasarımı sürecini zorlaştırır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 Yapı hemen hemen tüm tarayıcılar tarafından desteklenir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "CSS animasyonları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Fazladan komut dosyaları gerektirdiklerinden, CSS animasyonları sayfaları oldukça yavaşlatır.",
+      "B) Bir ögenin bir veya daha fazla stil özelliğindeki bir değişikliği canlandırmaya ve ayrıca animasyonun çeşitli yönlerini kontrol etmeye olanak tanıyan bir CSS özelliğidir.",
+      "C) CSS animasyonları ek kod (örn. JavaScript) veya medya (örn. GIF'ler) gerektirmez, her şey HTML ve CSS ile yapılır.",
+      "D) CSS animasyonları, sayfaya daha fazla yük getirmeden dinamik, ilgi çekici içerik eklemek isteyen internet sayfaları için kullanılır.",
+      "E) Animasyonun daha fazla özelleştirmek için hız ve gecikme gibi özellikler de eklenebilir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 7 Fazladan komut dosyaları gerektirmediklerinden, CSS animasyonlarının sayfaları yavaşlatmayı da önleyecektir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "I. CSS, web sayfalarındaki içeriklerin konumlandırılması, yeniden boyutlandırılması, yazı boyutu ve renk gibi görsel tanımlamaların yapılması ile ilgilenir. II. Bir web sayfasının HTML kısmı içerik katmanı olarak tanımlanırsa CSS kısmı görselleştirme katmanı olarak tanımlanabilir. III. Geliştiricilerin işini kolaylaştıracak birçok Javascript kütüphanesi bulunmasına rağmen, CSS kütüphanesi bulunmamaktadır. CSS (Basamaklı Stil Şablonu - Cascading Style Sheets) ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) Yalnız II",
+      "D) I, II ve III",
+      "E) II ve III"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 2 Geliştiricilerin işini kolaylaştıracak birçok CSS kütüphanesi bulunmaktadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi çapraz tarayıcı uyumluluğu parçalarından biri değildir?",
+    "seçenekler": [
+      "A) Kod uyumluluğu",
+      "B) İşlemci uyumluluğu",
+      "C) Ara yüz uyumluluğu",
+      "D) Davranış uyumluluğu",
+      "E) Mobil uyumluluk"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki HTML etiketi ve kullanım amacı eşleştirmelerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) < a > - Sayfada içinde bir tablo oluşturmak için kullanılır.",
+      "B) < ul > - Sırasız bir liste oluşturmak için kullanılır.",
+      "C) < ol > - Sıralı bir liste oluşturmak için kullanılır.",
+      "D) < li > - Listenin elemanlarını ayrı ayrı oluşturmak için kullanılır.",
+      "E) < br > - Alt satıra geçilmesini sağlar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 - Sayfa içinde herhangi bir bağlantıya link vermek için kullanılır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biridir?",
+    "seçenekler": [
+      "A) Tasarım süresini kısaltmak",
+      "B) Metinsel ifadelerin stillerini belirlemek",
+      "C) Web sitesinin özelliklerini belirlemek",
+      "D) Hataların tespit edilmesini kolaylaştırmak",
+      "E) Tasarım maliyetini azaltmak"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi geçiş  (transition) özellikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) transition-delay",
+      "B) transition-property",
+      "C) directional",
+      "D) ease-in",
+      "E) ease-in-out"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Böyle bir özellik yoktur."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi kullanıcının var olan seçenekler arasından en az bir adet seçim yapması istendiği durumda kullanılan form kontrolüdür?",
+    "seçenekler": [
+      "A) checkbox",
+      "B) radio",
+      "C) selectbox",
+      "D) inputbox",
+      "E) dropbox"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi Wireframe kullanmanın faydaları için yanlıştır?",
+    "seçenekler": [
+      "A) Web siteniz veya ürününüz hakkında ön konuşmalarda çok yardımcı olur ve görülen durumların değiştirilmesini kolaylaştırır.",
+      "B) Wireframe çalışmasından sonra yazılıma geçmek, daha belirgin kuralları takip etmenizi sağlar.",
+      "C) Wireframe aşamasında yapılan değişiklikler, kodlama başladıktan sonra gerekli görülen değişikliklerden çok daha kolay ve dolayısıyla daha ucuzdur.",
+      "D) Taslak çalışmaların yardımı ile fikir ve tasarımın her aşamasında son kullanıcılarla test edebilirsiniz.",
+      "E) Bir model çerçevesinde uygulanacak alan tasarımın yüzeyde nasıl görüneceğinin belirlenmesi amacıyla kullanılır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdaki tarayıcılardan hangisi CSS’de “-moz” ön ekini kullanmaktadır?",
+    "seçenekler": [
+      "A) Firefox",
+      "B) Edge",
+      "C) Internet Explorer",
+      "D) Chrome",
+      "E) Opera"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  }
+]

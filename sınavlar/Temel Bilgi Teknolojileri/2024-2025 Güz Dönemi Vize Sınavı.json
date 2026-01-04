@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi veri işlemenin evreleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Mantıksal veri işleme",
+      "B) El yordamıyla veri işleme",
+      "C) Mekanik veri işleme",
+      "D) Elektromekanik veri işleme",
+      "E) Elektronik veri işleme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi bütün donanım birimlerinin doğrudan veya dolaylı olarak üzerine bağlandığı elektronik karƴr?",
+    "seçenekler": [
+      "A) Monitör",
+      "B) Anakart",
+      "C) Klavye",
+      "D) Sabit disk",
+      "E) RAM bellekler"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "\"\"Olası problemleri görebilme, değerlendirebilme, doğru yanlış ayrımını yapabilme yeteneği\"\" olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Bilgi",
+      "B) Enformasyon",
+      "C) Bilgelik",
+      "D) Veri",
+      "E) Veritabanı"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Word programında belgeye dipnot eklemek için kullanılan komut hangi sekmede yer alır?",
+    "seçenekler": [
+      "A) Tasarım",
+      "B) Başvurular",
+      "C) Giriş",
+      "D) Ekle",
+      "E) Düzen"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Klavye üzerindeki harflerin dizilimine göre belirlenen klavye türleri aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) A ve Z klavyeler",
+      "B) C ve B klavyeler",
+      "C) Q ve F klavyeler",
+      "D) J ve P klavyeler",
+      "E) T ve O klavyeler"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir işletim sistemi değildir?",
+    "seçenekler": [
+      "A) Windows",
+      "B) Linux",
+      "C) Pardus",
+      "D) MacOS",
+      "E) ENIAC"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Kullanıcı hareketlerinin takip edilmemesi ve gizli kalmasının istenildiği durumlarda kullanılan tarayıcı özelliği hangisidir?",
+    "seçenekler": [
+      "A) Gizli sekme",
+      "B) Web geçmişi",
+      "C) Görünüm",
+      "D) Araçlar",
+      "E) Yeni sekme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Word 2021'de Dosya menüsünde yer alan Paylaş seçeneği kullanılarak aşağıdakilerden hangisi yapılamaz?",
+    "seçenekler": [
+      "A) Belge xps olarak gönderilebilir.",
+      "B) Belge web tarayıcısında görüntülenebilecek hâle getirilebilir.",
+      "C) Belgeye düzenleme kısıtı getirilebilir.",
+      "D) Belge pdf olarak gönderilebilir.",
+      "E) Belge internet faksı olarak gönderilebilir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "\"\"Açık belge metni\"\" olarak adlandırılan ve kelime işlemcilere standart dosya biçimi sunan kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) odt",
+      "B) pdf",
+      "C) xps",
+      "D) xml",
+      "E) docx"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisinde delikli kartlar kullanılarak veri işleme yapılmıştır?",
+    "seçenekler": [
+      "A) Mantıksal veri işleme",
+      "B) Elektromekanik veri işleme",
+      "C) Elektronik veri işleme",
+      "D) El yordamıyla veri işleme",
+      "E) Mekanik veri işleme"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Word programı penceresinde görünüm düğmeleri kullanılarak aşağıdakilerden hangisi yapılabilir?",
+    "seçenekler": [
+      "A) Belge, okuma modunda görüntülenebilir.",
+      "B) Düzenleme alanı kaydırılabilir.",
+      "C) Belge, birden çok sayfa hâlinde görüntülenebilir.",
+      "D) Belge yazdırılabilir.",
+      "E) Düzenleme alanı yakınlaştırılabilir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Word programında sayfalara kenarlık eklemek için kullanılan komut hangi sekmede yer alır?",
+    "seçenekler": [
+      "A) Giriş",
+      "B) Ekle",
+      "C) Başvurular",
+      "D) Görünüm",
+      "E) Tasarım"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Word programında oluşturulan belgeyi kaydetmek için kullanılan kısa yol tuş bileşeni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) CTRL+Z",
+      "B) CTRL+K",
+      "C) CTRL+D",
+      "D) CTRL+S",
+      "E) CTRL+C"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Kaydediciler (registers) verileri depolarken aşağıdaki sayı sistemlerinden hangisini kullanırlar?",
+    "seçenekler": [
+      "A) Decimal",
+      "B) Quinary",
+      "C) Binary",
+      "D) Hexadecimal",
+      "E) Octal"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki Android işletim sisteminin bölümlerinden hangisi Linux temel kodlarını barındırmaktadır?",
+    "seçenekler": [
+      "A) Çekirdek",
+      "B) Android Runtime",
+      "C) Kütüphaneler",
+      "D) Uygulama Çatısı",
+      "E) Uygulama Katmanı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir web tarayıcısı değildir?",
+    "seçenekler": [
+      "A) Safari",
+      "B) Mozilla Firefox",
+      "C) Yandex",
+      "D) Microsoft Defender",
+      "E) Microsoft Edge"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Word programında belgeye filigran eklemek için kullanılan sekme aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Giriş",
+      "B) Çiz",
+      "C) Ekle",
+      "D) Tasarım",
+      "E) Düzen"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi Apple iOS İşletim Sistemi katmanı değildir?",
+    "seçenekler": [
+      "A) Uygulama Katmanı",
+      "B) Core OS Katmanı",
+      "C) Core Servis Katmanı",
+      "D) Medya Katmanı",
+      "E) Cocoa Touch Katmanı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Word programında tema, filigran ve sayfa rengi komutları aşağıdaki sekmelerin hangisinde yer alır?",
+    "seçenekler": [
+      "A) Giriş",
+      "B) Ekle",
+      "C) Çiz",
+      "D) Düzen",
+      "E) Tasarım"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Bilgisayar sistemindeki sabit diskin ön yükleme (Master Boot Record – MBR) bölümüne yazılarak çalışan virüs aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Solucan",
+      "B) Makro virüsleri",
+      "C) Casus yazılım",
+      "D) Ön yükleme virüsü",
+      "E) Trojan"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "isim": "Foster",
+  "durum": "yeni başlangıç 🚀",
+  "avatar": "avatar1.png",
+  "streak": {
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "lastActivityDate": null,
+    "streakDates": []
+  },
+  "istatistikler": {
+    "toplamTest": 0,
+    "toplamSure": 0,
+    "toplamDogru": 0,
+    "toplamYanlis": 0,
+    "toplamBos": 0,
+    "ortalamaPuan": 0
+  },
+  "dersler": {
+    "programlama temelleri": {
+      "testSayisi": 0,
+      "ortalamaPuan": 0,
+      "enYuksekPuan": 0,
+      "enDusukPuan": 0,
+      "toplamDogru": 0,
+      "toplamYanlis": 0,
+      "yanlisSorular": []
+    }
+  },
+  "sonSinav": {
+    "tarih": "",
+    "ders": "",
+    "sinavTipi": "",
+    "puan": 0,
+    "dogru": 0,
+    "yanlis": 0,
+    "bos": 0,
+    "sure": 0
+  },
+  "tumYanlisSorular": []
+}

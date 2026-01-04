@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "..................., renk çemberinde birbirinin karşısında yer alan renklerdir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Benzer renkler",
+      "B) Tamamlayıcı renkler",
+      "C) Triadik renkler",
+      "D) Ayrık tamamlayıcı renkler",
+      "E) Tetradic renkler"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Tamamlayıcı Renkler (Complementary): Tamamlayıcı renkler renk çemberinde birbirinin karşısında yer alan renklerdir"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "I. Katman adı II. Katman opasitesi III. Katman stili IV. Katman dönüştürme Yukarıdakilerden hangisi ya da hangileri katman özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I, II ve III",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Katman Özellikleri: Katman adı, Katman opasitesi, Katman sırası, Katman stili, Katman rengi"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi katman üzerinde yapılan işlemler arasında yer almaz?",
+    "seçenekler": [
+      "A) Katmanın yeniden boyutlandırılması",
+      "B) Katmanın konumunun değiştirilmesi",
+      "C) Katmanların ters çevrilmesi",
+      "D) Katmanların birleştirilmesi",
+      "E) Katmanların bağlanması"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "KATMAN ÜZERİNDE İŞLEMLER: Katmanın Konumun Değiştirilmesi - Taşınması, Katmanın Yeniden Boyutlandırılması, Katmanların Birleştirilmesi, Katmanların Bağlanması, Katmanların Tek Başına Kaydedilmesi, Katmanların Çoğaltılması"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi grafiksel ögeleri hizalamak veya konumlandırmak için uygun değildir?",
+    "seçenekler": [
+      "A) Cetveller",
+      "B) Akıllı kılavuz çizgileri",
+      "C) Farklı ölçü birimleri",
+      "D) Izgaralar",
+      "E) Katmanlar"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Photoshop CC 2018 programının sunmuş olduğu hizalama seçenekleri, akıllı kılavuz çizgileri, cetveller, ızgaralar ve farklı ölçü birimleri sayesinde grafiksel öğelerinizin konumunu ve boyutlarını daha detaylı tasarlayabilirsiniz."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Görüntünün üzerinde sürükleme işlemini gerçekleştirdiğinizde piksellerin ileriye doğru itilmesini sağlayan deformasyon aracı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İleri çarpıtma",
+      "B) Yeniden yapılandırma",
+      "C) Büzme",
+      "D) Şişirme",
+      "E) Saat yönünde burgu"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "İleri Çarpıtma aracı: İleri çarpıtma aracı görüntünün üzerinde sürükleme işlemini gerçekleştirdiğinizde piksellerin ileriye doğru itilmesini sağlar."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Bir katmanın tamamen şeffaf olması için girilecek değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Doygunluk - 0",
+      "B) Opaklık - %0",
+      "C) Renk doygunluğu - %0",
+      "D) Alfa Renk - %100",
+      "E) Alfa Renk - 255"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Photoshop’ta Filtre Galerisi'ne ulaşmak için izlenmesi gereken yol aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Filtre",
+      "B) Filtre > Filtre Galerisi",
+      "C) Filtre > Sıvılaştır",
+      "D) Filtre > Mercek düzeltme",
+      "E) Filtre Galerisi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi Filtre içerisindeki filtrelerden biri değildir?",
+    "seçenekler": [
+      "A) Bulanıklaştırma Galerisi",
+      "B) Deforme et",
+      "C) Keskinleştir",
+      "D) Sanatsal",
+      "E) Stilize et"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Doğru cevap A şıkkı olarak güncellendi."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Kitap tasarımında kullanılması gereken uygun yazılım aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Adobe Photoshop",
+      "B) Adobe Illustrator",
+      "C) GIMP",
+      "D) Adobe InDesign",
+      "E) Adobe Acrobat Reader"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Adobe firmasının masaüstü yayıncılık (desktop publishing) kategorisinde piyasaya sürdüğü bir yazılımdır. Daha çok basılı materyal (poster, gazete, broşür, kitap) ve elektronik kitap üretiminde kullanılır. Dosya biçimi olarak PDF çıktı veren Adobe InDesign, EPUB ve SWF biçimlerinde de çıktı verebilir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Birden fazla katmanın saklanabildiği dosya biçimi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) PSD",
+      "B) JPG",
+      "C) GIF",
+      "D) PNG",
+      "E) BMP"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Piksellerin (noktaların) birbirine ne kadar yakın olduğunu ifade eden kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Çözünürlük",
+      "B) Bitmap",
+      "C) Vektör",
+      "D) Bulanıklık",
+      "E) Doygunluk"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Bir görüntünün çözünürlüğü bize piksellerin (noktaların) birbirine ne kadar yakın olduğunu ifade eder."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Renk çemberinde birbirine yakın renklerin seçilmesiyle oluşturulan renk şeması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Triadic",
+      "B) Split-complementary",
+      "C) Benzer renkler (Analogous)",
+      "D) Tamamlayıcı (Complementary)",
+      "E) Tek renkli (Monochromatic)"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Cetvelleri hizalama aracı olarak kullanmak isteyen bir kullanıcı aşağıdakilerden hangisinden yararlanarak cetvelleri aktif hale getirebilir?",
+    "seçenekler": [
+      "A) Ctrl+K tuşlarına birlikte basabilir.",
+      "B) Ctrl+Z tuşlarına birlikte basabilir.",
+      "C) Ctrl+I tuşlarına birlikte basabilir.",
+      "D) Ctrl+R tuşlarına birlikte basabilir.",
+      "E) Ctrl+C tuşlarına birlikte basabilir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Cetveller tasarım alanındaki öğelerle ilgili konumlandırma ayarlarını yapmanıza yardımcı olan araçlardır. Cetvelleri görünür hale getirmek veya gizlemek için Görünüm menüsündeki Cetveller seçeneği tıklanabllir ya da kılavyeden Ctrl+R kısayol tuş kombinasyonu kullanılabilir. Cetveller görünür hale geldiğinde Şekil 6.7’de görüldüğü gibi tasarım alanının sol ve üst tarafında konumlanırlar. Cetvelin başlangıç noktası üst ve sol taraftan sıfır birim (0,0) olarak belirlenmiştir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Hizalama seçeneklerini kullanmak için öncelikle yapılması gereken işlem aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Görünüm menüsünden cetvelleri tıklamak",
+      "B) Hizalanacak grafiksel ögeleri seçmek",
+      "C) Görünüm menüsünden akıllı kılavuzları etkinleştirmek",
+      "D) Hizalanacak grafiksel öğeleri tek bir katmanda birleştirmek",
+      "E) Prova renklerini aktifleştirmek"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Hizalama seçeneklerinin aktif olması için hizalanmak istenilen grafiksel öğelerin bulunduğu katmanların seçili olması gerekir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Kullanıcıların programı kullanırken yapmış oldukları tüm eylemleri gösteren panel aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Araçlar paneli",
+      "B) Geçmiş paneli",
+      "C) Renk paneli",
+      "D) Eğitim paneli",
+      "E) Katmanlar paneli"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Geçmiş paneli: Kullanıcıların programı kullanırken yapmış oldukları tüm eylemleri gösteren paneldir."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Bir pikselin alabileceği toplam renk sayısının belirlediği değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Çözünürlük",
+      "B) Piksel",
+      "C) Gri tonlamalı renk modu",
+      "D) Renk derinliği",
+      "E) CMYK renk modu"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Bir pikselin alabileceği toplam renk sayısı renk derinliğini belirler"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aylık ya da yıllık sürede kiralanarak kullanılabilen program aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Adobe Acrobat Reader",
+      "B) Adobe Photoshop CC",
+      "C) Adobe Photoshop CS6",
+      "D) GIMP",
+      "E) Corel Draw"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Adobe Photoshop’un son sürümünün adı CC 2018’dir (Creative Cloud 2018). Bu sürüm 2014 yılından beni güncellemeler ile halen piyasadadır. Önceki sürümlerinden farklı olarak (CS6 ve öncesi), CC sürümünde yazılımın satın alınması mümkün değildir, ancak aylık ya da yıllık kiralayarak kullanabilirsiniz."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi doygunluk ifadesini en iyi şekilde açıklamaktadır?",
+    "seçenekler": [
+      "A) Rengin saf hâlidir.",
+      "B) Rengin ne kadar yoğun ya da parlak göründüğüyle ilgilidir.",
+      "C) Rengin RGB değerleriyle ilgilidir.",
+      "D) Rengin ne kadar koyu ya da açık olduğuyla ilgilidir.",
+      "E) Rengin CMYK değerleriyle ilgilidir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Doygunluk, yoğunlukla başka bir deyişle, rengin daha sönük veya daha canlı görünüp görünmeyeceğiyle ilgilidir. Rengin ne kadar yoğun ya da parlak göründüğüyle ilgilidir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Corel Draw ve Adobe Illustrator’ın birbirine rakip olmalarını sağlayan özellik aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Aynı anda birden fazla resim açabilme",
+      "B) Hem Windows hem de Macintosh bilgisayarlarda kullanılabilme",
+      "C) Ücretsiz olma",
+      "D) Vektör tabanlı resim işleme",
+      "E) Farklı ebatlarda resim yazdırabilme"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I. RGB II. CMYK III. Gri Tonlamalı Yukarıdakilerden hangisi ya da hangileri renk modları arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) I, II ve III",
+      "E) Yalnız III"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "En sık karşılaşılan renk modları, gri tonlamalı, RGB ve CMYK’dır."
+  }
+]

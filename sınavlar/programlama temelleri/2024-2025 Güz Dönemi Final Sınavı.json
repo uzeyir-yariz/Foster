@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "C++ Programlama dilinde dosya işlemede kullanılan seek() fonksiyonu için aşağıdaki ifadelerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Byte sayısı parametresi pozitif değer olursa işaretçiyi dosyanın başına doğru taşır.",
+      "B) Byte sayısı parametre değeri negatif ya da pozitif olabilir.",
+      "C) Fonksiyonun ikinci parametresi ios::beg, ios::end değerlerinden birimi alabilir.",
+      "D) Rastgele erişimli dosya işlemlerinde kullanılır.",
+      "E) İlk parametresi long int veri tipindedir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "0 3 6 9 12 15 Yukarıda verilen ekran çıktısını elde etmek için aşağıdaki döngülerden hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) for ( int i = 0; i < 18; i ++) cout << i << \"\" \"\";",
+      "B) for ( int i = 0; i < 16; i+=3) cout << i << \"\" \"\";",
+      "C) for ( int i = 0; i < 15; i+=3) cout << i << \"\" \"\";",
+      "D) for ( int i = 0; i < 5; i+=3) cout << i << \"\" \"\";",
+      "E) for ( int i = 0; i < 15; i++) cout << i << \"\" \"\";"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "for (int i=0; i< 5; i++) {    for(int j=0; j<5; j++)    {        a[i][j] = i * j;    } } Yukarıdaki kod parçası aşağıdaki işlevlerden hangisini yerine getirmektedir?",
+    "seçenekler": [
+      "A) Dizinin ilk 5 satırının ilk 5 sütununa 5 yazar.",
+      "B) Dizinin tüm elemanlarına 25 yazar.",
+      "C) Dizinin tüm elemanlarına bulundukları satır ve sütün indis değerlerinin çarpım sonucunu yazar.",
+      "D) Dizinin tüm elemanlarına 5 yazar.",
+      "E) Dizinin ilk 5 satırının ilk 5 sütununa 25 yazar."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Bir C++ programında verilen y=42%5+6/2*5-3; ifadesinde y değişkeninin alacağı değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 14",
+      "B) 18",
+      "C) 26",
+      "D) 16",
+      "E) 22"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Sonlandırma karakteri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) '\\n'",
+      "B) '\\t'",
+      "C) '\\Z'",
+      "D) '\\0'",
+      "E) '\\S'"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Programlama dilleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Düşük seviyeli diller, genelde sistem programlama alanında kullanılabilir.",
+      "B) Bir programlama dilinin seviyesi düştükçe zorluk seviyesi azalmaktadır.",
+      "C) Donanıma yakın dillere düşük seviyeli dil adı verilir.",
+      "D) Derleyici adı verilen programlar yazılan komutları makine diline çevirmektedir.",
+      "E) Program geliştirme sürecini hızlandırmak için yüksek seviyeli programlama dilleri geliştirilmiştir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Set içerisinde aşağıdaki fonksiyonlardan hangisi kullanılarak arama yapılır?",
+    "seçenekler": [
+      "A) find()",
+      "B) erase()",
+      "C) swap()",
+      "D) stack()",
+      "E) iterator()"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "I. Dâhili test II. Haricî test III. Kullanıcı testi Yukarıdaki testlerin uygulanışı hangi sırada gerçekleştirilmelidir?",
+    "seçenekler": [
+      "A) II-III-I",
+      "B) I-III-II",
+      "C) I-II-III",
+      "D) III-I-II",
+      "E) II-I-III"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "İlişkisel ve/veya mantıksal operatörler kullanılarak cevabı doğru veya yanlış olan ifadeler oluşturulabilir. Aşağıdakilerden hangisinde verilen bu örnek ifadenin anlamı doğru verilmiştir?",
+    "seçenekler": [
+      "A) ! (x < 5)    x değeri 5'ten küçük değil midir?",
+      "B) x < y     x değeri y değerinden büyük müdür?",
+      "C) x >= y    x değeri y değerinden küçük veya eşit midir?",
+      "D) x < 5 && y > 10    y değeri 5'ten küçük ve x değeri 10'dan büyük müdür?",
+      "E) x <= y   y değeri x değerinden küçük veya eşit midir?"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "#include <iostream> using namespace std; class silindir { private: double r, h; const double pi = 3; public: void YaricapOku(double yaricap) { r = yaricap; } void YukseklikOku(double yukseklik) { h = yukseklik; } double HacimHesapla() { return pi*r*r*h; } }; int main() { silindir s1; s1.YaricapOku(1); s1.YukseklikOku(3); cout << \"\"Silindirin hacmi=\"\" << s1.HacimHesapla(); return 0; } Yukarıdaki kod parçası çalıştırıldığında aşağıdaki ekran çıktılarından hangisi oluşur?",
+    "seçenekler": [
+      "A) Silindirin hacmi=27",
+      "B) Silindirin hacmi=3",
+      "C) Silindirin hacmi=9",
+      "D) \"\"Silindirin hacmi=\"\"",
+      "E) Silindirin hacmi=1"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Çıktı penceresinin görevi aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) Programın kütüphane dosyalarını gösterir.",
+      "B) Programdaki değişkenlerin sayısını gösterir.",
+      "C) Kodların makine diline dönüşmüş hâlini gösterir.",
+      "D) Programın çıktılarını gösterir.",
+      "E) Programa ait hata iletilerini ve derleyici uyarılarını gösterir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir söz dizim hatası değildir?",
+    "seçenekler": [
+      "A) Küçük harfle tanımlanmış bir değişkenin başka yerde büyük harfle kullanılması",
+      "B) Metin başında açılmış bir çift tırnak karakterinin metnin sonunda kapatılmaması",
+      "C) if koşulundan sonrak ilk satırın \"\"{\"\" ve \"\"}\"\" küme parantezlerine alınmaması",
+      "D) while koşulunun yazıldığı \"\"(\"\" ve \"\")\"\" parantezlerinin yazılmaması",
+      "E) Tam sayi parametresi olan bir fonksiyonun parametresiz çağrılması"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "string metin1 = \"\"BILGISAYAR\"\"; string metin2 = \"\"101\"\"; metin1.insert(5,metin2); cout <<metin1<<endl; Yukarıdaki C++ kod bloğu çalıştırıldığında aşağıdaki ekran çıktılarından hangisini üretir?",
+    "seçenekler": [
+      "A) 5101",
+      "B) 101BILGISAYAR",
+      "C) 5BILGISAYAR",
+      "D) BILGI101SAYAR",
+      "E) BILGISAYAR101"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "for (int i = 0; i < 2; ++i) {   for (int j = 0; j < 3; ++j)   {    for (int k = 0; k < 2; ++k)    {    cout << \"\"test[\"\" << i << \"\"][\"\" << j      << \"\"][\"\" << k << \"\"] = \"\" << test[i][j][k] << endl;    }   } } Yukarıdaki C++ kod parçasının işlevi aşağıdakilerin hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) test dizisinin elemanlarını temizler.",
+      "B) test dizinin eleman sayısını bulur.",
+      "C) test dizisinin elemanlarına atama yapar.",
+      "D) test dizisinin satırlarındaki elemanlarının sütundaki elemanlarıyla çarpımını yapar.",
+      "E) test dizisinin elemanlarını ve dizinin hangi elemanı olduğu bilgisini ekrana yazdırır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "swap() üye fonksiyonu hangi amaçla kullanılır?",
+    "seçenekler": [
+      "A) String sınıfı değişkenin boş olup olmadığını kontrol etmek için",
+      "B) String sınıfı değişkenlerin değerlerini karşılıklı değiştirmek için",
+      "C) String ifade aramak için",
+      "D) String sınıfı değişkenleri karşılaştırmak için",
+      "E) String sınıfı değişkenleri birleştirmek için"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "SET x=5, y=10, toplam=45 WHILE toplam < 70       COMPUTE toplam = toplam + y       COMPUTE y =  y + x ENDWHILE PRINT y, toplam Yukarıda verilen sözde kodun çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 30 120",
+      "B) 15 55",
+      "C) 10 45",
+      "D) 25 90",
+      "E) 20 70"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "ios::app moduyla açılan bir dosya ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Dosya yaratmak için dosya açılır, eğer aynı isimde dosya varsa hata oluşur.",
+      "B) Dosyaya ekleme yapmak için dosya açılır, dosya yoksa yaratılır.",
+      "C) Dosyadan okuma yapmak için dosya açılır.",
+      "D) Var olan dosyanın içi temizlenerek dosya üzerine yeni veri yazmak için açılır.",
+      "E) Dosyadan veri okumak için dosya açılır, dosya yoksa yaratılır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisinde yanlış bir dizi tanımlanması verilmiştir?",
+    "seçenekler": [
+      "A) double A[]={1.2};",
+      "B) double A[];",
+      "C) double A[]={};",
+      "D) double A={1.2, 3.4, 5, 5.4, a};",
+      "E) double A[]={0};"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Depo yapılarının hangisinde iteratör kullanılamaz?",
+    "seçenekler": [
+      "A) vector",
+      "B) map",
+      "C) list",
+      "D) set",
+      "E) priority_queue"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "double Cagir(int a, double b, bool c) {    double toplam = a + c;    b = b + toplam;    return b; } Verilen fonksiyon için aşağıdaki çağırımlardan hangisinde bilgi kaybı olmaksızın doğru sonuç elde edilir?",
+    "seçenekler": [
+      "A) char a=Cagir(1,2.5,false)",
+      "B) int  a=Cagir(1,2.5,false)",
+      "C) int a=Cagir(1,2.5,true)",
+      "D) double a=Cagir(1,2.5,true)",
+      "E) bool a=Cagir(1,2.5,true)"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  }
+]

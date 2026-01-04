@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Word 2021’de Dosya menüsünde yer alan Yazdır seçeneği kullanılarak aşağıdakilerden hangisi yapılamaz?",
+    "seçenekler": [
+      "A) Geçerli sayfa yazdırılabilir.",
+      "B) Yazıcı seçimi yapılabilir.",
+      "C) Belge sorunları denetlenebilir.",
+      "D) Kenar boşlukları ayarlanabilir.",
+      "E) Sayfa yönlendirmesi ayarlanabilir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi Excel programında kullanılan fonksiyonlardan biri değildir?",
+    "seçenekler": [
+      "A) ORTALAMA",
+      "B) EĞER_ORTALAMA",
+      "C) TOPLA",
+      "D) EĞERSAY",
+      "E) EĞER"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Excel programında seçilmiş hücre ve hücrelerin kilitlenmesi için hangi işlem yapılması gerekmektedir?",
+    "seçenekler": [
+      "A) Hücre seçildikten sonra kırmızı dolgu ile doldurulmalıdır.",
+      "B) Hücre biçimlendirme bölümünden “Sayı” ayarlamaları yapılmalıdır.",
+      "C) Hücre Biçimlendirmeden “Koruma” ayarlamaları yapılmalıdır.",
+      "D) Kilitlenmesi gereken hücre ya da hücrelere kenarlık eklenmelidir.",
+      "E) Hücre seçildikten sonra “Gizli” seçeneği seçilmelidir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Word programında şeritie yer alan komutlara klavyeden erişmek için kullanılan tuş aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) ALT",
+      "B) ALT GR",
+      "C) SHIFT",
+      "D) TAB",
+      "E) CTRL"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Murat çalıştığı kuruma yeni bir Öğrenme Yönetim Sistemi kurulmasını istemektedir. Yazılım geliştiriciden bu doğrultuda çalışma yapmasını ve bu kurulumun gerçekleştirilmesini istemektedir. Yazılım geliştiricinin ÖYS seçimi yaparken aşağıdakilerden hangisine dikkat etmesine gerek yoktur?",
+    "seçenekler": [
+      "A) İçerik ve hedef kitleye uygun olmasına",
+      "B) Erişilebilir olmasına",
+      "C) Sade bir tasarım olmasına",
+      "D) Tüm modülleri içeriyor olmasına",
+      "E) Esnek yapıda olmasına"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi çevrimiçi ders çalışma araçlarından biri değildir?",
+    "seçenekler": [
+      "A) StudyBlue",
+      "B) Unity",
+      "C) Quizlet",
+      "D) XMind",
+      "E) Evernote"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi MOOC uygulamalarında kursların ücretsiz olma, katılım için ön koşul gerektirmeme ve kaynaklara erişim olanağı sunma özelliğini ifade eden kavramdır?",
+    "seçenekler": [
+      "A) Kitlesellik",
+      "B) Geleneksellik",
+      "C) Kurs",
+      "D) Açıklık",
+      "E) Çevrimiçi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi eş zamanlı olmayan iletişim süreçlerinin sunduğu avantajlardan biri değildir?",
+    "seçenekler": [
+      "A) Cevap vermeden önce düşünme süresinin olması",
+      "B) Katılımcı sayısında sınırlandırma olmaması",
+      "C) Her zaman her yerde katılım imkânı",
+      "D) Materyallere kolay erişim imkânı",
+      "E) İzolasyon hissinin yüksek olması"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Ram bellekler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Elektrik kesintisinde üzerindeki bilgiler silinir.",
+      "B) Statik RAM’ler, Ram bellek çeşitlerinden biridir.",
+      "C) Bilgisayarın performansı üzerinde bir etkisi yoktur.",
+      "D) Dinamik RAM’ler, Ram bellek çeşitlerinden biridir.",
+      "E) Bilgisayarın çalışma durumuna göre üzerindeki veriler değiştirilebilir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Word programında belgeye içindekiler tablosu eklemek için kullanılan sekme aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Başvurular",
+      "B) Ekle",
+      "C) Giriş",
+      "D) Tasarım",
+      "E) Düzen"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "2"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Virüslerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Virüs bulaştığını tespit etiğiniz bir bilgisayardaki etkinliklerinizi durdurmanız gerekmektedir.",
+      "B) Kullanıcının kişisel bilgilerine erişmek, banka bilgilerini elde etmek veya buna benzer zarar verebilecek dosyalarına ulaşmak amacıyla kullanılan kötü amaçlı yazılımlara trojan denir.",
+      "C) Boot sektör virüslerinin bulaşması için sürücünün aktif hâle gelmesi yeterlidir.",
+      "D) Kullanıcının isteği dışında kendisine gelen elektronik postalara solucan denir.",
+      "E) Truva atları, zamana veya eyleme bağlı olarak çalışan virüs türleridir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Bilgisayarlar arasında iletişim sağlanarak kolaylıkla veri paylaşımı yapılabilmesine, yazıcı ve tarayıcı gibi aygıtların ortak bir şekilde kullanılabilmesine olanak tanıyan yapı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Dijital bilgisayar sistemleri",
+      "B) Ağ sistemleri",
+      "C) Analog bilgisayar sistemleri",
+      "D) Merkezi bilgisayar sistemleri",
+      "E) Mikrobilgisayar sistemleri"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi web konferans sistemlerinden biri değildir?",
+    "seçenekler": [
+      "A) Pinterest",
+      "B) Big Blue Bution",
+      "C) Adobe Connect",
+      "D) Zoom",
+      "E) Google Meet"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Ayşe çalıştığı kurumda 65 yaş üzerinde olanların “Sokağa çıkma yasağı var.”, 65 yaş altında olanların ise “Sokağa çıkma yasağı yok.” olarak belirtmek istiyor. Ayşe bu işlemi yapabilmek için aşağıdaki formüllerden hangisini yazmalıdır? (Personel yaş bilgileri C sütununda yer almaktadır)",
+    "seçenekler": [
+      "A) =EĞER_YAS(C1<65; “Sokağa çıkma yasağı var”; “Sokağa çıkma yasağı yok”)",
+      "B) =EĞER(C1<65; “Sokağa çıkma yasağı var”; “Sokağa çıkma yasağı yok”)",
+      "C) =EĞERSAY(C1<65; “Sokağa çıkma yasağı var”; “Sokağa çıkma yasağı yok”)",
+      "D) =EĞER(C1>65; “Sokağa çıkma yasağı var”; “Sokağa çıkma yasağı yok”)",
+      "E) =EĞER_ORTALA(C1<65; “Sokağa çıkma yasağı var”; “Sokağa çıkma yasağı yok”)"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Word programında bir metnin sağa hizalı şekilde yazılmasını sağlayan kısayol tuş bileşeni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) CTRL+L",
+      "B) CTRL+D",
+      "C) CTRL+G",
+      "D) CTRL+H",
+      "E) CTRL+R"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Doğru cevap C iken E olmuştur."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir virüs türü değildir?",
+    "seçenekler": [
+      "A) Truva atı",
+      "B) Casus yazılımlar",
+      "C) Solucanlar",
+      "D) Ön yükleme virüsleri",
+      "E) Scriptler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi öğrenim yönetim sistemlerinde bulunması gereken özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Yönetilebilirlik",
+      "B) Anlık geribildirim",
+      "C) Ulaşılabilirlik",
+      "D) Birlikte çalışılabilirlik",
+      "E) Süreklilik"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Excel tablosunda D sütununda öğrencilerin geçme ve kalma durumu yer almaktadır. Dersi geçen öğrencilerin hücrelerinin arka planında yeşil, kalanların ise kırmızı renkle boyanması istenmektedir. Bunun için aşağıdakilerden hangisi kullanılabilir?",
+    "seçenekler": [
+      "A) Dolgu",
+      "B) Koruma",
+      "C) Hizalama",
+      "D) Sayı",
+      "E) Kenarlık"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "I. TÜBİTAK-ULAKBİM tarafından desteklenmektedir. II. Kurulmadan dahi çalışmaya başlayabilir. III. Birçok dil desteği vardır. Yukarıdakilerden hangisi ya da hangileri Pardus İşletim Sistemi'nin öne çıkan özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız II",
+      "B) I ve II",
+      "C) Yalnız I",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "3"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi bireyler tarafından sıklıkla kullanılan mobil öğrenme teknolojilerinden biri değildir?",
+    "seçenekler": [
+      "A) Küçük tabletler",
+      "B) Görüntü/ses kaydediciler",
+      "C) Akıllı telefonlar",
+      "D) Dijital sözlükler",
+      "E) Sanal gerçeklik"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  }
+]

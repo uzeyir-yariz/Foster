@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi katman üzerinde yapılan işlemler arasında yer almaz?",
+    "seçenekler": [
+      "A) Katmanın yeniden boyutlandırılması",
+      "B) Katmanın konumunun değiştirilmesi",
+      "C) Katmanların ters çevrilmesi",
+      "D) Katmanların birleştirilmesi",
+      "E) Katmanların bağlanması"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 5 KATMAN ÜZERİNDE İŞLEMLER: Katmanın Konumun Değiştirilmesi - Taşınması, Katmanın Yeniden Boyutlandırılması, Katmanların Birleştirilmesi, Katmanların Bağlanması, Katmanların Tek Başına Kaydedilmesi, Katmanların Çoğaltılması"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Adobe Photoshop CC programı ilk açılış ekranında aşağıdakilerden hangisi yer almaz?",
+    "seçenekler": [
+      "A) Aç",
+      "B) Yeni oluştur",
+      "C) En son",
+      "D) CC Files",
+      "E) Web"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Şekil 2.15 PS ilk açılış ekranı"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi enerji, savaş ve güç ile ilişkili bir renktir?",
+    "seçenekler": [
+      "A) Kırmızı",
+      "B) Sarı",
+      "C) Yeşil",
+      "D) Beyaz",
+      "E) Siyah"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 Kırmızı renk Enerji, savaş, tehlike, güç, istek ve sevgi ile ilişkilendirilir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi çember üzerinde iki tamamlayıcı renk kullanılarak dikdörtgen oluşturulmasıyla açığa çıkan renk şemasıdır?",
+    "seçenekler": [
+      "A) Tetradic renkler",
+      "B) Ayrık tanımlayıcı renkler",
+      "C) Triadik renkler",
+      "D) Tamamlayıcı renkler",
+      "E) Benzer renkler"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 Tetradic renk şemaları, çember üzerinde iki tamamlayıcı rengin kullanılarak dikdörtgen oluşturulmasıyla açığa çıkmaktadır"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi profesyonel bir grafik tasarım programıdır?",
+    "seçenekler": [
+      "A) Word",
+      "B) Paint",
+      "C) Gimp",
+      "D) Photoshop",
+      "E) Powerpoint"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için izlenen yoldur?",
+    "seçenekler": [
+      "A) Görünüm / Kılavuzları Temizle",
+      "B) Görünüm / Kılavuzları Kaldır",
+      "C) Düzenle / Kılavuzları Temizle",
+      "D) Düzenle / Kılavuzları Kaldır",
+      "E) Katman / Cetveli Temizle"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 6 Tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için iGörünüm menüsünden Kılavuzları Temizle seçeneğini tıklayabilirsiniz."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi grafiksel ögeleri konumlandırmak için kullanılan bir araç değildir?",
+    "seçenekler": [
+      "A) Cetveller",
+      "B) Izgaralar",
+      "C) Kılavuz çizgileri",
+      "D) Katmanlar",
+      "E) Akıllı kılavuzlar"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi profesyonel yazıcıların basımdan önce basılacak görüntülerin CMYK’ye dönüştürülmesini zorunlu kılan nedenlerdendir?",
+    "seçenekler": [
+      "A) RGB’den CMYK’ye dönüşüm sürecinde belirli renklerin görünümünün farklı görülebilir olması",
+      "B) Görüntülerin gri tonlamalı baskıya uygun hale getirilmesi",
+      "C) Renk doygunluğunun düzenlenmesi",
+      "D) Renk derinliğinin düzenlenmesi",
+      "E) Renk tonunun düzenlenmesi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Birçok profesyonel yazıcı, basımdan önce basılacak görüntülerin CMYK'ye dönüştürülmesini zorunlu kılar. Bunun nedeni, RGB renk spektrumunun CMYK spektrumundan çok daha geniş olması ve RGB'den CMYK'ye dönüşüm sırasında belirli renklerin görünümünün farklı görülebilir olmasıdır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi birden dörde kadar özelleştirilmiş mürekkep kullanarak tek tonlu, çift tonlu (iki renkli), üç tonlu (üç renkli) ve dört tonlu (dört renkli) gri tonlamalı görüntüler oluşturan renk modudur?",
+    "seçenekler": [
+      "A) CMYK renk modu",
+      "B) RGB renk modu",
+      "C) Bitmap renk modu",
+      "D) Çift ton renk modu",
+      "E) Lab renk modu"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6 Çift ton modu, birden dörde kadar özelleştirilmiş mürekkep kullanarak, tek tonlu, çift tonlu (iki renkli), üç tonlu (üç renkli) ve dört tonlu (dört renkli) gri tonlamalı görüntüler oluşturur."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki Adobe Photoshop CC 2018'de yer alan filtreler ve işlevlerine yönelik eşleştirmelerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Doku filtreleri - Derinlik veya organik görünüm verme",
+      "B) Dokulaştırıcı filtresi - Ekrandaki görüntüye seçilen dokuyu uygulama",
+      "C) Yamalı filtresi - Ekrandaki görüntü üzerinde küçük çatlaklardan oluşan bir ağın oluşmasını sağlama",
+      "D) Mozaik döşemeler filtresi - Ekrandaki görüntünün küçük karolardan yapılmış gibi görünmesini sağlama",
+      "E) Vitray filtresi - Ekrandaki görüntünün tek renkli bitişik hücrelerden oluşacak şekilde tekrar boyanmasını sağlama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 7 Yamalı filtresi, ekrandaki görüntü üzerindeki hakim renklerin küçük karelere ayrılmış gibi görünmesini sağlar."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Renk uyumu için tek renk tonunu kullanan renk şeması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tek renkli (Monochromatic)",
+      "B) Benzer renkler (Analogous)",
+      "C) Tamamlayıcı (Complementary)",
+      "D) Split-complementary",
+      "E) Triadic"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programında yer alan seçim araçlarından biri değildir?",
+    "seçenekler": [
+      "A) Taşıma aracı",
+      "B) Kement aracı",
+      "C) İşaretleme aracı",
+      "D) Dilim aracı",
+      "E) Hızlı seçim aracı"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 4 Seçim araçları grubunda “Taşıma”, “İşaretleme”, “Kement” ve “Hızlı seçim” araçları yer almaktadır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi ücretsiz bir grafik tasarım yazılımıdır?",
+    "seçenekler": [
+      "A) Adobe Photoshop",
+      "B) Adobe InDesign",
+      "C) GIMP (GNU Image Manipulation Program)",
+      "D) Corel Draw",
+      "E) Adobe Illustrator"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisinde Piksel ile Bitmap arasındaki ilişki doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) Pikseller Bitmap resmi oluşturur.",
+      "B) Bitmap Piksel’i oluşturur.",
+      "C) Piksel Bitmap’ten üstündür.",
+      "D) Bitmap ve Piksel, Vektör ile aynıdır.",
+      "E) İkisinin birleşimi vektörü oluşturur."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında renk doygunluğunu ayarlamak / değiştirmek için aşağıdaki hangi araç kullanılmaktadır?",
+    "seçenekler": [
+      "A) Sünger aracı",
+      "B) Renk değiştirme aracı",
+      "C) Karıştırıcı fırça aracı",
+      "D) Degrade aracı",
+      "E) Boya kovası aracı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 4 Sünger aracı, renk doygunluğunun değiştirilmesini sağlar."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Adobe Photoshop programında Katmanlar panelini göstermek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) F1",
+      "B) F3",
+      "C) F5",
+      "D) F7",
+      "E) F9"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 Bu alanda, resminizde var olan katmanları görebileceğiniz ekranı sağ alt kısmında yer alan Katmanlar paneli görülmektedir. Eğer bu panel görünmüyorsa, Pencere/Katmanlar seçeneğini seçerek görünür hale getirebilirsiniz. Aynı işlemi klavyeden F7 tuşuna basarak da yapabilirsiniz."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 filtre galerisinde yer alan filtre türlerinden biri değildir?",
+    "seçenekler": [
+      "A) Doku filtreleri",
+      "B) Deforme etme filtreleri",
+      "C) Ufuk noktası filtreleri",
+      "D) Stilize etme filtreleri",
+      "E) Fırça darbeleri filtreleri"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 7 Filtre Galerisi içerisinde altı farklı başlık altında listelenen çeşitli filtreler yer almaktadır. Bu filtreler sırasıyla Deforme etme filtreleri, Doku filtreleri, Fırça darbeleri filtreleri, Sanatsal filtreler, Stilize etme filtreleri ve Taslak filtreleridir."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Satın alınmak yerine kiralanarak kullanılabilen program aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Adobe Photoshop CC",
+      "B) Adobe Photoshop CS6",
+      "C) GIMP (GNU Image Manipulation Program)",
+      "D) Corel Draw",
+      "E) Adobe Acrobat"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında işlem yapılan görüntü üzerinde yer alan lekeleri ve görüntü bozukluklarını kaldırabilme ve kusurları düzeltebilme amacıyla kullanılan araçlara ne ad verilir?",
+    "seçenekler": [
+      "A) Seçim Araçları",
+      "B) Kırpma ve Dilimleme Araçları",
+      "C) Rötuş Araçları",
+      "D) Boyama Araçları",
+      "E) Çizme ve Yazma Araçları"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 4 Rötüş araçları ekranda yer alan görsel üzerinde değişiklikler ve düzeltmeler yapılmasını sağlamaktadır. Kullanıcılar bu araçlar sayesinde işlem yaptıkları görüntü üzerinde yer alan lekeleri ve görüntü bozukluklarını kaldırabilmekte, kusurları düzeltebilmektedirler. Başka bir örnek kullanarak görüntü boyanabilmekte ve örnek bir doku kullanılarak görüntü üzerindeki kusurlar giderilebilmektedir."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında görüntü üzerinde belirlenen bir alanı itmeyi, çekmeyi, yansıtmayı, büzmeyi ve şişirmeyi sağlayan filtreye ne ad verilir?",
+    "seçenekler": [
+      "A) Uyarlanabilir geniş açı",
+      "B) Stilize etme filtresi",
+      "C) Sumi-e filtresi",
+      "D) Sıvılaştırma filtresi",
+      "E) Mürekkep ana hatları filtresi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 Sıvılaştırma özelliği Photoshop programında, görüntüde belirlenen bir alanı itmeyi, çekmeyi, yansıtmayı, büzmeyi ve şişirmeyi sağlar. Sıvılaştırma filtresini kullanarak görüntü üzerinde sanatsal efektler oluşturabileceğiniz gibi görüntünün rötuşlanmasını da sağlayabilirsiniz. CEVAP ANAHTARI"
+  }
+]

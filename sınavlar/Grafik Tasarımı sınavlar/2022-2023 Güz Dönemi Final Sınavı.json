@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi dışa aktarmanın klavye tuş kombinasyonudur?",
+    "seçenekler": [
+      "A) Alt + Ctrl + W + S",
+      "B) Alt + Shift + Ctrl + W",
+      "C) Shift + Ctrl + S",
+      "D) Shift + Ctrl + W",
+      "E) Alt + Shift + Ctrl + S"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 Farklı dışa aktar özelliği, Alt + Shift + Ctrl + W kısayol tuş kombinasyonu ile de kullanılabilmektedir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": ".............. görüntüdeki diğer tüm renkleri oluşturmak için çeşitli miktarlarda birleştirilen renkler kümesidir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Renk derinliği",
+      "B) Ton",
+      "C) Doygunluk",
+      "D) Renk",
+      "E) Renk modu"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "I. Kırpma veya düzleştirme işlemi yapıldığında tuvalin kenarlarında oluşan boşlukları otomatik olarak doldurmak için içeriğe uygun seçeneği seçilmelidir. II. Kırpma aracını seçmek için klavyeden K tuşuna basılır. III.Perspektif kırpma aracı perspektif nedeniyle oluşan bozulmaları düzeltmek için görüntüyü kırpar. Photoshop programında kırpma işlemi ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yanlız I",
+      "B) Yanlız II",
+      "C) Yanlız III",
+      "D) I ve II",
+      "E) I ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 Kırpma aracını seçmek için klavyeden C tuşuna basılır. Diğer öncüller doğru ifadedir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Photoshop programında eylemler paneline eklenebilecek ögeler arasında yer almayan özellik aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Dosya ekleme",
+      "B) Menü ögesi ekleme",
+      "C) Durma ekleme",
+      "D) Koşullu ifade ekleme",
+      "E) Yol ekleme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Dosya eylemler paneline eklenebilecek öğeler arasında yer almaz."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Photoshop eski sürümlerinde oluşturulmuş metinler içe aktarıldığında vektör türüne dönüştürme için aşağıdaki hangi menü sıralaması seçilir?",
+    "seçenekler": [
+      "A) Pencere > Vektör Türlerini Dönüştür",
+      "B) Aktar > Vektör Türlerini Dönüştür",
+      "C) Metin > Tüm Metin Katmanlarını Güncelle",
+      "D) Ayarlar > Vektör Türlerini Güncelle",
+      "E) Düzenle > Vektör Türlerini Dönüştür"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Photoshop eski sürümlerinde oluşturulmuş metinler içe aktarıldığında vektör türüne dönüştürülmesi gerekebilir. Bu işlem için Metin > Tüm Metin Katmanlarını Güncelle ögesi seçilir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programı ile oluşturulan animasyonlar aşağıdaki hangi yol izlenerek kaydedilmelidir?",
+    "seçenekler": [
+      "A) Dosya->Kaydet",
+      "B) Dosya->Dışa Aktar->Efektler",
+      "C) Dosya->Dışa Aktar->Web için kaydet",
+      "D) Dosya->Otomatikleştir",
+      "E) Görünüm->Ekstralar"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 Animasyonu kaydetmek için Dosya->Dışa Aktar->Web için kaydet seçeneği seçilir veya kısayol olarak Alt+Shift+Ctrl+S tuş kombinasyonuna basılır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Photoshop programında, görüntüdeki gölgelerin, orta tonların ve açık tonların yoğunluk düzeylerini ayarlayarak görüntünün ton aralığını ve renk dengesini düzeltmek için ayarlar paneli üzerindeki .................... özelliği kullanılır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) parlaklık / kontrast",
+      "B) düzeyler",
+      "C) eğriler",
+      "D) pozlama",
+      "E) canlılık"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 Görüntüdeki gölgelerin, orta tonların ve vurguların yoğunluk düzeylerini ayarlayarak görüntünün ton aralığını ve renk dengesini düzeltmek için Düzeyler ayarlamasını kullanılır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Photoshop programında yeni bir eylemin oluşturulma aşamasını sonlandırmak için aşağıdaki düğmelerden hangisi kullanılmaktadır?",
+    "seçenekler": [
+      "A) Yeni eylem oluştur",
+      "B) Yeni küme oluştur",
+      "C) Seçimi oynat",
+      "D) Kaydı başlat",
+      "E) Oynatmayı / Kaydı durdur"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 Oynatmayı / Kaydı durdur: Oluşturulan eylem için kaydı sonlandırır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Bir yazı katmanına “Metni Rasterleştir” işlemi yapılırsa, aşağıdakilerden hangisi doğru olur?",
+    "seçenekler": [
+      "A) Yazıya yeni kelime veya harf eklenemez.",
+      "B) Yazı çizim alanında taşınamaz.",
+      "C) Yazı, kayıt aşamasında resme dâhil edilmez.",
+      "D) Yazı katmanlar panelinden silinir.",
+      "E) Yazı ayarlama katmanı hâline dönüşür."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Pozitif görüntüyü negatif veya negatif görüntüyü pozitif yapmak için kullanılan ayarlar paneli ögesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Ters çevir",
+      "B) Posterleştir",
+      "C) Siyah beyaz",
+      "D) Kanal karıştırıcı",
+      "E) Canlılık"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 Ters Çevir komutu görüntüdeki renkleri ters çevirir. Bu komutu, pozitif görüntüyü negatif yapma veya negatif görüntüyü pozitif yapmak için kullanılır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Photoshop’ta çizilen bir dikdörtgenin yükseklik ve genişliği ile ilgili ayarların düzenleneceği ekran aşağıdaki menülerden hangisinde bulunmaktadır?",
+    "seçenekler": [
+      "A) Pencere > Ayarlar",
+      "B) Pencere > Özellikler",
+      "C) Düzenle > Ayarlar",
+      "D) Düzenle > Özellikler",
+      "E) Kanallar > Katmanlar"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Kartvizitin üst kısmında bulunan şekil için arka plandan bir ton daha açık bir siyah renk barındıran genişlik 650 piksel (px) ve uzunluk 664 px olan bir dikdörtgen çizilir. Bu çizilen dikdörtgenin ayarları Pencere > Özellikler menüsüne tıklandığında açılan panelden düzenlenebilir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Photoshop programında bir metnin etrafını seçmek için aşağıdaki klavye tuşlarından hangisi ile birlikte metin katmanına tıklanmalıdır?",
+    "seçenekler": [
+      "A) Shift",
+      "B) Alt",
+      "C) Alt Gr",
+      "D) Ctrl",
+      "E) Tab"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 14 Ctrl tuşuna basılyken metin katmanına tıklandığında metnin etrafı seçilir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisinde birincil renk sınıflandırmasında yer alan renkler verilmiştir?",
+    "seçenekler": [
+      "A) Kırmızı, sarı ve mavi",
+      "B) Turuncu, yeşil ve mor",
+      "C) Kırmızı, turuncu ve sarı",
+      "D) Yeşil, mavi ve mor",
+      "E) Siyah, gri ve beyaz"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 Kırmızı, sarı ve mavi birincil renklerdir. Diğer renklerin karıştırılmasıyla oluşmayan renklerdir. Bu renk tonları karıştırılarak ikincil renk tonları oluşturulmaktadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında görüntülere hareket vermek için aşağıdaki panellerden hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) Zaman çizelgesi",
+      "B) Hareket",
+      "C) Aksiyon",
+      "D) Efektler",
+      "E) Filtre"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Zaman Çizelgesi aracılığıyla görüntüye hareket vermek için Kare Animasyon Oluştur seçeneği seçilir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Dijital ortamda kullanılacak resimler için aşağıdaki hangi renk modu seçilmelidir?",
+    "seçenekler": [
+      "A) CMYK renk",
+      "B) Lab renk",
+      "C) RGB renk",
+      "D) İndekslenmiş renk",
+      "E) Çok kanallı renk"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Dijital ortamda kullanılacak resimlerde RGB, baskı alınacak durumlarda CMYK renk modu kullanılmalıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Adobe ürünlerini kurmak için gereken üyelik sisteminin adı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Adobe Creative Cloud",
+      "B) Adobe ID",
+      "C) Adobe Account",
+      "D) Adobe CS6",
+      "E) Adobe User Profile"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında kullanıcıların görseller hazırlamasını ve hazırladıkları görseller üzerinde düzenlemeler yapmasını sağlayan araçların yer aldığı panel aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Katmanlar paneli",
+      "B) Araçlar paneli",
+      "C) Seçenekler paneli",
+      "D) Geçmiş paneli",
+      "E) Renk paneli"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Photoshop’ta Filtre Galerisi'ne ulaşmak için izlenmesi gereken yol aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Filtre",
+      "B) Filtre > Filtre Galerisi",
+      "C) Filtre > Sıvılaştır",
+      "D) Filtre > Mercek düzeltme",
+      "E) Filtre Galerisi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 7"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi birden dörde kadar özelleştirilmiş mürekkep kullanarak tek tonlu, çift tonlu (iki renkli), üç tonlu (üç renkli) ve dört tonlu (dört renkli) gri tonlamalı görüntüler oluşturan renk modudur?",
+    "seçenekler": [
+      "A) RGB renk modu",
+      "B) CMYK renk modu",
+      "C) Lab renk modu",
+      "D) Çift ton renk modu",
+      "E) Bitmap renk modu"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6 Çift ton modu, birden dörde kadar özelleştirilmiş mürekkep kullanarak, tek tonlu, çift tonlu (iki renkli), üç tonlu (üç renkli) ve dört tonlu (dört renkli) gri tonlamalı görüntüler oluşturur."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Photoshop programında metinlerin; yazı stili, yazı boyutu ve satır aralığı gibi ayarlarının yapılabildiği panel aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Karakter stilleri paneli",
+      "B)  Paragraf paneli",
+      "C) Karakter paneli",
+      "D) Paragraf stilleri paneli",
+      "E) Ayarlar paneli"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Metinlerin; yazı stili, punto, karakterler arası uzaklık, satır aralığı veya genişlik gibi karakterlerine yönelik yapılan ayarların bulunduğu panele karakter paneli denilmektedir. CEVAP ANAHTARI"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "CSS ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) HTML büyük ölçüde metin içeriğini belirlerken CSS görsel yapıyı, düzeni ve estetiği belirler.",
+      "B) CSS, bir internet sitesinin tasarımsal açıdan daha etkileyici görünmesini kolaylaştıran bir işaretleme dilidir.",
+      "C) CSS, İngilizce Cascade Style Sheet kelimelerinin kısaltılmasıdır.",
+      "D) Web sayfaları için etkileşimli görsel ögeler CSS ile tasarlanabilir.",
+      "E) CSS ilk kez 2010'lu yıllarda önerilmiş ve kullanılmaya başlanmıştır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 7 CSS, sanılanın aksine eskilere dayanan bir işaretleme dilidir. İlk kez 1994 yılında, Cern şehrinde Tim Barners-Lee ile birlikte çalışmakta olan Hakon Wium Lie tarafından önerilmiştir. Daha sonrasında W3C adını alan, çeşitli forum sitesi ve posta listelerinde yapılan birkaç farklı tarz sayfası dili taslağını da göz önünde bulundurarak, 1996 senesinde ilk CSS önerisi sunulmuştur."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": ".............................. , satır (row) ve sütunlardan (col) oluşan bir ızgara (Grid) yapısı içerisinde elementlerin alt alta dizilerek konumlandırılmasıyla ortaya çıkan form şeklidir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Horizontal Form",
+      "B) Inline Form",
+      "C) Vertical Form",
+      "D) Legend Form",
+      "E) Fieldset"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Çapraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi davranış uyumluluğunu ifade eder?",
+    "seçenekler": [
+      "A) Web sitesinin istenilen şekilde görünüp görünmediğini kontrol eder.",
+      "B) CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder.",
+      "C) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı çözünürlükteki görünümünü kontrol eder. Ayrıca mobil cihazın yatay veya dikey çevrilmesi sonucundaki oluşacak görüntüyü de kontrol eder.",
+      "D) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.",
+      "E) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder. Örneğin sitede bir butona tıklandığında yeni pencerede bir sayfa açılıyorsa bu işlemin bütün tarayıcılarda gerçekleşip gerçekleşmediğini kontrol eder."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder. Örneğin, sitede bir butona tıklandığında yeni pencerede bir sayfa açılıyorsa bu işlemin bütün tarayıcılarda gerçekleşip gerçekleşmediğini kontrol eder ifadesi doğru cevaptır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Google bünyesinde çalışan Misko Hevery tarafından 2008 yılında kişisel amaçlı geliştirilmiş olan bir Javascript kütüphanesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Angular",
+      "B) React",
+      "C) JQuery",
+      "D) Vue",
+      "E) .Net"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Angular: Google bünyesinde çalışan Misko Hevery tarafından 2008 yılında kişisel amaçlı geliştirilmiş olan bir JAVASCRİPT kütüphanesidir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir web tarayıcı değildir?",
+    "seçenekler": [
+      "A) Microsoft Access",
+      "B) Chrome",
+      "C) Mozilla Firefox",
+      "D) Yandex",
+      "E) Safari"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Microsoft Access bir veritabanı yönetim sistemidir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Meta description etiketine yazılması önerilen en fazla karakter sayısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 100",
+      "B) 130",
+      "C) 160",
+      "D) 190",
+      "E) 220"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir form elementini kullanıcı etkileşimine kapatmak için kullanılan özelliktir?",
+    "seçenekler": [
+      "A) Readonly",
+      "B) Disabled",
+      "C) Closed",
+      "D) Form-readonly",
+      "E) Form-disabled"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdaki HTML etiketi ve kullanım amacı eşleştirmelerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) < a > - Sayfada içinde bir tablo oluşturmak için kullanılır.",
+      "B) < ul > - Sırasız bir liste oluşturmak için kullanılır.",
+      "C) < ol > - Sıralı bir liste oluşturmak için kullanılır.",
+      "D) < li > - Listenin elemanlarını ayrı ayrı oluşturmak için kullanılır.",
+      "E) < br > - Alt satıra geçilmesini sağlar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 - Sayfa içinde herhangi bir bağlantıya link vermek için kullanılır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi \"\"çapraz tarayıcı uyumluluğu sorununun yaygın nedenleri\"\" arasında yer almaz?",
+    "seçenekler": [
+      "A) DOCTYPE kullanımı",
+      "B) Tarayıcıya özel CSS kullanımı",
+      "C) CSS sıfırlama",
+      "D) Yeni tarayıcı algılama",
+      "E) Eski tarayıcı algılama"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 Yeni tarayıcı algılama bu sebeplerden birisi değildir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "HTML elementler üzerinde Bootstrap özellikleri ......... tanımı ile kullanılır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) data",
+      "B) style",
+      "C) class",
+      "D) head",
+      "E) link"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi geçiş  (transition) özellikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) transition-delay",
+      "B) transition-property",
+      "C) directional",
+      "D) ease-in",
+      "E) ease-in-out"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Böyle bir özellik yoktur."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Mock-Up hazırlama ortamlarından biri değildir?",
+    "seçenekler": [
+      "A) Mockminus",
+      "B) Moqups",
+      "C) Mockup Builder",
+      "D) Origami Studio",
+      "E) MockPlus"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 14 Böyle bir tip yoktur."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Farklı boyutlardaki cihazlarda özel tasarımlar yapabilmeyi sağlayan esnek yapılı tasarım aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Uyarlanabilir Tasarım",
+      "B) Duyarlı Tasarım",
+      "C) Uyarlı ve Duyarlı Tasarım",
+      "D) Masaüstü Görünümlü Tasarım",
+      "E) UX UI Tasarım"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biridir?",
+    "seçenekler": [
+      "A) Tasarım süresini kısaltmak",
+      "B) Metinsel ifadelerin stillerini belirlemek",
+      "C) Web sitesinin özelliklerini belirlemek",
+      "D) Hataların tespit edilmesini kolaylaştırmak",
+      "E) Tasarım maliyetini azaltmak"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Web sayfası içerisinde yatay olarak oluşturulmuş gezinme çubuğu yapısına ....................... adı verilir. Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Horizontal Navbar",
+      "B) Vertical Navbar",
+      "C) Navbar",
+      "D) Sticky NavBar",
+      "E) Fixed Navbar"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi web tasarımında API kullanımının avantajlarından biri değildir?",
+    "seçenekler": [
+      "A) Görünüşte zor ve karmaşık görünen projelerin, içeriğinin iyi bir dilde tasarlanmasını ve uygulanmasını sağlar.",
+      "B) Projede daha fazla fonksiyon için fırsatlar sağlar.",
+      "C) API kullanımı ile kullanıcı ve müşteri dostu kolaylıklar sağlanabilir.",
+      "D) Entegrasyon yoluyla oluşturulan projelerin başarılı olma olasılığı daha yüksektir.",
+      "E) HTML5 ile oluşturulmuş web sayfalarının yüklenmeleri hızlanır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 5 API Kullanımının Avantajları • API, yazılımcının işini her zaman kolaylaştırır. Görünüşte zor ve karmaşık görünen projelerin, içeriğinin iyi bir dilde tasarlanmasını ve uygulanmasını sağlar. • Projede daha fazla fonksiyon için fırsatlar sağlar. Çalışmaya başlamadan önce hazırlanan API, böl ve yönet mantığı ile çalıştığından dolayı proje için çok önemlidir. • API kullanımı ile kullanıcı ve müşteri dostu kolaylıklar sağlanabilir. • Entegrasyon yoluyla oluşturulan projelerin başarılı olma olasılığı daha yüksektir. Bu duruma bir örnek vermek gerekirse, web sitesinin Facebook API uygulaması sayesinde kişileri tespit eden ve makalenizi okuyan kişiye makalenizi tavsiye eden birçok farklı kavram oluşturulabilmektedir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi duyarlı web sitesi avantajlarından biridir?",
+    "seçenekler": [
+      "A) Duyarlı web siteleri ile CSS ve HTML kullanmadan web sitesi tasarlanabilmektedir.",
+      "B) Farklı ekran ölçülerine uygun özgün tasarımlar yapılabilir.",
+      "C) Tek HTML kodu ile tüm ekranlara tasarım yapıldığı için oluşturulması ve devamlılığı sağlamak için diğer yapılara göre daha az emek ile yapılabilmektedir.",
+      "D) Duyarlı web tasarımı çevre bilinci ile ilgili konuları kapsamaktadır.",
+      "E) Duyarlı web tasarımları işitme engelli kişiler için tasarlanmaktadır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "1400 px ölçüsünden büyük kesme noktası tipi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Small (Küçük)",
+      "B) Medium (Orta)",
+      "C) Large (Büyük)",
+      "D) Extra large (Ekstra büyük)",
+      "E) Extra extra large (Ekstra ekstra büyük)"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Cevap extra extra large'dır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML5'te yer alan grafik ve medya etiketleri arasında yer almaz?",
+    "seçenekler": [
+      "A) < canvas >",
+      "B) < header >",
+      "C) < audio >",
+      "D) < svg >",
+      "E) < source >"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 4 Sayfanın veya bir bölümün üst kısmını belirlerken kullanılır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aaşağıdakilerden hangisi Flexbox Modeli'ne ait olan bir avantajdır?",
+    "seçenekler": [
+      "A) Bazı tarayıcılar tarafından desteklenir.",
+      "B) Ögelerde boyutlandırma yoktur.",
+      "C) Ögeler hizalanamaz.",
+      "D) Hemen hemen tüm tarayıcılar tarafından desteklenir.",
+      "E) Duyarlı ve uyarlanabilir web tasarımı sürecini zorlaştırır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 Yapı hemen hemen tüm tarayıcılar tarafından desteklenir."
+  }
+]

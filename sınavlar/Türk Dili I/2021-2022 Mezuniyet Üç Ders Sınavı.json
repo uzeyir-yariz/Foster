@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdaki sözcüklerden hangisi düzlük-yuvarlaklık uyumuna uymamaktadır?",
+    "seçenekler": [
+      "A) Pencere",
+      "B) Uyanık",
+      "C) Kürek",
+      "D) Çamur",
+      "E) Tekin"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Ne olursa olsun bu işi bitireceğim. Bu cümleye altı çizili sözün kaƴğı anlam aşağıdakilerin hangisinde vardır?",
+    "seçenekler": [
+      "A) Bütün hakikatler gün yüzüne çıktı.",
+      "B) Düğüne mutlaka geleceğim.",
+      "C) Hiç vakit kaybetmeden yola koyulduk.",
+      "D) Bunların hiçbirini ben söylemedim.",
+      "E) Eşyaların tamamı selden zarar gördü."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Doğru cevap açıklaması 10. sayfa 5. paragraftadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi \"\"olumlu, isim, kurallı, basit\"\" cümle şeklindedir?",
+    "seçenekler": [
+      "A) İnsan, çok yönlü bir varlıktır.",
+      "B) Onlar, onlardan korkarlar ve kaçarlar.",
+      "C) Gökyüzünde sayısız yıldız bulunur, yıldızlar birer ışık huzmesi gibi görünür.",
+      "D) Sen onunla konuşmadıkça seni affetmeyeceğim.",
+      "E) Vardır ellerimde sayısız çiçeğin kokusu."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "(Cümlenin Ögeleri, Yüklemin Türüne ve Anlamına Göre Cümleler) [2, 3, 4] • Örnek cümle: Akıl akıldan üstündür. Cümlenin ögeleri: Akıl (özne)+akıldan (dolaylı tümleç) +üstündür(yüklem)"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde vurgu, zaman kavramı üzerindedir?",
+    "seçenekler": [
+      "A) Dün beni Melis okulda beklemiş.",
+      "B) Melis, dün okulda seni beklemiş.",
+      "C) Dün okulda seni Melis beklemiş.",
+      "D) Okulda Melis, seni dün beklemiş.",
+      "E) Okulda seni Melis beklemiş."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi biçimce olumlu, anlamca olumsuz bir cümledir?",
+    "seçenekler": [
+      "A) Yazılmış ilk tiyatro eseri, Şinâsi’nin yazdığı “Şâir Evlenmesi” adlı eserdir.",
+      "B) Fransız İhtilâli'nin çok uluslu devletler üzerinde olumsuz etkileri olmuştur.",
+      "C) Türkçede cümle düzeni genel olarak “özne, nesne, yüklem” şeklindedir.",
+      "D) Yeryüzünde yaşayan hiçbir dil, Türkçe kadar geniş alanlara yayılmamıştır.",
+      "E) Kendi kültürünün değersiz olduğunu düşünenlerde millî bilinç nasıl gelişebilir?"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Kendi kültürünün değersiz olduğunu düşünenlerde millî bilinç nasıl gelişebilir? cümlesi biçimce olumlu anlamca olumsuzdur."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi iki ögeli bir cümledir?",
+    "seçenekler": [
+      "A) Hayatındaki problemleri çözmeden önce onları anlaman gerekir.",
+      "B) Onun aniden gidişi bu saf, temiz ailede büyük bir etki bıraktı.",
+      "C) Vatan toprağının her köşesinde toplum ruhunun yansımaları vardır.",
+      "D) Türk milleti, geçmişten bugüne sahip olduğu her kutsala sadık kalmıştır.",
+      "E) Gurbet mektupları, en saf duyguların, sevgilerin hazinesidir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Gurbet mektupları özne, geri kalan kısım ise yüklemdir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde \"\"-den\"\" eki diğerlerinden farklı bir görevde kullanılmıştır?",
+    "seçenekler": [
+      "A) Öyle ağlarım ki kendime, sen benden gitin gideli.",
+      "B) Gelecek ay bu evden de taşınmış olacağız.",
+      "C) Sarkıtlardan süzülen damlaları izledikçe geçmişe dönüyorum.",
+      "D) Evden çıkarken anahtarını almayı unutma.",
+      "E) Uçak yarın Ankara'dan havalanacak."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "\"\"Ev-den\"\", \"\"Sarkıtlar-dan\"\", \"\"Ev-den\"\" ve \"\"Ankara'dan\"\" sözcüklerinde ayrılma hâli eki kullanılırken \"\"ben- den\"\" sözcüğünde böyle bir durumum söz konusu değildir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türkçenin ses kurallarına göre şekillenmeyen yabancı kelimeler arasında yer alır?",
+    "seçenekler": [
+      "A) Mandıra",
+      "B) Kilise",
+      "C) Panayır",
+      "D) Enflasyon",
+      "E) Körfez"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "enflasyon"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "I. Türkçede sayı sıfatlarından sonra gelen adlar çoğul eki almazlar. II. Türkçede önlük-artlık (kalınlık-incelik) ve düzlük-yuvarlaklık uyumları vardır. III. Türkçe, diğer Türk dilleriyle birlikte Altay dil ailesinin bir kolunu oluşturur. Yukarıdakilerden hangisi ya da hangileri Türkçenin genel özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "I. Eylem II. İsim III. Zarf IV. Zamir “Kalpler kırılınca eller bir mana ifade etmez.” cümlesi yukarıdaki cümle çeşitlerinden hangisi ya da hangilerinin kapsamına girer?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) I ve IV",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi “bir istek bildiren” ilişki söz/kalıp sözdür?",
+    "seçenekler": [
+      "A) Senden iyi olmasın.",
+      "B) Alacağın olsun.",
+      "C) Tarih tekerrürden ibaretir.",
+      "D) İyi saatie olsunlar.",
+      "E) Sadede gelelim."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "I. Toplumların tarihsel belleğidir. II. Sosyal ve kültürel değerlerin taşıyıcısıdır. III. Birlik ve beraberliğin en temel simgesidir. Dil ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız III",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Sayfa 3 paragraf 5 de yer almaktadır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde vurgu altı çizili sözcüğün üzerindedir?",
+    "seçenekler": [
+      "A) Sıkıntılı günler çok uzaklarda kaldı.",
+      "B) Evin kapısını sürekli hızlı kapatıyordu.",
+      "C) Anlayıp dinlemeden her şeye karışma.",
+      "D) Babam evimizin direğidir.",
+      "E) Beklemek, beklenen kadar değerleniyor bazen."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki ikilemelerden hangisi oluşum yönüyle diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) İşlerini yarım yamalak yaptığı için, patronu onu herkesin içinde azarladı.",
+      "B) Akrabalar bayramda cümbür cemaat bize gelince bu bayram evde oturmak zorunda kaldık.",
+      "C) Yırtık pırtık kıyafetlerine ve çevresinin meraklı bakışlarına aldırmadan herkese güzel bir ders verdi.",
+      "D) Atandığım köye giderken eğri büğrü yolların yanındaki cılız ağaçlar karşıladı beni.",
+      "E) Onun nasıl bir yalancı olduğunu dünya âlem biliyordu."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "\"\"dünya âlem\"\" ikilemesi \"\"eş ya da yakın anlamlı sözcüklerden oluşan ikilemedir. Diğer seçenekler ise, biri anlamlı diğeri anlamsız sözcüklerden oluşan ikilemelerden oluşmaktadır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Karışıklığa karşı mücadele vermek yabani otlara karşı mücadele vermeye benzer. Yukarıdaki cümlenin ögelerinin sıralanışı hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) Özne – Nesne – Yer tamlayıcısı – Yüklem",
+      "B) Özne – Yer tamlayıcısı – Nesne – Yüklem",
+      "C) Özne – Yer tamlayıcısı – Yüklem",
+      "D) Özne – Nesne – Yüklem",
+      "E) Nesne- Zarf tümleci- Yüklem"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Doğru Cevap C şıkkı olarak güncellendi."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi yapısı yönüyle basit bir cümledir?",
+    "seçenekler": [
+      "A) Vedalaşmak için terminale gitiğimde otobüs çoktan hareket etmişti.",
+      "B) Memlekete giderken yolda öğrencilerimle karşılaştım.",
+      "C) Çok beğendiğim bu köyde bir sene yaşamaya karar verdim.",
+      "D) Bazı anıların, bizim için çok özel bir yeri vardır.",
+      "E) İnsanın bilgisi ve görgüsü kitap okudukça artar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Tek yüklemi bulunan, tek yargı bildiren cümleler yapı bakımından basit cümledir. Basit cümleyi belirleyen; tek yüklemin, tek yargının bulunmasıdır. Yüklem dışındaki diğer ögelerin sayısı önemli değildir. Basit cümleler hem isim hem de fiil cümlesi olabilir. Türkçede cümleler genellikle basit yapılıdır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Türkçeyi doğduğu yörenin ağzı ile edinen bir bireyin eğitim sürecinde ölçünlü (standart) Türkiye Türkçesini öğrendikten sonra kendi yöresine döndüğünde yöresel dil kullanması o yörede yaşayan insanlara dayanışma duygusu verebilir. Ölçünlü dil kullanması ise toplumsal mesafenin açılmış olduğu düşüncesini yansıtabilir. Bu durumda eğitimli birey için doğru davranış aşağıdakilerin hangisinde belirtilmiştir?",
+    "seçenekler": [
+      "A) Bağlama göre hareket etmelidir.",
+      "B) Ölçünlü dil kullanmalıdır çünkü artık yöresindeki insanlardan farklıdır.",
+      "C) Yöresel ağız tercih edilmelidir çünkü o yöreden geldiğini unutmamalıdır.",
+      "D) Ölçünlü dil kullanmalıdır çünkü yöresine örnek olma sorumluluğu vardır.",
+      "E) Yöresel dil tercih edilmelidir çünkü yöresel dilin geliştirilmesi gerekir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Kişilerin kullandığı dil bağlama göre değişebilir."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi yazı dilinin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A)  Bir ülkede bir yazı dili vardır.",
+      "B)  Konuşma diline göre yapay bir özelliği vardır.",
+      "C)  Kuralları konuşma diline göre daha sıkıdır.",
+      "D)  Etki alanı konuşmaya göre daha geniştir.",
+      "E)  Bir yöreye, bölgeye has özellikler barındırabilir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "“Sudan sebeplerle beni terk edemezsin.” cümlesi yüklemin türüne göre aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İsim",
+      "B) Sıfat",
+      "C) Eylem",
+      "D) Zarf",
+      "E) Zamir"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Daha önceki ünitelerde öğrendiğimiz gibi Türkçede kelimeler, isimler ve fiiller olarak ikiye ayrılmıştı. Cümlede yüklem görevinde kullanılan kelimenin türüne göre cümleler de “fiil cümlesi” ve “isim cümlesi” olarak iki gruba ayrılmaktadır. [1]"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi ‘’mi’’li soru cümlesine örnektir?",
+    "seçenekler": [
+      "A) Koşabilir mi koşamaz mı bilemiyorum",
+      "B) Doğum günün 3 Nisan mıydı",
+      "C) Şu maçı da aldık mı şampiyonuz",
+      "D) Ellerimden tutiun muydu hiçbir engel aşılmaz değil evladım",
+      "E) Şu sınav biti miydi rahatız"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  }
+]

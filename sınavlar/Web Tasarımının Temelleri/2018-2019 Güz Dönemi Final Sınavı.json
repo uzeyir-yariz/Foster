@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Tablonun çerçeve kalınlığı aşağıdakilerden hangisi ile belirlenir?",
+    "seçenekler": [
+      "A) <Table line=”1px”>",
+      "B) <Table format=”1px”>",
+      "C) <Table frame=”1px”>",
+      "D) <Table border=”1px”>",
+      "E) <Table kalınlık=”1px”>"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "HTML'deki li elementlerinin yan yana listelenmesi için CSS koduna aşağıdakilerden hangisi yazılmalıdır?",
+    "seçenekler": [
+      "A) overflow:left",
+      "B) float:left",
+      "C) left-align:true",
+      "D) padding-left:20px",
+      "E) hover:left"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "li elementleri yanyana listelenmesi için CSS koduna float:left yazılmalıdır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "CSS ile arka plan resmini sol alt köşeye taşımak için \"\"background-position\"\" değerine aşağıdakilerden hangisi yazılmalıdır?",
+    "seçenekler": [
+      "A) botiom center",
+      "B) top center",
+      "C) center right",
+      "D) botiom left",
+      "E) left center"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "resmi alta taşımak için botiom, sola taşımak için de left kullanılmalıdır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "<audio id=\"\"ses\"\" src=\"\"muzik.mp3\"\"></audio> <bution onClick=\"\"baslat();\"\">Başlat</bution> Yukarıdaki kodlara göre butona tıklayınca audio nesnesinde tanımlı \"\"muzik.mp3\"\" dosyasını çalıştırmak için \"\"baslat();\"\" fonksiyonunun içine aşağıdakilerden hangisi yazılmalıdır?",
+    "seçenekler": [
+      "A) document.getElementById(\"\"ses\"\").play();",
+      "B) document.getElementsByTagName(\"\"ses\"\").play();",
+      "C) document.ses.play();",
+      "D) ses.ready();",
+      "E) document.play().ses"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "audio'yu çalıştırmak için document.getElementById(\"\"ses\"\").play(); kodu çalıştırılmalı"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Haricî bir CSS dosyasını HTML sayfasına dâhil etmek için kullanılan etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) body",
+      "B) file",
+      "C) title",
+      "D) inline",
+      "E) link"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "harici bir css dosyasını sayfada yüklemek için link etiketi kullanılır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Bir etiketin parametresi var ise ve bu parametreye bir değer atanacaksa atanacak parametre aşağıdaki hangi sembol arasında yazılır?",
+    "seçenekler": [
+      "A) “ “",
+      "B) < >",
+      "C) _ _",
+      "D) ( )",
+      "E) [ ]"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Metni kalın gösterirken aynı zamanda arama motorlarında önemli olduğu aşağıdaki hangi etiketle bildirilir?",
+    "seçenekler": [
+      "A) <strong>",
+      "B) <pre>",
+      "C) <i>",
+      "D) <hx>",
+      "E) <u>"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML’de yazı tipi boyutunu ve rengini düzenleyen etiketir?",
+    "seçenekler": [
+      "A) <end>",
+      "B) <begin>",
+      "C) <title>",
+      "D) <font>",
+      "E) <head>"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "2"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "HTML'de sayfaya eklenen resmin herhangi bir nedenle görüntülenememesi durumunda ziyaretçiye gösterilecek yazı için kullanılan parametre aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) width",
+      "B) height",
+      "C) align",
+      "D) top",
+      "E) alt"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Görselin sahip olabileceği “alt” parametresi ise, “alternative” kelimesinden türetilmiştir. Bu parametre, herhangi bir nedenle, resim dosyasının görüntülenememesi durumunda ziyaretçiye aktarılır. Ziyaretçinin görme engelli olması veya bir arama motorunun (örneğin; Google, Yandex) sayfayı ziyaret etmesi durumunda, “alt” özniteliğinin değeri aktarılacaktır. Bu aktarım ile, ziyaretçinin görsel hakkında önbilgi sahibi olmasını sağlanır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "I- text -> Tek satırlık bilgi girişleri için kullanılır. II- file -> Bilgisayardan dosya seçtirmek için kullanılır. III- radio -> Kare şeklinde onay kutucuğu olarak görüntülenir. IV- checkbox ->  Daire şeklinde onay kutucuğu olarak görüntülenir. Yukarıdakilerden hangisinde ya da hangilerinde input elementinin type parametresi tarafından alınan değerlerin açıklaması yanlıştır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve II",
+      "D) III ve IV",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "I- get II- post III- action IV- call V- islem.php Yukarıdakilerden hangisi ya da hangileri form elementinin method parametresi tarafından alınabilecek değerler arasındadır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) IV ve V",
+      "E) Yalnız V"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "form elementinin method parametresi get veya post değeri alır"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Geliştirilen arayüzde Internet Explorer 9 sürümünün standartları kullanılmak isteniyorsa meta etiketinin content parametresine aşağıdakilerden hangisi yazılmalıdır?",
+    "seçenekler": [
+      "A) IE=9",
+      "B) internet explorer 9",
+      "C) 9",
+      "D) X-UA-Compatible",
+      "E) htip-equiv-9"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Internet Explorer 9 sürümünün standartları kullanılmak isteniyorsa meta etiketinin content parametresine IE=9 yazılmalıdır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "I- decimal II- circle III- none IV- rock Yukarıdakilerden hangisi ya da hangileri CSS kodu olan \"\"list- style-type\"\" ın alabileceği değerlerdendir?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) III ve IV",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "\"\"list-style-type\"\" koduna rock adında atanabilecek bir değer yoktur"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "HTML'de frame elementinde çerçevede görüntülenecek içeriğin bağlantı adresini belirlemek için kullanılan parametre aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) longdesc",
+      "B) name",
+      "C) src",
+      "D) noresize",
+      "E) scrolling"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "framede görünlenecek bağlantı için src parametresi kullanılır"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "ID değeri “cerceve” olarak belirlenmiş bir iframe elementinin yükseklik değerini almak için kullanılan javascript kodu aşağıdakilerden hangidir?",
+    "seçenekler": [
+      "A) document.getElementsByTagName(\"\"cerceve\"\") [0].style.display",
+      "B) document.getElementById(“cerceve”).height",
+      "C) document.getElementsByTagName(\"\"cerceve\"\").height",
+      "D) cerceve.height",
+      "E) id=\"\"cerceve\"\".height"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "id değeri cerceve olan iframe yüksekliğini alabilmek için document.getElementById(“cerceve”).height kullanılır"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi ile bağlantı (köprü) oluşturulur?",
+    "seçenekler": [
+      "A) <target=\"\"....\"\">...</target>",
+      "B) <a link=\"\"....\"\">...</a>",
+      "C) <a href=\"\"....\"\">...</a>",
+      "D) <font face=\"\"....\"\">...</font>",
+      "E) <small>...</small>"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "3"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir site türü değildir?",
+    "seçenekler": [
+      "A) Yedekleme",
+      "B) Blog",
+      "C) Devlet",
+      "D) Ticaret",
+      "E) Evlenme"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi site istatistiklerini raporlamaktadır?",
+    "seçenekler": [
+      "A) Google",
+      "B) Bing",
+      "C) TÜİK",
+      "D) SPSS",
+      "E) Alexa"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "HTML'de div elementinin üzerine fare imleci ile gelindiğinde elementin yazı rengini değiştirmek için yazılması gereken CSS kodu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) div:cursor{color:blue}",
+      "B) div:hover{color:blue}",
+      "C) div > hover{color:blue}",
+      "D) div < cursor{color:blue}",
+      "E) div:float{color:blue}"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "CSS'de elementin üzerine gelince hover olayı çalıştığı için cevap div:hover{color:blue}."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": ".aralik{       margin-top:1px;       margin-right:2px;       margin-botiom:3px;       margin-left:4px; } Yukarıda verilen CSS kod yapısının doğru olarak kısaltılmış hâli aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) .aralik{margin:1px 3px 4px 3px;}",
+      "B) .aralik{margin:1px 4px 2px 3px;}",
+      "C) .aralik{margin:1px 2px 3px 4px;}",
+      "D) .aralik{margin:3px 4px 1px 2px;}",
+      "E) .aralik{margin:2px 3px 4px 1px;}"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "CSS'de margin kodu top'dan başlayarak saat yönüne göre sıralandığı için cevap .aralik{margin:1px 2px 3px 4px;} dır."
+  }
+]

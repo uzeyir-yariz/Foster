@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Bir yorumlama motoru olan V8 aşağıdaki hangi tarayıcı tarafından kullanılmaktadır?",
+    "seçenekler": [
+      "A) Microsoft Internet Explorer",
+      "B) Mozilla FireFox",
+      "C) Apple Safari",
+      "D) Opera",
+      "E) Google Chrome"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Tablo 14.1. Tarayıcı çeşitleri ve kullandığı motorlar (ref: wikipedia) tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "En basit hâliyle bir tablo aşağıdaki hangi elementlerden meydana gelir?",
+    "seçenekler": [
+      "A) table – tbody – ƞoot",
+      "B) table – tbody",
+      "C) table – ƞoot",
+      "D) table – tr – td",
+      "E) table – td – th"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "HTML'de sayfaya eklenen resmin herhangi bir nedenle görüntülenememesi durumunda ziyaretçiye gösterilecek yazı için kullanılan parametre aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) width",
+      "B) height",
+      "C) align",
+      "D) top",
+      "E) alt"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Görselin sahip olabileceği “alt” parametresi ise, “alternative” kelimesinden türetilmiştir. Bu parametre, herhangi bir nedenle, resim dosyasının görüntülenememesi durumunda ziyaretçiye aktarılır. Ziyaretçinin görme engelli olması veya bir arama motorunun (örneğin; Google, Yandex) sayfayı ziyaret etmesi durumunda, “alt” özniteliğinin değeri aktarılacaktır. Bu aktarım ile, ziyaretçinin görsel hakkında önbilgi sahibi olmasını sağlanır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Tabloda sütun oluşturmak için aşağıdaki etiketlerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) TR",
+      "B) TD",
+      "C) TH",
+      "D) THEAD",
+      "E) TBODY"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 7 TD Etiketi Tabloda sütun oluşturmayı sağlar."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": ".aralik{       margin-top:1px;       margin-right:2px;       margin-botiom:3px;       margin-left:4px; } Yukarıda verilen CSS kod yapısının doğru olarak kısaltılmış hâli aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) .aralik{margin:1px 3px 4px 3px;}",
+      "B) .aralik{margin:1px 4px 2px 3px;}",
+      "C) .aralik{margin:1px 2px 3px 4px;}",
+      "D) .aralik{margin:3px 4px 1px 2px;}",
+      "E) .aralik{margin:2px 3px 4px 1px;}"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 CSS'de margin kodu top'dan başlayarak saat yönüne göre sıralandığı için cevap .aralik {margin:1px 2px 3px 4px;} dır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi güncel bir tarayıcının görevleri arasında değildir?",
+    "seçenekler": [
+      "A) Çoklu ortam (ses, resim ve video) dosyalarını açmak",
+      "B) HTTP protokolünü desteklemek",
+      "C) Sık kullanılanlar listesi sunmak ve geçmiş listesi oluşturmak",
+      "D) Kişisel bir bilgisayara IP adresi vermek",
+      "E) Genel ağa dosya yükleme (upload) ve genel ağdan dosya indirme (download) işlemlerini yapmak"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 1 kişisel bir bilgisayara ip adresi vermek tarayıcının görevi değildir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "“Bir metne ya da resme tıklandığında dokümanın bir noktasına veya farklı bir dokümanın istenilen noktasına ulaşmaya yarar” ifadesi aşağıdakilerden hangisini tarif etmektedir?",
+    "seçenekler": [
+      "A) E-posta",
+      "B) Mutlak yol",
+      "C) Çapa",
+      "D) Göreli yol",
+      "E) Bağlantı etiketi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6 Bir metne veya resme tıkladığınızda dokümanın bir noktasına veya farklı bir dokümanın bir noktasına ulaşmak için ulaşılacak noktaya çapa oluşturulması gerekir. Çapa oluşturmak için etiketi ve name= parametresi kullanılır. Bir noktaya çapa oluşturmak için aşağıdaki kod yapısı kullanılır: metin veya resim bilgileri Aynı sayfada bir çapaya bağlantı oluşturmak için; Sayfa başına git Sayfa başına git etiketlerini kullanmak gerekir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Sayfada yatay bir çizgi oluşturmak için kullanılan HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) br etiketi",
+      "B) hr etiketi",
+      "C) bgcolor etiketi",
+      "D) p etiketi",
+      "E) head etiketi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 5 yatay çizgi çizmek için hr etiketi kullanılır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Çerçevelerden oluşmuş bir HTML sayfasında body yerine aşağıdaki elementlerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) table",
+      "B) title",
+      "C) head",
+      "D) frameset",
+      "E) meta"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 çerçevelerden oluşan sayfada body yerine frameset elementi kullanılır"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Harici bir HTML dokumanını sayfaya dahil etmek için <iframe> elementinin opsiyonu aşağıdaki elementlerden hangisidir?",
+    "seçenekler": [
+      "A) <div>",
+      "B) <span>",
+      "C) <html>",
+      "D) <object>",
+      "E) <font>"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi internetin sunduğu hizmetlerden biri değildir?",
+    "seçenekler": [
+      "A) e-posta",
+      "B) alış-veriş",
+      "C) ftp",
+      "D) örgün eğitim",
+      "E) sosyal medya"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Tarayıcıya HTML belgesinin başladığı ve bitiği yeri bildiren HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) title",
+      "B) body",
+      "C) html",
+      "D) ul",
+      "E) head"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 3 sayfanın başladığı ve bitiği yeri bildiren etiket html etiketidir"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir sınıf ve/veya ID seçicisi değildir?",
+    "seçenekler": [
+      "A) div.kare",
+      "B) .mavirenk",
+      "C) span#bordo",
+      "D) #sari.mavi",
+      "E) font[name=”dk”]"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "HTML taglarının doğru açılıp-kapatıldığı seçenek aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) <meta> </meta>",
+      "B) <div><b> </div></b>",
+      "C) <script />",
+      "D) <em><i> </i></em>",
+      "E) <link />"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Bir tabloda yan yana hücreleri (sütunları) birleştirmek için aşağıdakilerden özniteliklerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) colspan",
+      "B) rowspan",
+      "C) border",
+      "D) headers",
+      "E) width"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Sıralı listeyi belli bir değer ile (örneğin 5 sayısal ya da m alfabetik değer gibi) başlatabilmek için aşağıdaki parametrelerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) başla",
+      "B) init",
+      "C) start",
+      "D) stop",
+      "E) begin"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 3           Sıralı Listeler Sıralı liste oluşturmak için kullanılır. Sıralı listelerden kastımız kelime ya da cümleleri ya da herhangi bir şeyi numaralı, alfabetik, roma rakamlı olarak sıralı göstermektir. Liste içine alınacak metinler                     ...           etiketleri arasına alınarak yazılır. Bu etiketler listenin başladığını ve bitiğini belirtir. etiketine parametreler eklenebilir. Type parametresi listenin rakamla mı harfle mi başlayacağını, start ise hangi rakam/harfle başlayacağını belirler. Yani a) b) c) değil de k) l) m) gibi."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Bir tablonun arka planına resim yerleştirmek için aşağıdaki parametrelerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) bgcolor",
+      "B) img",
+      "C) set",
+      "D) image",
+      "E) background"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Ekranda maddeler halinde yazdıralacak liste elemanlarını alt alta yazdırırken <br> etiketi yerine daha pratik yoldan aşağıdaki hangi etiket kullanılır?",
+    "seçenekler": [
+      "A) <pre>",
+      "B) <blockquote>",
+      "C) <strong>",
+      "D) <sup>",
+      "E) <cite>"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 4"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "HTML'de bir elementi gizlemek için yazılması gereken CSS kodu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) display:none",
+      "B) element:hide",
+      "C) fadeout:true",
+      "D) hover:gone",
+      "E) gravity:none"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 CSS'de elementi gizlemek için display:none yazılmalıdır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdaki etiketlerden hangisi tarayıcı penceresinde yatay çizgi oluşturur?",
+    "seçenekler": [
+      "A) <font>",
+      "B) <hr>",
+      "C) <body>",
+      "D) <br>",
+      "E) <style>"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  }
+]

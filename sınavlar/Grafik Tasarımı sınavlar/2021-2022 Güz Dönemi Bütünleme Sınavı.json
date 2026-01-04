@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Photoshop ayarlar panelinde aşağıdakilerden hangisi yer almaz?",
+    "seçenekler": [
+      "A) Posterleştir",
+      "B) Fotoğraf filtresi",
+      "C) Eğriler",
+      "D) Kanal karıştırıcı",
+      "E) Yönlendir"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Şekil 10.2. Ayarlar paneli ve öğeleri (simge olarak gösterilen öğelerin isimleri soldan sağa doğru sırayla verilmiştir)"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Photoshop’ta çizilen bir dikdörtgenin yükseklik ve genişliği ile ilgili ayarların düzenleneceği ekran aşağıdaki menülerden hangisinde bulunmaktadır?",
+    "seçenekler": [
+      "A) Pencere > Ayarlar",
+      "B) Pencere > Özellikler",
+      "C) Düzenle > Ayarlar",
+      "D) Düzenle > Özellikler",
+      "E) Kanallar > Katmanlar"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Kartvizitin üst kısmında bulunan şekil için arka plandan bir ton daha açık bir siyah renk barındıran genişlik 650 piksel (px) ve uzunluk 664 px olan bir dikdörtgen çizilir. Bu çizilen dikdörtgenin ayarları Pencere > Özellikler menüsüne tıklandığında açılan panelden düzenlenebilir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Eklenen metnin sınır çizgileri ekranda görüntülenmek istenildiğinde metin eklenen katmandayken ...................... tuşuna basılması yeterli olmaktadır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Ctrl",
+      "B) Shift",
+      "C) Alt",
+      "D) Alt Gr",
+      "E) Windows"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 Eklenen metinin sınır çizgileri ekranda görüntülenmek istenildiğinde ise metin eklenen katmandayken Ctrl tuşuna basılması yeterli olmaktadır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Photoshop \"\"Eylemler\"\" paneline aşağıdaki hangi menüden ulaşılmaktadır?",
+    "seçenekler": [
+      "A) Metin",
+      "B) Seç",
+      "C) Katman",
+      "D) Görüntü",
+      "E) Pencere"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 Eylemler paneline Pencere/Eylemler adımlarını takip edilerek ulaşılmaktadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki Adobe Photoshop CC 2018'de yer alan filtreler ve işlevlerine yönelik eşleştirmelerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Doku filtreleri - derinlik veya organik görünüm verme",
+      "B) Dokulaştırıcı filtresi - Ekrandaki görüntüye seçilen dokuyu uygulama",
+      "C) Yamalı filtresi - Ekrandaki görüntü üzerinde küçük çatlaklardan oluşan bir ağın oluşmasını sağlama",
+      "D) Mozaik döşemeler filtresi - Ekrandaki görüntünün küçük karolardan yapılmış gibi görünmesini sağlama",
+      "E) Vitray filtresi - Ekrandaki görüntünün tek renkli bitişik hücrelerden oluşacak şekilde tekrar boyanmasını sağlama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 7 Yamalı filtresi, ekrandaki görüntü üzerindeki hakim renklerin küçük karelere ayrılmış gibi görünmesini sağlar."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Bir ekrandan gelen ışığın algılanan yoğunluğu, açıklığı veya koyuluğuna ne ad verilir?",
+    "seçenekler": [
+      "A) Parlaklık-Kontrast",
+      "B) Doygunluk",
+      "C) Bulanıklık/Keskinlik",
+      "D) Ton",
+      "E) Derinlik"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Parlaklık ya da kontrast, bir ekrandan gelen ışığın algılanan yoğunluğu, açıklığı veya rengin koyuluğudur."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi tarayıcılar, dijital kameralar ve bilgisayar ekranlarının renkleri göstermek için kullandığı renk skalasıdır?",
+    "seçenekler": [
+      "A) RGB",
+      "B) CMYK",
+      "C) Triadic renkler",
+      "D) Tetradic renkler",
+      "E) Tamamlayıcı renkler"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 Tarayıcılar, dijital kameralar ve bilgisayar ekranları renkleri göstermek için RGB renk skalasını kullanırlar"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "\"\"Lorem İpsum Ögesini Yapıştır\"\" sekmesi aşağıdaki menülerin hangisindedir?",
+    "seçenekler": [
+      "A) Pencere",
+      "B) Görünüm",
+      "C) Düzen",
+      "D) Giriş",
+      "E) Metin"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Son olarak en alt kısma bir yazı bölgesi eklenir ve bu bölgeye Metin > Lorem İpsum Ögesini Yapıştır menüsünden hazır bir metin eklenir. Tasarımın son hali Şekil 14.14’deki gibidir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programında katman stili penceresindeki karıştırma seçeneklerinden biri değildir?",
+    "seçenekler": [
+      "A) Eğim ve kabart",
+      "B) Kontur",
+      "C) İç gölge",
+      "D) Katman birleştirme",
+      "E) Renk kaplama"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 Karıştırma seçenekleri kısaca şunlardır: • Eğim ve Kabart: Katmanın kenarlarına efekt vererek katmanı kabarık gösterir. • Kontur: Katmanın kenarlarına istenilen renk ve kalınlıkta çizgi çizmeyi sağlar. • İç gölge: Katmanın kenarlarının iç tarafına gölge ekler. • İç Işıma: Katmanın kenarlarının iç tarafında farklı renklerde ışık efekti verir. • Saten: Katmanın yüzeyine hafif eğim verir. • Renk Kaplama: Katmanın dolu kısmını yeni bir renk ile boyar ve kaplar. • Degrade Kaplama: Katmanın dolu kısmını geçiş renkleri ile boyar ve kaplar. • Desen Kaplama: Katmanın dolu kısmını var olan bir motifle kaplar. • Gölge: Katmanın kenarlarının dışına, istenilen renk ve kalınlıkta gölge efekti verir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında \"\"arayı doldur\"\" komutunun görevi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İki nesne arasındaki boşluğu doldurmak",
+      "B) Zaman çizelgesinde iki kare arasına boşluk eklemek",
+      "C) İki ana kare arasındaki ara karelerin oluşturulmasını sağlamak",
+      "D) Ara kareleri silerek animasyonu oluşturmak",
+      "E) Animasyonu yayınlamak"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 Arayı doldurma butonu iki ana kare arasındaki ara karelerin oluşturulmasını sağlar."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında Varsayılan Eylemler kümesindeki eylemlerden biri değildir?",
+    "seçenekler": [
+      "A) Vinyet (seçim)",
+      "B) Sepya Tonlama (katman)",
+      "C) Güvenli Yayın",
+      "D) Degrade Eşleme",
+      "E) Oktant Renkleri"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 Şekil 12.15. Durma Ekle Komutu"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Photoshop programında bir resimdeki pozitif görüntüyü negatif veya negatif görüntüyü pozitif yapmak için kullanılan ayarlar paneli ögesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Renk arama",
+      "B) Kanal karıştırıcı",
+      "C) Ters çevir",
+      "D) Posterleştir",
+      "E) Seçmeli renk"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 10 Ters Çevir komutu görüntüdeki renkleri ters çevirir. Bu komut, pozitif görüntüyü negatif veya negatif görüntüyü pozitif yapmak için kullanılır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Web ortamında çok daha yüksek çözünürlükte ve detayların daha iyi görünebildiği resimler koyulabilmesi için aşağıdaki işlemlerden hangisi uygulanmalıdır?",
+    "seçenekler": [
+      "A) Dosya –> Dışa Aktar –> Çalışma Yüzeylerinden Katmanlara",
+      "B) Dosya –> Dışa Aktar –> Çalışma Yüzeylerinden PDF’e",
+      "C) Dosya –> Dışa Aktar –> Zoomify",
+      "D) Dosya –> Dışa Aktar –> Dosyalara Katman Kompozisyonları",
+      "E) Dosya –> Dışa Aktar –> Web için kaydet"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 Web ortamında yüksek çözünürlükte olan ve detaylarının daha iyi görünebileceği resimler koyulabilir. Photoshop programında bunu yapabilmek için zoomify isimli bir özellik kullanılmaktadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "I. Görsel üzerinde kalemle çizim yapma II. Görsel üzerindeki renkleri değiştirme III. Seçilen bir alanın görüntüsü kullanılarak stilize vuruşlar yapma Yukarıdakilerden hangisi ya da hangileri boyama araçlarının fonksiyonlarındandır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4 Boyama araçları kullanıcıların görseller üzerinde boyama yapmasını, kalemle çizim yapmasını, görsel üzerindeki renkleri değiştirebilmesini, seçilen bir alanın görüntüsünü kullanarak stilize vuruşlar yapmalarını sağlamaktadır. Ayrıca bu araçlar sayesinde seçilen bir alanın görüntüsü kopyalanarak geçerli alan boyanabilmekte, seçilen bir alanın görüntüsü kullanılarak stilize vuruşlar yapılabilmektedir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Photoshop programında bir resimdeki belirli bir renk aralığının tonunu, doygunluğunu ve parlaklığını değiştirmek için seçilmesi gereken ayar aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Parlaklık / Kontrast",
+      "B) Düzeyler",
+      "C) Eğriler",
+      "D) Ton / Doygunluk",
+      "E) Canlılık"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 Bu ayarlama resimdeki belirli bir renk aralığının tonunu, doygunluğunu ve parlaklığını ayarlamaya olanak tanır. Bu ayarlama özellikle baskı alınacak resimlerde ince renk ayarlarının yapılması açısından faydalıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi masaüstü yayıncılığa yönelik bir grafik tasarım programıdır?",
+    "seçenekler": [
+      "A) Adobe Photoshop",
+      "B) GIMP",
+      "C) Adobe Illustrator",
+      "D) Corel Draw",
+      "E) Adobe InDesign"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Adobe InDesign masaüstü yayıncılığa yönelik bir grafik tasarım programıdır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Resimleri yüksek kontrastlı siyah-beyaz hâle dönüştürmek için aşağıdaki renk ve ton ayarlamalarından hangisi kullanılır?",
+    "seçenekler": [
+      "A) Kanal karıştırıcı",
+      "B) Doygunluğu azalt",
+      "C) Eşik",
+      "D) Ton/Doygunluk",
+      "E) Renk dengesi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Resimleri yüksek kontrastlı siyah- beyaz hale dönüştürmenin yöntemi ise Eşik komutunu uygulamaktır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında dosya kaydetme yöntemlerinden biri değildir?",
+    "seçenekler": [
+      "A) Klavyeden Ctrl+S tuş bileşenlerine basılmalıdır.",
+      "B) Düzenle menüsünden kaydet komutu seçilmelidir.",
+      "C) Dosya menüsünden farklı kaydet komutu seçilmelidir.",
+      "D) Klavyeden Shift+Ctrl+S tuş bileşenlerine tıklanmalıdır.",
+      "E) Dosya menüsünden dışa aktar komutlarından biri seçilmelidir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 Photoshop içerisinde çalışma dosyalarının farklı özelliklerde ve farklı formatlarda kaydedilmesi için çeşitli butonlar yer almaktadır. Bunlar Dosya menüsünden kaydet, farklı kaydet ve dışa aktar olmak üzere 3 farklı şekilde kullanılabilmektedir. Ayrıca, Ctrl+S ve Shift+Ctrl+S tuş kombinasyonları da kaydetme işleminde kullanılmaktadır. Fakat, düzenle menüsünde kaydet komutu bulunmamaktadır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "I. Rengin insan tarafından algılanış şeklini temel alır. II. Normal görme yeteneğine sahip bir insanın gördüğü tüm renkleri tanımlar. III. Tanımladığı renk aralığı oldukça sınırlıdır. IV. Aygıtian bağımsız bir renk modeli olarak kabul edilir. Yukarıdakilerden hangisi ya da hangileri lab renk modunun özelliklerindendir?",
+    "seçenekler": [
+      "A) Yalnız III",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) I, II ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6 Lab renk modeli (Lab), rengin insan tarafından algılanış şeklini temel alır. Lab modelindeki sayısal değerler, normal görme yeteneğine sahip bir insanın gördüğü tüm renkleri tanımlar. Örneğin monitör, masaüstü yazıcısı veya dijital kamera gibi bir aygıtın renkleri oluşturması için belirli bir renk sağlayıcı öğeden ne kadar gerektiğinden ziyade rengin nasıl göründüğüne odaklandığından dolayı, Lab modeli aygıtian bağımsız bir renk modeli olarak kabul edilir. Renk yönetimi sistemleri Lab modelini, bir rengi bir renk uzayından diğerine, sonuçları önceden tahmin edilebilecek şekilde dönüştürmek için kullanır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Sınırlandırma kutusunu döndürme işlemi yapılırken 15° artış sağlamak için aşağıdaki hangi kısayol tuşuna basılı tutulmalıdır?",
+    "seçenekler": [
+      "A) Ctrl",
+      "B) Shift",
+      "C) Alt",
+      "D) Alt Gr",
+      "E) Windows"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Döndürme işlemi yapılırken 15° artış sağlamak için Shift tuşuna basılı tutulmalıdır."
+  }
+]

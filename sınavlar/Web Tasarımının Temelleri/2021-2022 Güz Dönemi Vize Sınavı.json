@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML5'te yer alan grafik ve medya etiketleri arasında yer almaz?",
+    "seçenekler": [
+      "A) < canvas >",
+      "B) < header >",
+      "C) < audio >",
+      "D) < svg >",
+      "E) < source >"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 4 Sayfanın veya bir bölümün üst kısmını belirlerken kullanılır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "HTML'de form tasarlarken girişin zorunlu olduğu durumlarda kullanılan CSS seçici aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Valid",
+      "B) Required",
+      "C) Invalid",
+      "D) Read-Only",
+      "E) Enabled"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 7 Required: HTML formlarda girişin zorunlu olduğunda durumlarda biçimlendirme yapmayı sağlar. Örneğin esinav.ataaof.edu.tr adresinde TC Kimlik No ve Şifre girilmesi zorunludur. Bu gibi durumlarda biçimlendirme yapmak için kullanılan seçicidir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Google bünyesinde çalışan Misko Hevery tarafından 2008 yılında kişisel amaçlı geliştirilmiş olan bir Javascript kütüphanesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Angular",
+      "B) React",
+      "C) JQuery",
+      "D) Vue",
+      "E) .Net"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Angular: Google bünyesinde çalışan Misko Hevery tarafından 2008 yılında kişisel amaçlı geliştirilmiş olan bir JAVASCRİPT kütüphanesidir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Türkçe hazırlamış olduğunuz HTML5 dokümanında karakter problemi yaşayabilirsiniz. Bu durumda <.........................> ibaresini <head> etiketlerinin arasında belirtebilirsiniz. Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) !DOCTYPE HTML",
+      "B) charset=”türkçe”",
+      "C) meta=”türkçe”",
+      "D) lang=\"\"tr\"\"",
+      "E) meta charset=”uƞ 8”"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4 Türkçe hazırlamış olduğunuz HTML5 dokümanında karakter problemi yaşayabilirsiniz. Bu durumda ibaresini etiketlerinin arasında belirtebilirsiniz."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Canvas API ile çember çizmek için en bilinen yöntem olan ........................ yöntemi, merkez konumu ve yarıçapını bildirdiğimiz bir yay veya tam bir çember çizmek için kullanılır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) yuvarlak()",
+      "B) fillStyle()",
+      "C) fill()",
+      "D) arc()",
+      "E) lineTo()"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 Canvas ile çember çizmek için en bilinen yöntem olan arc yöntemi kullanılır. Arc yöntemi, merkez konumu ve yarıçapını bildirdiğimiz bir yay veya tam bir çember çizmek için kullanılır"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "UX aşağıdakilerden hangisi ile ilgilenir?",
+    "seçenekler": [
+      "A) Görsel elementler kullanılır.",
+      "B) Beğeniyi amaçlar.",
+      "C) Fonksiyonel tasarımla ilgilenir.",
+      "D) Araçlara odaklanır.",
+      "E) Etkileşime odaklanır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi API test araçlarından biri değildir?",
+    "seçenekler": [
+      "A) Postman",
+      "B) Karate DSL",
+      "C) Jmeter",
+      "D) Geolocation",
+      "E) Apigee"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Web sayfasında yer alan içeriğin kısaca tanımlanmasını sağlayan ifade aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Meta Description",
+      "B) Meta Robots",
+      "C) Meta Refresh",
+      "D) Meta Charset",
+      "E) Meta Viewport"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 6 Meta Description (Açıklama) Etiketi Web sitesi için çok önemli olan bu etiket sayfada yer alan içeriğin kısaca tanımlanmasını sağlamaktadır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Meta description etiketine yazılması önerilen en fazla karakter sayısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 100",
+      "B) 130",
+      "C) 160",
+      "D) 190",
+      "E) 220"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "CSS dilinde içeriğin (metnin) altına, üstüne veya üzerine çizgi çekmeyi belirten özellik aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) text-overflow",
+      "B) text-shadow",
+      "C) text-decoration",
+      "D) text-indent",
+      "E) text-align"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 7 text-decoration: İçeriğin altına, üstüne veya üzerine çizgi çekmeyi belirtir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdaki alan adı uzantıları ve kullanım alanı eşleştirmelerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Com – Network altyapılarında kullanılır.",
+      "B) Org – Organizasyonlar için kullanılır.",
+      "C) Aero - Hava endüstrisi tarafından kullanılır.",
+      "D) Edu – Eğitim kurumları tarafından kullanılır.",
+      "E) Gov – Hükûmet kurumları tarafından kullanılır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Herhangi bir etiket aşağıdaki karakterlerden hangisi ile başlamalıdır?",
+    "seçenekler": [
+      "A) <",
+      "B) >",
+      "C) [",
+      "D) (",
+      "E) }"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi web tasarımında API kullanımının avantajlarından biri değildir?",
+    "seçenekler": [
+      "A) Görünüşte zor ve karmaşık görünen projelerin, içeriğinin iyi bir dilde tasarlanmasını ve uygulanmasını sağlar.",
+      "B) Projede daha fazla fonksiyon için fırsatlar sağlar.",
+      "C) API kullanımı ile kullanıcı ve müşteri dostu kolaylıklar sağlanabilir.",
+      "D) Entegrasyon yoluyla oluşturulan projelerin başarılı olma olasılığı daha yüksektir.",
+      "E) HTML5 ile oluşturulmuş web sayfalarının yüklenmeleri hızlanır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 5 API Kullanımının Avantajları • API, yazılımcının işini her zaman kolaylaştırır. Görünüşte zor ve karmaşık görünen projelerin, içeriğinin iyi bir dilde tasarlanmasını ve uygulanmasını sağlar. • Projede daha fazla fonksiyon için fırsatlar sağlar. Çalışmaya başlamadan önce hazırlanan API, böl ve yönet mantığı ile çalıştığından dolayı proje için çok önemlidir. • API kullanımı ile kullanıcı ve müşteri dostu kolaylıklar sağlanabilir. • Entegrasyon yoluyla oluşturulan projelerin başarılı olma olasılığı daha yüksektir. Bu duruma bir örnek vermek gerekirse, web sitesinin Facebook API uygulaması sayesinde kişileri tespit eden ve makalenizi okuyan kişiye makalenizi tavsiye eden birçok farklı kavram oluşturulabilmektedir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi internet kavramı için kullanılamaz?",
+    "seçenekler": [
+      "A) Bilgisayar sistemlerini birbirine bağlar.",
+      "B) İnternet ile “www” kavramları farklı anlama gelir.",
+      "C) 1993 yılında kamunun kullanabileceği hâle gelmiştir.",
+      "D) Sadece web sitelerine girmek için kullanılır.",
+      "E) İlk yıllarında e-posta uygulaması yaygınlaşmıştır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki HTML kod bloklarından hangisi doğru yazılmıştır?",
+    "seçenekler": [
+      "A) <html><head><title></title></head><body></body></html>",
+      "B) <html><head></body></html><title></title></head><body>",
+      "C) <title><head></title></head><body></body></html><html>",
+      "D) <html><head><title></head><body></html></title></body>",
+      "E) <html><head><title></title></head><body></html></body>"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 En son yazılan etiket en önce kapatılır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir web tarayıcı değildir?",
+    "seçenekler": [
+      "A) Microsoft Access",
+      "B) Chrome",
+      "C) Mozilla Firefox",
+      "D) Yandex",
+      "E) Safari"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Microsoft Access bir veritabanı yönetim sistemidir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML5’in yenilikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Önceki sürümleri desteklemesi",
+      "B) Kısa DOCTYPE tanımlaması",
+      "C) Birçok yeni yapısal ve içerik etiketlerin olması",
+      "D) Sadece çevrimiçi çalışabilme",
+      "E) Charset özelliğinin eklenmesi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Harici bir CSS stil dosyasını web sayfasına entegre etmek için aşağıdaki HTML etiketlerinden hangisi kullanılır?",
+    "seçenekler": [
+      "A) script",
+      "B) bady",
+      "C) head",
+      "D) link",
+      "E) div"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi Microsoft tarafından hizmete sunulan IDE’dir?",
+    "seçenekler": [
+      "A) NetBeans",
+      "B) Visual Studio Code",
+      "C) Rj TextEd",
+      "D) NotePad++",
+      "E) Materialize"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Sayfaya basit çizimler eklemek için kullanılan HTML5 elemanı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) < canvas >",
+      "B) < track >",
+      "C) < datalist >",
+      "D) < meter >",
+      "E) < dialog >"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 4 Sayfaya basit çizimler eklemek için kullanılmaktadır."
+  }
+]

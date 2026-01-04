@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Çember üzerinde iki tamamlayıcı renk kullanılarak dikdörtgen oluşturulmasıyla açığa çıkan renk şeması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tek renkli (Monochromatic)",
+      "B) Triadic",
+      "C) Tetradic",
+      "D) Ayrık tamamlayıcı (Split-complementary)",
+      "E) Tamamlayıcı (Complementary)"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 3 Tetradic renk şemaları, çember üzerinde iki tamamlayıcı rengin kullanılarak dikdörtgen oluşturulmasıyla açığa çıkmaktadır"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Adobe Photoshop CC 2018'de ekrandaki görüntünün genel hatlarını koruyarak renkli alanlara kabartma eklenmesini sağlayan filtreye ne ad verilir?",
+    "seçenekler": [
+      "A) Koyu konturlar filtresi",
+      "B) Mürekkep ana hatları filtresi",
+      "C) Püskürtülmüş konturlar filtresi",
+      "D) Sıçrama filtresi",
+      "E) Çapraz tarama filtresi"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 7 Çapraz tarama filtresi, ekrandaki görüntünün genel hatlarını koruyarak, renkli alanlara kabartma eklenmesini sağlar."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Adobe Photoshop’un kendi dosyalama biçimi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) PDF",
+      "B) PSD",
+      "C) SVG",
+      "D) JPG",
+      "E) DOCX"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Katmanlar panelinde hangi sembol ile o katman gizlenebilir?",
+    "seçenekler": [
+      "A) (T) sembolü şeklindeki düğme",
+      "B) Göz şeklindeki düğme",
+      "C) fx düğmesi",
+      "D) > şeklindeki düğme",
+      "E) Opaklık düğmesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında yazı katmanının çizim katmanına dönüştürülmesi işlemine ne ad verilir?",
+    "seçenekler": [
+      "A) Konturlama",
+      "B) Rasterleştirme",
+      "C) Karıştırma",
+      "D) Degrade kaplama",
+      "E) Serbest dönüştürme"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 5 Yazı katmanlarına diğer katmanlar gibi bir çok efekt verilebilir ancak tasarımda bu katmanı yazı yerine çizim haline getirmek istenebilir. Bunun için Katmanlar panelinde yazı katmanı üzerine sağ tıklayıp Metni, Rasterleştir (Rasterize) seçeneği seçilebilir. Bu değişiklik yapıldığı takdirde, artık o katman da diğer katmanlar gibi çizim katmanı olur, sembolü değişir ve içerisindeki yazı, (T) aracı ile değiştirilemez hale gelir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Renk uyumu için tek renk tonunu kullanan renk şeması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tek renkli (Monochromatic)",
+      "B) Benzer renkler (Analogous)",
+      "C) Tamamlayıcı (Complementary)",
+      "D) Split-complementary",
+      "E) Triadic"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programının ekranında yer alan paneller, pencereler ve çubukların düzenlendiği bölüme ................. denir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) çalışma alanı",
+      "B) çoklu panel",
+      "C) seçim araçları",
+      "D) seçenekler çubuğu",
+      "E) çalışma çubuğu"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi grafiksel ögeleri konumlandırmak için kullanılan bir araç değildir?",
+    "seçenekler": [
+      "A) Cetveller",
+      "B) Izgaralar",
+      "C) Kılavuz çizgileri",
+      "D) Katmanlar",
+      "E) Akıllı kılavuzlar"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018'de 32 bitlik resimlere uygulanabilecek filtrelerden biri değildir?",
+    "seçenekler": [
+      "A) Keskinliği Azaltma Maskesi",
+      "B) Gauss Bulanıklığı",
+      "C) Mercek Parlaması",
+      "D) Lifler",
+      "E) Akıllı Keskinleştirme"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 32 bitlik resimlere uygulanabilecek filtreler şu şekildedir: Ortalama Bulanıklık, Kutu Bulanıklığı, Gauss Bulanıklığı, Hareket Bulanıklığı, Radyal Bulanıklık, Şekil Bulanıklığı, Yüzey Bulanıklaştırma, Parazit Ekleme, Bulutlar, Mercek Parlaması, Akıllı Keskinleştirme, Keskinliği Azaltma Maskesi, Taramasız Hale Getirme, NTSC Renkleri, Kabartma, Yüksek Geçiş, Maksimum, Minimum ve Kaydırma."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi profesyonel yazıcıların basılacak görüntülerin basımdan önce CMYK'ye dönüştürülmesini zorunlu kılma nedenidir?",
+    "seçenekler": [
+      "A) Renk tonunun düzenlenmesi",
+      "B) Renk derinliğinin düzenlenmesi",
+      "C) Renk doygunluğunun düzenlenmesi",
+      "D) Görüntülerin gri tonlamalı baskıya uygun hale getirilmesi",
+      "E) RGB'den CMYK'ya dönüşüm sürecinde belirli renklerin farklı görülebilir olması"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 1 Bir görüntüyü her yazdırdığımızda, baskıyı üretmek için CMYK standart mürekkep renkleri kullanılır. Monitörlerden farklı olarak, yazıcılar eksilterek karıştırma yoluyla renk üretmek için eksiltici renkleri (CMYK) kullanırlar. Birçok profesyonel yazıcı, basımdan önce basılacak görüntülerin CMYK'ye dönüştürülmesini zorunlu kılar. Bunun nedeni, RGB renk spektrumunun CMYK spektrumundan çok daha geniş olması ve RGB'den CMYK'ye dönüşüm sırasında belirli renklerin görünümünün farklı görülebilir olmasıdır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "RGB renk modunun renkleri aşağıdakilerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) Gri, Mavi, Kırmızı",
+      "B) Sarı, Mavi, Yeşil",
+      "C) Kırmızı, Yeşil, Mavi",
+      "D) Cam göbeği, Macenta, Sarı",
+      "E) Sarı, Siyah, Yeşil"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programında renk doygunluğunun değiştirilmesini sağlayan araçtır?",
+    "seçenekler": [
+      "A) Klonlama aracı",
+      "B) Desen damgası aracı",
+      "C) Soldurma aracı",
+      "D) Sünger aracı",
+      "E) Bulanıklaştırma aracı"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 4 Sünger aracı, renk doygunluğunun değiştirilmesini sağlar."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında başlangıç çalışma alanında görüntülenmesi istenilen dosya sayısını belirlemek için aşağıdaki yollardan hangisi takip edilmelidir?",
+    "seçenekler": [
+      "A) Düzenle > Tercihler > Dosya İşleme > Son Kullanılan Dosya Listesinin İçerdikleri",
+      "B) Dosya > Seçenekler > Dosya İşleme > Son Kullanılan Dosya Listesinin İçerdikleri",
+      "C) Pencere > Dosya İşleme > Son Kullanılan Dosya Listesinin İçerdikleri",
+      "D) Ayarlar > Son Kullanılan Dosya Listesinin İçerdikleri",
+      "E) Yardım > Son Kullanılan Dosya Listesinin İçerdikleri"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 4 Görüntülenmesi istenilen dosya sayısı kullanıcılar tarafından belirlenebilmektedir. Bunun için: 1. Düzenle > Tercihler > Dosya İşleme seçenekleri takip edilir. 2. Son Kullanılan Dosya Listesinin İçerdikleri alanında 0-100 arasından bir değer seçilir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Kavram ve tanım eşleştirmesi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Renk derinliği: Bir pikselin alabileceği toplam renk sayısı renk derinliğini belirler.",
+      "B) Ton: Görüntüdeki diğer tüm renkleri oluşturmak için çeşitli miktarlarda birleştirilen renkler kümesine verilen isimdir.",
+      "C) Renk modu: Bir nesneden yansıyan veya iletilen renktir.",
+      "D) Doygunluk: Bir ekrandan gelen ışığın algılanan yoğunluğu, açıklığı veya rengin koyuluğudur.",
+      "E) Parlaklık: Rengin yoğunluğu veya saflığıdır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Renk derinliği (Color depth) Bir pikselin alabileceği toplam renk sayısı renk derinliğini belirler."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "I. Bir çizimin farklı ebatlarda üretilmesi veya kullanılması II. Çizimin ebatları değişse bile kalitesinin (netliği) değişmemesi III. Çizimin ebatları büyüse bile depolama birimlerinde büyük yer kaplamaması Yukarıdakilerden hangisi ya da hangileri vektörel çizimlerin tercih edilme nedenleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Bir çizimin farklı ebatlarda üretilmesi veya kullanılması gerektiğinde vektör tabanlı çizimler daha avantajlıdır. Bunun iki ana nedeni vardır: Birincisi çizimin ebatları değişse bile kalitesi (netliği) değişmez. İkinci neden ise çizimin ebatları büyüse bile bayt olarak depolama birimlerinde (sabit disk vb.) büyük yer kaplamaz. Bu sayede baskı yapanlar, tabela hazırlayanlar, araç ya da bina kaplama işinde uğraşanlar, bilgisayarda çizdikleri çizimleri vektörel olarak hazırlar ve sonrasında çıktı alarak uygularlar."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi Lab renk moduna sahip görüntülerin kaydedildiği formatlardan biri değildir?",
+    "seçenekler": [
+      "A) Photoshop EPS",
+      "B) Large Document Format (PSB)",
+      "C) Photoshop JPEG",
+      "D) Photoshop Raw",
+      "E) Photoshop DCS 1.0"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6 Photoshop uygulamasında Lab görüntüleri Photoshop EPS, Large Document Format (PSB), Photoshop PDF, Photoshop Raw, TIFF, Photoshop DCS 1.0 veya Photoshop DCS 2.0 formatlarında kaydedilebilir. Photoshop uygulamasında 48 bitlik (kanal başına 16 bit) Lab görüntülerini Large Document Format (PSB), Photoshop PDF, Photoshop Raw veya TIFF formatlarında kaydedebilirsiniz."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Renk çemberi üzerinde eşit aralıklarla yer alan üç rengin oluşturduğu üçgen kullanılarak ortaya çıkan renk şeması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tek renkli (Monochromatic)",
+      "B) Triadic",
+      "C) Tetradic",
+      "D) Tamamlayıcı (Complementary)",
+      "E) Split-complementary"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Photoshop’ta Filtre Galerisi'ne ulaşmak için izlenmesi gereken yol aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Filtre",
+      "B) Filtre > Filtre Galerisi",
+      "C) Filtre > Sıvılaştır",
+      "D) Filtre > Mercek düzeltme",
+      "E) Filtre Galerisi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Photoshop programının birden fazla resmi aynı anda yeniden boyutlandırabilme, renk efekti verebilme veya biçimini değiştirebilme özelliğine ne ad verilir?",
+    "seçenekler": [
+      "A) Yığın işleme",
+      "B) Katmanlama",
+      "C) Yeniden boyutlandırma",
+      "D) Efekt verme",
+      "E) Mod düzenleme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Profesyonellere yönelik birçok ek özellik içeren Photoshop, birden fazla resmi aynı anda yeniden boyutlandırabilir, renk efekti verebilir veya biçimini değiştirebilir. Bu özelliğine “Batch Procession” (Yığın işleme) denmektedir. Ayrıca bir resim üzerinde yapılan işlemler kaydedilip, farklı resimlere uygulanmak üzere kütüphane içinde saklanabilir."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için izlenen yoldur?",
+    "seçenekler": [
+      "A) Görünüm / Kılavuzları Temizle",
+      "B) Görünüm / Kılavuzları Kaldır",
+      "C) Düzenle / Kılavuzları Temizle",
+      "D) Düzenle / Kılavuzları Kaldır",
+      "E) Katman / Cetveli Temizle"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 6 Tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için iGörünüm menüsünden Kılavuzları Temizle seçeneğini tıklayabilirsiniz."
+  }
+]

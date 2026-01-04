@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi iteratör değişkenlerinin önüne koyularak iteratörün işaret etiği değere erişebilmeyi sağlar?",
+    "seçenekler": [
+      "A) .",
+      "B) -",
+      "C) *",
+      "D) +",
+      "E) !"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 İteratör değişkeninin önüne * işareti konularak iteratörün işaret etiği değere erişilebilir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi nesneye yönelik programlamanın önemli yapı taşlarından biri değildir?",
+    "seçenekler": [
+      "A) Kalıtım",
+      "B) Çok biçimlilik",
+      "C) Sınıf",
+      "D) Nesne",
+      "E) Döngüler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Sayfa 3 Paragraf 3 Ünite içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Bir koşul değerini yanlış ise doğru, doğru ise yanlış yapmak için hangi mantıksal operatör kullanılır?",
+    "seçenekler": [
+      "A) VE",
+      "B) VEYA",
+      "C) DEĞİL",
+      "D) EŞİTTİR",
+      "E) EŞİT DEĞİLDİR"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "C++ programlama dilinde akışlar (stream) ile ilgili olarak aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Farklı türde veri akışlarını temsil etmek için aynı akışlar kullanılır.",
+      "B) Bir akış, belirli bir sınıfın nesnesi şeklinde temsil edilir.",
+      "C) Akış, veri akışına genel olarak verilen kavramsal bir terimdir.",
+      "D) ifstream sınıfı, diskteki kaynak dosyalarından gelen veri akışını simgelemektedir.",
+      "E) cin ve cout bir tür akış nesnesidir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniği aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Algoritma",
+      "B) Akış diyagramları",
+      "C) Dönüştürücü",
+      "D) Sözde kod",
+      "E) Çizgi diyagramları"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 Sözde kod, doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniğidir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "\"\"Örnek String.\"\" string ifadesinin boyut bilgisi kaçtır?",
+    "seçenekler": [
+      "A) 9",
+      "B) 10",
+      "C) 11",
+      "D) 12",
+      "E) 13"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 11 string ornekString = \"\"Ilk string tanimlama.\"\"; Yukarıdaki string ifadesinde 21 karakter bulunmaktadır. Çift tırnaklar arasındaki başta rakamlar ve harfler olmak üzere noktalama işaretleri ve matematiksel işaretler gibi bütün karakterler bu string değişkenin bir parçasıdır. Yalnızca farklı işlevleri olan bazı karakterle"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi bileşik atama operatörlerinden biri değildir?",
+    "seçenekler": [
+      "A) +=",
+      "B) !=",
+      "C) /=",
+      "D) %=",
+      "E) -="
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 != olarak tanımlanan bileşik atama operatörü bulunmamaktadır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "for (int n = 0; n<i; n++) {     for (int m = 0; m<j; m++)     {        a[n][m] = n+1;     } } Bu kod parçacığının yaptığı işlemi aşağıdakilerden hangisi doğru şekilde anlatmaktadır?",
+    "seçenekler": [
+      "A) a dizisinin i * j adet elemanı silinir.",
+      "B) a dizisinin j adet satırındaki i adet elemana birinci boyut indisinin bir fazlası yazılır.",
+      "C) a dizisinin i adet satırındaki j adet elemana birinci boyut indisinin bir fazlası yazılır.",
+      "D) a dizisinin j adet satırındaki i adet elemana ikinci boyut indisinin bir fazlası yazılır.",
+      "E) a dizisinin i adet satırındaki j adet elemana ikinci boyut indisinin bir fazlası yazılır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 10 FONKSİYONLARA İKİ BOYUTLU DİZİLERİN AKTARILMASI başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "#include <iostream> using namespace std; int Fonksiyon(int *A, int n) {        int dondur=0;        for (int i = 0; i < n; i++) {              if (A[i] % 2 == 0)                   dondur++; }        return dondur; } int main() {        int dizi[5] = { 12,5,7,4,9 };        cout << Fonksiyon(dizi, 5);        return 0; } Yukarıdaki kod çalıştırılmak istendiğinde sonuç ne olur?",
+    "seçenekler": [
+      "A) Ekrana \"\"3\"\" yazar.",
+      "B) Ekrana \"\"2\"\" yazar.",
+      "C) Ekrana \"\"12 4\"\" yazar.",
+      "D) Ekrana \"\"5 7 9\"\" yazar.",
+      "E) Ekrana \"\"12 5 7 4 9\"\" yazar."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 Dizilerin Fonksiyonlara Gönderimi başlıklı konu içeriğinde yer almaktadır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Short veri tipinin alabileceği değer aralığı nedir?",
+    "seçenekler": [
+      "A) 0 ile 65535",
+      "B) -127 ile 127",
+      "C) true, false",
+      "D) -32768 ile 32767",
+      "E) 0 ile 4294967295"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 3 short ver, tipi -32768 ile 32767 aralığında değer alabilir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Koşullu kesme noktasının oluşturulması ne işe yaramaktadır?",
+    "seçenekler": [
+      "A) Koşul sağlanınca ilgili satırda programın çalışması durdurulur.",
+      "B) Koşul sağlanınca ilgili satırda programın çalışması devam eder.",
+      "C) Koşul sağlanınca ilgili fonksiyonun çalışması durdurulur.",
+      "D) Koşul sağlanınca ilgili fonksiyonun çalışması devam eder.",
+      "E) Koşul sağlanınca imlecin bulunduğu satırda çalışma durdurulur."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 Koşullu Kesme Noktası Oluşturma başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Menülerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Dosya menüsünde yeni bir proje oluşturma, son açılan projelere ulaşma, proje kaydetme, yazdırma gibi işlemler bulunur.",
+      "B) Kopyalama, kesme, bulma ve değiştirme işlemlerinin yapıldığı menü Düzen menüsüdür.",
+      "C) Proje menüsü; oluşturulan bir projeye yeni öge ekle, öge çıkar gibi işlemlerin gerçekleştirildiği menüdür.",
+      "D) Kullanıcı ihtiyaçları doğrultusunda kişiselleştirilmesi işlemleri Araçlar menüsünden gerçekleştirilir.",
+      "E) Geliştirilen yazılımın performans ve analizleri için Derle menüsü kullanılır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4 Geliştirilen yazılımın performans ve analizleri için Analiz menüsü kullanılır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "I.   Bilgisayar sistemindeki birimlerin çalışmalarını zamanlar ve kontrol eder. II.  Giriş birimindeki verilerin bellek birimine yüklenmesi işlevini üstlenir. III. İşlem sonuçlarının çıkış birimine nasıl ve ne zaman aktarılacağı işlevini üstlenir. Yukarıdaki özellikler hangi birime aitir?",
+    "seçenekler": [
+      "A) Bellek birimi",
+      "B) Giriş birimi",
+      "C) İkincil depolama birimi",
+      "D) Merkezî işlem birimi",
+      "E) Çıkış birimi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 1 Merkezi işlem birimi, bilgisayar sistemindeki birimlerin çalışmalarını zamanlar ve kontrol eder. Giriş birimindeki verilerin bellek birimine yüklenmesi, yüklenen verilerin ALU biriminde nasıl işleneceği ve ilgili işlem sonuçlarının çıkış birimine nasıl ve ne zaman aktarılacağı gibi işlevleri üstlenir. Bir başka deyişle bilgisayardaki tüm birimlerin işleyişlerini organize etmekle sorumludur."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Stack veri yapısına aşağıdaki komutlardan hangisi ile yeni bir veri eklenir?",
+    "seçenekler": [
+      "A) push",
+      "B) pop",
+      "C) add",
+      "D) push_back",
+      "E) set"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "String sınıfı değişkeni c string ifadeye dönüştüren üye fonksiyonu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) data",
+      "B) erase",
+      "C) length",
+      "D) reserve",
+      "E) capacity"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11 Yan Not: c_str ve data üye fonksiyonları ile string bir ifadeyi c string bir ifadeye dönüştürebiliriz"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Yıkıcı fonksiyonlar için aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Yıkıcı fonksiyon adı sınıf adı ile aynı olmalıdır.",
+      "B) Yıkıcı fonksiyon tilda (~) ile başlar.",
+      "C) Yıkıcı fonksiyon geriye değer döndürmez.",
+      "D) Yıkıcı fonksiyon parametre alabilir.",
+      "E) Yıkıcı fonksiyon bellek alanını boşaltır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 14 • Yıkıcı fonksiyon adı yapıcı fonksiyon ve sınıf adı ile aynıdır. • Yıkıcı fonksiyon tilda (~) ile başlar. • Geriye değer döndürmez. • Parametre almaz. • Bellek alanını boşaltır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "İki boyutlu dizilerin fonksiyonlara parametre olarak gönderilmesi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Diziler fonksiyonlara parametre olarak gönderilemezler.",
+      "B) Dizinin sadece birinci boyutu parametre olarak gönderilebilir.",
+      "C) Dizinin boyut sayısı belirtilmeli ancak boyutlarının eleman sayısı belirtilmeksizin fonksiyona parametre olarak gönderilmelidir.",
+      "D) Dizinin iki boyutlu olduğu belirtilmeli ve ikinci boyutun eleman sayısı mutlaka belirtilmelidir.",
+      "E) Dizinin boyutları ve eleman sayıları belirtilmeden fonksiyona parametre olarak gönderilmelidir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 FONKSİYONLARA İKİ BOYUTLU DİZİLERİN AKTARILMASI bailıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıda verilen dizilere başlangıç değeri atama örneklerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) int dizi[5] = {1,2,3,4,5};",
+      "B) int dizi[5] = {0};",
+      "C) int dizi[5] = 0 ;",
+      "D) int dizi[5] = {};",
+      "E) int dizi[5] = {4,5};"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Başlangıç değeri atama Bir diziye başlangıç değeri (ilk değer) atama işlemi için küme parantezi kullanılır. Örnek vermek gerekirse: int dizi[5] ; char dizi[5]; int dizi[5] = { 1,2,3,4,5 }; int dizi[5] = { 0 }; int dizi[5] = {}; int dizi[5] = { 4,5 };"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "C++ programlama dilinde iki tam sayıdan büyük olanını bulup geriye döndüren fonksiyon aşağıdakilerin hangisinde doğru yazılmıştır?",
+    "seçenekler": [
+      "A) int max(sayi1,sayi2) {    int sonuc;    if (sayi1> sayi2)       sonuc= sayi1;    else       sonuc = sayi2;    return sonuc; }",
+      "B) int max(int sayi1,int sayi2) {    int sonuc;    if (sayi1> sayi2)       sonuc= sayi1;    else       sonuc = sayi2; }",
+      "C) int max(sayi1,sayi2) {    int sonuc;    if (sayi1> sayi2)       sonuc= sayi1;    else       sonuc = sayi2; }",
+      "D) int max(int sayi1,int sayi2) {    int sonuc;    if (sayi1> sayi2)       sonuc= sayi1;    else       sonuc = sayi2;    return sonuc; }",
+      "E) int max(int sayi1,int sayi2) {    int sonuc;    if (sayi1< sayi2)       sonuc= sayi1;    else       sonuc = sayi2; }"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 int max(int sayi1, int sayi2) { int sonuc; if (sayi1> sayi2) sonuc= sayi1; else sonuc = sayi2; return sonuc; } doğru kod parçası"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "C++ programlama dilinde dosya işlemede kullanılan seekp() fonksiyonunun ikinci parametresi aşağıdakilerden hangisi olamaz?",
+    "seçenekler": [
+      "A) ios::cur",
+      "B) SEEK_SET",
+      "C) ios::beg",
+      "D) ios::end",
+      "E) SEEK_START"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 Tablo 13.3. Dosya İşaretçi Konum Değerleri tablosunda yer almaktadır."
+  }
+]

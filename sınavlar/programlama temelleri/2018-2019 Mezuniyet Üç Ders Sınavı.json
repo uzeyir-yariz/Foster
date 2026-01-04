@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "string metin =\"\"C++ Dersleri\"\"; cout << metin.size() << endl; Yukarıdaki C++ kod bloğu çalıştırıldığında aşağıdaki ekran çıktılarından hangisini üretir?",
+    "seçenekler": [
+      "A) 2",
+      "B) 12",
+      "C) 11",
+      "D) 10",
+      "E) 13"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "size fonksiyonu, metindeki karakter sayısını verir. Bu sayıya boşluk ve her türlü karakter dahildir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "int a=1, b=3, c; Verilen değişken tanımlamalarına göre aşağıdaki C++ deyimlerinden hangisi söz dizimi hatasına neden olur?",
+    "seçenekler": [
+      "A) c = axb; cout << \"\"a x b\"\" = << c << endl;",
+      "B) c = a % b; cout << \"\"a mod b=\"\" << c <<endl;",
+      "C) c = a % b; cout<<a<< \"\" mod \"\" <<b<<\"\"=\"\"<<c<<endl;",
+      "D) c = a + b; cout << \"\"toplam=\"\" << c << endl;",
+      "E) c = a * b; cout<<\"\"carpim=\"\"<< c <<endl;"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Çıktı ekranına yazılacak metinlerin çift tırnak içerisine alınması gerekir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "SET X=50 SET Y=2 IF X>20 VE Y%2==0 THEN    COMPUTE X=X+20    COMPUTE Y=Y+1 ELSE    COMPUTE  X=Y+20    COMPUTE Y=X+1 ENDIF PRINT X,Y Verilen sözde kod işletildiğinde aşağıdaki çıktılardan hangisini üretir?",
+    "seçenekler": [
+      "A) 50,2",
+      "B) 20,3",
+      "C) 70,0",
+      "D) 70,3",
+      "E) 22,51"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Koşuldaki \"\"ve\"\" operatörü ile her iki koşulun da doğru olması gerekiyor."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "#include <iostream> using namespace std; void Yap(int a[], int *b, int boyut) {     for(int i=0; i<boyut; i++)        b[i]=a[boyut-1-i]; } int main() {     int sayilar[5] = {5,2,10,8,7};     int yedek[5];     Yap(sayilar, yedek,5);     for(int i=0; i<5; i++)          cout<<yedek[i]<<\"\",\"\";     cout<<endl;     return 0; } Yukarıdaki C++ programı çalıştırıldığında aşağıdaki ekran çıktılarından hangisi elde edilir?",
+    "seçenekler": [
+      "A) 2,5,7,8,10",
+      "B) 10,8,7,5,2",
+      "C) 2,5,10,8,7",
+      "D) 7,8,10,2,5",
+      "E) -1, 0, 1, 2, 3, 4"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Yap fonksiyonu, a dizisinin elemanlarını b dizisine ters sırada kopyalamaktadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "int i; for (i = 0; i <= 3; i++)       if (i == 2)              break; cout << i << endl; Yukarıda verilen kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3",
+      "E) 4"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "I.   Fonksiyon adı sınıf adı ile aynıdır. II.  Fonksiyon adı tilda (~) ile başlar. III. Üye değişkenlere ilk değer atamak için kullanılır. IV. Bellek alanını boşaltır. Yukarıdakilerden hangisi ya da hangileri yıkıcı fonksiyonlar için geçerlidir?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) II ve IV",
+      "C) Yanlız IV",
+      "D) I ve III",
+      "E) I, II ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Yıkıcı fonksiyonlar ilk değer vermek için kullanılmaz."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdaki C++ kod bloklarından hangisi sonuclar.txt adında bir dosya yaratır?",
+    "seçenekler": [
+      "A) ofstream dosya; dosya.open(\"\"sonuclar.txt\"\", ios::in);",
+      "B) ifstream dosya; dosya.open(\"\"sonuclar.txt\"\", ios::out);",
+      "C) ifstream dosya; dosya.open(\"\"sonuclar.txt\"\", ios::app);",
+      "D) ifstream dosya; dosya.open(\"\"sonuclar.txt\"\", ios::in);",
+      "E) ofstream dosya; dosya.open(\"\"sonuclar.txt\"\", ios::out);"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "dosya yaratmak için ofstream sınıfı ve ios::out modu gereklidir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "int dizi[10] = {0,13,5,2,9,10,12,8,15,4}; int bul, ara=9; ? Yukarıdaki C++ kod parçacığının ? bulunan satırında, dizi içerisinde ara değişkeninin değerinin var olup olmadığını sorgulayan; bulabilirse ilgili indis değerini, bulamazsa -1 değerini geri döndüren Arama adındaki bir fonksiyon çağrılmak istenmektedir. Bu durumda ? bulunan satırda kullanılması gereken deyim aşağıdakilerden hangisi olabilir?",
+    "seçenekler": [
+      "A) bul=Arama(dizi[10], ara);",
+      "B) bul=Arama(dizi[ara], 10);",
+      "C) bul=Arama(dizi, 10, ara);",
+      "D) bul=Arama(dizi[], ara);",
+      "E) bul=Arama(dizi[10], 10, ara);"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "C şıkkındaki fonksiyon çağırma satırında, dizinin parametre olarak doğru biçimde gönderildiği görülmektedir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "void DiziDoldur(int d[][3], int n) {      int a, b;      for (a = 0; a < n; a++)           for (b = 0; b < 3; b++)                d[a][b] = a * b; } int main() {      int dizi[2][3];      ?      return 0; } Yukarıdaki C++ programının ? karakteri yer alan satırına aşağıdakilerden hangisi yazılırsa ilgili alt fonksiyon doğru şekilde çağrılmış olur?",
+    "seçenekler": [
+      "A) DiziDoldur(2,3);",
+      "B) DiziDoldur(dizi[2][3]);",
+      "C) DiziDoldur(dizi[3], 2);",
+      "D) DiziDoldur(dizi, 2);",
+      "E) DiziDoldur(dizi[][],6);"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "iki boyutlu diziler fonksiyona parametre olarak gönderilirken eleman sayıları çağrı satırında yazılmaz."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Kodlanması tamamlanmış bir C++ programının olası anlam bilimsel hatalarını tespit etmek için bazı yerlerine ek \"\"cout\"\" komutları yazılarak ilgili değişken değerlerinin ekrana yansıtılması tekniğine ne ad verilir?",
+    "seçenekler": [
+      "A) El ile izleme",
+      "B) Test ederek hata ayıklama",
+      "C) Dahili test",
+      "D) Tümevarım",
+      "E) Program izleme"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Program izlemede, hatalı olabileceği düşünülen noktalara geçici cout komutları eklenerek bazı değişken ve değerler izlenir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdaki C++ kod bloklarından hangisi bir anlam bilimsel hata içermektedir?",
+    "seçenekler": [
+      "A) int sonuc=1; for(int i=1; sonuc<1000; i++){    sonuc*= i; }",
+      "B) int sonuc=2; for(int i=1; i!=10; i++){    sonuc *= i; }",
+      "C) int sonuc=1; for(int i=10; i>0; i--){    sonuc = i * i; }",
+      "D) int sonuc=1; for(int i=0; i<10; i++){    sonuc *= i;    i--; }",
+      "E) int sonuc=0; for(int i=0; i<10; i+=2)    sonuc= i * i; i--;"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "D seçeneğinde program çalışınca, i sayacı for satırında 1 arƴrılırken, döngü içinde 1 azaltılmıştır. Bu nedenle döngü sonsuz döngü olmuştur.."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "string s1 = \"\"14188XF300\"\"; string s2 = \"\"X\"\"; cout << s1.find(s2) << endl; Yukarıdaki C++ kod bloğu çalıştırıldığında aşağıdaki ekran çıktılarından hangisi elde edilir?",
+    "seçenekler": [
+      "A) 5",
+      "B) 6",
+      "C) 1",
+      "D) X",
+      "E) XF300"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "find fonksiyonu, s1 içerisinde s2'yi arar ve bulduğu karakterin indis numarasını döndürür"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "ios::app moduyla açılan bir dosya ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Dosyadan okuma yapmak için dosya açılır.",
+      "B) Dosya yaratmak için dosya açılır, eğer aynı isimde dosya varsa hata oluşur.",
+      "C) Dosyadan veri okumak için dosya açılır, dosya yoksa yaratılır.",
+      "D) Dosyaya ekleme yapmak için dosya açılır, dosya yoksa yaratılır.",
+      "E) Var olan dosyanın içi temizlenerek dosya üzerine yeni veri yazmak için açılır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "ios::app ifadesi yeni bilgileri dosyanın sonuna ekleme yapmak için dosyayı açar. Eğer dosya yoksa o anda yaratılır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "#include <iostream> using namespace std; int Yap(int d1, int d2, int d3) {      d1=d1+d2+d3;      return d3;      return d2;      return d1;      return d1+d2+d3; } int main() {      cout << Yap(2, 4, 6);      return 0; } Verilen C++ programı çalıştırıldığında aşağıdaki ekran çıktılarından hangisini üretir?",
+    "seçenekler": [
+      "A) 6",
+      "B) 12",
+      "C) 4",
+      "D) 2",
+      "E) 24"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "ilk return ile fonksiyon sonlanır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "int i; for (i = 0; i <= 3; i++)         if (i == 2)                   continue; cout << i << endl; Yukarıda verilen kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3",
+      "E) 4"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Büyük eşitir operatörünün doğru kullanımı aşağıdakilerden hangisinde verilmiştir?",
+    "seçenekler": [
+      "A) =>",
+      "B) >=",
+      "C) =>=",
+      "D) !>",
+      "E) >!"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "4"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Geçerli bir kaçış dizisi aşağıdakilerden hangisi olamaz?",
+    "seçenekler": [
+      "A) \\a",
+      "B) \\%",
+      "C) \\n",
+      "D) \\*",
+      "E) \\\\"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdaki depo yapılarından hangisi bir değeri birden fazla sayıda tutmaz?",
+    "seçenekler": [
+      "A) vector",
+      "B) deque",
+      "C) set",
+      "D) multiset",
+      "E) list"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "set depo yapısı, verileri değerlerine göre sıralı biçimde ve tekrarsız tutar."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "#include <iostream> #include <cmath> using namespace std; int main() {          cout << sqrt(pow(4, 4));          return 0; } Yukarıdaki C++ programı çalıştırıldığında çıktısı aşağıdakilerden hangisi olur?",
+    "seçenekler": [
+      "A) Ekrana 2 yazar.",
+      "B) Ekrana 4 yazar.",
+      "C) Ekrana 8 yazar.",
+      "D) Ekrana 16 yazar.",
+      "E) Ekrana 256 yazar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Visual Studio 2017 bütünleşik geliştirme ortamında hangisi yer alan menülerden değildir?",
+    "seçenekler": [
+      "A) Düzen",
+      "B) Görünüm",
+      "C) Hata Ayıkla",
+      "D) Proje",
+      "E) Veritabanı"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  }
+]

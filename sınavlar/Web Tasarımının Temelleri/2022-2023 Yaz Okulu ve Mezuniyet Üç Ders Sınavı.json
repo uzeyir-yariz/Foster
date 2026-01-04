@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir nesneyi saat yönünde veya saat yönünün tersine yönde döndürmek için kullanılır?",
+    "seçenekler": [
+      "A) Translate",
+      "B) Rotate",
+      "C) Scale",
+      "D) ScaleX",
+      "E) ScaleY"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Genellikle doğayı ve sürdürülebilirliği çağrıştıran renk aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Turuncu",
+      "B) Mavi",
+      "C) Yeşil",
+      "D) Kahverengi",
+      "E) Kırmızı"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Herhangi bir etiket aşağıdaki karakterlerden hangisi ile biter?",
+    "seçenekler": [
+      "A) <",
+      "B) >",
+      "C) [",
+      "D) (",
+      "E) }"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi mobil uyumluluk testi için kullanılan sitelerden biri değildir?",
+    "seçenekler": [
+      "A) search.google.com/test/mobile-friendly",
+      "B) responsivedesignchecker.com",
+      "C) ami.responsivedesign.is/",
+      "D) responsivetestiool.com/",
+      "E) google.com/userfriendly"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki Breakpoints (Kesme Noktaları) ile ilgili ifadelerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) 12'lik ızgara yapısından oluşur.",
+      "B) Cihaza ait ekran ölçüsünü tespit ederek hangi kategoriye ait olduğunu belirler.",
+      "C) X-Small ekran boyutu için “xs” class tanımı kullanılır.",
+      "D) Small ekran boyutu için “sm” class tanımı kullanılır.",
+      "E) Medium ekran boyutu için “md” class tanımı kullanılır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi çapraz tarayıcı uyumluluğundaki etkenlerden biridir?",
+    "seçenekler": [
+      "A) Kullanıcının işlemcisi",
+      "B) Kullanıcının ana kartı",
+      "C) Kullanıcının ekran kartı",
+      "D) Sunucunun işlemcisi",
+      "E) Kullanıcının işletim sistemi"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi CSS (Cascade Style Sheet) metin özellikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) font-size",
+      "B) direction",
+      "C) tab-size",
+      "D) text-align",
+      "E) letier-spacing"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Web tarayıcıya ekranı hangi genişlikte görüntüleyeceğini bildiren ifade aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Meta charset",
+      "B) Meta robot",
+      "C) Meta keywords",
+      "D) Meta title",
+      "E) Meta viewport"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 HTML 5 ile gelen yeni yeniliklerden Meta viewport etiketi tarayıcıya, ekranı hangi genişlikte görüntü leyeceğini bildirir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Veri tabanı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Verilerin elektronik ortamda saklanması anlamına gelir.",
+      "B) Veri tabanı yönetim sistemleri tarafından yönetilir.",
+      "C) Kullanıcıların verileri organize etmelerine olanak tanır.",
+      "D) Ses ve video dosyalarını saklayamaz.",
+      "E) Kullanım amacına göre birçok veri tabanı türü vardır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir web sitesinde front-end geliştiricinin ilgilendiği konulardan biri değildir?",
+    "seçenekler": [
+      "A) Kullanıcı memnuniyeti",
+      "B) Arayüz Tasarımı",
+      "C) Görsel Elementler",
+      "D) Veri Tabanı işlemleri",
+      "E) Kullanıcı deneyimi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML özel karakterlerinden biri değildir?",
+    "seçenekler": [
+      "A) & nbsp;",
+      "B) &# 160;",
+      "C) & amp;",
+      "D) & quot;",
+      "E) &# apos;"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "I. Etiketler yan yana yazılabilse de alt alta yazılması tercih edilir. II. HTML kodları yazılırken genellikle büyük harfler tercih edilir. III. En son yazılan etiket en son kapatılır. Yukarıdakilerden hangisi ya da hangileri etiketlerin kullanımları arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 HTML kodları yazılırken genellikle küçük harfler tercih edilir. En son yazılan etiket en önce kapatılır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi web tasarımında API (Application Programming Interface) kullanımının avantajlarından biri değildir?",
+    "seçenekler": [
+      "A) Görünüşte zor ve karmaşık görünen projelerin, içeriğinin iyi bir dilde tasarlanmasını ve uygulanmasını sağlar.",
+      "B) Projede daha fazla fonksiyon için fırsatlar sağlar.",
+      "C) API kullanımı ile kullanıcı ve müşteri dostu kolaylıklar sağlanabilir.",
+      "D) Entegrasyon yoluyla oluşturulan projelerin başarılı olma olasılığı daha yüksektir.",
+      "E) HTML5 ile oluşturulmuş web sayfalarının yüklenmeleri hızlanır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi sayfaya genişliği 300 yüksekliği 300 olan bir tuval eklememizi sağlar?",
+    "seçenekler": [
+      "A) <canvas></canvas>",
+      "B) <canvas height=\"\"\"\"”300”\"\"\"\" width=\"\"\"\"”300”\"\"\"\">",
+      "C) <img />",
+      "D) <figure>  </figure>",
+      "E) <svg></svg>"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "CSS Flexbox özelliklerinden order varsayılan aşağıdaki hangi değeri alır?",
+    "seçenekler": [
+      "A) -1",
+      "B) 0 (sıfır)",
+      "C) 1",
+      "D) 2",
+      "E) 10"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdaki uygulamalardan hangisi Geolocation API ile birlikte kullanıcının konumunu bulmak için kullanılmaktadır?",
+    "seçenekler": [
+      "A) Gmail",
+      "B) Google Maps",
+      "C) Adobe Reader",
+      "D) Teamviewer",
+      "E) Postman"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 5 Google'ın maps hizmetini kullanarak kullanıcının enlem ve boylamı harita üzerinde gösterilebilir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi kullanıcının var olan seçenekler arasından en az bir adet seçim yapması istendiği durumda kullanılan form kontrolüdür?",
+    "seçenekler": [
+      "A) checkbox",
+      "B) radio",
+      "C) selectbox",
+      "D) inputbox",
+      "E) dropbox"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir HTML tablodaki satırları bir açık bir koyu renkte olacak şekilde renklendirir?",
+    "seçenekler": [
+      "A) table-colored",
+      "B) row-colored",
+      "C) table-striped",
+      "D) row-striped",
+      "E) table-bordered"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdaki alan adı uzantıları ve kullanım alanı eşleştirmelerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) .com - Eğitim kurumları tarafından kullanılır.",
+      "B) .biz - İş ile ilgili konularda kullanılır.",
+      "C) .org - Organizasyonlar için kullanılır.",
+      "D) .gov - Hükûmet kurumları tarafından kullanılır.",
+      "E) .net - Network altyapılarında kullanılır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Com - Genel ve ticari konularda kullanılır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "CSS kodlarının sıfırdan yazılması yerine hazır CSS kütüphaneleri kullanılmaktadır. Aşağıdakilerden hangisi CSS kütüphanesine örnek değildir?",
+    "seçenekler": [
+      "A) HTML",
+      "B) Bootstrap",
+      "C) Semantic - UI",
+      "D) Foundation",
+      "E) Materialize"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 CEVAP ANAHTARI"
+  }
+]

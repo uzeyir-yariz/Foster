@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "I. Dithering sürekli tonların benzerini üretir. II. Dithering, üçüncü bir rengin görünümünü vermek için farklı renklerin bitişik piksellerini kullanmak demektir. III. Dithering bir pikselin alpha derecesidir. Dithering ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Photoshop programı yardımıyla web ortamında yüksek çözünürlükte resimlerin kullanılabilmesi için ................ özelliğinden yararlanılmaktadır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) çalışma alanı",
+      "B) zoomify",
+      "C) yeniden örnekleme",
+      "D) çalışma yüzeyi",
+      "E) Pixar"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 Web ortamında yüksek çözünürlükte olan ve detaylarının daha iyi görünebileceği resimler koyulabilir. Photoshop programında bunu yapabilmek için zoomify isimli bir özellik kullanılmaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Adobe Photoshop CC programında hazırlanan bir animasyon dosyasının web üzerinden görüntülenebilmesi için aşağıdaki dosya uzantısından hangisiyle kaydedilmesi gerekir?",
+    "seçenekler": [
+      "A) *.jpg",
+      "B) *.png",
+      "C) *.tif",
+      "D) *.gif",
+      "E) *.ico"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 Oluşturulan videolar veya animasyonlar QuickTime filmleri, PSD dosyaları olarak kaydedilebilir. Ancak oluşturulan animasyonların web üzerinden görüntülenebilmesi için GIF uzantılı olarak kaydedilmelidir"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Photoshop programında var olan (oluşturulmuş) bir eylemi yüklemek için hangi komut kullanılmaktadır?",
+    "seçenekler": [
+      "A) Eylemleri Sıfırla",
+      "B) Tüm Eylemleri Temizle",
+      "C) Eylemleri Değiştir",
+      "D) Eylemleri Yükle",
+      "E) Eylemleri Kaydet"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Otomatik hizalama seçeneklerini kullandıktan sonra, Düzenle menüsünden “.................” seçeneğini kullanarak hizalama ile ilgili daha detaylı ayarlamalar yapılabilir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Silindirik dönüştürme",
+      "B) Serbest dönüştürme",
+      "C) Küresel dönüştürme",
+      "D) Perspektif dönüştürme",
+      "E) Kolaj dönüştürme"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 Otomatik hizalama seçeneklerini kullandıktan sonra, Düzenle menüsünden Serbest Dönüştürme seçeneğini kullanarak hizalama ile ilgili daha detaylı ayarlamalar yapılabilir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi grafik üzerindeki diyagonal çizgi aracılığıyla görüntünün tonlarının ayarlanmasını sağlar?",
+    "seçenekler": [
+      "A) Canlılık",
+      "B) Renk Dengesi",
+      "C) Eğriler",
+      "D) Siyah Beyaz",
+      "E) Fotoğraf Filtresi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 10 Eğriler özelliği sayesinde grafik üzerindeki diyagonal çizgi aracılığıyla görüntünün tonlarının ayarlanması sağlanır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "..................., renk çemberinde birbirinin karşısında yer alan renklerdir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Benzer renkler",
+      "B) Tamamlayıcı renkler",
+      "C) Triadik renkler",
+      "D) Ayrık tamamlayıcı renkler",
+      "E) Tetradic renkler"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 3 Tamamlayıcı Renkler (Complementary): Tamamlayıcı renkler renk çemberinde birbirinin karşısında yer alan renklerdir"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Photoshop programında var olan veya oluşturan bir eylemi birden çok görsel üzerinde tek seferde uygulamak için aşağıdaki komutlardan hangisi kullanılmaktadır?",
+    "seçenekler": [
+      "A) Dosya / İçe Aktar",
+      "B) Katman / Katmanları Grupla",
+      "C) Dosya / Otomatikleştir / Toplu İş",
+      "D) Seç / Katmanları Yalıt",
+      "E) Görüntü / Görüntü Döndürme"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 Var olan veya oluşturan bir eylemi birden çok görsel üzerinde tek seferde uygulamak için Şekil 12.19' da gösterildiği üzere Dosya / Otomatikleştir / Toplu İş seçeneği kullanılmaktadır. Toplu iş komutu bir eylemin otomatik ve toplu olarak bir dosya grubuna uygulanması sağlar."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında gizli katmanlar dâhil olmak üzere bütün katmanları birleştirerek resmin tek bir katman hâline gelmesini sağlayan işleme ne ad verilir?",
+    "seçenekler": [
+      "A) Görüneni birleştir",
+      "B) Görüntüyü düzleştir",
+      "C) Katmanı çoğalt",
+      "D) Katmanları bağla",
+      "E) Katman stilini rasterleştir"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "\"\"Lorem İpsum Ögesini Yapıştır\"\" sekmesi aşağıdaki menülerin hangisinde yer alır?",
+    "seçenekler": [
+      "A) Pencere",
+      "B) Görünüm",
+      "C) Düzen",
+      "D) Giriş",
+      "E) Metin"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Son olarak en alt kısma bir yazı bölgesi eklenir ve bu bölgeye Metin > Lorem İpsum Ögesini Yapıştır menüsünden hazır bir metin eklenir. Tasarımın son hali Şekil 14.14'deki gibidir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında yapılabilecek işlemler ve program kullanımı hakkında yardım sağlayan panel aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Araçlar paneli",
+      "B) Geçmiş paneli",
+      "C) Renk paneli",
+      "D) Eğitim paneli",
+      "E) Seçenekler çubuğu"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 4 Eğitim paneli: Adobe Photoshop CC 2018 programında yapılabilecek işlemler ve program kullanımı hakkında yardım sağlayan paneldir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop'un açabileceği dosyalardan biridir?",
+    "seçenekler": [
+      "A) PNG",
+      "B) MPEG",
+      "C) WAW",
+      "D) MP4",
+      "E) MP3"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Photoshop, JPG, GIF, TIFF, PDF, PNG BMP gibi birçok resim ve belge biçimindeki dosyayı açabilir ve o biçimde kaydedebilir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi çözünürlükten bağımsız olarak detay kaybetmeden yeniden ölçeklendirilebilen görüntü türüdür?",
+    "seçenekler": [
+      "A) Bitmap",
+      "B) Vektör Grafik",
+      "C) Piksel Grafik",
+      "D) JPG",
+      "E) GIF"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki katman stillerinden hangisi, katmanın kenarlarına çerçeve ekler?",
+    "seçenekler": [
+      "A) Gölge",
+      "B) Renk Kaplama",
+      "C) Kontur",
+      "D) Dış Işıma",
+      "E) Degrade Kaplama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi metinleri kullanırken görselliğin daha güçlü olması için dikkat edilmesi gerekenler arasında yer almaz?",
+    "seçenekler": [
+      "A) Metinler, gözü yoracak biçimde yoğun olmamalıdır.",
+      "B) Metinler, görseldeki diğer bileşenlerle uyumlu olmalıdır.",
+      "C) Anahtar kelime kullanmak yerine cümleler bütün hâlde yazılarak anlatım güçlendirilmelidir.",
+      "D) Metinlerin etrafına gereksiz bileşenler eklenmemelidir.",
+      "E) Olası yazım hatalarını gidermek için metin gözden geçirilmelidir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Cümleleri bütün halde yazmak yerine anahtar kelimelerle daha çarpıcı tasarımlar elde edilmelidir."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi tanıtım veya reklam amaçlı kullanılabilecek önemli bir tasarımdır?",
+    "seçenekler": [
+      "A) Kartvizit",
+      "B) Afiş",
+      "C) Kitap",
+      "D) Logo",
+      "E) Dergi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Afişler; tanıtım veya reklam amaçlı kullanılabilecek önemli tasarımlardır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "................. ayarlaması, renkli bir görüntüyü gri tonlamaya dönüştürmeye olanak sağlar. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Ters Çevir",
+      "B) Renk Arama",
+      "C) Kanal Karıştırıcı",
+      "D) Fotoğraf Filtresi",
+      "E) Siyah Beyaz"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Siyah ve Beyaz ayarlaması, renkli bir görüntüyü gri tonlamaya dönüştürmenize olanak sağlar."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi Filtre içerisindeki filtrelerden biri değildir?",
+    "seçenekler": [
+      "A) Bulanıklaştırma Galerisi",
+      "B) Deforme et",
+      "C) Doku",
+      "D) Sanatsal",
+      "E) Stilize et"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 7 Doğru cevap A şıkkı olarak güncellendi."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Resmin boyutunu azaltmada aşağıdaki yeniden örnekle seçeneklerinden hangisini seçmek daha uygun olur?",
+    "seçenekler": [
+      "A) En yakın komşu",
+      "B) Daha keskin",
+      "C) Daha yumuşak",
+      "D) Çift doğrusal",
+      "E) Ayrıntıları koru"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 Bikübik - Daha Keskin (azaltma): Bikübik enterpolasyonu temel alan bu yöntem resmin boyutunu azaltmada tercih edilebilir."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I.Renk değiştirmek II.Boyut değiştirmek III.Karakter tanıma yapmak Yukarıdakilerden hangisi ya da hangileri Photoshop'ta bir resim üzerinde kolaylıkla yapılabilen işlemdir?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Photoshop' da resim üzerinde kolaylıkla çeşitli düzenlemeler yapılabilmektedir. Düzenleme işlemlerinde öncelikle resmin kullanım amacı doğrultusunda resmin çözünürlüğü ve boyutu, kırpılması, genişletilmesi, esnetilmesi, renk düzenlemesi gibi işlemler yapılabilir. CEVAP ANAHTARI"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde dolaylı tümleç yoktur?",
+    "seçenekler": [
+      "A) Tolga sinemaya gidiyordu.",
+      "B) Ali evi çok dağıtmıştı.",
+      "C) Ahmet'ten zarar gelmez.",
+      "D) Babamla evde oturduk.",
+      "E) Akşam vakti nehirden geçtik."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 Ali evi çok dağıtmıştı."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "I. Türkçede sayı sıfatlarından sonra gelen adlar çoğul eki almazlar. II. Türkçede önlük-artlık (kalınlık-incelik) ve düzlük-yuvarlaklık uyumları vardır. III. Türkçe, diğer Türk dilleriyle birlikte Altay dil ailesinin bir kolunu oluşturur. Yukarıdakilerden hangisi ya da hangileri Türkçenin genel özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Türkiye Türkçesi ve Azerbaycan Türkçesi aşağıdakilerden hangisine dâhildir?",
+    "seçenekler": [
+      "A)  Oğuz Türkçesine",
+      "B)  Çağatay Türkçesine",
+      "C)  Karahanlı Türkçesine",
+      "D)  Doğu Türkçesine",
+      "E)  Uygur Türkçesine"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi ses dilinin çeşitli anlamlarından biri değildir?",
+    "seçenekler": [
+      "A) Eski bir tarihi ve geçmişi olan insan topluluğunun anlaşma vasıtası",
+      "B) Belli bir çağın kelime dağarcığı ve söz dizimi",
+      "C) Bir yörede yaşayan toplumun standart dilden şekilce ayrılmış dili",
+      "D) Bir yazarın, şairin söyleyiş tarzı",
+      "E) Meslek gruplarının anlaşma sistemi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 1 Dil; uzun zaman boyunca tarih, coğrafya, kültür, medeniyet ve toplumsal etkiler ile bütün toplumun kolektif şuurundan, heyecanından ve zekâsından doğmuştur. Fertien doğmuş olmakla birlikte zamanla ferdin malı olmaktan çıkmış, genelleşmiş ve belli biçimler kazanmıştır. Dolayısıyla fert, topluma ait olan bu müessese üzerinde istediği gibi tasarruf etme hakkını kaybetmiştir. Ona yalnızca bu dili konuşma hakkı verilmiştir. Sadece konuşma değil, kurallarına uygun olarak konuşma... Bir millete mensup olan hiç kimse ana dilini bozma, yanlış ve kötü kullanma hakkına sahip değildir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde “bağımlı sıralı” bir yapı söz konusudur?",
+    "seçenekler": [
+      "A) Bize gelirsen beraber gideriz.",
+      "B) Sen ödevlerini yap, sonra dışarı çık.",
+      "C) Ahmet sana bakıyordu, sen görmüyordun.",
+      "D) O kadar güzeldi ki, size anlatamam.",
+      "E) Beni anlayan kimse yoktu."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdaki cümlelerde veya dizelerde kullanılan ikilemelerden hangisi cümleye abartma anlamı katmıştır?",
+    "seçenekler": [
+      "A) Ağır ağır çıkacaksın bu merdivenlerden",
+      "B) Türkülerde tüter dağ dağ, yayla yayla / Köyümüz köylümüz türkülerimiz",
+      "C) Şu yalan dünyaya geldim geleli / Tas tas içtim ağuları sağ iken",
+      "D) Eninde sonunda benim elime düşeceksin",
+      "E) Her yer vıcık vıcık çamurdu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Şu yalan dünyaya geldim geleli / Tas tas içtim ağuları sağ iken."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi Ortak Türkçe Dönemi’nde oluşan yazı dillerinden biri değildir?",
+    "seçenekler": [
+      "A)  Karahanlı Türkçesi",
+      "B)  Harezm Türkçesi",
+      "C)  Kıpçak Türkçesi",
+      "D)  Eski Anadolu Türkçesi",
+      "E)  Göktürk Türkçesi"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdaki atasözlerinin hangisinde yardımcı ses yoktur?",
+    "seçenekler": [
+      "A) Doğru söyleyeni dokuz köyden kovarlar.",
+      "B) İyi dost kara günde belli olur.",
+      "C) Adamın iyisi iş başında belli olur.",
+      "D) Akılsız başın cezasını ayaklar çeker.",
+      "E) Elini ayağını bağlamıştı."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "I. Düşünmeden, tutarsız söz söylemek II. Öç almak III. Bir işi yapmakta acele etmemek IV. Ağzında bakla ıslanmamak Aşağıdakilerden hangisi, yukarıda açıklaması verilen deyimlerden biri değildir?",
+    "seçenekler": [
+      "A) Abuk sabuk konuşmak",
+      "B) Acısını çıkarmak",
+      "C) Ağırdan almak",
+      "D) Ağzı kulaklarına varmak",
+      "E) Sır saklamayı becerememek"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türkçenin ses kurallarına göre şekillenmeyen yabancı kelimeler arasında yer alır?",
+    "seçenekler": [
+      "A) Mandıra",
+      "B) Kilise",
+      "C) Panayır",
+      "D) Enflasyon",
+      "E) Körfez"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 enflasyon"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "“Sudan sebeplerle beni terk edemezsin.” cümlesi yüklemin türüne göre aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İsim",
+      "B) Sıfat",
+      "C) Eylem",
+      "D) Zarf",
+      "E) Zamir"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Daha önceki ünitelerde öğrendiğimiz gibi Türkçede kelimeler, isimler ve fiiller olarak ikiye ayrılmıştı. Cümlede yüklem görevinde kullanılan kelimenin türüne göre cümleler de “fiil cümlesi” ve “isim cümlesi” olarak iki gruba ayrılmaktadır. [1]"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "“Sora sora Bağdat bulunur.” cümlesinin özellikleri aşağıdakilerden hangisinde belirtilmiştir?",
+    "seçenekler": [
+      "A) Olumlu-basit-devrik-eylem",
+      "B) Olumlu-birleşik-kurallı-eylem",
+      "C) Olumsuz-sıralı-kurallı-ad",
+      "D) Olumlu-sıralı-devrik-ad",
+      "E) Olumsuz-birleşik-kurallı-eylem"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 (Cümlenin Ögeleri, Yüklemin Türüne ve Anlamına Göre Cümleler) [2, 3, 4] • Örnek cümle: Akıl akıldan üstündür. Cümlenin ögeleri: Akıl (özne)+akıldan (dolaylı tümleç)+üstündür(yüklem)"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Türkçenin köklü bir dil olmasındaki temel etken aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tarihî geçmişi ve farklı coğrafyalarda olan hâkimiyeti",
+      "B) Sahip olduğu kelime sayısı",
+      "C) Çok fazla değişmeyen yapısı",
+      "D) Sondan eklemeli bir dil olması",
+      "E) Çok fazla tamlama ve kelime grubuna sahip olması"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde yüklem, ek eylem almamıştır?",
+    "seçenekler": [
+      "A) Şiir bizi bir iklimden diğerine götürür.",
+      "B) Ozan, rapor yazan kimse değildir.",
+      "C) El ne kadar hünerli olursa olsun, ona hükmeden kafadır.",
+      "D) İnsanı ayakta tutan tek şey mutluluktur.",
+      "E) Şiir düşüncenin duyguya dönüşmüş şeklidir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Yüklemi çekimli bir fiil olan cümleye “fiil cümlesi” denilmektedir. Yüklem görevinde kullanılan kelime fiil soyludur ve iş, oluş hareket anlamı bildirir. Fiillerin en önemli özelliği olumlu ve olumsuz şekillere girebilmesidir. “Bu gece boyunca yağmurda dolaştım.” cümlesinin yüklemi “dolaştım” kelimesidir. Yüklemin kökü “dolaş-“ fiilidir. Bu sebeple bu cümle yükleminin türüne göre bir fiil cümlesidir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yükleminin yerine göre diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Kapaƴk dükkânı güzel kardeşim.",
+      "B) Soğuk gelir pencereyi kapatmazsan.",
+      "C) Kin güderler bize karşı.",
+      "D) Nefret söylemi var dillerinde.",
+      "E) Yavaş adımlarla eve doğru yürüdüler."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 5. Yükleminin yerine göre nasıl bir cümledir? • Kurallı • Devrik"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Ela gözlerine kurban olduğum Yüzüne bakmaya doyamadım ben İbret için gelmiş cihana Noktadır benlerin sayamadım ben Bu dizelerde aşağıdaki ses olaylarından hangisi yoktur?",
+    "seçenekler": [
+      "A) Ulama",
+      "B) Ünsüz sertleşmesi",
+      "C) Kaynaştırma",
+      "D) Büyük ünlü uyumuna aykırı sözcük",
+      "E) Ünsüz türemesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 Türkçe sözcüklerde ince ve kalın şekilleri bulunan k, g, l ünsüzleri ince ünlülerin yanında ince, kalın ünlülerin yanında kalın okunur."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi Jakobson’a göre dilin işlevlerinden biri değildir?",
+    "seçenekler": [
+      "A) Anlatım",
+      "B) Çağrı",
+      "C) İlişki",
+      "D) Betimleme",
+      "E) Belgesel"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Sayfa 6 paragraf 3 de yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük vurguludur?",
+    "seçenekler": [
+      "A) Sana yapılanları hatırla.",
+      "B) Bekleme arkasına bakmadan gidenleri.",
+      "C) Karanlıkta uyumayı çok severim.",
+      "D) Azar azar çayını yudumladı.",
+      "E) Evin kapısını açık unutmuştu."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Türkiye Türklerinin yazı dili aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Erzurum ağzı",
+      "B) Rize ağzı",
+      "C) Kütahya ağzı",
+      "D) Manisa ağzı",
+      "E) İstanbul ağzı"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 1 - Bir ülkede bir yazı dili varken aynı ülkede birden fazla konuşma dili olabilir. - Konuşma dili doğaldır, yazı dili ise yapay bir dildir. - Yazı dilinde kurallara sıkı sıkıya uyulması gerekirken, konuşma dilinde kurallara çok fazla riayet edilmeyebilir. Zira konuşma dilinde önemli olan anlaşmaktır. - Yazı dilinin kullanım alanı ve etkisi konuşma diline göre daha geniştir. - Konuşma dili günlük hayatia farklılıklar arz ederken yazı dili değişmezdir."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi sıralı birleşik cümledir?",
+    "seçenekler": [
+      "A) Bana ulaşmak için önce telefon etmiş, sonra biriyle haber yollamış, olmayınca kendisi gelmek zorunda kalmıştı.",
+      "B) Balığın yanına bir de salata yaptık mı ziyafet hazır.",
+      "C) Akıllı düşman, akılsız dostian yeğdir.",
+      "D) Düşüncelerini bana aktararak kendi yolunu belirlemeye çalışıyordu.",
+      "E) Daha önce bu soruyu sorsa idi şimdi bu tuzağa düşmeyecekti."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Bana ulaşmak için önce telefon etmiş, sonra biriyle haber yollamış, olmayınca kendisi gelmek zorunda kalmıştı."
+  }
+]

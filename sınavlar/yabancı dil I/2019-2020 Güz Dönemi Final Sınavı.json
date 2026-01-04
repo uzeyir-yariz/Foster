@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "I have .......... friends. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) a lot of",
+      "B) a little",
+      "C) little",
+      "D) much",
+      "E) lots off"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "My sister and my brother .......... twins. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am",
+      "B) is",
+      "C) be",
+      "D) being",
+      "E) are"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "I was .......... bicycle at this time yesterday. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) listening",
+      "B) riding",
+      "C) liking",
+      "D) going",
+      "E) sleeping"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Did he .......... football last Saturday? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) do",
+      "B) did",
+      "C) playing",
+      "D) played",
+      "E) play"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Mustafa / at / got / 7 / up / o'clock Verilen kelimelerle oluşturulabilecek anlamlı ve kurallı cümle aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Mustafa got up at 7 o'clock.",
+      "B) Mustafa at 7 o'clock got up.",
+      "C) Mustafa up got at 7 o'clock.",
+      "D) Mustafa got 7 up at o'clock.",
+      "E) At 7 o'clock, Mustafa up got."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "We......... in Antalya last summer. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) was",
+      "B) were",
+      "C) am",
+      "D) are",
+      "E) is"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 geçmiş zamanda çoğul zamirlerde were kullanılır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "There are .......... oranges in the tree. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) an",
+      "B) any",
+      "C) much",
+      "D) many",
+      "E) a"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 3 Oranges kelimesi çoğul olduğundan, önüne çoğulluğu simgeleyen bir sıfat almalıdır. Bu durumda cevap some veya much olabilir yorumu yapılabilir. Fakat much sayılamayan isimlere gelen bir ön ektir. Dolayısyla cevap some 'dır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Ali is .......... student in the class. The other students are worse than him. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) the good",
+      "B) the betier",
+      "C) the best",
+      "D) the bad",
+      "E) worst"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "The River Nile is .......... river in the world. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) the short",
+      "B) the shorter",
+      "C) the long",
+      "D) the longer",
+      "E) the longest"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "A: .................................... ? B: It’s behind the hospital. Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) What is police station?",
+      "B) Is the police station nice?",
+      "C) Where is the police station?",
+      "D) When will you go to the police station?",
+      "E)  Who will go to police station?"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 Bir yerin veya şeyin nerede olduğu \"\"where is/are\"\" soru kalıbıyla sorulur."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "My sister .......... studying French at Istanbul University now. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) are",
+      "B) is",
+      "C) did",
+      "D) has",
+      "E) doesn't"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "There isn’t .......... sugar and milk in my coffee. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) few",
+      "B) a few",
+      "C) never",
+      "D) any",
+      "E) many"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "We arrived at the ........... late, so we missed the plane. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) airport",
+      "B) theatre",
+      "C) garage",
+      "D) cinema",
+      "E) station"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 Aranan kelime havaalanı \"\"airport \"\" olmalıdır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "It snows here every year .......... December, January, and February. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) in",
+      "B) over",
+      "C) at",
+      "D) for",
+      "E) since"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Veba bir hastalıktır. Cümle ders kitabında geçmektedir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "My pencil is .......... my books and her books. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) at",
+      "B) into",
+      "C) up",
+      "D) between",
+      "E) along"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 iki nesnenin arasında olma durumunda \"\"between\"\" kullanılır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "A: Are you hungry? B: No, I have ............. had breakfast. Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) yet",
+      "B) still",
+      "C) already",
+      "D) now",
+      "E) until"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Perfect tense kullanımında eylemin zaten önceden yapıldığını belirten ifadeler için \"\"already\"\" kullanılır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "They .......... bought a new car before they sold their old car. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) has",
+      "B) had",
+      "C) have",
+      "D) did",
+      "E) haven't"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 İki cümlecik \"\"when\"\" ile bağlanır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "They are .......... their uniforms. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) playing",
+      "B) looking",
+      "C) eating",
+      "D) going",
+      "E) wearing"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "A: Do you play football every day? B: ................................................. Diyalogda aşağıdakilerden hangisi en doğru şekilde tamamlar?",
+    "seçenekler": [
+      "A) Yes, you do.",
+      "B) No, you don't.",
+      "C) Yes, I don't.",
+      "D) No, I don't.",
+      "E) Yes, we don't."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 \"\"Do you play football every day? \"\"( her gün futbol oynar mısın?) sorusu Yes veya No ile başlayacak şekilde cevaplandırılmalıdır. Soru \"\"sen\"\" öznesi için sorulduğundan cevap \"\"ben\"\" şeklinde olmalıdır. Dolayısıyla uygun cevap Yes, I do( Evet yaparım) şeklinde olmalıdır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "A: .............................................................? B: She has been in the hospital for 5 days. Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Have you ever been to the hospital?",
+      "B) Has she been to the hospital?",
+      "C) How long has she been in the hospital?",
+      "D) How many days was she in the hospital for?",
+      "E) How long did she stay in the hospital?"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Eylemin ne kadar süredir geçerli olduğunu sormak için \"\"how long\"\" soru kalıbı kullanılır."
+  }
+]

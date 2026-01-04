@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Belgede bulunan bir ifadeye açıklama eklemek için aşağıdaki hangi sekme kullanılmalıdır?",
+    "seçenekler": [
+      "A) Gözden Geçir",
+      "B) Başvurular",
+      "C) Görünüm",
+      "D) Sayfa Düzeni",
+      "E) Ekle"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Excel’de veri girişinin yapıldığı kutulara hücre denir. Hücrelerin oluşturduğu satırlar ............, sütunlar ise ............  ile tanımlanır. Paragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) semboller - rakamlar",
+      "B) rakamlar - semboller",
+      "C) semboller - harfler",
+      "D) harfler - rakamlar",
+      "E) rakamlar - harfler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 Excel’de veri girişinin yapıldığı kutulara hücre denir. Hücrelerin oluşturduğu satırlar rakamlar, sütunlar ise harfler ile tanımlanır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Word programında hazırlanan bir belgenin standart dosya uzantısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) .xlsx",
+      "B) .docx",
+      "C) .pdf",
+      "D) .aac",
+      "E) .png"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Kaydetme Seçenekleri Kayıt türü değiştirilmez ise standart olarak Office 2016 Word belgesi olarak (dosya adı.docx) kayıt gerçekleştirilir"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "I. CD Okuma II. DVD Okuma III. DVD Yazma Yukarıdakilerden hangisi ya da hangileri DVD okuyucunun özelliklerindendir?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Excel programı üzerinde yer alan ''Ekle'' menüsünden aşağıdakilerden hangisi eklenemez?",
+    "seçenekler": [
+      "A) Formüller",
+      "B) Tablolar",
+      "C) Çizimler",
+      "D) Bağlantılar",
+      "E) Metin"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Ekle sekmesi Excel’e eklenebilecek resim, grafik, özet tablo ve köprü gibi işlevleri içerir. Ekle sekmesinde 5 grup yer alır. Bunlar; Tablolar, Çizimler, Grafikler, Bağlantılar ve Metin gruplarıdır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Belgeye resim, grafik vb. görselleri dâhil etmede kullanılan çizimler grubu aşağıdaki hangi sekmede yer alır?",
+    "seçenekler": [
+      "A) Giriş",
+      "B) Ekle",
+      "C) Sayfa Düzeni",
+      "D) Başvurular",
+      "E) Gözden Geçir"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 Resim Eklemek Word programında belgeye resim eklemek için Ekle sekmesi kullanılır. Çizimler grubunun içinde yer alan Resim seçeneği kullanılarak belgeye resim eklenebilir"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Windows içerisindeki önemli programlardan biri olan sistem .............................. programı ile sistemde daha önce belirlenmiş bir tarihe dönülerek, sistem hataları kolayca giderilebilir. Bu işlemden dosya ve programlar etkilenmez. Paragrafta boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) arama bulma",
+      "B) silme taşıma",
+      "C) destekleme",
+      "D) geri yükleme",
+      "E) yönetme"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 Windows içerisindeki önemli programlardan biri olan sistem geri yükleme programı ile sistemde daha önceki bir tarihte oluşturulan geri yükleme noktasına dönülerek sistem hataları kolayca giderilebilir. Bu işlemden dosya ve programlar etkilenmez."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Fare ile birden fazla ardışık nesnenin seçilmesinde; nesnelerin birincisini fare ile işaretledikten sonra klavyeden  ............. tuşuna basılı tutularak son nesnenin tıklanması ile arada kalan tüm nesneler seçilmiş olur. Seçilecek nesneler ardışık değilse ilk nesne fare ile işaretlendikten sonra klavyeden ........... tuşuna basılı tutularak diğer nesneler fare ile tıklanır. Pragrafta boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) ALT – SHIFT",
+      "B) ALT GR – PRINT SCREEN",
+      "C) CTRL – ALT GR",
+      "D) INSERT - TAB",
+      "E) SHIFT – CTRL"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 5 Birden fazla ardışık nesnenin seçilmesinde ise nesnelerin birincisini fare ile işaretledikten sonra klavyeden SHIFT tuşuna basılı tutularak son nesnenin tıklanması ile arada kalan tüm nesneler seçilmiş olur. Seçilecek nesneler ardışık değilse ilk nesne fare ile işaretlendikten sonra klavyeden CTRL tuşuna basılı tutularak diğer nesneler fare ile tıklanır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Windows işletim sistemlerinde Windows XP’yi hangi versiyon takip etmiştir?",
+    "seçenekler": [
+      "A) Windows Vista",
+      "B) Windows Millenium Edition",
+      "C) Windows 2000",
+      "D) Windows 7",
+      "E) Windows 8"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 Windows 95’i takiben Windows 98, Windows Millenium Edition (ME), Windows 2000, Windows XP, Windows Vista, Windows 7 ve Windows 8 üretildi. Windows işletim sistemlerinin en son sürümü Windows 10’dur."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Resim stilleri içerisinde aşağıdakilerden hangisi yer almaz?",
+    "seçenekler": [
+      "A) Çerçeve",
+      "B) Kenarları eğilimli arka plan",
+      "C) Metal çerçeve",
+      "D) Gölge dikdörtgeni",
+      "E) Resim renk sayısı"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Word programında belgede yapılan değişikliklerin kayıt altına alınması ve gösterilmesi için kullanılan seçenek aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Gözden Geçir",
+      "B) Kabul Et",
+      "C) Değişiklikleri İzle",
+      "D) Reddet",
+      "E) İzlemeyi Kilitle"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 Word 2016 programında belgede yapılan değişikliklerin kayıt altına alınması ve gösterilmesi için Değişiklikleri İzle seçeneği kullanılır"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi bilgileri dosya, klasör ve sürücü adı verilen yapılar altında saklayan ve yazılım donanım iletişimini yöneten yazılımlardır?",
+    "seçenekler": [
+      "A) Özel amaçlı yazılımlar",
+      "B) Genel amaçlı yazılımlar",
+      "C) Uygulama yazılımları",
+      "D) İşletim sistemi yazılımları",
+      "E) Veritabanı yazılımları"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 4 Windows işletim sistemindeki sürücülerin C harfinden başlanarak isimlendirildiği görülür. Klasör: Dosya:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "=B4+B5+B6+B7 işleminin eş değeri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) =TOPLA(B4;B7)",
+      "B) =TOPLA(B4,B7)",
+      "C) =TOPLAMA(B4:B7)",
+      "D) =TOPLA(B4:B7)",
+      "E) =TOPLAMA(B4;B7)"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Donanım üzerindeki PnP (plug and play) işaretinin anlamı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Konum ayarla",
+      "B) Aygıt ekle",
+      "C) Yazılımı güncelle",
+      "D) Varsayılanı kullan",
+      "E) Tak kullan"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 Windows’un takılan yeni donanımı otomatik olarak algılayıp gerekli dosyaları varsa kendiliğinden yükleyerek donanımı kullanıma hazır hale getirmesidir. Bu işlem Tak Kullan (PnP: plug and play) özellikli donanımlar için geçerlidir. Bu tür donanım üzerinde PnP işareti bulunur."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi Excel programında kullanılan bir grafik türü değildir?",
+    "seçenekler": [
+      "A) Çizgi",
+      "B) Pasta",
+      "C) Alan",
+      "D) Yüzey",
+      "E) Denklem"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "(A25E) 16  sayısının onluk tabana çevrimi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 47658",
+      "B) 42356",
+      "C) 36052",
+      "D) 31426",
+      "E) 41566"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 1 (A25E)16= (Ex160)+ (5x161)+ (2x162)+(Ax163) (A25E)16= (14x160)+ (5x161)+(2x162)+ (10x163) (A25E)16= (14x1)+ (5x16)+(2x256)+(10x4096) (A25E)16= 41.566"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Seçilen metindeki yazı tipi boyutu, biçimi ve yazı tipi gibi özelliklerinin başka bir metinde yapıştırılması aşağıdaki hangi araç ile yapılır?",
+    "seçenekler": [
+      "A) Belge özellikleri",
+      "B) Biçim boyacısı",
+      "C) Biçimlendirmesi",
+      "D) Numaralandırma",
+      "E) Stiller"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Word programında maddeleme işlemini iptal etmek için aşağıdakilerden hangisi yapılmalıdır?",
+    "seçenekler": [
+      "A) Enter tuşuna basılmalıdır.",
+      "B) Otomatik iptal edilir.",
+      "C) Kenarlık eklenilerek.",
+      "D) Esc tuşuna basılmalıdır.",
+      "E) Enter tuşuna iki defa basılmalıdır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 Maddeleme işlemini iptal etmek için iki defa Enter tuşuna basmak yeterlidir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Excel’de =ORTALAMA(B1:B5) işleminin açılımı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) =(B1+B5)/2",
+      "B) =B1/B5",
+      "C) =B5/B1",
+      "D) =(B1+B2+B3+B4+B5)/2",
+      "E) =(B1+B2+B3+B4+B5)/5"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Belirli bir kritere uyan verileri görüntülerken diğer verilerin gizlenmesini sağlamak için aşağıdaki işlemlerden hangisi yapılmaktadır?",
+    "seçenekler": [
+      "A) Sıralama",
+      "B) Filtreleme",
+      "C) Ölçek belirleme",
+      "D) Koşullu biçimlendirme",
+      "E) Alan belirleme"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Sıralama işlemi eldeki verilerin belirli bir kritere göre yeniden sıralanması için kullanılır. Sıralama işlemleri sütunlar ve satırlar üzerinde yapılabilir. Filtreleme işlemi temel olarak belirli bir kritere uyan verileri görüntülerken diğer verilerin gizlenmesini sağlamaktadır. Filtreleme işlemi ile uzun tablolar istenilen kriterlere göre kısaltılabilir. Bu sayede sadece işlem yapılacak veriler görüntülenerek yapılan işlemlerde zaman kaybı önlenir."
+  }
+]

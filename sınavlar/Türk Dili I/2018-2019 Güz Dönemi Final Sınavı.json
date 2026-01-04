@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi anlamına göre olumsuz soru cümlesidir?",
+    "seçenekler": [
+      "A) Hasan fabrikadan çıkmış mıydı?",
+      "B) Odanın her köşesi nergis kokmuyor muydu?",
+      "C) Geçen gün buraya gelmiş miydi?",
+      "D) Bahçenin etrafını kazmak istiyor muydunuz?",
+      "E) Okulun önünde bekledin mi?"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Odanın her köşesi nergis kokmuyor muydu?"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi kurallı bir cümledir?",
+    "seçenekler": [
+      "A) Bütün gün düşündüm yalnızlığımı ve çaresizliğimi.",
+      "B) Komiser, elli yaşlarında, babacan, güler yüzlü bir adamdı.",
+      "C) Karda gezip izini belli etmeyen bir tilkidir o.",
+      "D) Muhabbet bir Köroğlu’dur artık.",
+      "E) Boş değil etiğin niyaz."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Komiser, elli yaşlarında, babacan, güler yüzlü bir adamdı."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Türkiye Türkçesi ve Azeri Türkçesi aşağıdakilerden hangisine dâhildir?",
+    "seçenekler": [
+      "A)  Çağatay Türkçesine",
+      "B)  Oğuz Türkçesine",
+      "C)  Karahanlı Türkçesine",
+      "D)  Doğu Türkçesine",
+      "E)  Uygur Türkçesine"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdaki atasözlerinden hangisi ölçülü ve kafiyeli olarak söylenmiştir?",
+    "seçenekler": [
+      "A) Bol bol yiyen, bel bel bakar.",
+      "B) Deveye boynun eğri demişler; nerem doğru ki demiş.",
+      "C) At ölür meydan kalır, yiğit ölür şan kalır.",
+      "D) Akıllı düşman, akılsız dostian hayırlıdır.",
+      "E) Kaynayan kazan kapak tutmaz."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "At ölür meydan kalır, yiğit ölür şan kalır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde yer bildiren kelime vurgulu söylenmiştir?",
+    "seçenekler": [
+      "A) Bugün arkadaşımla kütüphanede çalıştım.",
+      "B) Bugün okula Ahmet gelmedi.",
+      "C) Nehir kenarında büyük bir ağaç vardı.",
+      "D) Yarın Ankara'ya uçakla gideceğiz.",
+      "E) Erzurum Türkiye'nin en soğuk ilidir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Bugün arkadaşımla kütüphanede çalıştım. (kütüphane)."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "\"\"Göz\"\" kelimesi aşağıdaki cümlelerin hangisinde yan anlamda kullanılmıştır?",
+    "seçenekler": [
+      "A) Göz açıp gördüğüm, gönül verip sevdiğim bir kişi idi.",
+      "B) Masanın gözündeki kâğıtları alıp bana getirdi.",
+      "C) Göz hastalıkları ile ilgili bir çalışma yapıyordu.",
+      "D) Gözüne bakınca nereli olduğunu anladı.",
+      "E) Üzüntüsünden dolayı gözlerinden yaşlar akıyordu."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Masanın gözündeki kağıtları alıp bana getirdi."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi biçimce olumsuz anlamca olumlu bir cümledir?",
+    "seçenekler": [
+      "A) Gerçek belirince yalan ortadan kalkar.",
+      "B) Dedesi iyi bir insan değildi.",
+      "C) Her güzel görünen iyi değildir.",
+      "D) Para ile satın alınan sadakat, daha fazla para ile de satılır.",
+      "E) Nasıl cevap vereceğini bilmiyor değildi."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Nasıl cevap vereceğini bilmiyor değildi."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerin hangisinde büyük sesli uyumu kuralına uymayan bir kelime vardır?",
+    "seçenekler": [
+      "A) Sabahtan beridir ince bir yağmur.",
+      "B) Kapılar kapanmış, sokaklar çamur.",
+      "C) Yağıyor soğuk bir sesle karışık.",
+      "D) Dışarıdan ne bir ses, ne de bir ışık geliyor.",
+      "E) Evler sıra sıra ardışık bir halde."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisinde \"\"Türkçede cümle içerisinde anlam yükünü temel olarak taşıyan ögeler\"\" bir arada verilmiştir?",
+    "seçenekler": [
+      "A) Yüklem ve özne",
+      "B) Yüklem ve nesne",
+      "C) Yüklem ve dolaylı tümleç",
+      "D) Özne ve nesne",
+      "E) Özne ve zarf tümleci"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Yüklem ve özne"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "\"\"Arkadaşımın evinde gördüğüm tablolar bana çocukluğumda yaşadığım yerleri bütün ayrıntılarıyla anımsaƴ.\"\" ifadesi yüklemin cümledeki yerine göre nasıl bir cümledir?",
+    "seçenekler": [
+      "A) Devrik cümle",
+      "B) Eksiltili cümle",
+      "C) Kurallı cümle",
+      "D) Fiil cümlesi",
+      "E) İsim cümlesi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Kurallı cümle"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Dilimizde bulunan Arapça- Farsça kökenli bazı kelimelerde uzun heceler vardır. Uzun seslerde istisnai bir durum olarak vurgu, uzatılan hece üzerinde görünür. Aşağıdaki kelimelerden hangisi buna bir örnek olamaz?",
+    "seçenekler": [
+      "A) Mücadele",
+      "B) Kâtip",
+      "C) Şair",
+      "D) Zeki",
+      "E) Kaya"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Kaya"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdaki atasözlerinden hangisinde \"\"bir başkasının hakkında hüküm verme\"\" gerekçesi vurgulanmıştır?",
+    "seçenekler": [
+      "A) Bülbülü altın kafese koymuşlar “Ah vatanım!” demiş.",
+      "B) Sabreden derviş muradına ermiş.",
+      "C) Tarlada izi olmayanın harmanda yüzü olmaz.",
+      "D) Tembele iş buyur sana akıl öğretsin.",
+      "E) Ağlamayan çocuğa meme vermezler."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Tarlada izi olmayanın harmanda yüzü olmaz."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi sıralı birleşik cümledir?",
+    "seçenekler": [
+      "A) Bana ulaşmak için önce telefon etmiş, sonra biriyle haber yollamış, olmayınca kendisi gelmek zorunda kalmıştı.",
+      "B) Balığın yanına bir de salata yaptık mı ziyafet hazır.",
+      "C) Akıllı düşman, akılsız dostian yeğdir.",
+      "D) Düşüncelerini bana aktararak kendi yolunu belirlemeye çalışıyordu.",
+      "E) Daha önce bu soruyu sorsa idi şimdi bu tuzağa düşmeyecekti."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Bana ulaşmak için önce telefon etmiş, sonra biriyle haber yollamış, olmayınca kendisi gelmek zorunda kalmıştı."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki dillerden hangisi Ural-Altay dillerinden biri değildir?",
+    "seçenekler": [
+      "A)  Fince",
+      "B)  Moğolca",
+      "C)  Mançuca",
+      "D)  Arapça",
+      "E) Tunguzca"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Söz ola kese savaşı, Söz ola kestire başı Söz ola ağulu aşı, Bal ile yağ ede bir söz.                Yunus EMRE Verilen dörtlükte dilin aşağıdaki özelliklerinden hangisi üzerinde durulmuştur?",
+    "seçenekler": [
+      "A) İletişimdeki rolüne",
+      "B) Canlı bir varlık oluşuna",
+      "C) Sosyal oluşuna",
+      "D) Belirsizliğine",
+      "E) Kültürün aynası olmasına"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A)  Uzunca bir zamanda oluşmuştur.",
+      "B)  Dil canlı bir organizma gibi doğar, yaşar ve özen gösterilmezse ölür.",
+      "C)  Her dilin üretim yeteneği sınırlıdır.",
+      "D)  Anlaşmayı sağlar.",
+      "E)  Dil bir gizli antlaşmalar sistemidir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "“Saz” kelimesinin hem “çalgı aleti” hem de “sulak alan” anlamında kullanılması aşağıdakilerden hangisini ifade eder?",
+    "seçenekler": [
+      "A)  Terim ifadelerin varlığını",
+      "B) Ses kurallarının esnek olduğunu",
+      "C)  Bir sözcüğün hem gerçek hem mecaz anlamda kullanılabileceğini",
+      "D)  Türkçenin yapısının esnek olduğunu",
+      "E)  Bir sözcüğün birden fazla anlamı karşıladığını"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi cümle değildir?",
+    "seçenekler": [
+      "A) Okuyordum.",
+      "B) Sınıfta okuyordum.",
+      "C) Sınıfta arkadaşımla okuyordum.",
+      "D) Okumuyordum kütüphanede.",
+      "E) Arkadaşımla gezerken."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Arkadaşımla gezerken (yüklem olmadığı için cümle olamaz)."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdaki kavramlardan hangisi \"\"gerçek anlamından farklı bir anlam taşıyan ve çekici bir anlatım özelliğine sahip olan kelime öbeği\"\" şeklinde tanımlanır?",
+    "seçenekler": [
+      "A) Mecaz anlam",
+      "B) Yan anlam",
+      "C) Eş anlam",
+      "D) Deyim anlam",
+      "E) Temel anlam"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Deyim anlam"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisinde topluluk ismi vardır?",
+    "seçenekler": [
+      "A) Adamı hasta yatağında çok üzdük.",
+      "B) Askerlikte nöbetsiz günüm geçmedi.",
+      "C) Deprem birçok insanı yalnız bıraktı",
+      "D) Kavimler göçünün sebeplerini iyi bilmeliyiz.",
+      "E) Her gece kâbus görmekten bıkmış."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  }
+]

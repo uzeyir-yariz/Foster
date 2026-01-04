@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi mobil öğrenmenin eğitim-öğretim sürecine getirdiği zorluk/sınırlılıklardan değildir?",
+    "seçenekler": [
+      "A) Güvenlik ve mahremiyet sorunlarının yaşanması",
+      "B) Ekran boyutu, bellek vb. gibi sınırlı fiziksel özellikler",
+      "C) İnternet bağlantılı mobil cihazların öğrenmede dikkat dağınıklığı riski oluşturması",
+      "D) Birçok okul ve kolejde mobil cihaz kullanımının yasaklanması",
+      "E) Kırsal kesimde yaşayanlar için zayıf ağ bağlantısı"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Excel programını yeni öğrenen Ahmet A4 hücresine “=(A1+ A2+ A3)/3” formülünü yazmıştır. Ahmet aşağıdaki fonksiyonlardan hangisini kullanarak bu işlemi daha kısa bir şekilde yapabilir?",
+    "seçenekler": [
+      "A) EGERSAY",
+      "B) TOPLAMA",
+      "C) BAG_DEG_SAY",
+      "D) ORTALAMA",
+      "E) EGER"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Word programında yapılan değişikliklerin otomatik olarak kaydedilmesi, değişen kısımların farklı renklerle gösterilmesi, kayıt altına alınması ve gösterilmesi için aşağıdaki hangi sekme ve komutlar ile izleme başlatılır?",
+    "seçenekler": [
+      "A) Gözden Geçir sekmesinin İzleme grubunda bulunan Değişiklikleri İzle düğmesi ile izleme başlatılır.",
+      "B) Başvurular sekmesinin İzleme grubunda bulunan Değişiklikleri İzle düğmesi ile izleme başlatılır.",
+      "C) Giriş sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır.",
+      "D) Giriş sekmesinin İzleme grubunda bulunan Değişiklikleri İzle düğmesi ile izleme başlatılır.",
+      "E) Gözden Geçir sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "“=TOPLA(C3:C6)” fonksiyonunun açılımı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) =C4+C5",
+      "B) =(C3+C6)/2",
+      "C) =C3+C4+C5+C6",
+      "D) =C3+C6",
+      "E) =(C3+C4+C5+C6)/2"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi Öğrenme Yönetim Sistemlerinin (ÖYS) sistem düzeyindeki rollerdendir?",
+    "seçenekler": [
+      "A) Öğrenci",
+      "B) Misafir",
+      "C) Düzenleme yapamayan eğitimci",
+      "D) Eğitimci",
+      "E) Tema/Arayüz sorumlusu"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Verilerin belli bir işleme tabi tutularak anlamlı bir hâle getirilmesi sonucunda aşağıdakilerden hangisi oluşur?",
+    "seçenekler": [
+      "A) Veritabanı",
+      "B) Enformasyon",
+      "C) Bilgelik",
+      "D) Ağ",
+      "E) Bilgi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Word 2021'de Dosya menüsünde yer alan Belgeyi Koru seçeneği kullanılarak aşağıdakilerden hangisi yapılabilir?",
+    "seçenekler": [
+      "A) Belgeyi paylaşma",
+      "B) Erişebilirliği denetleme",
+      "C) Uyumluluğu denetleme",
+      "D) Belgeyi inceleme",
+      "E) Dijital imza ekleme"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Belirli gönüllü topluluklar tarafından geliştirilmiş ücretsiz Öğrenme Yönetim Sistemleri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Açık Yönetimli ÖYS'ler",
+      "B) Açık Kaynak Kodlu ÖYS'ler",
+      "C) Açık Merkezli ÖYS'ler",
+      "D) Açık Lisanslı ÖYS'ler",
+      "E) Açık Sistemli ÖYS'ler"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "I. Dosya transfer etme II. Hiperlinkler gönderme III. Video chat yapma IV. Sesli/görüntülü dosya gönderme Yukarıdakilerden hangisi ya da hangileri anlık mesajlaşma uygulamalarının sunduğu olanaklar arasında yer alır?",
+    "seçenekler": [
+      "A) I, II, III ve IV",
+      "B) Yalnız II",
+      "C) I, III ve IV",
+      "D) I ve III",
+      "E) Yalnız I"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Excel programında satır ve sütunların kesiştiği kutucuklar ne ile adlandırılmaktadır?",
+    "seçenekler": [
+      "A) Formül",
+      "B) Excel alanı",
+      "C) Harf",
+      "D) Rakam",
+      "E) Hücre"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi iletişim sürecinin öğelerinden değildir?",
+    "seçenekler": [
+      "A) Alıcı",
+      "B) Kanal",
+      "C) Teknoloji",
+      "D) Kaynak",
+      "E) Geri bildirim"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi mobil teknolojiler arasında yer almaz?",
+    "seçenekler": [
+      "A) Dijital asistanlar",
+      "B) Akıllı telefonlar",
+      "C) Giyilebilir teknolojiler",
+      "D) Tabletler",
+      "E) Masaüstü bilgisayar"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Açık ve uzaktan öğretimde kullanılan materyaller arasında olan e- kitaplar, animasyonlar, videolar, sesli okumaların hazırlanmasında öğretim tasarımcısı, grafikerler, ses ve video uzmanları, kameramanlar, senaryo geliştiriciler gibi alanında uzman kişiler görev alır. Açıklamada bahsedilen açık ve uzaktan öğretim paydaşı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İçerik Geliştiriciler",
+      "B) Öğretici",
+      "C) Destek Sağlayıcılar",
+      "D) Ölçme Değerlendirme Uzmanları",
+      "E) Bilgi İşlem Uzmanları"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Kullanıcının yaptığı rutin işleri daha hızlı ve otomatik yapabilmesi için aşağıdaki hangi gruptaki komutları kullanılması gerekmektedir?",
+    "seçenekler": [
+      "A) Pencere",
+      "B) Değişiklikler",
+      "C) Yazım",
+      "D) Makrolar",
+      "E) Sırala ve Filtre Uygula"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi sistem yazılımlarından biri değildir?",
+    "seçenekler": [
+      "A) Pardus",
+      "B) Ms Word",
+      "C) MacOS",
+      "D) Ubuntu",
+      "E) Windows 10"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi devlet kurumlarının kullandığı internet adresi uzatısıdır?",
+    "seçenekler": [
+      "A) .dev",
+      "B) .trz",
+      "C) .k12",
+      "D) .gov",
+      "E) .edu"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Farklı mekânlarda bulunan öğretici ve öğrenenlerin aynı anda web destekli cihazlarla katılım sağladıkları öğrenme ortamı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Karma",
+      "B) Eş zamanlı",
+      "C) Eş zamanlı olmayan",
+      "D) Yüz yüze",
+      "E) Geleneksel"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi eş zamanlı olmayan öğrenme ortamlarından biri değildir?",
+    "seçenekler": [
+      "A) Web günceleri (Blog)",
+      "B) Podcast",
+      "C) E-posta",
+      "D) Videokonferans",
+      "E) Forum"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Word programında kalın, italik, sola hizala ve yazı tipi komutları aşağıdaki sekmelerin hangisinde yer alır?",
+    "seçenekler": [
+      "A) Ekle",
+      "B) Çiz",
+      "C) Giriş",
+      "D) Düzen",
+      "E) Tasarım"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I. Transistörlerin geliştirilmesi ile bilgisayar teknolojisi yeni bir döneme girmiştir. II. Entegre devreler ile boyutları küçülen bilgisayarlar daha çok kişi tarafından ulaşılabilir olmuştur. III. Bilgisayarlar entegre devre ve yonga setlerinin etkisiyle daha da küçülmüş ve yaygınlaşmıştır. İşletim sistemlerinin tarihçesi ile ilgili olarak yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız II",
+      "B) Yalnız I",
+      "C) I, II ve III",
+      "D) I ve II",
+      "E) II ve III"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "MS Word'de klavye kullanılarak etkin alana ait alt menüyü gösteren tuş bileşeni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) ALT",
+      "B) Shift + F10",
+      "C) Boşluk Çubuğu/Enter",
+      "D) F10 + Sol Ok - Sağ Ok",
+      "E) F10 + Tab"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi mobil cihazların öğrenmedeki önemli rollerinden biri değildir?",
+    "seçenekler": [
+      "A) Sınıf içi veya dışı her yerde ve her zaman iletişim sağlama",
+      "B) Akran veya eğitmenlerle etkileşime girebilme",
+      "C) Yazılımların hızla güncellenmesi",
+      "D) Aktif bir şekilde öğrenmeye katılabilme",
+      "E) Ödev, belge, video, ses vb. çoklu ortam destekli materyaller paylaşma"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi karşı tarafa mesaj gönderirken bu mesajlara grafik eklenmesine izin veren mobil teknolojilerdendir?",
+    "seçenekler": [
+      "A) MMS",
+      "B) WAP",
+      "C) MP3",
+      "D) SMS",
+      "E) GPRS"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi kaynak ve alıcının aynı zaman dilimi içerisinde yer almadığı, herhangi bir zaman dilimi içerisinde teknoloji aracılığıyla sürece dâhil olduğu iletişim türüdür?",
+    "seçenekler": [
+      "A) Geleneksel",
+      "B) Hibrit",
+      "C) Eş zamanlı",
+      "D) Eş zamanlı olmayan",
+      "E) Yüz yüze"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Genel olarak iletim yöntem veya ortamını (medya) içeren ve iletilerin sözlü, sözsüz, durağan ya da hareketli görseller biçimlerinde aktarıldığı iletişim ögesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Mesaj",
+      "B) Kaynak",
+      "C) Kanal",
+      "D) İletişim engelleri",
+      "E) Geri bildirim"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir virüs türü değildir?",
+    "seçenekler": [
+      "A) Ön yükleme virüsleri",
+      "B) Truva atı",
+      "C) Casus yazılımlar",
+      "D) Solucanlar",
+      "E) Scriptler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "32 kişilik sınıf listesinde derse katılım, ödev notu, vize sınavı ve final sınavı notlarının her birinde 85 üzerinde kaç not olduğunun sayısı hangi fonksiyon ile belirlenebilir?",
+    "seçenekler": [
+      "A) MİN",
+      "B) MAK",
+      "C) EĞER",
+      "D) EĞERSAY",
+      "E) ORTALAMA"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Özgür, açık kaynak kodlu ve ücretsiz dağıtılan işletim sistemi ailesi hangisidir?",
+    "seçenekler": [
+      "A) Windows 11",
+      "B) Linux",
+      "C) Windows XP",
+      "D) MacOS Ventura",
+      "E) Windows NT"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Excel programı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Tablo satır ve sütunlardan oluşmaktadır.",
+      "B) Satır ve sütunların kesiştiği her bir alan hücre olarak adlandırılmaktadır.",
+      "C) Word programında yer alan tüm tablo biçimlendirme işlemleri Excel programından farklıdır.",
+      "D) Hücreler içerisine yazılacak formüller ile birçok hesaplama işlemi yapılabilmektedir.",
+      "E) Hesap tablo programı olarak adlandırılmaktadır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Word programında bir metnin yazı tipi boyutunu değiştirmek için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) CTRL+SHIFT+Y",
+      "B) CTRL+SHIFT+P",
+      "C) CTRL+ALT+P",
+      "D) ALT+SHIFT+P",
+      "E) ALT+SHIFT+Y"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi içsel bir donanımdır?",
+    "seçenekler": [
+      "A) Modem",
+      "B) Mikrofon",
+      "C) Yazıcı",
+      "D) CD-DVD sürücüler",
+      "E) Hoparlör"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "İnternet tarayıcısında bağlanmak istenilen web sayfasının adresinin yazıldığı alan aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tarayıcı geçmişi",
+      "B) Gizli sekme",
+      "C) Hakkında",
+      "D) Yeni sekme",
+      "E) Adres çubuğu"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi Apple tarafından geliştirilmiş ve sayfa mizanpajı yapmak için de kullanılan kelime işlemci programıdır?",
+    "seçenekler": [
+      "A) iWork Pages",
+      "B) Dropbox Paper",
+      "C) Apache OpenOffice Writer",
+      "D) LibreOffice Writer",
+      "E) Calligra"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi kendi öğrenme sürecini yapılandırmak isteyen bireylerin kolayca erişebileceği, ders içeriği oluşturabileceği, çeşitli öğrenme aktiviteleri yoluyla iş birlikleri veya tartışmalara katılabileceği, iletişim kurabileceği, sosyal medya araçlarını eğitim süreçlerine dâhil eden yapının adıdır?",
+    "seçenekler": [
+      "A) Çevrimiçi Dersler",
+      "B) Kitlesel Açık Çevrimiçi Kurslar (MOOC)",
+      "C) Çevrimiçi Ders Çalışma Araçları",
+      "D) Açık Eğitim Kaynakları",
+      "E) Videolar"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi dördüncü kuşak bilgisayarların temel özelliklerinden biridir?",
+    "seçenekler": [
+      "A) Delikli kartlar",
+      "B) Transistörler",
+      "C) Entegre devreler",
+      "D) Mikroişlemciler",
+      "E) Vakumlu tüpler"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "George Siemens ve Stephen Downes'ın MOOC uygulaması aşağıdaki kuramlardan hangisi üzerine kurulmuştur?",
+    "seçenekler": [
+      "A) Davranışçı",
+      "B) Bilişsel",
+      "C) Bağlantıcı",
+      "D) Yapıcı",
+      "E) Duyuşsal"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Açıköğretim ve uzaktan eğitim programlarındaki en önemli fark aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Derslerin uzaktan yürütülmesi",
+      "B) Özgür ve esnek erişim imkânı",
+      "C) Kurumsal denetim",
+      "D) Güncel teknolojilerin kullanılması",
+      "E) Öğreticilerin rol alması"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Word programında yapılan değişikliklerin otomatik olarak kaydedilmesi, değişen kısımların farklı renklerle gösterilmesi, kayıt altına alınması ve gösterilmesi için aşağıdakilerden hangi sekme ve komutlar ile izleme başlatılır?",
+    "seçenekler": [
+      "A) Gözden Geçir sekmesinin İzleme grubunda bulunan Değişiklikleri İzle düğmesi ile izleme başlatılır.",
+      "B) Giriş sekmesinin İzleme grubunda bulunan Değişiklikleri İzle düğmesi ile izleme başlatılır.",
+      "C) Gözden Geçir sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır.",
+      "D) Başvurular sekmesinin İzleme grubunda bulunan Değişiklikleri İzle düğmesi ile izleme başlatılır.",
+      "E) Giriş sekmesinde yer alan Değişiklikler grubundaki Kabul Et ile izleme başlatılır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Açık ve uzaktan öğretim faaliyetlerinin yönetildiği, internet üzerinden erişilen ve neredeyse tüm öğretim süreçlerinin yönetildiği yazılımlara ne denir?",
+    "seçenekler": [
+      "A) Canlı sınıf yazılımları",
+      "B) Açıköğretim sistemi",
+      "C) Bilgi işlem merkezi",
+      "D) E- kitaplar",
+      "E) Öğrenme yönetim sistemleri"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Öğrenme Yönetim Sistemleri (ÖYS)'de öğrenenlerin öz geçmiş ve yetkinliklerinin yer aldığı modül aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Porƞolyo modülü",
+      "B) Blog modülü",
+      "C) Duyuru modülü",
+      "D) Dahili mesajlaşma modülü",
+      "E) Tartışma modülü"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Visual Studio 2017 bütünleşik geliştirme ortamında yer alan Yeni Proje ekranı ile ilgili olarak aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Projenin ismi belirlenebilir.",
+      "B) Projenin konumu belirlenebilir.",
+      "C) Projede kullanılacak kaynak dosyanın ismi belirlenebilir.",
+      "D) Projede kullanılacak programlama dili belirlenebilir.",
+      "E) Projenin çözüm adı belirlenebilir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "int a = 5, b =10, c= 20; if (a >= 5)              cout<< 1 <<endl; else if (b <= 10)              cout<< 2 <<endl; else if (b > 10)              cout << 3 << endl; else if (c < 10)              cout << 4 << endl; else              cout << 5 << endl; Yukarıda verilen kod bloğunun ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 5"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "(FF) 16  sayısının ikilik sayı sistemindeki karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 11110000",
+      "B) 11111111",
+      "C) 10101111",
+      "D) 01111111",
+      "E) 10100000"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 F, onluk tabanda 15'dir. 1+2+4+8 şeklinde ifade edilir. 1111 şeklinde ikilik sistemde gösterilir. FF ise 8 tane 1 ile 11111111 şeklinde gösterilir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Bilgisayarın elektrik enerjisi kesildiğinde bile aşağıdakilerden hangisindeki veriler silinmez?",
+    "seçenekler": [
+      "A) İşlem birimi",
+      "B) Kontrol birimi",
+      "C) İkincil hafıza birimi",
+      "D) Ağ birimi",
+      "E) Bellek birimi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 1 İkincil depolama birimi başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Bir C++ programının yazılması ve çalıştırılmasında gerçekleşen işlemler aşağıdakilerden hangisinde doğru sırada verilmiştir?",
+    "seçenekler": [
+      "A) Kaynak Dosya Yazımı, Derleme, Çalıştırma, Bağlama",
+      "B) Kaynak Dosya Yazımı, Bağlama, Derleme, Çalıştırma",
+      "C) Derleme, Çalıştırma, Bağlama, Kaynak Dosya Yazımı",
+      "D) Kaynak Dosya Yazımı, Çalıştırma, Derleme, Bağlama",
+      "E) Kaynak Dosya Yazımı, Derleme, Bağlama, Çalıştırma"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4 BÜTÜNLEŞİK GELİŞTİRME ORTAMI başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Algoritma için aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Algoritma bir nevi bir planlama sürecidir.",
+      "B) Algoritmalar sözde kodlarla ifade edilebilirler.",
+      "C) Algoritmalar akış diyagramları ile gösterilebilirler.",
+      "D) Algoritma kurma süreci, programlama sürecinden önce olmalıdır.",
+      "E) Algoritmada iş adımlarının sırası önemsizdir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "int i, a=0, b=0; for (i = 0; a + b < 10 ; i++) {      a++;      b++; } cout << a <<\"\", \"\"<<b<<\"\", \"\"<<i<<endl; Verilen C++ kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 4, 4, 4",
+      "B) 4, 4, 5",
+      "C) 5, 5, 4",
+      "D) 5, 5, 5",
+      "E) 5, 5, 6"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6 Döngüden çıkıldığında a,b ve i'nin değeri 5 olmuştur."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "C++ deyimlerinden hangisinde söz dizimi hatasına neden olan bir durum söz konusu değildir?",
+    "seçenekler": [
+      "A) cout>>a;",
+      "B) cin<",
+      "C) Char a='d';",
+      "D) 4=b+c;",
+      "E) m=5;"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 3"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Bir C++ programının çalışması sırasında, programın herhangi bir kısmında sıfıra bölme hatası meydana gelebilir. Bu hatanın türü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Mantık hatası",
+      "B) Yazım hatası",
+      "C) Çalışma zamanı hatası",
+      "D) Derleme hatası",
+      "E) İşlem hatası"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "SET toplam = 0 SET sayac = 1 DO     toplam = toplam + sayac     sayac = sayac +1 WHILE sayac > 4 DISPLAY toplam Yukarıda verilen sözde kodun çıktısı hangisidir?",
+    "seçenekler": [
+      "A) 0",
+      "B) 1",
+      "C) 3",
+      "D) 6",
+      "E) 10"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 2 sayfa 6 \"\"Döngü: WHILE - ENDWHILE, DO - WHILE, REPEAT - UNTIL\"\" ve akış diyagramlarındaki sayfa 14. DO COMPUTE İşlem (Koşul doğru) WHILE Koşul"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Visual Studio 2017 bütünleşik geliştirme ortamının hangi alanında kod yazım işlemi gerçekleşir?",
+    "seçenekler": [
+      "A) Çözüm Gezgini",
+      "B) Editör Penceresi",
+      "C) Çıktı Penceresi",
+      "D) Takım Gezgini",
+      "E) Araç Kutusu"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 4 Bütünleşik Geliştirme Ortamının Tanıtılması başlıklı konuda anlatılmaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "SET x=5, y=10, toplam=45 WHILE toplam < 70       COMPUTE toplam = toplam + y       COMPUTE y =  y + x ENDWHILE PRINT y, toplam Yukarıda verilen sözde kodun çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 10 45",
+      "B) 15 55",
+      "C) 20 70",
+      "D) 25 90",
+      "E) 30 120"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 2 Sayfa 14 ve 15'te örnek uygulamalar mevcutiur."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Fonksiyon prototipi aşağıdakilerden hangisinde yanlış tanımlanmıştır?",
+    "seçenekler": [
+      "A) int Soru(int a, bool b, double c);",
+      "B) int Soru(int c, bool b, double a);",
+      "C) void Soru(int a, bool b, double c);",
+      "D) bool Soru(int a, bool b, double c);",
+      "E) Soru(int a, bool b, double c);"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 7 Fonksiyonun veri tipi: Fonksiyon gövdesindeki deyimler sonucunda hesaplanan ve diğer fonksiyonlara çıkış olarak döndürülen veri tipi değeridir. Normal değişken tipleri gibi tanımlanır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Fonksiyon prototipi aşağıdakilerden hangisinde yanlış tanımlanmıştır?",
+    "seçenekler": [
+      "A) int Fonk(int a,b);",
+      "B) void Fonk();",
+      "C) void Fonk(int a, int b);",
+      "D) int Fonk();",
+      "E) double fonk(double, int);"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 7 Birden fazla parametre giriş olarak fonksiyona gönderiliyorsa bunlar birbirlerinden virgül ile ayrılırlar. Değişkenlerin veri tipleri tanımlanmış olmalıdır. Fonksiyonun içerisinde fonksiyon giriş parametreleri ile aynı isimli değişken kullanılmamalıdır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "cout<<\"\"Bugun\\nhava\\ncok guzel.\\n\"\"; deyimi çalıştırıldığında ekrana aşağıdakilerden hangisini yazdırır?",
+    "seçenekler": [
+      "A) Bugun hava cok guzel.",
+      "B) Bugun hava cok guzel.",
+      "C) Bugun hava cok guzel.",
+      "D) Bugun hava cok guzel.",
+      "E) Bugun hava cok guzel."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 3 cout"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "int a = 5, b =10, c= 20; if ( a > 5)   cout<< 1 <<endl; else if (b < 10)   cout<< 2 <<endl; else if (b > 10)   cout << 3 << endl; else if (c < 20)   cout << 4 << endl; else cout << 5 << endl; Yukarıda verilen kod bloğunun ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 5"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 5 if-else if Yapısı ile Çoklu Seçim başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Ekrana '\\' karakterini yazdırmak için aşağıdaki kaçış dizilerinden hangisi kullanılır?",
+    "seçenekler": [
+      "A) \\n",
+      "B) \\t",
+      "C) \\a",
+      "D) \\%",
+      "E) \\\\"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 3 “Kaçış Karakterleri” alt bölümü bir paragraftan oluşuyor. Cevap bu paragrafta yer alıyor."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "int a= 5, b = 2; cout << ++a * b-- <<endl; Yukarıda verilen C++ kod parçasının ekran çıktısı hangisidir?",
+    "seçenekler": [
+      "A) 10",
+      "B) 12",
+      "C) 5",
+      "D) 6",
+      "E) 9"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 Önce artma sonra çarpma ve en son eksiltme yapılır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "C++ programlama dilinde mantıksal DEĞİL operatörü olarak aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) &&",
+      "B) ||",
+      "C) #",
+      "D) !",
+      "E) $"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 Tablo 5.3. Mantıksal Operatörler tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "int i; for (i = 0; i <= 10; i++) if (i % 3 > 1 ) break; cout << i << endl; Yukarıda verilen C++ kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 10",
+      "E) 11"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 break kelimesi döngüyü durdurur"
+  }
+]

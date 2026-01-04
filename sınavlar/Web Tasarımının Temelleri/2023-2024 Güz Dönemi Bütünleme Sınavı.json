@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi geçiş(transition) özellikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) ease-in-out",
+      "B) transition-property",
+      "C) directional",
+      "D) transition-delay",
+      "E) ease-in"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Böyle bir özellik yoktur."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi @media etiketinde kullanılan medya tipleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Tv",
+      "B) Bootstrap",
+      "C) Projection",
+      "D) Screen",
+      "E) Tty"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 12 Bootstrap, CSS Framework kütüphanesidir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Form yapısına hem estetik bir görünüm hem de her türlü cihaz ve ekran boyutuna duyarlı olma özelliği kazandıran web uygulaması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Img",
+      "B) Input",
+      "C) Bootstrap",
+      "D) Table",
+      "E) Bution"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 Bootstrap, form yapısına hem estetik bir görünüm hem de her türlü cihaz ya da ekran boyutuna duyarlı olma özelliği kazandırır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "UX tasarımcıları tarafından kullanılan ve bir web sitesi, uygulama veya ürün için tasarımlarının bilgi hiyerarşisini tanımlamalarına ve planlamalarına olanak tanıyan uygulama aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) WireFrame",
+      "B) Prototiper",
+      "C) Tipografi",
+      "D) Ürün",
+      "E) Mockup"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 14 Wireframe, hiçbir şekilde kod yazımına ihtiyaç duymadan, proje aşamalarını, kurgusunu; müşteriye ve yazılımcılara gösterme imkânı sunmaktadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi Bootstrap v5 tarafından desteklenen internet tarayıcılar arasında yer almaz?",
+    "seçenekler": [
+      "A) Firefox",
+      "B) Microsoft Edge",
+      "C) Internet Explorer",
+      "D) Opera",
+      "E) Chrome"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdaki uygulamalardan hangisi Geolocation API ile birlikte kullanıcının konumunu bulmak için kullanılmaktadır?",
+    "seçenekler": [
+      "A) Gmail",
+      "B) Adobe Reader",
+      "C) Google Maps",
+      "D) Teamviewer",
+      "E) Postman"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 5 Google'ın maps hizmetini kullanarak kullanıcının enlem ve boylamı harita üzerinde gösterilebilir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisinde CSS söz dizimi doğru verilmiştir?",
+    "seçenekler": [
+      "A) color:yellow;",
+      "B) color;red:",
+      "C) .icerik(color:red;)",
+      "D) İçerik(color:red);",
+      "E) #baslik{ color:red; }"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Meta description etiketine yazılması önerilen en fazla karakter sayısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 220",
+      "B) 160",
+      "C) 130",
+      "D) 100",
+      "E) 190"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Blog sitesi tasarladığınızı düşünün. Bu blog sitesinde, blog yazısı bölümü için en uygun etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) <aside>",
+      "B) <article>",
+      "C) <header>",
+      "D) <p>",
+      "E) <footer>"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 4"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Flexbox özelliklerinden order özelliğinin işlevi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Esnek kapsayıcı içindeki esnek kutu ögelerinin çapraz eksende hizalamasını ayarlar.",
+      "B) Ögenin, esnek kutu içindeki diğer ögelere göre nasıl küçüleceğini belirtir.",
+      "C) Esnek bir uzunluğun bileşenlerini belirtir.",
+      "D) Ögelerin yönünü belirtir.",
+      "E) Esnek kapsayıcı içindeki ögelerin kaçıncı sırada görünmesi gerektiğini belirler."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 8 order, esnek kapsayıcı içindeki ögelerin kaçıncı sırada görünmesi gerektiğini belirler."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Google bünyesinde çalışan Misko Hevery tarafından 2008 yılında kişisel amaçlı geliştirilmiş olan bir Javascript kütüphanesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Angular",
+      "B) React",
+      "C) JQuery",
+      "D) Vue",
+      "E) .Net"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Angular: Google bünyesinde çalışan Misko Hevery tarafından 2008 yılında kişisel amaçlı geliştirilmiş olan bir JAVASCRİPT kütüphanesidir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Bir web sitesinin tasarım aşamaları sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) Wireframe - MockUp - Prototip",
+      "B) Prototip - MockUp - Wireframe",
+      "C) Wireframe - Prototip - MockUp",
+      "D) MockUp - Wireframe - Prototip",
+      "E) MockUp - Prototip - Wireframe"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir HTML tabloya Hoverable özelliği kazandırmak için kullanılır?",
+    "seçenekler": [
+      "A) table-hover",
+      "B) responsive",
+      "C) table-bordered",
+      "D) table-responsive",
+      "E) table-striped"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 table-hover, HTML tabloya Hoverable özelliği kazandırmak için kullanılır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "CSS kodlarının sıfırdan yazılması yerine hazır CSS kütüphaneleri kullanılmaktadır. Aşağıdakilerden hangisi CSS kütüphanesine örnek değildir?",
+    "seçenekler": [
+      "A) Materialize",
+      "B) Semantic - UI",
+      "C) Foundation",
+      "D) Bootstrap",
+      "E) HTML"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki HTML etiketi ve kullanım amacı eşleştirmelerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) < a > - Sayfa içinde bir tablo oluşturmak için kullanılır.",
+      "B) < ul > - Sırasız bir liste oluşturmak için kullanılır.",
+      "C) < ol > - Sıralı bir liste oluşturmak için kullanılır.",
+      "D) < br > - Alt satıra geçilmesini sağlar.",
+      "E) < li > - Listenin elemanlarını ayrı ayrı oluşturmak için kullanılır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 - Sayfa içinde herhangi bir bağlantıya link vermek için kullanılır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi CSS Flexbox özelliklerinden justify- content'in değerleri arasında yer alır?",
+    "seçenekler": [
+      "A) animation-direction",
+      "B) transition",
+      "C) perspective",
+      "D) caption-side",
+      "E) center"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi geçiş işleminin hız eğrisini belirlemek için kullanılır?",
+    "seçenekler": [
+      "A) transition-property",
+      "B) transition-timing-function",
+      "C) transition-delay",
+      "D) linear",
+      "E) transition-duration"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 linear, transition-timing-function özelliğinin alabileceği değerdir."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi kullanıcının var olan seçenekler arasından en az bir adet seçim yapması istendiği durumda kullanılan form kontrolüdür?",
+    "seçenekler": [
+      "A) selectbox",
+      "B) inputbox",
+      "C) radio",
+      "D) checkbox",
+      "E) dropbox"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Kod uyumluluğu testi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Web sitesinin istenilen şekilde görünüp görünmediğini kontrol eder.",
+      "B) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı çözünürlükteki görünümünü kontrol eder.",
+      "C) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.",
+      "D) CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder.",
+      "E) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 Kod uyumluluğu, CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi çapraz tarayıcı uyumluluğu ile alakalı değildir?",
+    "seçenekler": [
+      "A) PHP",
+      "B) JavaScript",
+      "C) CSS",
+      "D) HTML",
+      "E) CSS3"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 CEVAP ANAHTARI"
+  }
+]

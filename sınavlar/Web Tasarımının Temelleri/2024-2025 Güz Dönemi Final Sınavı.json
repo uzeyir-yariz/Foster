@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": ".............................. , satır (row) ve sütunlardan (col) oluşan bir ızgara (Grid) yapısı içerisinde elementlerin alt alta dizilerek konumlandırılmasıyla ortaya çıkan form şeklidir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Legend Form",
+      "B) Vertical Form",
+      "C) Fieldset",
+      "D) Inline Form",
+      "E) Horizontal Form"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Tek bir site ve içerik ile ekran boyutuna göre ideal görüntüleme deneyimini sağlayan tasarımlara ne ad verilir?",
+    "seçenekler": [
+      "A) Tek sayfalı tasarım",
+      "B) Görsel tasarım",
+      "C) Masaüstü tasarım",
+      "D) Duyarlı web tasarımı",
+      "E) Uyarlanabilir tasarım"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir nesnenin x ve y eksenindeki eğimini artırıp azaltmak için kullanılır?",
+    "seçenekler": [
+      "A) Scale",
+      "B) Translate",
+      "C) Skew",
+      "D) SkewY",
+      "E) SkewX"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi sayfa dilini belirlemek için <html> etiketine eklenen bir özelliktir?",
+    "seçenekler": [
+      "A) meta",
+      "B) charset",
+      "C) doctype",
+      "D) lang",
+      "E) language"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir resim galerisine responsive özelliği kazandırmak için kullanılır?",
+    "seçenekler": [
+      "A) Media Query",
+      "B) CSS Grid",
+      "C) CSS Container",
+      "D) JavaScript",
+      "E) JQuery"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi mouse (fare) imlecinin üzerinde bulunduğu satırı renklendirmek için kullanılan tablo yapısıdır?",
+    "seçenekler": [
+      "A) table-pointer",
+      "B) table-mouseover",
+      "C) table-hover",
+      "D) table-cursor",
+      "E) table-responsive"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi Flexbox kapsamında kullanılan özellikler arasında yer almaz?",
+    "seçenekler": [
+      "A) border",
+      "B) align-items",
+      "C) align-self",
+      "D) align-content",
+      "E) flex"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "CSS Flexbox flex-wrap özelliği hangi işlem için kullanılır?",
+    "seçenekler": [
+      "A) Esnek kutu düzeninde dikey hizalama için",
+      "B) Esnek kutu düzeninde yatay hizalama için",
+      "C) Esnek kutu düzeninde birden çok satıra yaymak için",
+      "D) Esnek kutu düzenin rengini değişmek için",
+      "E) Esnek kutu düzeninde ki metinleri büyütmek için"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi Mock-Up hazırlama ortamlarından biri değildir?",
+    "seçenekler": [
+      "A) MockPlus",
+      "B) Mockup Builder",
+      "C) Moqups",
+      "D) Origami Studio",
+      "E) Mockminus"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Mobil uyumlu web site kütüphanelerinden birisi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Unification",
+      "B) Digitalize",
+      "C) Performance",
+      "D) Foundation",
+      "E) Summarize"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "I. Kullanıcı memnuniyeti II. Arayüz tasarımı III. Veri tabanı işlemleri Yukarıdakilerden hangisi ya da hangileri bir web sitesinde front- end geliştiricinin ilgilendiği konular arasında yer alır?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) Yalnız III",
+      "C) Yalnız II",
+      "D) Yalnız I",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi oluşturduğunuz prototipi size html, css ve ilişkili javascript kodları ile tamamlanmış bir web sitesi şeklinde hazır getirebilir?",
+    "seçenekler": [
+      "A) Balsamiq",
+      "B) Sketch",
+      "C) InDesign",
+      "D) Adobe XD",
+      "E) webFlow"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi API test araçlarından biri değildir?",
+    "seçenekler": [
+      "A) Geolocation",
+      "B) Postman",
+      "C) Apigee",
+      "D) Karate DSL",
+      "E) Jmeter"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML özel karakterlerinden biri değildir?",
+    "seçenekler": [
+      "A) & amp;",
+      "B) &# 160;",
+      "C) &# apos;",
+      "D) & quot;",
+      "E) & nbsp;"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir sitede tüm sayfalarda ortak bulunan telif hakkı bilgisi ve hızlı erişim linki gibi alanların yer aldığı alt bölümü belirten bir etiketir?",
+    "seçenekler": [
+      "A) audio",
+      "B) footer",
+      "C) time",
+      "D) section",
+      "E) header"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML'nin güncel versiyonu olan HTML5'in sunduğu yeniliklerden biri değildir?",
+    "seçenekler": [
+      "A) Dâhilî ses/video oynatabilme",
+      "B) Mobil optimizasyon",
+      "C) Çapraz tarayıcı uyumluluğu",
+      "D) Metinsel ifadeleri barındırma",
+      "E) Çevrim dışı önbelleğe alma"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eden çapraz tarayıcı uyumluluğu test parçası aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Performans uyumluluğu",
+      "B) Kod uyumluluğu",
+      "C) Ara yüz uyumluluğu",
+      "D) Mobil uyumluluk",
+      "E) Davranış uyumluluğu"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Boostrap v5 versiyonu, windows masaüstü ortamında aşağıdaki internet tarayıcılarından hangisi tarafından desteklenmez?",
+    "seçenekler": [
+      "A) Firefox",
+      "B) Microsoft Edge",
+      "C) Chrome",
+      "D) Opera",
+      "E) Safari"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Bir form elementinin sunucuya hiçbir şekilde veri göndermemesi için kullanılan özellik aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) form-disabled",
+      "B) disabled",
+      "C) form-readonly",
+      "D) readonly",
+      "E) closed"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "CSS ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Web sayfaları için etkileşimli görsel ögeler CSS ile tasarlanabilir.",
+      "B) CSS ilk kez 2010'lu yıllarda önerilmiş ve kullanılmaya başlanmıştır.",
+      "C) CSS, İngilizce Cascade Style Sheet kelimelerinin kısaltılmasıdır.",
+      "D) CSS, bir internet sitesinin tasarımsal açıdan daha etkileyici görünmesini kolaylaştıran bir işaretleme dilidir.",
+      "E) HTML büyük ölçüde metin içeriğini belirlerken CSS görsel yapıyı, düzeni ve estetiği belirler."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  }
+]

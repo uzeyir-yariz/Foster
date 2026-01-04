@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Sonlandırma karakteri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) '\\n'",
+      "B) '\\t'",
+      "C) '\\Z'",
+      "D) '\\0'",
+      "E) '\\S'"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 Karakter dizilerinin sayısal tipteki dizilerden en önemli farkı sonlandırma karekteridir. Sonlandırma karekteri '\\0' dir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "#include <iostream> using namespace std; class Calisan { public:     int maas;     Calisan() {         maas = 1000;     }     void ZamYap(int miktar) {         maas += miktar;         cout << maas << endl;     } }; int main() {     Calisan c1;     c1.ZamYap(1000);     return 0; } Yukarıdaki C++ kodu çalıştırıldığında aşağıdaki ekran çıktılarından hangisi oluşur?",
+    "seçenekler": [
+      "A) Maas",
+      "B) 2000",
+      "C) ZamYap(1000)",
+      "D) 1000",
+      "E) maas = 1000"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Sayfa 11 Paragraf 2 İlgili sayfada benzer bir örnek yer almaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "#include <iostream> using namespace std; int Fonksiyon(int *A, int n) {        int dondur=0;        for (int i = 0; i < n; i++) {              if (A[i] % 2 == 0)                   dondur++; }        return dondur; } int main() {        int dizi[5] = { 12,5,7,4,9 };        cout << Fonksiyon(dizi, 5);        return 0; } Yukarıdaki kod çalıştırılmak istendiğinde sonuç ne olur?",
+    "seçenekler": [
+      "A) Ekrana \"\"12 5 7 4 9\"\" yazar.",
+      "B) Ekrana \"\"3\"\" yazar.",
+      "C) Ekrana \"\"5 7 9\"\" yazar.",
+      "D) Ekrana \"\"2\"\" yazar.",
+      "E) Ekrana \"\"12 4\"\" yazar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 Dizilerin Fonksiyonlara Gönderimi başlıklı konu içeriğinde yer almaktadır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Bir döngünün sonlandırılmasını beklemeden çıkmak için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) case",
+      "B) switch",
+      "C) break",
+      "D) continue",
+      "E) throw"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6 BREAK VE CONTINUE DEYİMLERİ başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Çalışma zamanı hatalarını tespit edip müdahale edebilmek için gelişmiş derleyicilerde, istisnai durum yönetimi bulunmaktadır. İstisnai durum yönetiminde her bir hata durumu bir sınıfa karşılık gelmektedir. İstisnai durum sınıfına karşılık gelen bir hata türü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Bir dizinin indis sınırlarının aşılması",
+      "B) Ondalıklı sayılarla çalışırken yuvarlamanın hesaba katılmaması",
+      "C) Matematiksel işlemlerde işlem önceliğinin dikkatien kaçırılması",
+      "D) Döngünün beklenenden farklı sayıda icra edilmesi",
+      "E) İç içe if kullanımında else bloğunun yerinin karıştırılması"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 İstisnai Durum Yönetimi başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "İki boyutlu dizilerde her bir elemana erişmek için kullanılan indisler ..........ve .......... olarak adlandırılır. Cümlede boş bırakılan yerlere sırası ile aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) satır - sütun",
+      "B) x - y",
+      "C) başlangıç - bitiş",
+      "D) ileri - geri",
+      "E) yatay - dikey"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Hangi adımda bir dosya işlemi başlamadan önce programın fstream veya ofstream sınıfından bir nesne oluşturulur?",
+    "seçenekler": [
+      "A) Dosya İşleminin Sonlandırılması",
+      "B) Dosya Türleri",
+      "C) Dosya Okuma İşlemi",
+      "D) Dosya Açma Modları",
+      "E) Dosya İşleme Adımları"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 Dosya işleme adımları, bir dosya ile çalışmaya başlamadan önce izlenen sıralı adımları ifade eder. Bu adımlardan biri, programın fstream veya ofstream sınıfından bir nesne oluşturmasını içerir. Bu nesne, dosya ile iletişim kurmak için kullanılır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdaki fonksiyon prototiplerinden hangisi yanlış tanımlanmıştır?",
+    "seçenekler": [
+      "A) int Soru(int a, int b);",
+      "B) void Soru(int a, int b);",
+      "C) double Soru(int a);",
+      "D) void Soru();",
+      "E) double Soru(int a, b);"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "C++ programlama dilinde akışlar (stream) ile ilgili olarak aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Farklı türde veri akışlarını temsil etmek için aynı akışlar kullanılır.",
+      "B) Bir akış, belirli bir sınıfın nesnesi şeklinde temsil edilir.",
+      "C) Akış, veri akışına genel olarak verilen kavramsal bir terimdir.",
+      "D) ifstream sınıfı, diskteki kaynak dosyalarından gelen veri akışını simgelemektedir.",
+      "E) cin ve cout bir tür akış nesnesidir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "I. Vector II. Map III. Set IV. Stack V. Heap Yukarıdakilerden hangileri verileri büyüklüklerine göre sıralar ve aynı veriye birden fazla sahip olamaz açıklaması vardır?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) III ve IV",
+      "C) II ve III",
+      "D) IV ve V",
+      "E) I ve V"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 Set, verileri büyüklüklerine göre sıralar ve aynı veriye birden fazla sahip olamaz. Map ise anahtar değerine göre sıralama yapar ve aynı anahtara birden fazla değer bağlayabilir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "\"\"Örnek String.\"\" Yandaki string ifade için find(\"\"Str\"\") üye fonksiyonunun çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0",
+      "B) -1",
+      "C) 4",
+      "D) 6",
+      "E) 2"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "int a[3][2] değişkeni ile aynı dizi değişkenini ifade eden dizi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) int a[24];",
+      "B) int a[15];",
+      "C) int a[1][2][2];",
+      "D) int a[2][1][2];",
+      "E) int a[6];"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Örnek 4-2: İKİ BOYUTLU DİZİLERİN ÇARPIMI 2 (KARE OLMAYAN MATRİSLERİN ÇARPIMI) başlıklı konu içeriğinde yer almaktadır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniği aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Yüksek düzeyli dil",
+      "B) Akış diyagramı",
+      "C) Makine dili",
+      "D) Sözde kod",
+      "E) Algoritmik dil"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 Doğal dile benzer kelimeler ve bazı özel sembollerin bir arada kullanıldığı dil, sözde koddur."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Menülerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Kopyalama, kesme, bulma ve değiştirme işlemlerinin yapıldığı menü düzen menüsüdür.",
+      "B) Geliştirilen yazılımın performans ve analizleri için derle menüsü kullanılır.",
+      "C) Proje menüsü; oluşturulan bir projeye yeni öge ekle, öge çıkar gibi işlemlerin gerçekleştirildiği menüdür.",
+      "D) Dosya menüsünde yeni bir proje oluşturma, son açılan projelere ulaşma, proje kaydetme, yazdırma gibi işlemler bulunur.",
+      "E) Kullanıcı ihtiyaçları doğrultusunda kişiselleştirilmesi işlemleri araçlar menüsünden gerçekleştirilir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 4 Geliştirilen yazılımın performans ve analizleri için Analiz menüsü kullanılır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki string işleme fonksiyonlarından hangisi, bir string ifadesine yeni bir karakter eklemek amacıyla kullanılır?",
+    "seçenekler": [
+      "A) clear",
+      "B) append",
+      "C) resize",
+      "D) capacity",
+      "E) assign"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 append fonksiyonu, bir string ifadesine yeni bir karakter eklemek amacıyla kullanılır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdaki C++ dilinde kullanılan terim eşleştirmelerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Member Function: Üye fonksiyonları temsil eder.",
+      "B) Object: Nesne oluşturur.",
+      "C) Destructor: Bellek alanını boşaltır.",
+      "D) Class: Sınıf yapısını tanımlar.",
+      "E) Private: Nesneleri başlatır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 \"\"Private\"\" terimi, sınıf içinde erişimi sınırlamak için kullanılır ve nesneleri başlatmaz. Sınıf üye değişkenlerini sınırlamak için kullanılırken, nesnelerin oluşturulmasını veya başlatılmasını değil, sınıf içindeki erişimi kontrol etmeyi ifade eder."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi C++ programlama dilinde tanımlanmış ilişkisel operatörlerden biri değildir?",
+    "seçenekler": [
+      "A) =",
+      "B) >",
+      "C) >=",
+      "D) <",
+      "E) <="
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Bilgisayarın elektrik enerjisi kesildiğinde bile aşağıdakilerden hangisindeki veriler silinmez?",
+    "seçenekler": [
+      "A) Ağ birimi",
+      "B) Kontrol birimi",
+      "C) İkincil depolama birimi",
+      "D) İşlem birimi",
+      "E) Bellek birimi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 1 İkincil depolama birimi başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Unsigned char veri tipinin alabileceği minimum ve maksimum değerler aşağıdakilerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) -127 ve 0",
+      "B) 0 ve 127",
+      "C) 0 ve 255",
+      "D) -127 ve 255",
+      "E) -127 ve 127"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": ".........., teşhis algoritması (diagnosis algorithm) ve hata düzeltme algoritmalarının (bug- correction algorithm) birleşiminden oluşur. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Anlam bilimsel hata ayıklama",
+      "B) Derleme",
+      "C) Hata ayıklama",
+      "D) Sözdizimsel hata ayıklama",
+      "E) Yorumlama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Hata ayıklama, teşhis algoritması ve hata düzeltme algoritmalarının birleşiminden oluşur. CEVAP ANAHTARI"
+  }
+]

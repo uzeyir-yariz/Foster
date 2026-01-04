@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Sınıftaki sessizliğin devamı dün akşam evde de devam eti. Bu cümlede aşağıdaki ögelerden hangisi kullanılmamıştır?",
+    "seçenekler": [
+      "A) Nesne",
+      "B) Yer tamlayıcısı",
+      "C) Zarf tümleci",
+      "D) Özne",
+      "E) Yüklem"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisinde zıt anlamlı kelimeler bir arada verilmemiştir?",
+    "seçenekler": [
+      "A) İleri-Geri",
+      "B) Az-Çok",
+      "C) İleri-Yukarı",
+      "D) Yakın-Uzak",
+      "E) Kolay-Zor"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 İleri ve yukarı kelimeleri zıt anlamlı değildir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "\"\"Girişik, iç içe, şartlı\"\" gibi ifadeler aşağıdakilerden hangisiyle birlikte kullanılır?",
+    "seçenekler": [
+      "A) Basit",
+      "B) Birleşik",
+      "C) Devrik",
+      "D) Sıralı",
+      "E) Bağlı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 13 Verilen örnekler birleşik cümleye örnektir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdaki dillerden hangisi Ural-Altay Dil Ailesi'nin Altay kolundadır?",
+    "seçenekler": [
+      "A) Estonca",
+      "B) Çince",
+      "C) Türkçe",
+      "D) Fince",
+      "E) İngilizce"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 3 Ural-Altay Dil Ailesi'nin Altay kolu Türkçe, Moğolca, Mançuca, Tunguzca, Japonca ve Korece'dir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde ”yer” kavramı daha çok vurgulanmıştır?",
+    "seçenekler": [
+      "A) Akşamki maça Ali de katılacak.",
+      "B) Her hafta sonu köyümüze giderdik.",
+      "C) Kaybolan ehliyetimi arkadaşım bulmuş.",
+      "D) İşçiler, sabahtan beri çalışıyorlardı.",
+      "E) Bir saatir çalışma masasını düzenliyor."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde “bağımlı sıralı” bir yapı söz konusudur?",
+    "seçenekler": [
+      "A) Ahmet sana bakıyordu, sen görmüyordun.",
+      "B) Sen ödevlerini yap, sonra dışarı çık.",
+      "C) Beni anlayan kimse yoktu.",
+      "D) Bize gelirsen beraber gideriz.",
+      "E) O kadar güzeldi ki, size anlatamam."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi eksiltili bir cümledir?",
+    "seçenekler": [
+      "A) Hâlden bilmiyor kimseler.",
+      "B) Kuş kanadıyla selam gönderilir.",
+      "C) İlacını geciktirirsek babaannem keser iflahımızı.",
+      "D) Kim bu cennet vatanın uğruna olmaz ki feda!",
+      "E) Dar günümde el uzaƴğınız için teşekkürler."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 Dar günümde el uzaƴğınız için teşekkürler."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Söz içinde bir heceyi, bir kelimeyi diğerlerine göre daha yüksek ses tonuyla, söyleyiş süresini uzatarak öteki hece ya da kelimelerden daha baskılı ve belirgin bir biçimde söylemeye ne ad verilir?",
+    "seçenekler": [
+      "A) Heceleme",
+      "B) Sesletim",
+      "C) Boğumlama",
+      "D) Tonlama",
+      "E) Vurgu"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Söz içinde bir heceyi, bir kelimeyi diğerlerine göre daha yüksek ses tonuyla, söyleyiş süresini uzatarak, öteki hece ya da kelimelerden daha baskılı ve belirgin bir biçimde söylemeye vurgu denir"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerin hangisinde “-ce / -ca” eki “Çocuksu davranışların artık bizi bunalƴ.” cümlesindeki “-su” ekiyle aynı görevde kullanılmıştır?",
+    "seçenekler": [
+      "A) Saatlerce burada seni bekliyorum.",
+      "B) Kanaatimce doğru yolu takip etmiyoruz.",
+      "C) Bunca yıldır neden hiç aramadın?",
+      "D) Kardeşçe yaşamak varken bu kavga ne diye?",
+      "E) O kadar acıkmıştı ki iyice karnını doyurdu."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 sayfa 14 paragraf 4 de yer almaktadır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Cümle çözümlemesinde aşağıdaki özelliklerden hangisi aranmaz?",
+    "seçenekler": [
+      "A) Yüklemin türü",
+      "B) Yüklemin cümledeki yeri",
+      "C) Cümlenin anlamı",
+      "D) Cümlenin ögelerine göre sıralanışı",
+      "E) Cümledeki kelime sayısı"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Cümledeki kelime sayısı"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdaki ikilemelerden hangisi oluşum yönüyle diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Akrabalar bayramda cümbür cemaat bize gelince bu bayram evde oturmak zorunda kaldık.",
+      "B) Onun nasıl bir yalancı olduğunu dünya âlem biliyordu.",
+      "C) Yırtık pırtık kıyafetlerine ve çevresinin meraklı bakışlarına aldırmadan herkese güzel bir ders verdi.",
+      "D) Atandığım köye giderken eğri büğrü yolların yanındaki cılız ağaçlar karşıladı beni.",
+      "E) İşlerini yarım yamalak yaptığı için, patronu onu herkesin içinde azarladı."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 \"\"dünya âlem\"\" ikilemesi \"\"eş ya da yakın anlamlı sözcüklerden oluşan ikilemedir. Diğer seçenekler ise, biri anlamlı diğeri anlamsız sözcüklerden oluşan ikilemelerden oluşmaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi eksiz ikilemeye örnek değildir?",
+    "seçenekler": [
+      "A) Estek köstek",
+      "B) Fıldır fıldır",
+      "C) Ses seda",
+      "D) Gele gide",
+      "E) Ancak ve ancak"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 Ancak ve ancak bağlaçlı ikileme örneğidir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde somut anlamlı bir sözcük soyut anlam ifade etmektedir?",
+    "seçenekler": [
+      "A) Karikatür hazırlamak ciddi entelektüel bilgi gerektirir.",
+      "B) Çocukluk, ömrün en neşeli zaman dilimidir.",
+      "C) Hiçbir şeyden korkmayan cesur bir adamdı.",
+      "D) Başarısızlığımızda acaba birilerinin parmağı mı var?",
+      "E) Kafasından geçenleri sadece kendisi bilirdi."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 Doğru cevap açıklaması 5. sayfa 2. paragraftadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": ".......................göre dil bir göstergeler dizgesidir ve belirli kuralları olan bir sistemdir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Saussure'e",
+      "B) Witigenstein'a",
+      "C) Chomsky'ye",
+      "D) Austin'e",
+      "E) Bach'a"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Sayfa 4 paragraf 2 de yer almaktadır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin türeyişi ile ilgili olarak ortaya atılan görüşlerden biri değildir?",
+    "seçenekler": [
+      "A) Antropolojik Görüş",
+      "B) Deneyimci Görüş",
+      "C) İlahiyatçı Görüş",
+      "D) Metafizik Görüş",
+      "E) Doğuştancı Görüş"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 1 Dilin nasıl türediği konusunda pek çok görüş ortaya atılmıştır. Bunları dört ana bölümde değerlendirmek mümkündür:İlahiyatçı/Teolojik Görüş,İlahiyatçı/Teolojik Görüş,Deneyimci Görüş,Antropolojik Görüş"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türkçenin ses kurallarına göre şekillenmeyen yabancı kelimeler arasında yer alır?",
+    "seçenekler": [
+      "A) Mandıra",
+      "B) Kilise",
+      "C) Körfez",
+      "D) Enflasyon",
+      "E) Panayır"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 enflasyon"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde sözde özne kullanılmıştır?",
+    "seçenekler": [
+      "A) Çocuklar bahçede toplandılar.",
+      "B) Sabah kalkar kalkmaz yıkandı.",
+      "C) Arzu akşamdan yola koyuldu.",
+      "D) Annesine sıkıca sarıldı.",
+      "E) Cam kırıldı."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi yapısına göre basit bir cümledir?",
+    "seçenekler": [
+      "A) Önce okudu ve sonra anlaƴ.",
+      "B) Önüne engeller çıkaracaklardır, sen bunlara dayanacaksın.",
+      "C) Çanakkale içinde vurdular beni.",
+      "D) Lokman Hekim gelse yaram azdırır.",
+      "E) O kadar çalıştı ki sonunda başardı."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 14 Çanakkale içinde vurdular beni."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi Göktürk alfabesinin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A)  Harfler birbirinden ayrı yazılır.",
+      "B)  Sağdan sola veya yukarıdan aşağıya doğru yazılır.",
+      "C)  Soldan sağa veya aşağıdan yukarıya doğru yazılır.",
+      "D)  Toplamda 38 harf bulunmaktadır.",
+      "E)  Kelimeler arasına “:” konur."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi kurallı bir cümledir?",
+    "seçenekler": [
+      "A) Sabahları burası sessiz olur.",
+      "B) Karda gezip izini belli etmeyen bir tilkidir o.",
+      "C) Hâlden bilmiyor kimseler.",
+      "D) Boş değil etiğin niyaz.",
+      "E) Bütün gün düşündüm yalnızlığımı ve çaresizliğimi."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 \"\"Sabahları burası sessiz olur.\"\" kurallı cümleye örnektir. 3 CEVAP ANAHTARI"
+  }
+]

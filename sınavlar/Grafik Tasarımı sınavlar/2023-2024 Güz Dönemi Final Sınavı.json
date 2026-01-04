@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop'un açabileceği dosyalardan biridir?",
+    "seçenekler": [
+      "A) MP4",
+      "B) MPEG",
+      "C) WAW",
+      "D) MP3",
+      "E) PNG"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Photoshop, JPG, GIF, TIFF, PDF, PNG BMP gibi birçok resim ve belge biçimindeki dosyayı açabilir ve o biçimde kaydedebilir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programında eylemler panelinden yapılabilecek işlemlerden biri değildir?",
+    "seçenekler": [
+      "A) Oynat",
+      "B) Çoğalt",
+      "C) Koşullu ifade ekle",
+      "D) Otomatikleştir",
+      "E) Yeni eylem"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Otomatikleştir seçeneği dosya menüsünde yer alır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop CC 2018 programında kullanılabilecek bir renk modu değildir?",
+    "seçenekler": [
+      "A) RGB",
+      "B) Lab renk",
+      "C) Gri tonlamalı",
+      "D) CMYK",
+      "E) Katmanlı renkler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında resmin boyutunu fare ile değiştirmek için aşağıdaki işlemlerden hangisi yapılmalıdır?",
+    "seçenekler": [
+      "A) Resmi kırpmak",
+      "B) Görüntüyü düzleştirmek",
+      "C) Görüntü boyutunu ayarlamak",
+      "D) Resmi katmana dönüştürmek",
+      "E) Görüntü modunu ayarlamak"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 resmin boyutunu fare ile serbest olarak değiştirebilmek için öncelikle resmi katmana dönüştürmek gereklidir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programındaki oluşturulan animasyonların web üzerinden görüntülenebilmesi için aşağıdaki hangi dosya uzantısıyla kaydedilmesi gerekir?",
+    "seçenekler": [
+      "A) PSD",
+      "B) PNG",
+      "C) GIF",
+      "D) BMP",
+      "E) JPEG"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 Oluşturulan animasyonların web üzerinden görüntülenebilmesi için GIF uzantılı olarak kaydedilmelidir"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Bir kişinin veya kurumun tanıtım amacıyla iletişim bilgilerini paylaştığı belgeye ne ad verilir?",
+    "seçenekler": [
+      "A) İnfografik",
+      "B) Broşür",
+      "C) Logo",
+      "D) Afiş",
+      "E) Kartvizit"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Bir kişinin veya kurumun tanıtım amacıyla iletişim bilgilerini paylaştığı belgeye kartvizit denilmektedir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "..................., renk çemberinde birbirinin karşısında yer alan renklerdir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Tetradic renkler",
+      "B) Ayrık tamamlayıcı renkler",
+      "C) Benzer renkler",
+      "D) Tamamlayıcı renkler",
+      "E) Triadik renkler"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 3 Tamamlayıcı Renkler (Complementary): Tamamlayıcı renkler renk çemberinde birbirinin karşısında yer alan renklerdir"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıda Piksel'e ilişkin verilen bilgilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Geometrik formüller içerir.",
+      "B) Piksel görüntü noktaları ve eğrileri tanımlayarak oluşturulur.",
+      "C) Dijital görüntünün en küçük yapı taşıdır.",
+      "D) Detay kaybetmeden yeniden ölçeklendirilebilir.",
+      "E) Çözünürlükten bağımsızdır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 1 Grafik tasarım yazılımlarında görüntüler yan yana ve üst üste dizilen renk kutucuklarından oluşur. Bu renk kutucuklarına piksel denir. Piksel, dijital görüntünün en küçük yapı taşıdır. Resimlerin oluşturulmasında kullanılan ve kontrol edilebilen temel bir birimdir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Photoshop programında animasyon oluştururken ekranda o anda görüntülenen karenin yanı sıra o kareden önceki ve sonraki belli sayıdaki karelerin şeffaf bir şekilde görünmesi için kullanılan komut aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Anahtar kareler",
+      "B) Döngüde oynat",
+      "C) Soğan zarlarını etkinleştir",
+      "D) Video görüntüsü oluştur",
+      "E) Kare atlamaya izin ver"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 Soğan Zarlarını Etkinleştir ekranda o anda görüntülenen karenin yanı sıra o kareden önceki ve sonraki belli sayıdaki karelerin şeffaf bir şekilde görünmesi için kullanılmaktadır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi katman üzerinde yapılan işlemler arasında yer almaz?",
+    "seçenekler": [
+      "A) Katmanın yeniden boyutlandırılması",
+      "B) Katmanların birleştirilmesi",
+      "C) Katmanların ters çevrilmesi",
+      "D) Katmanların bağlanması",
+      "E) Katmanın konumunun değiştirilmesi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 5 KATMAN ÜZERİNDE İŞLEMLER: Katmanın Konumun Değiştirilmesi - Taşınması, Katmanın Yeniden Boyutlandırılması, Katmanların Birleştirilmesi, Katmanların Bağlanması, Katmanların Tek Başına Kaydedilmesi, Katmanların Çoğaltılması"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi kırpma ve dilimleme araçları arasında yer almaz?",
+    "seçenekler": [
+      "A) Dilim seçimi",
+      "B) Hızlı seçim",
+      "C) Dilim",
+      "D) Kement",
+      "E) Kırpma"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 4 Kırpma ve dilimleme araçları grubunda “Kırpma”, “Dilim”, “Kement” ve “Dilim seçimi” araçları yer almaktadır"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi metin sınırlama kutusu işlemleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Boyutlandırma",
+      "B) Eğriltme",
+      "C) Döndürme",
+      "D) Fontu eşleştirme",
+      "E) Yönlendirme"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 Metin sınırlama kutusu işlemleri: Boyutlandırma işlemi, Döndürme işlemi, Eğriltme işlemi, Yönlendirme işlemi, metin çarpıtma işlemi."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi toplu işlemlerin kullanılmasının faydalarından biri değildir?",
+    "seçenekler": [
+      "A) Bilgisayar kaynaklarını kullanıcılar ve programlar arasında paylaşma",
+      "B) Görsellerin görüntü kalitesini artırma",
+      "C) Bilgisayarın aşınmasını engelleme",
+      "D) Manuel müdahale ve denetim ile bilgisayar kaynaklarının gereksiz kullanılmasını engelleme",
+      "E) İşlem süresini azaltma"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Resmin boyutunu azaltmada aşağıdaki yeniden örnekle seçeneklerinden hangisini seçmek daha uygun olur?",
+    "seçenekler": [
+      "A) Ayrıntıları koru",
+      "B) Çift doğrusal",
+      "C) Daha yumuşak",
+      "D) En yakın komşu",
+      "E) Daha keskin"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 Bikübik - Daha Keskin (azaltma): Bikübik enterpolasyonu temel alan bu yöntem resmin boyutunu azaltmada tercih edilebilir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "En yüksek 4 GB dosya boyutuna sahip olabilen ve veri boyutundan dolayı web ortamında çok tercih edilmeyen resim formatı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Pixar",
+      "B) TIFF",
+      "C) PNG",
+      "D) PSD",
+      "E) EPS"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 En yüksek 4 GB dosya boyutuna sahip olabilen bir resim formatıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Adobe Photoshop CC 2018'de ekrandaki görüntünün genel hatlarını koruyarak renkli alanlara kabartma eklenmesini sağlayan filtreye ne ad verilir?",
+    "seçenekler": [
+      "A) Koyu konturlar filtresi",
+      "B) Çapraz tarama filtresi",
+      "C) Sıçrama filtresi",
+      "D) Püskürtülmüş konturlar filtresi",
+      "E) Mürekkep ana hatları filtresi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 7 Çapraz tarama filtresi, ekrandaki görüntünün genel hatlarını koruyarak, renkli alanlara kabartma eklenmesini sağlar."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında ayarlar panelinde aşağıdakilerden hangisi yer almaz?",
+    "seçenekler": [
+      "A) Yolu çoğalt",
+      "B) Renk dengesi",
+      "C) Posterleştir",
+      "D) Kanal karıştırıcı",
+      "E) Pozlama"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 Yollar panelindeki Yolu Çoğalt seçeneği, üzerinde sağ tıklanan yolun kopyalanmasını sağlamaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında metinlerle ilgili yazı stili, punto, karakterler arası uzaklık, satır aralığı veya genişlik gibi ayarların bulunduğu panel aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Karakter paneli",
+      "B) Yer tutucu paneli",
+      "C) Glifler paneli",
+      "D) Döndürme paneli",
+      "E) Paragraf paneli"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 Metinlerin; yazı stili, punto, karakterler arası uzaklık, satır aralığı veya genişlik gibi karakterlerine yönelik yapılan ayarların bulunduğu panele karakter paneli denilmektedir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında görüntünün açık tonlarının bir uçtaki renkle, koyu tonlarının diğer uçtaki renkle eşleşmesini sağlayan özellik aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Degrade eşleşme",
+      "B) Pozlama",
+      "C) Renk dengesi",
+      "D) Genişletme",
+      "E) Kanal karıştırıcı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 Degrade Eşleme özelliği ile seçilen iki farklı renk, görüntünün açık tonlarının bir uçtaki renkle, koyu tonlarının diğer uçtaki renkle eşleşmesi sağlanır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında web ortamına yüksek çözünürlüklü resimlerin koyulabilmesi için aşağıdaki özelliklerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) Zoomify",
+      "B) Farklı dışa aktar",
+      "C) Web için kaydet",
+      "D) Katmanlardan dosyalara aktar",
+      "E) Illustrator yolları"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11 Web ortamında yüksek çözünürlükte olan ve detaylarının daha iyi görünebileceği resimler koyulabilir. Photoshop programında bunu yapabilmek için zoomify isimli bir özellik kullanılmaktadır. CEVAP ANAHTARI"
+  }
+]

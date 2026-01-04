@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "İki boyutlu dizilerin fonksiyonlara parametre olarak gönderilmesi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Diziler fonksiyonlara parametre olarak gönderilemezler.",
+      "B) Dizinin sadece birinci boyutu parametre olarak gönderilebilir.",
+      "C) Dizinin boyut sayısı belirtilmeli ancak boyutlarının eleman sayısı belirtilmeksizin fonksiyona parametre olarak gönderilmelidir.",
+      "D) Dizinin iki boyutlu olduğu belirtilmeli ve ikinci boyutun eleman sayısı mutlaka belirtilmelidir.",
+      "E) Dizinin boyutları ve eleman sayıları belirtilmeden fonksiyona parametre olarak gönderilmelidir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 FONKSİYONLARA İKİ BOYUTLU DİZİLERİN AKTARILMASI bailıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi bileşik atama operatörlerinden biri değildir?",
+    "seçenekler": [
+      "A) +=",
+      "B) !=",
+      "C) /=",
+      "D) %=",
+      "E) -="
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 != olarak tanımlanan bileşik atama operatörü bulunmamaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Matris adı verilen diziler kaç boyutludur?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 5"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 Dizi aşağıdaki gibi tanımlanıyorsa iki boyutludur ve bu tip dizilere de matris adı verilir. int elma[1][2];"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi iteratör değişkenlerinin önüne koyularak iteratörün işaret etiği değere erişebilmeyi sağlar?",
+    "seçenekler": [
+      "A) .",
+      "B) -",
+      "C) *",
+      "D) +",
+      "E) !"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 İteratör değişkeninin önüne * işareti konularak iteratörün işaret etiği değere erişilebilir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıda verilen dizilere başlangıç değeri atama örneklerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) int dizi[5] = {1,2,3,4,5};",
+      "B) int dizi[5] = {0};",
+      "C) int dizi[5] = 0 ;",
+      "D) int dizi[5] = {};",
+      "E) int dizi[5] = {4,5};"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Başlangıç değeri atama Bir diziye başlangıç değeri (ilk değer) atama işlemi için küme parantezi kullanılır. Örnek vermek gerekirse: int dizi[5] ; char dizi[5]; int dizi[5] = { 1,2,3,4,5 }; int dizi[5] = { 0 }; int dizi[5] = {}; int dizi[5] = { 4,5 };"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Akış diyagramlarında karşılaştırma ve karar durumları hangi sembol ile ifade edilir?",
+    "seçenekler": [
+      "A) Baklava",
+      "B) Paralel kenar",
+      "C) Elips",
+      "D) Daire",
+      "E) Kare"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Akış diyagramlarında karşılaştırma ve karar durumları baklava sembolu ile ifade edilir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Koşullu kesme noktasının oluşturulması ne işe yaramaktadır?",
+    "seçenekler": [
+      "A) Koşul sağlanınca ilgili satırda programın çalışması durdurulur.",
+      "B) Koşul sağlanınca ilgili satırda programın çalışması devam eder.",
+      "C) Koşul sağlanınca ilgili fonksiyonun çalışması durdurulur.",
+      "D) Koşul sağlanınca ilgili fonksiyonun çalışması devam eder.",
+      "E) Koşul sağlanınca imlecin bulunduğu satırda çalışma durdurulur."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 Koşullu Kesme Noktası Oluşturma başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Visual Studio 2017 bütünleşik geliştirme ortamının hangi alanında kod paylaşma işlemi gerçekleştirilebilir?",
+    "seçenekler": [
+      "A) Çözüm Gezgini",
+      "B) Editör Penceresi",
+      "C) Çıktı Penceresi",
+      "D) Takım Gezgini",
+      "E) Araç Kutusu"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 4"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "#include <iostream> using namespace std; int Soru(int deg1 ,int deg2 , int deg3) {            deg1 = deg1 + deg2+deg3;            return deg3;            return deg2;            return deg1;            return 4; } int main() {            cout << Soru(1, 2, 3);            return 0; } Yukarıdaki C++ programı çalıştırıldığında ekrana aşağıdaki hangi çıktı yansımaktadır?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 6"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "(101101) 2   sayısının onluk sayı sistemindeki karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 63",
+      "B) 45",
+      "C) 32",
+      "D) 90",
+      "E) 28"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 (101101)2 sayısının onluk tabanda karşılığı 45 dir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Sınıf içinde üyelere ulaşım belirteçleri aşağıdakilerden hangisinde yer almaktadır?",
+    "seçenekler": [
+      "A) public ve/veya protected",
+      "B) public ve/veya private",
+      "C) protected ve/veya private",
+      "D) protected",
+      "E) private"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Sınıf içinde üyelere ulaşım belirteçleri public ve/veya private olabilir"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Yıkıcı fonksiyonlar için aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Yıkıcı fonksiyon adı sınıf adı ile aynı olmalıdır.",
+      "B) Yıkıcı fonksiyon tilda (~) ile başlar.",
+      "C) Yıkıcı fonksiyon geriye değer döndürmez.",
+      "D) Yıkıcı fonksiyon parametre alabilir.",
+      "E) Yıkıcı fonksiyon bellek alanını boşaltır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 14 • Yıkıcı fonksiyon adı yapıcı fonksiyon ve sınıf adı ile aynıdır. • Yıkıcı fonksiyon tilda (~) ile başlar. • Geriye değer döndürmez. • Parametre almaz. • Bellek alanını boşaltır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "map veri tipinde aşağıdakilerden hangisi ile bir değişken oluşturulur?",
+    "seçenekler": [
+      "A) map<int,int>",
+      "B) map(int,int)",
+      "C) map[int,int]",
+      "D) map",
+      "E) mapcreate"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Tablo 12.1 C++ STL kütüphanesinin desteklediği depo yapıları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi geçerli bir kaçış dizisi olamaz?",
+    "seçenekler": [
+      "A) \\a",
+      "B) \\%",
+      "C) \\n",
+      "D) \\*",
+      "E) \\\\"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "I. Şartlı operatör if-else yapısı yerine kullanılabilir. II. Bir karakterin ASCII standardına göre tam sayı karşılığını elde etmek için static_cast<int> kullanılabilir. III. Birden fazla koşulun kontrol edilmesi gerekiyor ise ya if-else if ya da switch çoklu seçim yapıları kullanılabilir. Verilen ifadelerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız III",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 5 Soru farklı sayfalaradaki bilgilerle hazırlanmıştır. Verilen 3 maddede doğrudur."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Dosyadan okuma işlemi için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) <<",
+      "B) <",
+      "C) >",
+      "D) >>",
+      "E) ="
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 Dosyadan okuma işlemi için “>>” akış sembolü kullanılır.(dosyaNesnesi>>değer;)"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "C++ programlama dilinde akışlar (stream) ile ilgili olarak aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Farklı türde veri akışlarını temsil etmek için aynı akışlar kullanılır.",
+      "B) Bir akış, belirli bir sınıfın nesnesi şeklinde temsil edilir.",
+      "C) Akış, veri akışına genel olarak verilen kavramsal bir terimdir.",
+      "D) ifstream sınıfı, diskteki kaynak dosyalarından gelen veri akışını simgelemektedir.",
+      "E) cin ve cout bir tür akış nesnesidir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "String sınıfı değişkeni c string ifadeye dönüştüren üye fonksiyonu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) data",
+      "B) erase",
+      "C) length",
+      "D) reserve",
+      "E) capacity"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11 Yan Not: c_str ve data üye fonksiyonları ile string bir ifadeyi c string bir ifadeye dönüştürebiliriz"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "6. #include <iostream> using namespace std; int main() {         char dizi[10] = \"\"ornek\"\";         cout << dizi;         return 0; } Yukarıdaki C++ programı çalıştırıldığında ekrana hangi çıktıyı yansıtır?",
+    "seçenekler": [
+      "A) ornek",
+      "B) o",
+      "C) Dizinin adresini yazar.",
+      "D) k",
+      "E) 111(Ascii(o))"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 Diziye sonradan değer atama ve indis başlıklı konu içeriğinde yer almaktadır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I.   Programın çalışmasını sürdürmesi için yeterli belleğin kalmaması II.  Geçersiz tür dönüşümü yapılması III. Sıfıra bölünme Yukarıdakilerden hangisi ya da hangileri yaygın olarak karşılaşılan hata ayıklamadaki istisnai durumlar arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 8 Yaygın olarak karşılaşılan istisnai durumlar [11]: Programın çalışmasını sürdürmesi için yeterli belleğin kalmaması Yığın (stack) bölgesinin birden fazla metot tarafından kullanılması Null değeri gösteren değişkene erişilmeye çalışılması Matematiksel işlem sonrasında değişkenlerin kapasitesinin aşılması (overflow) Geçersiz tür dönüşümü yapılması Bir dizinin indis sınırlarının aşılması Sıfıra bölünme Fonksiyonlara yanlış formatia parametre gönderilmesi"
+  }
+]

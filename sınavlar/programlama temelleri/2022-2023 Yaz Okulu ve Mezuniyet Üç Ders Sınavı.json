@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "a < 10 || b < 15 || c < 20 || d < 30 Yukarıda verilen ifadenin yanlış sonuç döndürmesi için kaç adet ilişkisel ifadenin yanlış sonuç döndürmesi gerekir?",
+    "seçenekler": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3",
+      "E) 4"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 5 MANTIKSAL OPERATÖRLER başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi operandları arasındaki eşit değildir durumunu yakalamaya çalışan operatördür?",
+    "seçenekler": [
+      "A) >",
+      "B) >=",
+      "C) <",
+      "D) <=",
+      "E) !="
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 5 != Eşit Değildir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "“b = 8 – 4/2; ” işleminin sonucunun 2 yerine 6 çıkması, aşağıdakilerden hangisiyle açıklanabilir?",
+    "seçenekler": [
+      "A) Değişkene ilk değer atanmaması",
+      "B) İşlem önceliğinin dikkate alınmaması",
+      "C) Dizi boyutunun aşılması",
+      "D) Değişkenin null değer referans etmesi",
+      "E) Koşul ifadesinde, atama operatörü kullanımı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Matematiksel işlemler: konusunda yer almaktadır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "#include <iostream> using namespace std; int main() { char dizi[10] = \"\"deneme123\"\"; dizi[4] = '\\0'; cout << dizi; return 0; } Yukarıdaki C++ programı çalıştırıldığında ekrana hangi çıktıyı yansıtır?",
+    "seçenekler": [
+      "A) Ekrana \"\"dene\"\" yazar.",
+      "B) Ekrana \"\"deneme\"\" yazar.",
+      "C) Ekrana \"\"d\"\" yazar.",
+      "D) Ekrana dizinin adresini yazar.",
+      "E) Hata verir, çalışmaz."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 Şekil 9.11. karakterDizisi Değer Değişimi Bellek Gösterimi şeklinde yer almaktadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Fonksiyon prototipi aşağıdakilerden hangisinde yanlış tanımlanmıştır?",
+    "seçenekler": [
+      "A) int Soru(int a, bool b, double c);",
+      "B) int Soru(int c, bool b, double a);",
+      "C) void Soru(int a, bool b, double c);",
+      "D) bool Soru(int a, bool b, double c);",
+      "E) Soru(int a, bool b, double c);"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 7 Fonksiyonun veri tipi: Fonksiyon gövdesindeki deyimler sonucunda hesaplanan ve diğer fonksiyonlara çıkış olarak döndürülen veri tipi değeridir. Normal değişken tipleri gibi tanımlanır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Belirtilen dizinde aynı isimde dosya varsa, o dosyayı silerek tekrar dosya oluşturan dosya açma modu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) ios::trunc",
+      "B) ios::out",
+      "C) ios::app",
+      "D) ios::ate",
+      "E) ios::binary"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Tablo 13.1. Dosya Açma Modları ve Anlamları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "I.   Fonksiyon adı sınıf adı ile aynıdır. II.  Fonksiyon adı tilda (~) ile başlar. III. Üye değişkenlere ilk değer atamak için kullanılır. IV. Bellek alanını boşaltır. Yukarıdakilerden hangisi ya da hangileri yıkıcı fonksiyonlar için geçerlidir?",
+    "seçenekler": [
+      "A) Yanlız IV",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve IV",
+      "E) I, II ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Yıkıcı fonksiyonlar ilk değer vermek için kullanılmaz."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Belirli bir amaca yönelik hazırlanmış ve istenilen işlemleri belirli bir sırada yerine getiren komut dizilerinin genel adı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İşlemci",
+      "B) Kayıt defteri",
+      "C) Metin editörü",
+      "D) Program",
+      "E) Bilgisayar"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 1"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Ekrana '\\' karakterini yazdırmak için aşağıdaki kaçış dizilerinden hangisi kullanılır?",
+    "seçenekler": [
+      "A) \\n",
+      "B) \\t",
+      "C) \\a",
+      "D) \\%",
+      "E) \\\\"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 3 “Kaçış Karakterleri” alt bölümü bir paragraftan oluşuyor. Cevap bu paragrafta yer alıyor."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "İki boyutlu bir dizinin toplam eleman sayısı nasıl hesaplanır?",
+    "seçenekler": [
+      "A) Birinci boyut eleman sayısı ile ikinci boyut eleman sayısı toplanır.",
+      "B) Birinci boyut eleman sayısı ile ikinci boyut eleman sayısı çarpılır.",
+      "C) Birinci boyut eleman sayısı iki ile çarpılır.",
+      "D) İkinci boyut eleman sayısı iki ile çarpılır.",
+      "E) Birinci boyut eleman sayısının karesi ile ikinci boyut eleman sayısının karesi toplanır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 Örnek 4-1: İKİ BOYUTLU DİZİLERİN ÇARPIMI 1 (KARE MATRİS ÇARPIMI) başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "\"\"clear üye\"\" fonksiyonu hangi amaçla kullanılır?",
+    "seçenekler": [
+      "A) Ekranı temizlemek için",
+      "B) String ifadedeki boşlukları silmek için",
+      "C) String sınıfı değişkendeki gereksiz karakterleri silmek için",
+      "D) String sınıfı değişkendeki özel karakterleri silmek için",
+      "E) String sınıfı değişkenin içeriğini silmek için"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 11 7. Sayfa clear üye fonksiyonu alt başlığında ilk paragraf. Clear üye fonksiyonu, String sınıfı değişkenin değerlerini silmek için kullanılır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "for (int i = 0; i <= 3; i++)      cout << \"\"Merhaba\"\" << endl; Yukarıda verilen döngü kaç defa çalıştırılır?",
+    "seçenekler": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3",
+      "E) 4"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 FOR DÖNGÜSÜ başlıklı konuda anlatılmıştır. Ayrıca benzer örnekler yer almaktadır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Veriler aşağıdakilerden hangisinde büyüklüklerine göre sıralı olarak tutulur?",
+    "seçenekler": [
+      "A) map",
+      "B) set",
+      "C) queue",
+      "D) prority_queue",
+      "E) deque"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 12 İlişkisel Depolar başlıklı konuda ve Tablo 12.1 C++ STL kütüphanesinin desteklediği depo yapıları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Akış diyagramları için aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Görsel sembollerle ifade edilir.",
+      "B) Program yazarken sürecin izlenmesine yardımcı olur.",
+      "C) Algoritmaları başka insanlara açıklarken yardımcı olur.",
+      "D) Diyagramda şekiller arasındaki akışı ok yönü ile gösterir.",
+      "E) Programlama dilinin anahtar kelimelerini kullanır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Sözde kod yazılırken algoritmanın ileride bilgisayara aktarılacağı programlama dilinin anahtar kelimeleri kullanılır"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Hatasız kod yazımı için aşağıdakilerden hangisi tavsiye edilmektedir?",
+    "seçenekler": [
+      "A) Test veri setinin kapsamlı olarak hazırlanması",
+      "B) Varsayılan değer bağımlılığının olması",
+      "C) Program kod bloklarının en az 20 satır olması",
+      "D) Kodlamada bir seferde birden fazla değişiklik yapılması",
+      "E) Kod arasına açıklama satırlarının eklenmemesi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi dosya işlemlerinden biri değildir?",
+    "seçenekler": [
+      "A) Yeni bir dosya oluşturma",
+      "B) Dosyadan veri okuma",
+      "C) Dosyaya veri yazma",
+      "D) Dosya gönderme",
+      "E) Var olan dosyanın kullanılmak üzere açılması"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 Dosya işlemleri; • Yeni bir dosya oluşturma, • Var olan dosyanın kullanılmak üzere açılması, • Dosyaya veri yazılması ve/veya dosyadan veri okunması, • Dosyanın sonlandırılması süreçlerini kapsamaktadır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "int a= 5, b = 2; cout << ++a * b-- <<endl; Yukarıda verilen C++ kod parçasının ekran çıktısı hangisidir?",
+    "seçenekler": [
+      "A) 5",
+      "B) 6",
+      "C) 9",
+      "D) 10",
+      "E) 12"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 Önce artma sonra çarpma ve en son eksiltme yapılır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Sonuc değişkenine sıfır ata Oku sayı1 Oku sayı2 Sonuc = sayı1+sayı2 Sonucu ekrana yaz Kullanıcıdan iki sayıyı alıp bu iki sayının toplamını ekrana yazdıran algoritma yukarıda verilmiştir. Bu algoritmanın sözde kod ile gösterimi aşağıdakilerden hangisidir ?",
+    "seçenekler": [
+      "A) SET Sonuc=0 CALCULATE Sonuc=sayi1+sayi2 GET sayı1 DISPLAY Sonuc GET sayı2",
+      "B) SET Sonuc=0 GET sayı1 CALCULATE Sonuc=sayi1+sayi2 DISPLAY Sonuc GET sayı2",
+      "C) GET sayı1 GET sayı2 CALCULATE Sonuc=sayi1+sayi2 SET Sonuc=0 DISPLAY Sonuc",
+      "D) SET Sonuc=0 DISPLAY Sonuc GET sayı1 GET sayı2 CALCULATE Sonuc=sayi1+sayi2",
+      "E) SET Sonuc=0 GET sayı1 GET sayı2 CALCULATE Sonuc=sayi1+sayi2 DISPLAY Sonuc"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Sonuca değişkenine sıfır ata - SET Sonuc=0 Oku sayı1 - GET sayı1 Oku sayı2 - GET sayı2 Sonuc = sayı1+sayı2 - CALCULATE Sonuc=sayi1+sayi2 Sonucu ekrana yaz - DISPLAY Sonuc"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Çıktı penceresi hangi amaç için kullanılır?",
+    "seçenekler": [
+      "A) Kaynak dosyayı görüntülemek",
+      "B) Hata iletileri ve derleyici uyarılarını görüntülemek",
+      "C) Kaynak dosyayı oluşturmak",
+      "D) Kaynak dosya üzerinde değişiklik yapmak",
+      "E) Uygulamayı çalıştırmak"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "#include <iostream> #include <deque> using namespace std; int main () {         deque<int> k;         for (int i=1; i<=6; i++)               k.push_back(i);         k.erase (k.begin(),k.begin()+3);         k.erase(k.begin()+2);         deque<int>::iterator it;         for ( it = k.begin(); it!=k.end(); ++it)                cout << \"\" \"\" << *it;         return 0; } Yukarıda verilen programın ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0 1 2 3",
+      "B) 3 4 5 6",
+      "C) 4 5 6",
+      "D) 5 6",
+      "E) 4 5"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 Sayfa 12'de örnek bir uygulama yer almaktadır. CEVAP ANAHTARI"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi IP (Internet Protocol)'i ifade eder?",
+    "seçenekler": [
+      "A) Bilgisayarların iletişim kurmasını sağlayan protokoldür.",
+      "B) Alan adıdır.",
+      "C) İnternet üzerindeki bilgilere bakabilmeyi ve etkileşim kurmayı sağlayan uygulama protokolüdür.",
+      "D) İnternetie istenilen bilgilere ulaşabilmeyi sağlayan bir arama motorudur.",
+      "E) ADSL"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "< body > etiketi parametrelerinden vlink ne işe yarar?",
+    "seçenekler": [
+      "A) Arka planda kullanılmak istenen resmi belirler.",
+      "B) Linke tıklandığındaki rengi belirler.",
+      "C) Arka plan rengini belirler.",
+      "D) Daha önce ziyaret edilmiş linklerin rengini belirler.",
+      "E) Sayfadaki linklerin rengini belirler ."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "“Bağlanan doküman WEB sunucusundan tamamen ayrı bir sunucuya yerleştirilmiş.” ifadesi bağlantı yollarından hangisini tarif etmektedir?",
+    "seçenekler": [
+      "A) Mutlak yollar",
+      "B) Göreli yollar",
+      "C) Kök yollar",
+      "D) Doküman-göreli yollar",
+      "E) Kök-göreli yollar"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Metin olarak ekranda görünmeyen ve HTML’in ilk bölümünü oluşturan etiket (tag) aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) < title > ... < / title >",
+      "B) < head > ... < / head >",
+      "C) < body >... < / body >",
+      "D) < dl > ... < / dl >",
+      "E) < html > ... < / html >"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "İnternet tarayıcılarında görüntülenmek istenen web sitesinin adresinin yazıldığı çubuğa ne ad verilir?",
+    "seçenekler": [
+      "A) Durum Çubuğu",
+      "B) Adres Çubuğu",
+      "C) Başlık Çubuğu",
+      "D) Araç Çubuğu",
+      "E) Görev Çubuğu"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 -"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Çerçevelerden oluşmuş bir HTML sayfasında body yerine aşağıdaki elementlerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) table",
+      "B) title",
+      "C) head",
+      "D) frameset",
+      "E) meta"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 çerçevelerden oluşan sayfada body yerine frameset elementi kullanılır"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdaki etiketlerden hangisi tarayıcı penceresinde yatay çizgi oluşturur?",
+    "seçenekler": [
+      "A) < font >",
+      "B) < hr >",
+      "C) < body >",
+      "D) < br >",
+      "E) < style >"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdaki etiketlerden hangisi ile metni eğik yapabilirsiniz?",
+    "seçenekler": [
+      "A) < b > ATAUZEM < / b >",
+      "B) < small > ATAUZEM < / small >",
+      "C) < i > ATAUZEM < / i >",
+      "D) < u > ATAUZEM < / u >",
+      "E) < big > ATAUZEM < / big >"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 4 Metni eğik (italic) yapmak için veya tagı kullanılır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Bir yorumlama motoru olan V8 hangi tarayıcı tarafından kullanılmaktadır?",
+    "seçenekler": [
+      "A) Microsoft Internet Explorer",
+      "B) Mozilla Firefox",
+      "C) Apple Safari",
+      "D) Opera",
+      "E) Google Chrome"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi CSS'de \"\"background-repeat\"\" kodunun alabileceği değerlerden biri değildir?",
+    "seçenekler": [
+      "A) repeat",
+      "B) repeat-x",
+      "C) repeat-y",
+      "D) repeat-xy",
+      "E) no-repeat"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 background-repeat in alabileceği değerler arasında repeat-xy bulunmamaktadır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Web sitelerini dolaşarak içeriklerini en hassas bir şekilde inceleyen, bu içerikleri arama yapılabilmesi için uygun şekilde gruplayan, indeksleyen ve istendiğinde kullanıcıya sunan web tabanlı programlara ne ad verilir?",
+    "seçenekler": [
+      "A) Arama motoru",
+      "B) İndeksleyici",
+      "C) Sıralayıcı",
+      "D) Dosyalayıcı",
+      "E) Veri tabanı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Arama motoru, web sitelerini dolaşarak içeriklerini en hassas bir şekilde inceleyen ve bu içerikleri sizin arama yapabilmeniz için uygun şekilde gruplayan, indeksleyen ve istendiğinde kullanıcıya sunan web tabanlı programlara verilen isimdir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Tablo içinde yeni bir satır eklemek için hangi HTML etiketi kullanılır?",
+    "seçenekler": [
+      "A) < NL >",
+      "B) < TH >",
+      "C) < Table >",
+      "D) < TD >",
+      "E) < TR >"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Bir dokümana, videoya veya sıkıştırılmış bir dosyaya bağlantı oluşturmaya ne ad verilmektedir?",
+    "seçenekler": [
+      "A) Sayfa içi bağlantı oluşturmak",
+      "B) Başka bir içeriğe bağlantı oluşturmak",
+      "C) Çapalar ile bağlantı oluşturmak",
+      "D) Sayfa dışı bağlantı oluşturmak",
+      "E) E-posta oluşturmak"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "CSS'de bir elemente iç açıklık vermek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) margin",
+      "B) padding",
+      "C) border",
+      "D) background",
+      "E) font"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 CSS'de elemente iç açıklık vermek için padding kullanılır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "HTML'de bir elementi gizlemek için yazılması gereken CSS kodu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) display:none",
+      "B) element:hide",
+      "C) fadeout:true",
+      "D) hover:gone",
+      "E) gravity:none"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 CSS'de elementi gizlemek için display:none yazılmalıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi ile Erzurum yazısının altı çizdirilebilir?",
+    "seçenekler": [
+      "A) < u> Erzurum < / u >",
+      "B) Erzurum < u >",
+      "C) Erzu < u > rum < / u >",
+      "D) < b > Erzurum",
+      "E) < i > Erzurum"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 4 etiketi ile metnin altı çizdirilebilir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "2013 yılında en çok tercih edilen tarayıcı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Microsoft Internet Explorer",
+      "B) Mozilla Firefox",
+      "C) Apple Safari",
+      "D) Google Chrome",
+      "E) Opera"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Bir web sayfası tasarlanırken aşağıdaki form nesnelerinden hangisi kullanılırsa, ziyaretçinin birbiriyle alakalı bir grup öge arasından bir ya da birden fazla seçeneği seçebilmesi sağlanır?",
+    "seçenekler": [
+      "A) Radio",
+      "B) Text",
+      "C) Textarea",
+      "D) Password",
+      "E) Checkbox"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 8 -"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir tablonun genişliğini ayarlamak için kullanılan html parametresidir?",
+    "seçenekler": [
+      "A) height",
+      "B) width",
+      "C) align",
+      "D) left",
+      "E) top"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 7 Width parametresi, tablonun piksel cinsinden genişliğini belirler."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir videonun boyutunu (sabit diskte kapladığı alanı) belirleyen faktörler arasında yer almaz?",
+    "seçenekler": [
+      "A) Videonun çözünürlüğü",
+      "B) Videonun saniyedeki kare sayısı",
+      "C) Videonun süresi",
+      "D) Videonun hızlı oynatılması",
+      "E) Videonun formatı"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 videonun hızlı veya yavaş oynatılması boyutunda bir değişikliğe neden olmaz."
+  }
+]

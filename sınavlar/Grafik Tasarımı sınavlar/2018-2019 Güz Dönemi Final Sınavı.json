@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Photoshop programında var olan ya da oluşturulan bir eylemi birden çok görsel üzerinde tek seferde uygulamak için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) Otomatik toplu işleme",
+      "B) Oynat",
+      "C) Kaynak",
+      "D) Hatalar",
+      "E) Hedef"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Otomatik Toplu İşleme: Var olan veya oluşturan bir eylemi birden çok görsel üzerinde tek seferde uygulamak için Toplu İş seçeneği kullanılmaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Photoshop programında seçili olan yolun kenarlarının görüntü üzerinde belirgin hâle getirilmesini sağlayan Yollar Paneli komutu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Yola kontur ver.",
+      "B) Yolu doldur.",
+      "C) Yolu sil.",
+      "D) Seçimi yap.",
+      "E) Yolu çoğalt."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Yola Kontur Ver seçeneği ise seçili olan yolun kenarlarının görüntü üzerinde belirgin hale getirilmesini sağlamaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Cetvellerin başlangıç konumunun bulunduğu yer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Cetvel başlığı",
+      "B) Yaslama yeri",
+      "C) Sıfır konumu",
+      "D) Cetvel boşluğu",
+      "E) Hizalama boşluğu"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında resim yönelimi hakkında doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) 180°: Resmi 180 derece yani yarım tur kadar döndürür.",
+      "B) 90° Saat Yönünde: Resmi saat yönünde 90 derece yani çeyrek tur kadar döndürür.",
+      "C) Resmi fare ile serbest olarak döndürmek için Dosya menüsünden Serbest Dönüştürme komutu seçilir.",
+      "D) 90° Saatin Yönünün Tersine: Resmi saatin tersi yönde yani çeyrek tur kadar döndürür.",
+      "E) Tuvali Yatay/Dikey Çevir: Çalışma tuvali yatay ya da dikey olarak döndürülür."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Resmi fare ile serbest olarak döndürmek için ise Düzenle menüsünden Serbest Dönüştürme komutu seçilir"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi renk psikolojisiyle ilgili yanlıştır",
+    "seçenekler": [
+      "A) Renkler belirli hisleri temsil eder.",
+      "B) Renk psikolojisi renklerin bireyler üzerinde oluşturduğu zihinsel etkilerdir.",
+      "C) Renkler farklı kültürlerde, anlam ve algıda farklılıklar oluşturmaz.",
+      "D) Renk psikolojisi renklerin bireyler üzerinde oluşturduğu duygusal etkilerdir.",
+      "E) Renklerin psikolojisi dikkate alınarak hedef kitleye uygun etkili bir görsel iletişim kurabilirsiniz."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında yer alan Eylemler hakkında doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Eylemler, otomatik olarak yinelenen görevleri gerçekleştirerek zamandan tasarruf etmeyi sağlar.",
+      "B) Eylemler, yapılan işlemleri düzenleme, yeni işlem ekleme, silme ve hazır işlemlerden yararlanma gibi olanaklar sağlayan bir özelliktir.",
+      "C) Photoshop’da eylem oluşturmak ve uygulamak için Eylemler paneli kullanılmaktadır.",
+      "D) Eylemler paneli, eylemleri kaydetme, oynatma, düzenleme ve silme komutlarını içerir.",
+      "E) Eylemler paneline Görünüm/Eylemler adımlarını takip edilerek ulaşılmaktadır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Eylemler paneline Pencere/Eylemler adımlarını takip edilerek ulaşılmaktadı"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında noktada metin ekleme işlemi için doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Noktada metin ekleme, çalışılan dosya üzerinde tıklanılan yerden yatay veya dikey olarak bir metin satırının girilmesidir.",
+      "B) Noktada metin ekleme daha çok birkaç sözcük eklemek için kullanılır.",
+      "C) Nokta metin eklendiğinde her yazı satırı birbirinden bağımsızdır.",
+      "D) Noktada eklenen metinlerin hepsi aynı katmanda görüntülenir.",
+      "E) Çalışılan tasarım dosyası üzerine noktada metin eklemek için yatay yazı aracı tıklanır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Noktada eklenen metinler birbirinden bağımsız oldukları için her biri farklı katmanda görüntülenir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi resmin boyutunu fare ile serbest olarak değiştirme yöntemi için doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Resmin boyutunu fare ile değiştirebilmek için resmi katmana dönüştürmek gerekir.",
+      "B) Düzenle menüsünden Serbest Dönüştürme seçilir .",
+      "C) Resmin kenarlarında beliren küçük kareler şeklindeki tutamaçlardan tutup sürüklenerek fare aracılığıyla resmin boyutu değiştirilebilir.",
+      "D) Boyutlandırma yapılırken klavyeden Tab tuşuna basılı tutulursa resmin en boy oranı sabit kalır.",
+      "E) Eğer Alt tuşuna basılı tutulursa resmin eni ve boyu karşı kenara göre otomatik olarak büyür veya küçülür."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Boyutlandırma yapılırken; klavyeden Shift tuşuna basılı tutulursa resmin en boy oranı sabit kalır"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi satın alınmak yerine kiralanarak kullanılabilir?",
+    "seçenekler": [
+      "A) Adobe Photoshop CC",
+      "B) Adobe Photoshop CS6",
+      "C) GIMP",
+      "D) Corel Draw",
+      "E) Adobe Acrobat"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Photoshop programında animasyon oluştururken GIF dosyasının fazla alan kaplamasını engellemek için kullanılan komut aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tüm Kareleri Seç.",
+      "B) Git.",
+      "C) Kareleri ters çevir.",
+      "D) Her yeni kare için katman oluştur.",
+      "E) Animasyonu en iyileştir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Animasyonu En İyileştir, oluşturduğunuz GIF dosyasının fazla alan kaplamasını engellemektedir"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "RGB renk modunun renkleri aşağıdakilerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) Gri, Mavi, Kırmızı",
+      "B) Sarı, Mavi, Yeşil",
+      "C) Kırmızı, Yeşil, Mavi",
+      "D) Cam göbeği, Macenta, Sarı",
+      "E) Sarı, Siyah, Yeşil"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop’ta tüm filtrelerin uygulanabileceği resim türüdür?",
+    "seçenekler": [
+      "A) 16 bit resimler",
+      "B) Bitmap resimler",
+      "C) Png resimler",
+      "D) 8 bit resimler",
+      "E) RGB modundaki resimler"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "LZW isimli sıkıştırma algoritmasına sahip yalnızca 256 renk destekleyen, çok katmanlı yapılardan oluşabildiği için hareketli görseller hazırlanabilir dosya formatı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) BMP",
+      "B) GIF",
+      "C) JPEG",
+      "D) Targa",
+      "E) TIFF"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "GIF: LZW isimli sıkıştırma algoritmasına sahip yalnızca 256 renk destekleyen, çok katmanlı yapılardan oluşabildiği için hareketli görseller hazırlanabilir dosya formatıdır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programında yer alan boyama araçlarından değildir?",
+    "seçenekler": [
+      "A) Fırça aracı",
+      "B) Kurşun kalem aracı",
+      "C) Renk değiştirme aracı",
+      "D) Karıştırıcı fırça aracı",
+      "E) Silgi aracı"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Katmanlar panelinde hangi sembol ile o kaman gizlenebilir?",
+    "seçenekler": [
+      "A) (T) sembolü şeklindeki düğme",
+      "B) Göz şeklindeki düğme",
+      "C) fx düğmesi",
+      "D) > şeklindeki düğme",
+      "E) Opaklık düğmesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında Ayarlar Paneli ögeleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Parlaklık / Kontrast",
+      "B) Görünüm",
+      "C) Düzeyler",
+      "D) Eğriler",
+      "E) Pozlama"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Görünüm programa ait bir menüdür. Ayarlar panelinin bir öğesi değildir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi kartvizit, afiş, broşür, logo ve infografik tasarımında dikkat edilmesi gereken unsurlar arasında yer almaz?",
+    "seçenekler": [
+      "A) Sade ve anlaşılır olmalıdır.",
+      "B) Tasarım bütünlüğü sağlanmalıdır.",
+      "C) Uyumlu renklerin kullanımına dikkat edilmelidir.",
+      "D) Mevcut alan en etkili biçimde kullanılmalıdır.",
+      "E) Görselin amacı dışına çıkarak kapsam genişletilmelidir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Kartvizit, afiş, broşür, logo ve infografik farklı amaçlar için tasarlanan görseller olsa da hepsinin de tasarımında dikkat edilmesi gereken bazı unsurlar şu şekilde sıralanabilir: • Sade ve anlaşılır olmalıdır. • Tasarım bütünlüğü sağlanmalıdır. • Uyumlu renklerin kullanımına dikkat edilmelidir. • Gerekmedikçe yazı ve görsel kullanılmamalıdır. • Mevcut alan en etkili biçimde kullanılmalıdır. • Tasarlanacak görselin kapsam ve amacı net belirlenmelidir. • Görselin kapsam ve amacı dışına çıkmamak için dikkat edilmelidir."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Photoshop programında zaman çizelgesinde seçili olan karenin kopyalanması sağlayan komut aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Kare sil.",
+      "B) Animasyonu sil.",
+      "C) Kareyi yapıştır.",
+      "D) Kareyi kopyala.",
+      "E) Tüm kareleri seç."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Kareyi Kopyala, seçeneği ile zaman çizelgesinde seçili olan karenin kopyalanması sağlanır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi metinleri kullanırken görselliğin daha güçlü olması için dikkat edilmesi gerekenler arasında yer almaz?",
+    "seçenekler": [
+      "A) Metinler, gözü yoracak biçimde yoğun olmamalıdır.",
+      "B) Metinler, görseldeki diğer bileşenlerle uyumlu olmalıdır.",
+      "C) Anahtar kelime kullanmak yerine cümleler bütün hâlde yazılarak anlatım güçlendirilmelidir.",
+      "D) Metinlerin etrafına gereksiz bileşenler eklenmemelidir.",
+      "E) Olası yazım hatalarını gidermek için metin gözden geçirilmelidir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Cümleleri bütün halde yazmak yerine anahtar kelimelerle daha çarpıcı tasarımlar elde edilmelidir."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Sıkıştırma algoritmasına sahip olmadığı için diğer resim formatlarına kıyasla daha çok yer kaplayan Microsoft firmasına ait dijital resim formatı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) BMP",
+      "B) DOCX",
+      "C) PPT",
+      "D) XLS",
+      "E) SWF"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "BMP: Sıkıştırma algoritmasına sahip olmadığı için diğer resim formatlarına kıyasla daha çok yer kaplayan Microsoft firmasına ait dijital bir resim formatıdır."
+  }
+]

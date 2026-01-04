@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Serpil ....... in 1985 in Holland. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) born",
+      "B) was born",
+      "C) is born",
+      "D) did borned",
+      "E) borned"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "geçmiş zamanda doğmak fiili \"\"was/were\"\" yardımcı fiili kullanılır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "I saw Cenk and Ali yesterday. They .............. . Cümleyi uygun şekilde tamamlayacak ifade aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) are having lunch",
+      "B) were waiting at the bus stop",
+      "C) play computer games",
+      "D) are at the school",
+      "E) sometimes smoke"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "şimdiki zamanın hikayesi görevinde \"\"past continuous\"\" yapı geçmiş zamanın hikayeleştirilmesinde was / were yardımcı fiiliyle birlikte fiil \"\"ing\"\" takısıyla kullanılır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Please call ...., when you arrive. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) me",
+      "B) she",
+      "C) we",
+      "D) his",
+      "E) their"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "1. tekil şahıslar için nesne durumunda zamirlerde \"\"me\"\" kullanılır. (beni-bana-bende-benden)"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "........ any water in the glass. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) There is",
+      "B) There aren't",
+      "C) There weren’t",
+      "D) Are there",
+      "E) There isn’t"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Sayılamayan isimlerle birlikte bulunma anlamında \"\"there is\"\" kullanılır ve \"\"any\"\" geçen cümle soru yada olumsuz cümledir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "My father is a non-smoker.  He ............................. smokes. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) sometimes",
+      "B) often",
+      "C) never",
+      "D) always",
+      "E) rarely"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "\"\"Never\"\" anlam olarak olumsuz olsa da kullanım itibariyle olumlu cümlede geçer."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Our English  teachers are from England. ......... new in Turkey. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) He's",
+      "B) She's",
+      "C) They're",
+      "D) We're",
+      "E) It's"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Özne durumdaki zamirlerin 3. çoğul şahısta kullanımıdır. Kesme işaretiyle kısaltılabilir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Antalya and Adana ....... two hot cities in Turkey. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) is",
+      "B) am",
+      "C) isn't",
+      "D) are",
+      "E) am not"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Çoğul isimler \"\"are\"\" yardımcı fiilini alır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Sinem ........ curly and long hair. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) has got",
+      "B) have got",
+      "C) is having",
+      "D) don’t have",
+      "E) have"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "3. tekil şahısta has got yapısı kullanılır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Ali and ...... sister work in England. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) her",
+      "B) she",
+      "C) they",
+      "D) their",
+      "E) his"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "iyelik sıfatı 3. tekil şahıs kullanımı erkekler için \"\"his\"\" olarak kullanılır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "...... you play your game last weekend? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Did",
+      "B) Does",
+      "C) Do",
+      "D) Are",
+      "E) Were"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Geçmiş zamanda soru cümlesi, cümlenin başına \"\"did\"\" yardımcı fiili getirilerek yapılır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Mary ....... TV at home every evening. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) watching",
+      "B) is watch",
+      "C) watch",
+      "D) watches",
+      "E) are watching"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "geniş zaman olumlu cümlede 3. tekil şahısta fiilin sonuna -s takısı getirilir"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "She has.......tea in her glass. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) a few",
+      "B) few",
+      "C) a little",
+      "D) many",
+      "E) an"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "sayılamayan isimlerin miktarından bahsederken a little kullanılır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "My car is red  and ....... is black. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) hers",
+      "B) them",
+      "C) our",
+      "D) him",
+      "E) you"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "3. tekil şahıs bayanlar için aitlik zamiri onunki anlamında \"\"hers\"\" kullanılır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "A: Excuse me, can I help you? B: I ...... an ice-cream please. Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) wants",
+      "B) am wanting",
+      "C) want",
+      "D) was wanted",
+      "E) am want"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Bazı fiiller şimdiki zaman kalıbında kullanılmazlar. \"\"want\"\" fiili ing takısı almaz. Geniş zamanda kullanılır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "I ........ fruits very much. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am like",
+      "B) likes",
+      "C) was liking",
+      "D) liking",
+      "E) like"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Geniş zamanda, 1. tekil şahıs olumlu cümle ise, fiil yalın halde kullanılır"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "A: .................................................. B: I went to cinema with my wife. Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) What do you do in your free time?",
+      "B) What did you do yesterday?",
+      "C) When are you coming?",
+      "D) Where are you from?",
+      "E) How did you find the film?"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Geçmiş zamanda birinin ne yaptığı sorulduğunda \"\"what\"\" soru kelimesi \"\"did\"\" yardımcı fiili ile kurulur."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": ".......... are my father’s keys. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) This",
+      "B) Them",
+      "C) That",
+      "D) Their",
+      "E) These"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Çoğul isimlerden önce \"\"these\"\" işaret sıfatı olarak kullanılır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Melek ............... at the moment. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) works",
+      "B) worked",
+      "C) was working",
+      "D) is working",
+      "E) does work"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "\"\"at the moment\"\" ifadesi şimdiki zamanda kullanılan bir zaman ifadesidir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "A: How old are you? B: ...................... . Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) She is at the school",
+      "B) I am a student",
+      "C) They are from İzmir",
+      "D) I am thirty years old",
+      "E) I am American"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Soru, gerçek hayatia birinin yaşını soruyor. Cevapta ise 30 yaşında olduğunu belirtiyor."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "What time does the bus ..... the station in the morning? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) see",
+      "B) leave",
+      "C) help",
+      "D) drive",
+      "E) start"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "sıkça kullanılan kelimeler , anlamı \"\"ayrılmak\"\""
+  }
+]

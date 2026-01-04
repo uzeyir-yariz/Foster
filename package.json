@@ -1,0 +1,35 @@
+{
+  "name": "foster-exam-system",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"node server.js\" \"vite\"",
+    "build": "vite build",
+    "build:server": "pkg server.js --target node18-win-x64 --output foster-server.exe",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "multer": "^2.0.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "wait-on": "^9.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.5"
+  },
+  "pkg": {
+    "assets": [
+      "student.json",
+      "template_student.json",
+      "hatali_sorular.json",
+      "sınavlar/**/*",
+      "public/**/*"
+    ],
+    "outputPath": "."
+  }
+}

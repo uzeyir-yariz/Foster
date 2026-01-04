@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Akıllı kılavuzları aktifleştirmek veya pasifleştirmek için hangi menüden yararlanılabilir?",
+    "seçenekler": [
+      "A) Düzen>Göster> Akıllı Kılavuzlar",
+      "B) Dosya> Akıllı Kılavuzlar",
+      "C) Görünüm>Göster> Akıllı Kılavuzlar",
+      "D) Görünüm>Kılavuz ekle>Akıllı Kılavuzlar",
+      "E) Pencere>Katmanlar>Akıllı Kılavuzlar"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Katmanlar panelinde A katmanı, B katmanın üstündedir. Bu durumda aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) A katmanı ile B katmanı aynı gruptadır.",
+      "B) A katmanı taşındığında B katmanı da taşınır.",
+      "C) A katmanına bir çizim yapılırsa B katmanına da yapılır.",
+      "D) A katmanı B katmanının önünde gözükür.",
+      "E) A katmanı silinmeden B katmanı silinemez."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programının ekranında yer alan paneller, pencereler ve çubukların düzenlendiği bölüme “.................” denir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Çalışma alanı",
+      "B) Çoklu panel",
+      "C) Seçim araçları",
+      "D) Seçenekler çubuğu",
+      "E) Çalışma çubuğu"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "En yüksek 4 GB dosya boyutuna sahip olabilen ve veri boyutundan dolayı web ortamında çok tercih edilmeyen resim formatı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) PSD",
+      "B) EPS",
+      "C) TIFF",
+      "D) Pixar",
+      "E) PNG"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 En yüksek 4 GB dosya boyutuna sahip olabilen bir resim formatıdır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıda Piksel’e ilişkin verilen bilgilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Geometrik formüller içerir.",
+      "B) Dijital görüntünün en küçük yapı taşıdır.",
+      "C) Çözünürlükten bağımsızdır.",
+      "D) Detay kaybetmeden yeniden ölçeklendirilebilir.",
+      "E) Piksel görüntü noktaları ve eğrileri tanımlayarak oluşturulur."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 Grafik tasarım yazılımlarında görüntüler yan yana ve üst üste dizilen renk kutucuklarından oluşur. Bu renk kutucuklarına piksel denir. Piksel, dijital görüntünün en küçük yapı taşıdır. Resimlerin oluşturulmasında kullanılan ve kontrol edilebilen temel bir birimdir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi Ayarlar paneli ile yapılan ayarlamaların avantajları arasında yer almaz?",
+    "seçenekler": [
+      "A) Orijinal görüntü üzerinde değişiklik yapmadığı için istenildiği an görüntünün ilk hâline dönüş yapılabilir.",
+      "B) Görsele zarar verici bir düzenleme yapılamaz.",
+      "C) Bir görsel üzerinde Ayarlar paneli ile yapılan düzenlemeler başka görsellere kopyala-yapıştır yoluyla uygulanabilir.",
+      "D) Ayarlar panelinde seçilen her öge için tek bir katman oluşturulur.",
+      "E) Ayarlar ile oluşturulan katmanlar gizlenebilir ve saydamlaştırılabilir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 Ayarlar panelinde seçilen her bir öğe kendisi için ayrı bir katman oluşturduğu için yapılan düzenlemelerinde birbirleriyle karışma ihtimali bulunmamaktadır. Böylelikle istenilen öğe üzerinde değişiklik yapılabilir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Kartvizit tasarımında milimetre cinsinden en yaygın kullanılan ölçü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 20*40",
+      "B) 80*50",
+      "C) 100*130",
+      "D) 150*180",
+      "E) 200*250"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Kartvizitlerin standart bir ölçüsü olmamakla birlikte en yaygın olarak 80 mm*50 mm şeklinde tasarlanmaktadır"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Bir şekli deforme ederken en boy oranını korumak için aşağıdaki kısayol tuşlarından hangisi kullanılmaktadır?",
+    "seçenekler": [
+      "A) Shift",
+      "B) Ctrl",
+      "C) Alt",
+      "D) Alt Gr",
+      "E) Windows"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 14 Deformasyon yapılırken en boy oranını korumak için Shift tuşuna basılı tutulmalıdır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop’ta dışarıdan eklenen filtrelerin yer aldığı bölümdür?",
+    "seçenekler": [
+      "A) Filtre menüsü alt kısmında",
+      "B) Filtre galerisi içerisinde",
+      "C) Araç çubukları içerisinde",
+      "D) Pencere menüsünde",
+      "E) Dosya menüsünde"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Adobe Illustrator grafik tasarım programı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Adobe firmasının vektörel çizimler için geliştirdiği grafik programıdır.",
+      "B) Kullanıcılara aylık ya da yıllık bazda kiralanarak sunulmaktadır.",
+      "C) Desteklediği dosya biçimi kendi dosya biçimi olan Ai’dir.",
+      "D) Piksel tabanlı resim işleme editörüdür.",
+      "E) SVG dosya biçimi de desteklenmektedir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 Photoshop’un aksine, vektörel çizim içindir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Ayarlamalar katmanı ile aşağıdakilerden hangisi yapılabilir?",
+    "seçenekler": [
+      "A) Bir katmanı 90 derece döndürme",
+      "B) Tüm katmanları 90 derece döndürme",
+      "C) Bir katmanın rengini canlandırma",
+      "D) Bir katmanın boyutunu değiştirme",
+      "E) Bir katmana mavi çerçeve çizme"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programı çalıştırıldığında, ekrana gelen alanın adı nedir?",
+    "seçenekler": [
+      "A) Seçim paneli alanı",
+      "B) Gezinme paneli alanı",
+      "C) Başlangıç çalışma alanı",
+      "D) Çizim alanı",
+      "E) Araç çubukları paneli"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "I. Dithering sürekli tonların benzerini üretir. II. Dithering, üçüncü bir rengin görünümünü vermek için farklı renklerin bitişik piksellerini kullanmak demektir. III. Dithering bir pikselin alpha derecesidir. Yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve III",
+      "C) I, II ve III",
+      "D) Yalnız III",
+      "E) I ve II"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında resmin çözünürlüğü hakkında doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Bir resmin ppi değeri ne kadar küçükse çözünürlüğü yani kalitesi de o kadar yüksektir.",
+      "B) Photoshop’ta resimler genelde 300 ppi, 72 ppi veya 96 ppi olarak görüntülenmektedir.",
+      "C) Baskı alınacak resimlerde baskı kalitesini artırmak için resmin 300 ppi gibi yüksek çözünürlükte olması gerekir.",
+      "D) Photoshop’ta kullanım amacına göre resimlerin çözünürlük ayarlaması yapılabilmektedir.",
+      "E) Düşük çözünürlük özelliğindeki bir kamerayla çekilmiş bir resmin çözünürlüğünü Photoshop’ta artırmak işe yaramaz."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 Bir resmin ppi değeri ne kadar büyükse çözünürlüğü yani kalitesi de o kadar yüksektir"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop’ta resmin bir kısmına ya da tümüne çeşitli efektler uygulamayı sağlar?",
+    "seçenekler": [
+      "A) Katman",
+      "B) Filtre",
+      "C) Metin",
+      "D) Araç çubukları",
+      "E) Görünüm menüsü"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Photoshop programında yeni bir eylemin oluşturulma aşamasını başlatmak için aşağıdaki düğmelerden hangisi kullanılmaktadır?",
+    "seçenekler": [
+      "A) Oynatmayı / Kaydı durdur",
+      "B) Eylemi değiştir",
+      "C) Seçimi oynat",
+      "D) Kaydı başlat",
+      "E) Yeni eylem oluştur"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 Yeni eylem oluştur: Yeni bir eylem oluşturur."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Zoomify özelliği kullanılırken görüntü döşeme bölümü içerisinde görüntü kalitesi en yüksek olarak aşağıdakilerden hangisi seçilebilmektedir?",
+    "seçenekler": [
+      "A) 8",
+      "B) 9",
+      "C) 10",
+      "D) 11",
+      "E) 12"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 11 11. ünite 16. sayfada ki 'Zoomify' başlığı altında yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Photoshop programında yolun bulunduğu kısma renk veya desen ataması yapmak için kullanılan Yollar Paneli komutu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Yolu çoğalt",
+      "B) Yolu sil",
+      "C) Seçimi yap",
+      "D) Yolu doldur",
+      "E) Seçili yoldan yeni 3B"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 Yolu Doldur seçeneği seçilen yolun bulunduğu kısma renk veya desen ataması yapmak için kullanılmaktadır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi metin sınırlama kutusu işlemleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Boyutlandırma",
+      "B) Fontu eşleştirme",
+      "C) Eğriltme",
+      "D) Yönlendirme",
+      "E) Döndürme"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Metin sınırlama kutusu işlemleri: Boyutlandırma işlemi, Döndürme işlemi, Eğriltme işlemi, Yönlendirme işlemi, metin çarpıtma işlemi."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop CC 2018 ile kullanılabilecek bir ölçek birimi değildir?",
+    "seçenekler": [
+      "A) İnç",
+      "B) Yüzde",
+      "C) Santimetre",
+      "D) Milimetre",
+      "E) Metre"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde belirtisiz nesne vardır?",
+    "seçenekler": [
+      "A) Babam balıkları akvaryumdan çıkardı.",
+      "B) Ayşe ekmek almıştı.",
+      "C) Bana dargın gibi bakıyor.",
+      "D) Okulun bahçesini ağaçlandırdık.",
+      "E) Dünyanın nasıl dündüğünü kavrayamamıştı."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 Ayşe ekmek almıştı."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Türkçenin köklü bir dil olmasındaki temel etken aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tarihî geçmişi ve farklı coğrafyalarda olan hâkimiyeti",
+      "B) Sahip olduğu kelime sayısı",
+      "C) Çok fazla değişmeyen yapısı",
+      "D) Sondan eklemeli bir dil olması",
+      "E) Çok fazla tamlama ve kelime grubuna sahip olması"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Orhun Kitabeleri ilk defa aşağıdakilerden hangisi tarafından okunmuştur?",
+    "seçenekler": [
+      "A) Strahlenberg",
+      "B) Yardintsev",
+      "C) Wilhelm Thomson",
+      "D) Reşit Rahmeti Arat",
+      "E) Muharrem Ergin"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir isim cümlesidir?",
+    "seçenekler": [
+      "A) Bütün gece yağmurda dolaştım.",
+      "B) Seni gördüm sokakta koşarken.",
+      "C) Okuyordu güzel sesiyle şiiri.",
+      "D) Seninle geçirdiğimiz günler ne kadar güzeldi.",
+      "E) Her gün yeni bir işe koyulurdu."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Seninle geçirdiğimiz günler ne kadar güzeldi."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki cümlelerde veya dizelerde kullanılan ikilemelerden hangisi cümleye abartma anlamı katmıştır?",
+    "seçenekler": [
+      "A) Ağır ağır çıkacaksın bu merdivenlerden",
+      "B) Türkülerde tüter dağ dağ, yayla yayla / Köyümüz köylümüz türkülerimiz",
+      "C) Şu yalan dünyaya geldim geleli / Tas tas içtim ağuları sağ iken",
+      "D) Eninde sonunda benim elime düşeceksin",
+      "E) Her yer vıcık vıcık çamurdu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Şu yalan dünyaya geldim geleli / Tas tas içtim ağuları sağ iken."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Topraktandır cümle beden, Nefsini öldür ölmeden, Böyle emretmiş yaradan, Sen kalemsin ben uç muyum? Bu dizelerde aşağıdaki ses olaylarından hangisi yoktur?",
+    "seçenekler": [
+      "A) Ünsüz benzeşmesi",
+      "B) Ulama",
+      "C) Ünlü daralması",
+      "D) Ünlü düşmesi",
+      "E) Ünsüz yumuşaması"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6 Türkçe sözcüklerde ince ve kalın şekilleri bulunan k, g, l ünsüzleri ince ünlülerin yanında ince, kalın ünlülerin yanında kalın okunur."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Girişik birleşik cümleye aşağıdaki cümlelerden hangisi örnek teşkil eder?",
+    "seçenekler": [
+      "A) Su, dere yatağında öylece akıp gidiyordu.",
+      "B) Kuşlar gibi özgürüm artık.",
+      "C) Elini bana uzatarak kuyudan çıktı.",
+      "D) Sönük bir lamba alevi bu aşk.",
+      "E) Kitabın başında uyuya kalmış."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 Temel yargıyı taşıyan “temel cümlecik” ile yan yargıları taşıyan “yan cümlecik/ler”den oluşan, böylece, birden fazla yargı içeren cümlelere, birleşik cümle denir. Bu yapıdaki cümlelerde “temel cümle”nin yüklemi çekimli eylem ya da ek eylemle çekimlenmiş ad soylu sözcüktür. Temel cümle asıl yargıyı bildirir ve genellikle cümlenin sonunda yer alır. “Yan cümlecikler”, eylemsiler ve onların aldığı ögelerden oluşur. Yan cümlecik, temel cümleciği çeşitli yönlerden açıklar, tamamlar, temel yükleme göre öge görevi üstlenir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "‘’Doğmazsa güneş yeryüzüne aydınlıklar karanlıkta kalır, dedi.’’ cümlesi yapısına göre aşağıdaki cümle çeşitlerinden hangisine örnektir?",
+    "seçenekler": [
+      "A) Bağlı",
+      "B) Sıralı",
+      "C) Eylem",
+      "D) Basit",
+      "E) Birleşik"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi konuşma dili ve yazı dili arasındaki farklardan biri değildir?",
+    "seçenekler": [
+      "A) Yazı dili, lehçelerden veya ağızlardan birine göre şekillenirken konuşma dilinde böyle bir durum söz konusu değildir.",
+      "B) Yazı dilinde söylenen sözlerde bir yanlışlık yapıldığında bunu geriye dönüp düzeltmek zor olduğu gibi konuşma dilinde de böyledir.",
+      "C) Bir milletin din, edebiyat ve ilim adamları yazı dilini zenginleştirir ve yazı dili belli ölçülerde konuşma dilinden farklılaşır.",
+      "D) Konuşma dilinde, yanlış söylenen bir sözden ya da bir kelimenin yerli yerince kullanılmamasından doğan aksaklık geriye dönülerek düzeltilebilirken yazı dilinde bu mümkün olmaz.",
+      "E) Konuşma dili, yazı dilinden bağımsız olarak gelişen ve kendisine mahsus kuralları olan farklı bir dildir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 Cevap şıkkı B olarak güncellenmiştir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisinde vurgu ikilemenin üzerindedir?",
+    "seçenekler": [
+      "A) Hızlı hızlı yürüyerek bu ıssız yerden geçtik.",
+      "B) Annem apar topar sofrayı hazırladı.",
+      "C) Birçok arkadaşım abur cubur yiyerek sağlıksız besleniyor.",
+      "D) Bu şehrin her yerini adım adım gezdim.",
+      "E) Yalan yanlış bilgilerle herkesi kandırdılar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 -"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde yüklem isim tamlamasından oluşmuştur?",
+    "seçenekler": [
+      "A) Çocuklarla iletişim kurmak zor bir iştir.",
+      "B) Günümüzde teknoloji ve bilim, uygarlığın göstergesidir.",
+      "C) Matematik öğretmenimiz sinirli bir adamdı.",
+      "D) Hülya’nın uğurlu günü salıymış.",
+      "E) Gömleğinin rengi ceketine hiç uymamış."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 Yüklemde belirtilen işi yapan varlığa özne denilmektedir. Yükleme sorulacak “Kim?” ve “Ne?” soruları özneyi bulmamızı sağlamaktadır. Fiil cümlelerinde işi yapan öznedir. İsim cümlelerinde ise eylem bulunmadığı için özne, yüklemin bildirdiği durumda olandır. “Çocuklar denizde keyifle yüzüyordu.” Cümlesinde “yüzme” eylemini yapan çocuklardır. Bunu yükleme sorduğumuz “yüzen kim?” sorusu ile bulabiliriz."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yüklemin türüne göre diğerlerinden faklıdır?",
+    "seçenekler": [
+      "A) Müdürümüzün adı, Nazım Erol’du.",
+      "B) Tarık Buğra, Cumhuriyet Dönemi Türk romanının zirve isimlerindendir.",
+      "C) Bu saate kadar çalışmak yaşlı adamı oldukça yormuştu.",
+      "D) Adamın dudağında eski bir yara izi vardı.",
+      "E) Lunapark bekçisinin işi, hem keyifli hem de eğlencelidir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 -"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi yapısına göre basit bir cümledir?",
+    "seçenekler": [
+      "A) Çanakkale içinde vurdular beni.",
+      "B) Önüne engeller çıkaracaklardır, sen bunlara dayanacaksın.",
+      "C) Lokman Hekim gelse yaram azdırır.",
+      "D) Önce okudu ve sonra anlaƴ.",
+      "E) O kadar çalıştı ki sonunda başardı."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 14 Çanakkale içinde vurdular beni."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi eksiltili bir cümledir?",
+    "seçenekler": [
+      "A) Dar günümde el uzaƴğınız için teşekkürler.",
+      "B) İlacını geciktirirsek babaannem keser iflahımızı.",
+      "C) Kim bu cennet vatanın uğruna olmaz ki feda!",
+      "D) Kuş kanadıyla selam gönderilir.",
+      "E) Hâlden bilmiyor kimseler."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Dar günümde el uzaƴğınız için teşekkürler."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "”Kır atın yanında duran ya huyundan, ya suyundan...” atasözünün ihtiva etiği anlama en yakın atasözü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Üzüm üzüme baka baka kararır.",
+      "B) Baba koruk yer, oğlunun dişi kamaşır.",
+      "C) Çanağa ne doğrarsan kaşığında o çıkar.",
+      "D) Davul birinin boynunda, tokmak bir başkasının elinde.",
+      "E) İki karpuz bir koltuğa sığmaz."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 -"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi birleşik cümle çeşitlerinden biri değildir?",
+    "seçenekler": [
+      "A) Şartlı birleşik cümle",
+      "B) Ki’li birleşik cümle",
+      "C) İç içe birleşik cümle",
+      "D) Girişik birleşik cümle",
+      "E) De'li birleşik cümle"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 De'li birleşik cümle"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisinde Türkiye’de Altayistik bilim kolunda çalışma yapan bilim adamlarından üçü birlikte verilmiştir?",
+    "seçenekler": [
+      "A) Osman Fikri Sertkaya, Yavuz Kartiallıoğlu, Muharrem Ergin",
+      "B) Ahmet Temir, Osman Nedim Tuna, Talat Tekin",
+      "C) Osman Nedim Tuna, Osman Fikri Sertkaya, Hayati Develi",
+      "D) Şinasi Tekin, Ahmet Temir, Muharrem Ergin",
+      "E) Muharrem Ergin, Şinasi Tekin, Osman Fikri Sertkaya"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 3 Ural-Altay dillerinin Altay dillerini oluşturan Türk, Moğol, Tunguz-Mançu dillerinin akrabalığını savunan, bu dillerin ortak bir kaynaktan geldiğine inanan ve bunu ortaya çıkarmaya çalışan teoriye Altay Dilleri Teorisi denir. Bu dillerin kültürel unsurlarını araştıran, inceleyen bilim koluna Altayistik, bununla uğraşan bilim adamına ise Altayist denir. Türkiye’de Altayistik bilim kolunda çalışma yapan bilim adamları şunlardır: Ahmet Temir, Osman Nedim Tuna ve Talat Tekin. Bu araştırmacılar içerisinde en fazla Altayistik çalışma yapan bilim adamı ise Talat Tekin’dir"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde nesneye yer verilmemiştir?",
+    "seçenekler": [
+      "A) Ayşe ekmek almıştı.",
+      "B) Ali evi çok dağıtmıştı.",
+      "C) Bugün eve erken gelecekti.",
+      "D) Ben kitap okudum.",
+      "E) Babam eve balık aldı."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 -"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "I.Betimleyici işlev II.Toplumsal işlev III. Çağrı işlevi Yukarıdakilerden hangisi ya da hangileri Lyons’a göre dilin işlevlerindendir?",
+    "seçenekler": [
+      "A) Yalnız II",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 2 Sayfa 6 paragraf 3 de yer almaktadır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "“Bu güzel eser, bir solukta okuduğum ve çok beğendiğim bir romandı.” cümlesi, yükleminin türü açısından aşağıdaki hangi cümleden farklıdır?",
+    "seçenekler": [
+      "A) Bu uzun yolculuğa geceden çıkacağız.",
+      "B) Şehrin en kalabalık yeri bu caddeydi.",
+      "C) Bu, İsveç yapımı bir saati.",
+      "D) Toplandığımız yer çok geniş bir masanın etrafıydı.",
+      "E) Karadeniz’e özgü bir oyundur horon."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 14 -"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "I. Border -> Çerçevenin kalınlığını belirtir. II. Cellpadding -> Hücre içi marj değerini belirler. III. Cellspacing -> Hücreler arası marj değerini belirler. IV. Align: -> Tablonun piksel cinsinden genişliğini belirler. Yukarıda verilen ve tablo oluşturulurken kullanılan parametrelerden hangisi ya da hangilerinin açıklaması yanlıştır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) II ve III",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "align parametresi hizalama için kullanılır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "I.   face II.  size III. color IV. bold Yukarıdakilerden hangisi ya da hangileri font etiketinin metni biçimlendirmek için alabileceği parametrelerden biri değildir?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) II ve III",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "font etiketi bold parametresini kabul etmemektedir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Bilgisayarları, internet hizmetlerini ya da özel ağlara bağlı kaynakları hiyerarşik olarak dağıtan alan adlandırma sistemi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) DNS (Domain Name System)",
+      "B) IP (Internet Protocol)",
+      "C) IPv6 Protokolü",
+      "D) LHS (Local Host System)",
+      "E) HTTP (Hyper-Text Transfer Protocol)"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "hiyerarşik olarak alan adlandırılma sistemi DNS'dir"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "I.   Top II.  Middle III. Botiom IV. ColTop Yukarıdakilerden hangisi ya da hangileri \"\"valign\"\" parametresinin alabileceği değerler arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) II ve III",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "valign parametresine ColTop değeri verilmez."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Web sayfalarında bağlantı eklemeyi sağlayan HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) A etiketi",
+      "B) Br etiketi",
+      "C) Src etiketi",
+      "D) Link etiketi",
+      "E) Table etiketi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "bağlantı oluşturmak için a etiketi kullanılır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Tabloda sütun oluşturmak için kullanılan HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tr etiketi",
+      "B) Td etiketi",
+      "C) Row etiketi",
+      "D) Colspan etiketi",
+      "E) Border etiketi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "tabloya sütun eklemek için td etiketi kullanılır"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi <body> etiketinin parametrelerinden biri değildir?",
+    "seçenekler": [
+      "A) Bgcolor",
+      "B) Link",
+      "C) Alink",
+      "D) Section",
+      "E) Background"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Section adında bir parametre bulunmamaktadır"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "İnternetie yapılan değişiklikleri tarayan, internet sayfalarındaki bilgileri inceleyen ve elde etiği bilgileri belirli bir algoritma yapısına göre kendi sistemi içerisinde işleyen ve kullanıma hazır hâle getiren yapıdır. Tanımı verilen yapı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İnternet Tarayıcısı",
+      "B) Sunucu",
+      "C) Arama motoru",
+      "D) İndirme yöneticisi",
+      "E) Domain"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "soruda arama motorunun tanımı yapılmıştır"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Kişisel bilgisayarları birbirine bağlayarak bilgi alışverişini artırmak, bilgisayarları sosyalleştirmek yoluyla dünya çapında haberleşmeyi sağlama fikrine dayanan icat aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) IIS",
+      "B) SMS",
+      "C) İnternet",
+      "D) Domain",
+      "E) Host"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Soruda İnternet'in tanımı yapılmıştır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Bu etiket Head etiketi arasında yer alır ve sayfa hakkında tarayıcılara ve arama motorlarına bazı bilgiler iletir. HTML5 ile bu etiket sayesinde karakter kümesi (charset) tanımlama özelliği kazandırılmıştır. Tanımı verilen etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) body",
+      "B) table",
+      "C) nav",
+      "D) div",
+      "E) meta"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "soruda meta etiketinin tanımı verilmiştir"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "<a href=”?”>tıklayınız</a> Verilen HTML kodunda aof@atauni.edu.tr adresine e-posta bağlantısı oluşturmak için \"\"?\"\" işareti yerine aşağıdakilerden hangisi yazılmalıdır?",
+    "seçenekler": [
+      "A) to:aof@atauni.edu.tr",
+      "B) from:aof@atauni.edu.tr",
+      "C) mailfrom:aof@atauni.edu.tr",
+      "D) eposta:aof@atauni.edu.tr",
+      "E) mailto:aof.atauni.edu.tr"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "e posta bağlantısı oluşturmak için mailto yazılmalıdır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aynı sütundaki hücreleri birleştirmek için kullanılan parametre aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) rowspan",
+      "B) colspan",
+      "C) span",
+      "D) union",
+      "E) trow"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "aynı sütundaki birleştirmek için rowspan kullanılır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi target parametresinin alabileceği değerlerden biri değildir?",
+    "seçenekler": [
+      "A) target=\"\"_blank\"\"",
+      "B) target=\"\"_include\"\"",
+      "C) target=\"\"_self\"\"",
+      "D) target=\"\"_top\"\"",
+      "E) target=\"\"_parent\"\""
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "target parametresi _include değeri almaz."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Sayfada yatay bir çizgi oluşturmak için kullanılan HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) br etiketi",
+      "B) hr etiketi",
+      "C) bgcolor etiketi",
+      "D) p etiketi",
+      "E) head etiketi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "yatay çizgi çizmek için hr etiketi kullanılır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Tarayıcıya HTML belgesinin başladığı ve bitiği yeri bildiren HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) title",
+      "B) body",
+      "C) html",
+      "D) ul",
+      "E) head"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "sayfanın başladığı ve bitiği yeri bildiren etiket html etiketidir"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Bir metindeki önemli yerleri daha dikkat çekici hâle getirmek için kullanılan etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) mark",
+      "B) yellow",
+      "C) pencil",
+      "D) abbr",
+      "E) meter"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "html de metni daha dikkat çekici hale getirmek için mark etiketi kullanılır"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "I.   <li> etiketi ile beraber kullanılır. II.  Liste oluşturmak için kullanılır. III. Liste maddelerin başına harf, rakam gibi unsurlar ekler. IV. Liste maddelerin başına yuvarlaklar, karaler gibi unsurlar ekler. Yukardakilerden hangisi ya da hangileri <ul> ve <ol> etiketinin ortak özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) III ve IV",
+      "D) I, II ve III",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "I ve II ul ve ol etiketi için ortak özelliktir."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "<u> etiketinin kullanım amacı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Metni kalın yapmak.",
+      "B) Metni italik yapmak.",
+      "C) Satır arasında boşluk bırakmak.",
+      "D) Metni altı çizili yapmak.",
+      "E) Paragraf oluşturmak."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "u etiketi metni altı çizili yapmak için kullanılır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "I.   b-i II.  strong-i III. b-em IV. strong-b Yukarıdakilerin hangisinde ya da hangilerinde metni, kalın (bold) ve eğik (italic) yapma etiketi beraber verilmiştir?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) II ve III",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "metni kalın yapma etiketleri b ve strong, italik yapma etiketleri de i ve em olduğu için cevap I,II ve III'tür"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "<hx> etiketinde x değerinin alabileceği en büyük değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3",
+      "B) 5",
+      "C) 6",
+      "D) 7",
+      "E) 8"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "hx etiketinin alabileceği en büyük değer 6 dır"
+  }
+]

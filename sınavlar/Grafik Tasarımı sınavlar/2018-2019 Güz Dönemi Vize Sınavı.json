@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe InDesign grafik tasarım programı ile ilgili olarak yanlıştır?",
+    "seçenekler": [
+      "A) Açık kaynak kodlu bir grafik programıdır.",
+      "B) Daha çok basılı materyal (poster, gazete, broşür, kitap) ve elektronik kitap üretiminde kullanılır.",
+      "C) Microsoft Word ve Excel’den de metin ve tabloları alabilir.",
+      "D) Aylık ya da yıllık kiralama şeklinde kullanılabilmektedir.",
+      "E) EPUB ve SWF biçimlerinde de çıktı verebilir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Adobe InDesign açık kaynak kodlu bir yazılım değildir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi GIMP grafik tasarım programı ile ilgili olarak yanlıştır?",
+    "seçenekler": [
+      "A) Ücretsiz ve açık kaynak kodlu bir grafik programıdır.",
+      "B) Piksel tabanlı resim işlemeye yönelik araçlar ile donatılmıştır.",
+      "C) Windows, Macintosh ve Linux işletim sistemleri tarafından desteklenmemektedir.",
+      "D) İlk sürümü 1998 yılında çıkarılmıştır.",
+      "E) Dosya biçimi olarak kendi XCF'dir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Windows, Macintosh ve Linux işletim sistemlerine destek vermektedir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi seçim araçları arasında yer almaz?",
+    "seçenekler": [
+      "A) Taşıma",
+      "B) İşaretleme",
+      "C) Kement",
+      "D) Hızlı seçim",
+      "E) Yavaş seçim"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Seçim araçları grubunda “Taşıma”, “İşaretleme”, “Kement” ve “Hızlı seçim” araçları yer almaktadır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Geniş açılı merceklerin kullanımından kaynaklanan mercek deformasyonunu düzeltmek için kullanılan araç aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Sıvılaştırma filtresi",
+      "B) Uyarlanabilir geniş açı",
+      "C) Ufuk noktası",
+      "D) Fırça darbeleri filtreleri",
+      "E) Doku filtreleri"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Uyarlanabilir Geniş Açı özelliği Photoshop programında, görüntülerde geniş açılı merceklerin kullanımından kaynaklanan mercek deformasyonunu düzeltmek için kullanılır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Bir nesneden yansıyan veya iletilen renk aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Ton",
+      "B) Derinlik",
+      "C) Piksel",
+      "D) Parlaklık",
+      "E) Doygunluk"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Bir nesneden yansıyan veya iletilen renk ton'dur."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programına ait çalışma panelleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Araçlar",
+      "B) Renk",
+      "C) Eğitim",
+      "D) Katmanlar",
+      "E) Düzen"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Çalışma panelleri: Araçlar paneli, Geçmiş paneli, Renk paneli, Eğitim paneli, Katmanlar paneli, Seçenekler çubuğu"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi kırpma ve dilimleme araçları arasında yer almaz?",
+    "seçenekler": [
+      "A) Kırpma",
+      "B) Dilim",
+      "C) Kement",
+      "D) Hızlı seçim",
+      "E) Dilim seçimi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Kırpma ve dilimleme araçları grubunda “Kırpma”, “Dilim”, “Kement” ve “Dilim seçimi” araçları yer almaktadır"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Bir pikselin alabileceği toplam renk sayısının belirlediği değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Çözünürlük",
+      "B) Piksel",
+      "C) Renk derinliği",
+      "D) Gri tonlamalı renk modu",
+      "E) CMYK renk modu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Bir pikselin alabileceği toplam renk sayısı renk derinliğini belirler"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Bir görüntünün doğal bir renk sunması ya da buna çok yaklaşmasına ne ad verilir?",
+    "seçenekler": [
+      "A) High color",
+      "B) RGB renk modu",
+      "C) True color",
+      "D) 256 renk",
+      "E) RGB modu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "True color: Bir görüntü doğal bir renk sunduğunda veya buna çok yaklaştığında bu ismi alır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Görüntüdeki diğer tüm renkleri oluşturmak için çeşitli miktarlarda birleştirilen renkler kümesine ne ad verilir?",
+    "seçenekler": [
+      "A) Çözünürlük",
+      "B) Renk modları",
+      "C) Bulanıklık",
+      "D) Bitmap",
+      "E) Piksel"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Renk modu, görüntüdeki diğer tüm renkleri oluşturmak için çeşitli miktarlarda birleştirilen renkler kümesine verilen isimdir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop programında Filtre kullanımıyla ilgili olarak yanlıştır?",
+    "seçenekler": [
+      "A) Bitmap biçimindeki ve dizinlenmiş renkte resimlere filtre uygulanamaz.",
+      "B) Filtre uygulayabilmek için etkin bir katmanın veya bir seçimin kullanılması gerekmektedir.",
+      "C) Bir görüntüye filtre uygularken bilgisayarınızın RAM bellek kapasitesi yetersiz ise hata uyarısı alabilirsiniz.",
+      "D) Filtre uygulamaları geri alınamaz.",
+      "E) 8 bitlik resimlere tüm filtreler uygulanabilirken, bazı filtreler sadece RGB modundaki resimlere uygulanabilir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Uyguladığınız filtreyi beğenmediğiniz durumlarda Düzenle menüsünde yer alan Geri Al komutunu kullanarak veya Ctrl+Z kısa yolunu kullanarak yapılan değişiklikleri geri alabilirsiniz."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Camgöbeği, (galibarda), sarı ve siyah renklerini kullanarak görüntülerin oluşmasına fırsat veren renk modu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) RGB",
+      "B) CMYK",
+      "C) Lab",
+      "D) Bİtmap",
+      "E) Çift ton"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "CMYK modu ise Cyan (camgöbeği), Magenta (galibarda), Yellow (sarı) ve Key (siyah) renklerini kullanarak görüntülerin oluşmasına fırsat vermektedir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "İnç uzunluk ölçü biriminin santimetre karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1.5 cm",
+      "B) 2.54 cm",
+      "C) 3.25 cm",
+      "D) 4 cm",
+      "E) 5.15 cm"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "İnç; uzunluğu 2,54 santimetreye (cm) karşılık gelen İngiliz uzunluk ölçü birimi olarak tanımlanmaktadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Piksellerin (noktaların) birbirine ne kadar yakın olduğunu ifade eden kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Doygunluk",
+      "B) Bitmap",
+      "C) Vektör",
+      "D) Bulanıklık",
+      "E) Çözünürlük"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Bir görüntünün çözünürlüğü bize piksellerin (noktaların) birbirine ne kadar yakın olduğunu ifade eder."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Adobe Photoshop programında cetvelleri açmak için kullanılan kısa yol tuş kombinasyonu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Crtl+A",
+      "B) Crtl+C",
+      "C) Crtl+K",
+      "D) Crtl+R",
+      "E) Crtl+S"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Crtl+R"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": ".............. bir resim içerisinde birbirinden bağımsız çizimlerin saklanabildiği sanal düzlemlerdir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Katman",
+      "B) Gölge",
+      "C) Kontur",
+      "D) Dış ışıma",
+      "E) Konum kilidi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Katman bir resim içerisinde birbirinden bağımsız çizimlerin saklanabildiği sanal düzlemlerdir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi katman üzerinde yapılan işlemler arasında yer almaz?",
+    "seçenekler": [
+      "A) Katmanın yeniden boyutlandırılması",
+      "B) Katmanın konumunun değiştirilmesi",
+      "C) Katmanların ters çevrilmesi",
+      "D) Katmanların birleştirilmesi",
+      "E) Katmanların bağlanması"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "KATMAN ÜZERİNDE İŞLEMLER: Katmanın Konumun Değiştirilmesi - Taşınması, Katmanın Yeniden Boyutlandırılması, Katmanların Birleştirilmesi, Katmanların Bağlanması, Katmanların Tek Başına Kaydedilmesi, Katmanların Çoğaltılması"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "I. Katman adı II. Katman opasitesi III. Katman stili IV. Katman dönüştürme Yukarıdakilerden hangisi ya da hangileri katman özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I, II ve III",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Katman Özellikleri: Katman adı, Katman opasitesi, Katman sırası, Katman stili, Katman rengi"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "I. RGB renk modu II. CMYK renk modu III. Lab renk modu IV. Gri tonlama modu Yukarıdakilerden hangisi ya da hangileri Adobe Photoshop CC 2018 programının desteklemiş olduğu renk modları arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Renk Modları: RGB renk modu, CMYK renk modu, Lab renk modu, Gri tonlama modu, Bitmap modu, Çift ton modu, Dizinlenmiş renk modu, Çok kanal modu"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Renkler arasındaki ilişkileri anlamada kullanılan bir grafiğe ne ad verilir?",
+    "seçenekler": [
+      "A) Renk çemberi",
+      "B) Renk sınıflandırması",
+      "C) Renk şeması",
+      "D) Renk uyumu",
+      "E) Tamamlayıcı renkler"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Renk çemberi renkler arasındaki ilişkileri anlamada kullanılan bir grafiktir."
+  }
+]

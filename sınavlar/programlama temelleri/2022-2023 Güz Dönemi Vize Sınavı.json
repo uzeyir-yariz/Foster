@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi case etiketine ait kod bloğunu sonlandırmak için kullanılan anahtar kelimedir?",
+    "seçenekler": [
+      "A) continue",
+      "B) endl",
+      "C) break",
+      "D) cout",
+      "E) default"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Kontrol ifadesine eşit case etiketine ait kod bloğu break ifadesine kadar çalıştırılır. break ifadesinin bulunduğu yerden switch yapısının sonuna kadar olan kod atlanarak switch yapısından çıkılır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Giriş birimi aşağıdakilerden hangisi olamaz?",
+    "seçenekler": [
+      "A) Dokunmatik ekran",
+      "B) Web kamerası",
+      "C) Mikrofon",
+      "D) Barkod okuyucu",
+      "E) Hoparlör"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "C++ programlama dilinde iki değişkenin aynı değere sahip olup olmadığını anlamak için kullanılması gereken operatör aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) <>",
+      "B) !=",
+      "C) >=",
+      "D) <=",
+      "E) =="
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Programlama dilleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Bir programlama dilinin seviyesi düştükçe zorluk seviyesi azalmaktadır.",
+      "B) Program geliştirme sürecini hızlandırmak için yüksek seviyeli programlama dilleri geliştirilmiştir.",
+      "C) Donanıma yakın dillere düşük seviyeli dil adı verilir.",
+      "D) Düşük seviyeli diller, genelde sistem programlama alanında kullanılabilir.",
+      "E) Derleyici adı verilen programlar yazılan komutları makine diline çevirmektedir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Program geliştirme sürecini hızlandırmak için yüksek seviyeli programlama dilleri geliştirilmiştir. C++, Java, C#, Visual Basic gibi dillerde yazılan komutlar İngilizceye ve hesaplama işlemleri de gerçek hayatia kullandığımız matematiksel ifadelere çok yakındır. Derleyici adı verilen programlar yazılan komutları makine diline çevirmektedirler. Bir dilin seviyesi düştükçe zorluk seviyesi artmaktadır. Fakat donanıma daha yakın olması nedeniyle çalışma hızı da artmakta ve yüksek seviyedeki bir dile göre programı daha etkin kullanabilme açısından avantajları da olabilmektedir. Düşük seviyeli diller genelde sistem programlama, mikroişlemci programlama vb. alanlarda kullanılmaktadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "unsigned char veri tipinin alabileceği minimum ve maksimum değerler aşağıdakilerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) -127 ve 127",
+      "B) -127 ve 0",
+      "C) -127 ve 255",
+      "D) 0 ve 255",
+      "E) 0 ve 127"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "İç içe döngüler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) İç içe döngüler karmaşık problemleri sistematik bir şekilde çözmek için kullanılır.",
+      "B) Hem for hem de while döngülerinde iç içe döngüler oluşturulabilir.",
+      "C) Dış döngünün her bir iterasyonunda iç döngü her seferinde yeniden çalıştırılır.",
+      "D) Bir if koşulu içerisinde do while döngüsü kullanılabilir.",
+      "E) İç içe kullanılan döngü sayılarında bir kısıtlama söz konusudur."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Problemin çözümüne uygun olacak şekilde iç içe döngü sayısını arƴrmak mümkündür."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Sözde kodla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Algoritmaların sunulma tekniğidir.",
+      "B) Programcının gerçek kodlama söz dizimini takip etmeden algoritmayı test etmesine izin verir.",
+      "C) Bilgisayarda çalışır.",
+      "D) Programlama dilinin anahtar kelimeleri kullanılır.",
+      "E) Döngü yapıları ve alt işlemleri ifade eden sözde kod deyimleri farklı çalışmalarda değişiklik gösterir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Sözde kod, doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniğidir. Algoritmanın, programcı ve diğer ilgili kişilere anlatılmasını sağlamaya yönelik bir çalışmadır. Programcının gerçek kodlama söz dizimini takip etmeden algoritmayı test etmesine izin verir. Aslında bir bilgisayarda çalışmamasına rağmen bir programlama diline kolayca aktarılabilir. Sözde kod için çok katı kurallar listesi olmasa da sözde kodlamada yaygın olarak kullanılan deyimler gruplanarak aşağıda verilmiştir. Sözde kod yazılırken algoritmanın ileride bilgisayara aktarılacağı programlama dilinin anahtar kelimeleri kullanılır. Bundan dolayı özellikle döngü yapıları ve alt işlemleri ifade eden sözde kod deyimleri farklı çalışmalarda değişiklikler gösterir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "#include <iostream>  satırı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) # karakteri ile başlayan satırlar derlenmeden önce ön işlemci tarafından çalıştırılır.",
+      "B) Satırın sonuna ';' karakteri eklenir.",
+      "C) iostream başlık dosyası C++ programlarında okuma/yazma işlemleri için gereklidir.",
+      "D) Okuma işlemi varsayılan olarak klavye üzerinden gerçekleştirilir.",
+      "E) Ön işlemciye bir bilgilendirme mesajıdır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "#include satırı önişlemciye bir bilgilendirme mesajıdır. # karakteri ile başlayan satırlar C++ programı derlenmeden önce ön işlemci tarafından çalıştırılırlar. Bu satırların sonuna C++ deyimlerinin sonunda muhakkak kullanılan ‘;’ karakteri eklenmez. Bu örnekte verilen ve ön işlemci tarafından içeriğinin eklenmesi istenen iostream başlık dosyası C++ programlarında girdi/çıktı, başka bir deyişle okuma/yazma işlemleri için gereklidir. Okuma işlemi varsayılan olarak klavye, yazma işlemi de varsayılan olarak ekran üzerinden gerçekleştirilir. Daha sonraki satırda yazılan using namespace std; satırı programda kullanılan cout gibi fonksiyonların önüne herhangi bir şey yazılmazsa ilgili fonksiyonun std isim uzayında olduğunu belirtir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Visual Studio 2017 bütünleşik geliştirme ortamında aşağıdaki programlama dillerinden hangisi yer alır?",
+    "seçenekler": [
+      "A) Pascal",
+      "B) MATLAB",
+      "C) C#",
+      "D) LISP",
+      "E) PERL"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Algoritma için aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Algoritma bir nevi planlama sürecidir.",
+      "B) Algoritmalar sözde kodlarla ifade edilebilir.",
+      "C) Algoritmalar akış diyagramları ile gösterilebilir.",
+      "D) Algoritma kurma süreci, programlama sürecinden önce olmalıdır.",
+      "E) Algoritmada iş adımlarının sırası önemsizdir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Fonksiyonlarla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Birçok komut kendi kütüphanesinde çağrılan fonksiyondan oluşmuştur.",
+      "B) main fonksiyonun bir başka fonksiyon içinden çağrılması gerekmemektedir.",
+      "C) Alt programda tanımlı değişkenler, fonksiyon çalışmadığı sürece bellekte yer tutar.",
+      "D) Fonksiyonlar, adları kullanılarak çağrılır.",
+      "E) Fonksiyonlar kendi başlarına birer programdır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Alt program olan fonksiyonlar çağrılmadıkları sürece çalışmadıkları gibi, içerisinde tanımlı değişkenler de fonksiyon çalışmadığı sürece bellekte yer tutmazlar"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "int i=15; i=i++ + ++i; cout << i << endl; Yukarıda verilen kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 26",
+      "B) 28",
+      "C) 30",
+      "D) 32",
+      "E) 33"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "i'nin başlangıç değeri 15. 15 değeri sonrasında 1 artırılıyor. 16 olur. 16 değeri, 1 artırılan 15 değeri ile toplanır. Sonuç 16+16=32'dir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Yerel değişkenlerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Yerel değişkenlerin bildirimi, fonksiyonların dışında bir yerde yapılır.",
+      "B) Yerel değişkenler, program çalıştırıldığında aktif hâle gelir.",
+      "C) Yerel değişkenler, kendisi için ayrılan bellek alanlarını kullanır.",
+      "D) Yerel değişken, sadece tanımlandığı fonksiyonda geçerlidir.",
+      "E) Yerel değişkenin, yer aldığı blok sona erdiğinde değişkenin içeriği yok olur."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Yerel değişkenler, program çalıştırıldığında aktif hale gelir ve kendisi için ayrılan bellek alanlarını kullanır. Ancak yer aldıkları blok sona erdiğinde bu bellek alanları iptal olur ve değişkenin içeriği tamamen yok olur. Aynı blok daha sonra tekrar başlasa bile, yerel değişkenler eski değerlerini alamazlar. Program içinde birden fazla fonksiyon varsa, sadece tanımlandığı fonksiyonda geçerli olabilecek değişkenlere yerel değişken adı verilir. Fonksiyonların dışında bir yerde bildirimi yapılan değişkenlere global (küresel) değişken adı verilir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "C++ programlama dilinde atama operatörü olarak aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) ==",
+      "B) !=",
+      "C) =",
+      "D) >=",
+      "E) <="
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi bütünleşik geliştirme ortamı için yanlıştır?",
+    "seçenekler": [
+      "A) Belirlenmiş standartlar yoktur.",
+      "B) Programlar daha hızlı ve verimli bir şekilde düzenlenebilir.",
+      "C) Sadece program yazmak amacıyla kullanılır.",
+      "D) Geliştirme adımlarını otomatikleştirir.",
+      "E) Programları tek bir ekrandan çalıştırıp hata ayıklanmasına imkân tanır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Bir bütünleşik geliştirme ortamı, program yazmak ve test etmek amacıyla geliştiriciler tarafından kullanılan bir yazılım geliştirme aracıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Yeni Proje oluşturma işleminin klavyeden kısayol tuş birleşimi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) CTRL + N",
+      "B) CTRL + SHIFT + N",
+      "C) CTRL + F3",
+      "D) ALT + SHIFT + N",
+      "E) ALT + N"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Bir akış diyagramında aşağıdakilerden hangisi mutlaka olmalıdır?",
+    "seçenekler": [
+      "A) İşlem",
+      "B) Karşılaştırma",
+      "C) Döngü",
+      "D) Girdi",
+      "E) Başla"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi geçerli bir kaçış dizisi olamaz?",
+    "seçenekler": [
+      "A) \\a",
+      "B) \\%",
+      "C) \\n",
+      "D) \\*",
+      "E) \\\\"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Çıkış değerini geriye göndermek için hangi anahtar kelime kullanılır?",
+    "seçenekler": [
+      "A) Break",
+      "B) Result",
+      "C) Param",
+      "D) Endl",
+      "E) Return"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Çıkış değerini geriye göndermek için return kullanılır"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Belirli bir amaca yönelik hazırlanmış ve istenilen işlemleri belirli bir sırada yerine getiren komut dizilerinin genel adı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İşlemci",
+      "B) Kayıt defteri",
+      "C) Metin editörü",
+      "D) Program",
+      "E) Bilgisayar"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Kitap her iki dünyada da mutluluğa kavuşmak için gidilmesi gereken yolu göstermek amacıyla kaleme alınmıştır. Yazara göre bir insanın erdemi ancak başka insanlar arasındayken belli olur. Çünkü sadece kendisine fayda düşünen biri ölülere benzer. İçeriği hakkında bilgi verilen kitap aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Kutadgu Bilig",
+      "B) Dîvânü Lûgati’t-Türk",
+      "C) Dîvân-ı Hikmet",
+      "D) İrşâdü'l-Mülûk ve's-Selâtin",
+      "E) Çarhnâme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Kutadgu Bilig, her iki dünyada da mutluluğa kavuşmak için gidilmesi gereken yolu göstermek amacıyla kaleme alınmıştır. Yusuf Has Hacib'e göre, ahireti kazanmak için bu dünyadan el etek çekerek sadece ibadetle zaman geçirmek yanlıştır. Zira böyle bir insanın ne kendisine ne de toplumuna bir yararı olur"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Bir dilin bilinmeyen bir zamanda kendisinden ayrılan ve yeni bir dil olma yolu tutan koluna ne ad verilir?",
+    "seçenekler": [
+      "A) Ağız",
+      "B) Şive",
+      "C) Lehçe",
+      "D) Benzeşme",
+      "E) Genişleme"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Lehçe: Bir dilin bilinmeyen bir zamanda kendisinden ayrılan ve yeni bir dil olma yolu tutan koludur."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde birden fazla birleşik sözcüğe yer verilmiştir?",
+    "seçenekler": [
+      "A) Duyan duysun bilen bilsin böyledir bizim sevdamız.",
+      "B) Ağlasam bugün toprak çatlar utancından",
+      "C) Niçin baktın ona şöyle, derdin nedir durma söyle",
+      "D) Hastane önünde incir ağacı, doktor buldu bana ilacı",
+      "E) Ben de kurban olayım yârin fidan boyuna"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "\"\"Niçin baktın ona şöyle, derdin nedir durma söyle\"\" cümlesinde 'şöyle' ve 'niçin' sözcükleri birleşiktir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "I. Gözden geçirmek II. Gözleri dolmak III. Gözleri yaşarmak IV. Gözleri süzülmek Yukarıdaki deyimlerden hangileri duygulanma sonucu ortaya çıkan bir durumu ifade eder?",
+    "seçenekler": [
+      "A) I ve III",
+      "B) I ve IV",
+      "C) II ve III",
+      "D) II ve IV",
+      "E) III ve IV"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "\"\"Gözleri dolmak\"\" deyimi ağlayacak kadar duygulanmak, bir durumdan etkilenmek; \"\"Gözleri yaşarmak\"\" deyimi ise bir duruma bir olaya üzülmek anlamındadır. Bu yüzden bir duygulanım anını karşılarlar."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin işlevlerinden biri değildir?",
+    "seçenekler": [
+      "A) Çağrı işlevi",
+      "B) Toplumsal işlev",
+      "C) Edebî işlev",
+      "D) Betimleme işlevi",
+      "E) Öyküleme işlevi"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Öyküleme işlevi dilin işlevlerinden biri değildir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde yardımcı ses yoktur?",
+    "seçenekler": [
+      "A) Tüfeğini depoya koydular.",
+      "B) Esvabını başkasına verdiler.",
+      "C) Artık torbasında ekmek kırıntısı yoktu.",
+      "D) Matarasını da götürdüler o gün.",
+      "E) Elbetie bu da kabul edilebilir bir eleştiridir."
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Türklerin İslam'a girmeye başladıkları IX. yüzyıldan itibaren kullandıkları alfabe aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Kiril Alfabesi",
+      "B) Arap Alfabesi",
+      "C) Latin Alfebesi",
+      "D) Uygur Alfabesi",
+      "E) Göktürk Alfabesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Türkçenin sondan eklemeli bir dil olması ona hangi özelliği kazandırmıştır?",
+    "seçenekler": [
+      "A) Kolay kelime ve kavram üretimi",
+      "B) Fiillerin cümlenin sonunda olması",
+      "C) Düzenli bir cümle diziliminin sağlanması",
+      "D) İki ünlünün yan yana gelmemesi",
+      "E) Kelime başında iki ünsüzün yan yana gelmemesi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Türkçenin bu yapısı sözcük türetimini kolaylaştırmaktadır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin nasıl türediğine yönelik ortaya atılan görüşlerden biri değildir?",
+    "seçenekler": [
+      "A) Hümanist görüş",
+      "B) Doğuştancı görüş",
+      "C) Deneyimci görüş",
+      "D) Teolojik görüş",
+      "E) Antropolojik görüş"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Hümanist görüş dilin nasıl ortaya çıktığına yönelik ortaya atılan görüşlerden biri değildir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Türklerin kullandığı bu alfabe 4’ü sesli, 26’sı sessiz, 8’i bitişken olmak üzere 38 harften oluşur. Sağdan sola ve yukarıdan aşağıya doğru yazılır. Harfler birbiriyle bitişmez, çivi yazısına benzerliğinden dolayı taş ve eşya üzerine kazınmaya elverişlidir. Paragrafta bazı özellikleri verilen alfabe aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Uygur Alfabesi",
+      "B) Göktürk Alfabesi",
+      "C) Latin Alfabesi",
+      "D) Kiril Alfabesi",
+      "E) Brahmi Alfabesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Göktürk Alfabesi"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi yazı dilinin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Bir ülkede bir yazı dili vardır.",
+      "B) Konuşma diline göre yapay bir özelliği vardır.",
+      "C) Kuralları konuşma diline göre daha sıkıdır.",
+      "D) Etki alanı konuşmaya göre daha geniştir.",
+      "E) Bir yöreye, bölgeye has özellikler barındırabilir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdaki dillerden hangisi Türkçe ile aynı dil ailesine mensuptur?",
+    "seçenekler": [
+      "A) Moğolca",
+      "B) Tibetçe",
+      "C) Arapça",
+      "D) Boşnakça",
+      "E) Farsça"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "-"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde \"\"-den\"\" eki diğerlerinden farklı bir görevde kullanılmıştır?",
+    "seçenekler": [
+      "A) Öyle ağlarım ki kendime, sen benden gitin gideli.",
+      "B) Gelecek ay bu evden de taşınmış olacağız.",
+      "C) Sarkıtlardan süzülen damlaları izledikçe geçmişe dönüyorum.",
+      "D) Evden çıkarken anahtarını almayı unutma.",
+      "E) Uçak yarın Ankara'dan havalanacak."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "\"\"Ev-den\"\", \"\"Sarkıtlar-dan\"\", \"\"Ev-den\"\" ve \"\"Ankara'dan\"\" sözcüklerinde ayrılma hâli eki kullanılırken \"\"ben- den\"\" sözcüğünde böyle bir durumum söz konusu değildir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Dil ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Teknolojik gelişmelerle birlikte dilin sınırlandırıcı etkisi giderek azalmaktadır.",
+      "B) Çağımızda yaşanan önemli değişimler dilin önemini daha da artırmıştır.",
+      "C) Dil, insanın geleceğe kalma arzusunun ürünüdür.",
+      "D) Dil, günümüzde pek çok araştırmanın konusu olmaya devam etmektedir.",
+      "E) Dilin, millî kimliğin inşasında önemli bir rolü vardır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Sayfa 3 paragraf 5 de yer almaktadır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerin hangisinde birleşik fiilin yazımı yanlıştır?",
+    "seçenekler": [
+      "A) Her şeyi kendine dert etme.",
+      "B) Bu maçta da iki gol yedi.",
+      "C) Hastayı başka yere nakil etiler.",
+      "D) Bunu yapamayacağını zannediyordum.",
+      "E) Bizi umutsuz günlere sevk eti."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Türkçe sözcüklerde ince ve kalın şekilleri bulunan k, g, l ünsüzleri ince ünlülerin yanında ince, kalın ünlülerin yanında kalın okunur."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Türkçe aşağıdaki dil gruplarından hangisine dâhil edilmektedir?",
+    "seçenekler": [
+      "A) Hint-Avrupa Dilleri",
+      "B) Hami-Sami Dilleri",
+      "C) Bantu Dilleri",
+      "D) Çin-Tibet Dilleri",
+      "E) Ural-Altay Dilleri"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdaki tanımlardan hangisi dilin doğuşu ile ilgilidir?",
+    "seçenekler": [
+      "A) Dil, sıkı sıkıya millî varlığa ve topluma bağlıdır.",
+      "B) Dil, anlaşmayı sağlayan sistemli işaretler birliğidir.",
+      "C) Dil, temeli bilinmeyen zamanlarda atılmış gizli antlaşmalar sistemidir.",
+      "D) Dil, (aynı dili konuşan ve yazan) insanlar arasında anlaşmayı sağlayan doğal bir araçtır.",
+      "E) Dil, seslerden örülmüş toplumsal bir yapıdır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Dil, temeli bilinmeyen zamanlarda atılmış gizli antlaşmalar sistemidir."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Türkçenin genel özellikleriyle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Ünlü uyumu vardır.",
+      "B) Sözcük başında birden çok ünlü bulunur.",
+      "C) Çekim, eklerle yapılır.",
+      "D) Ön ek değil, son ek kullanılır.",
+      "E) Soru ekle yapılır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Türkçe sözcüklerde ince ve kalın şekilleri bulunan k, g, l ünsüzleri ince ünlülerin yanında ince, kalın ünlülerin yanında kalın okunur."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisinde soru eki cümleye zaman anlamı katmaktadır?",
+    "seçenekler": [
+      "A) Birden bire bana soru sormasın mı!",
+      "B) Canımı sıktın mı o zaman görürsün.",
+      "C) Güzel mi güzel bir kızları vardı.",
+      "D) Sınavlarını verdin mi tatili hak edersin.",
+      "E) Erzurum’a indin mi beni ara."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Sayfa 16 paragraf 1 de yer almaktadır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdaki atasözlerinin hangisinde mecazlı bir söyleyiş vardır?",
+    "seçenekler": [
+      "A) Dost ile ye iç alışveriş etme.",
+      "B) Sebepsiz ölüm olmaz.",
+      "C) Aklı başa yaş getirir.",
+      "D) Akıl için yol birdir.",
+      "E) Minareyi çalan kılıfını hazırlar."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Minareyi çalan kılıfını hazırlar atasözünün anlamı şudur: Kolay kolay gizlenemeyecek kadar büyük bir yolsuzluğu yapan kimse, sorumluluktan kurtulma yollarını önceden düşünür. Bu sebeple bu atasözünde mecazlı bir söyleyiş vardır."
+  }
+]

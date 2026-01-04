@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Özgür, açık kaynak kodlu ve ücretsiz dağıtılan işletim sistemi ailesi hangisidir?",
+    "seçenekler": [
+      "A) Windows NT",
+      "B) Linux",
+      "C) Windows XP",
+      "D) MacOS Ventura",
+      "E) Windows 11"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi öğrenen perspektifinden mobil öğrenmenin faydalarından biri değildir?",
+    "seçenekler": [
+      "A) Öğrenme performansını iyileştirme",
+      "B) Yerleşik öğrenme sağlama",
+      "C) Otantik öğrenme sağlama",
+      "D) Öğrenme deneyimini iyileştirme",
+      "E) İş yüklerini artırma"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi ikinci kuşak bilgisayarların temel özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Mikroişlemciler",
+      "B) Delikli kartlar",
+      "C) Vakumlu tüpler",
+      "D) Entegre devreler",
+      "E) Transistörler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Excel çalışma kitabında A5 hücresine girilen verilerin “Tarih ve Saat” biçiminde ayarlanması istenmektedir. A5 hücresine girilen verilerin “Tarih ve Saat” formatında olmasını sağlamak için aşağıdakilerden hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) Hücre Tanımlama",
+      "B) Hücre Biçimlendirme",
+      "C) Hücre Birleştirme",
+      "D) Hücre Hizalama",
+      "E) Hücre Dolgusu"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Mesajın aynı formatia başka bir adrese ya da adreslere gönderilebildiği ancak bu alana yazılan adreslerin gizli tutulduğu ve alıcılar tarafından görülemediği e-posta alanı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Başlık/Konu",
+      "B) Gizli Karbon Kopya",
+      "C) Alıcı",
+      "D) Mesaj/İleti Gövdesi",
+      "E) Gönderen/Kimden"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "I. Dot Pitch II. Çözünürlük III. Tazeleme hızı Yukarıdakilerden hangisi ya da hangileri görüntü kalitesi üzerinde etkisi olan seçenekler arasında yer alır?",
+    "seçenekler": [
+      "A) I, II ve III",
+      "B) I ve III",
+      "C) Yalnız I",
+      "D) II ve III",
+      "E) I ve II"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi çevrim içi ders çalışma araçlarının genel özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Bireyler kendi geliştirdikleri araç ve uygulamaları paylaşabilmektedir.",
+      "B) Akran öğrenmeyi sağlayıcı etkinlikleri desteklemektedir.",
+      "C) Öğrenenlerin dijital ve web teknolojilere karşı düşkünlüklerini artırmaktadır.",
+      "D) Öğrenenlere kendi hızında öğrenme ortamı sunmaktadır.",
+      "E) Öğrenenlerin kendi çalışma disiplinlerine uygun esnek ve bağımsız çalışma ortamı sunmaktadır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Excel programı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Hesap tablo programı olarak adlandırılmaktadır.",
+      "B) Word programında yer alan tüm tablo biçimlendirme işlemleri Excel programından farklıdır.",
+      "C) Tablo satır ve sütunlardan oluşmaktadır.",
+      "D) Satır ve sütunların kesiştiği her bir alan hücre olarak adlandırılmaktadır.",
+      "E) Hücreler içerisine yazılacak formüller ile birçok hesaplama işlemi yapılabilmektedir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "32 kişilik sınıf listesinde derse katılım, ödev notu, vize sınavı ve final sınavı notlarının her birinde 85 üzerinde kaç not olduğunun sayısı hangi fonksiyon ile belirlenebilir?",
+    "seçenekler": [
+      "A) EĞER",
+      "B) MİN",
+      "C) MAK",
+      "D) ORTALAMA",
+      "E) EĞERSAY"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Excel'de hücre aralığını belirtmek için kullanılan işaret aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) )",
+      "B) ;",
+      "C) .",
+      "D) (",
+      "E) :"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Açık ve uzaktan öğretim faaliyetlerinin yönetildiği, internet üzerinden erişilen ve neredeyse tüm öğretim süreçlerinin yönetildiği yazılımlara ne denir?",
+    "seçenekler": [
+      "A) E- kitaplar",
+      "B) Bilgi işlem merkezi",
+      "C) Öğrenim yönetim sistemleri",
+      "D) Açıköğretim sistemi",
+      "E) Canlı sınıf yazılımları"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Öğrenme Yönetim Sistemi'nin eş zamanlı modülleri arasında yer alır?",
+    "seçenekler": [
+      "A) Beyaz tahta aracı",
+      "B) Duyuru modülü",
+      "C) Dâhilî mesajlaşma modülü",
+      "D) Tartışma forumu",
+      "E) Porƞolyo modülü"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Öğretim Yönetim Sistemi'nde (ÖYS) öğrenen ve eğitimcinin aynı anda bağlanıp ders işleyebileceği modül aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Duyuru modülü",
+      "B) Anlık mesajlaşma modülü",
+      "C) Dosya paylaşım modülü",
+      "D) Canlı ders modülü",
+      "E) Porƞolyo modülü"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Galerisinde hazır kitap şablonları bulunduran ve elektronik kitapların kolay bir şekilde tasarlanmasına imkân tanıyan kelime işlemci programı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) LibreOffice",
+      "B) Microsoft Word",
+      "C) iWork Pages",
+      "D) Google Docs",
+      "E) Apache OpenOffice"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi bireyler tarafından sıklıkla kullanılan mobil öğrenme teknolojilerinden biri değildir?",
+    "seçenekler": [
+      "A) Dijital sözlükler",
+      "B) Akıllı telefonlar",
+      "C) Sanal gerçeklik",
+      "D) Küçük tabletler",
+      "E) Görüntü/ses kaydediciler"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Word programında sayfa arka plan rengini değiştirmeyi sağlayan komut hangi sekmede yer alır?",
+    "seçenekler": [
+      "A) Başvurular",
+      "B) Görünüm",
+      "C) Giriş",
+      "D) Tasarım",
+      "E) Düzen"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi kendi öğrenme sürecini yapılandırmak isteyen bireylerin kolayca erişebileceği, ders içeriği oluşturabileceği, çeşitli öğrenme aktiviteleri yoluyla iş birlikleri veya tartışmalara katılabileceği, iletişim kurabileceği, sosyal medya araçlarını eğitim süreçlerine dâhil eden yapının adıdır?",
+    "seçenekler": [
+      "A) Çevrimiçi Ders Çalışma Araçları",
+      "B) Videolar",
+      "C) Çevrimiçi Dersler",
+      "D) Kitlesel Açık Çevrimiçi Kurslar (MOOC)",
+      "E) Açık Eğitim Kaynakları"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Genel olarak iletim yöntem veya ortamını (medya) içeren ve iletilerin sözlü, sözsüz, durağan ya da hareketli görseller biçimlerinde aktarıldığı iletişim ögesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Kanal",
+      "B) Geri bildirim",
+      "C) Mesaj",
+      "D) İletişim engelleri",
+      "E) Kaynak"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Kanal, genel olarak iletim yöntem veya ortamını (medya) içerir. İletiler, sözlü, sözsüz, durağan ya da hareketli görseller biçimlerinde aktarılabilmektedir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi Truva atının özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Bilgisayarın hızlı çalışmasına yol açarak enerji tüketimini artırır ve donanımına zarar verir.",
+      "B) Zamana veya eyleme bağlı olarak çalışan virüs türüdür.",
+      "C) Truva atları, sistemine bulaştıkları kullanıcının kişisel bilgilerine erişmek amacıyla kullanılmaktadır.",
+      "D) Truva atı virüsleri aslında bir dosya sistemi virüsüdür.",
+      "E) Kullanıcıya cazip bir program şeklinde sunularak veya asıl programların kopyaları içine gizlenerek sisteme bulaşmaktadırlar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Word programında oluşturulan belgeyi kaydetmek için kullanılan kısa yol tuş bileşeni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) CTRL+Z",
+      "B) CTRL+D",
+      "C) CTRL+K",
+      "D) CTRL+S",
+      "E) CTRL+C"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6 CEVAP ANAHTARI"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Word programında etkin sekme üzerindeki komutlar arasında gezinmeyi sağlayan kısayol tuş bileşeni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) F10+ALT",
+      "B) F10+ALT GR",
+      "C) F10+TAB",
+      "D) F10+CTRL",
+      "E) F10+SHIFT"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Metin dokümanlarının oluşturulmasına, düzenlenmesine, kaydedilmesine, görüntülenmesine ve yazdırılmasına olanak tanıyan programlara ne ad verilir?",
+    "seçenekler": [
+      "A) Kelime işlemci",
+      "B) Hesap tablosu",
+      "C) Sunu programları",
+      "D) Veri tabanı yazılımları",
+      "E) Mizanpaj programları"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Kullanıcı hareketlerini takip etmek üzere hazırlanmış kötü amaçlı yazılımlara ne ad verilir?",
+    "seçenekler": [
+      "A) Trojan",
+      "B) Firmware",
+      "C) Casus yazılımlar",
+      "D) Solucan",
+      "E) Ön yükleme virüsleri"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Word program penceresinde görünüm düğmeleri kullanılarak aşağıdakilerden hangisi yapılabilir?",
+    "seçenekler": [
+      "A) Belge, okuma modunda görüntülenebilir.",
+      "B) Belge, birden çok sayfa hâlinde görüntülenebilir.",
+      "C) Belge yazdırılabilir.",
+      "D) Düzenleme alanı yakınlaştırılabilir.",
+      "E) Düzenleme alanı kaydırılabilir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi içsel donanım birimlerinden biri değildir?",
+    "seçenekler": [
+      "A) Anakart",
+      "B) İşlemci",
+      "C) RAM bellek",
+      "D) Sabit disk",
+      "E) Klavye"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Word programında oluşturulan belgeyi kaydetmek için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) CTRL+C",
+      "B) CTRL+S",
+      "C) CTRL+Z",
+      "D) CTRL+D",
+      "E) CTRL+K"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "1946 yılında ABD ordusu tarafından kullanılan onluk sayı tabanına dayalı ilk genel kullanım amaçlı bilgisayar olarak bilinen cihaz aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Windows",
+      "B) ENIAC",
+      "C) Delikli Kartlar",
+      "D) IBS 360 OS",
+      "E) UNIX"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Kullanıcı ile bilgisayar arasındaki iletişimi sağlayan, kullanıcının isteklerine göre donanım ve yazılım kaynaklarını düzenleyen sisteme ne ad verilir?",
+    "seçenekler": [
+      "A) Donanım sistemi",
+      "B) Denetim masası",
+      "C) İşletim sistemi",
+      "D) Bilgi iletişim teknolojileri",
+      "E) Mobil teknolojiler"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi bütün donanım birimlerinin doğrudan veya dolaylı olarak üzerine bağlandığı elektronik karƴr?",
+    "seçenekler": [
+      "A) Monitör",
+      "B) Anakart",
+      "C) Sabit disk",
+      "D) Klavye",
+      "E) RAM bellekler"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir işletim sistemi değildir?",
+    "seçenekler": [
+      "A) Windows",
+      "B) Linux",
+      "C) Pardus",
+      "D) ENIAC",
+      "E) MacOS"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi verinin enformasyona dönüştürülmesi sürecindeki aşamalardan biri değildir?",
+    "seçenekler": [
+      "A) Amaca yöneltme",
+      "B) Biçimlendirme",
+      "C) Kategorize etme",
+      "D) Hesaplama",
+      "E) Özetleme"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Verilerin belli bir işleme tabi tutularak anlamlı bir hâle getirilmesi sonucunda aşağıdakilerden hangisi oluşur?",
+    "seçenekler": [
+      "A) Ağ",
+      "B) Enformasyon",
+      "C) Bilgi",
+      "D) Bilgelik",
+      "E) Veritabanı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "2"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi devlet kurumlarının kullandığı internet adresi uzatısıdır?",
+    "seçenekler": [
+      "A) .gov",
+      "B) .edu",
+      "C) .k12",
+      "D) .dev",
+      "E) .trz"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Grafik oluşturmada kullanılan verilerin yazıldığı program aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) PowerPoint",
+      "B) Access",
+      "C) Excel",
+      "D) Publisher",
+      "E) Outlook"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Metinler, sözcükler, rakamlar, sayılar, olaylar, resimler vb. şekilde gösterilen ham gerçeklikler aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Veri",
+      "B) Enformasyon",
+      "C) Bilgi",
+      "D) Bilgelik",
+      "E) İşlemci"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi anakart üzerine kasa dışından veya kablo ile dolaylı olarak bağlanan donanım birimlerine ne ad verilir?",
+    "seçenekler": [
+      "A) Dışsal donanım",
+      "B) İçsel donanım",
+      "C) Sabit disk",
+      "D) Kasa",
+      "E) İşlemci"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi kelime işlemci yazılımlarından biri değildir?",
+    "seçenekler": [
+      "A) Google Sheets",
+      "B) LibreOffice Writer",
+      "C) Calligra",
+      "D) iWork Pages",
+      "E) Microsoft Word"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Çeşitli verileri görselleştirerek daha anlaşılır bir şekilde sunan öge aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Resim",
+      "B) Tablo",
+      "C) Grafik",
+      "D) Şekil",
+      "E) Simge"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir virüs türü değildir?",
+    "seçenekler": [
+      "A) Solucanlar",
+      "B) Ön yükleme virüsleri",
+      "C) Truva atı",
+      "D) Casus yazılımlar",
+      "E) Scriptler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "\"\"Açık belge metni\"\" olarak adlandırılan ve kelime işlemcilere standart dosya biçimi sunan kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) pdf",
+      "B) odt",
+      "C) xps",
+      "D) xml",
+      "E) docx"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  }
+]

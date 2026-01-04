@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında Varsayılan Eylemler kümesindeki eylemlerden biri değildir?",
+    "seçenekler": [
+      "A) Vinyet (seçim)",
+      "B) Sepya Tonlama (katman)",
+      "C) Güvenli Yayın",
+      "D) Degrade Eşleme",
+      "E) Oktant Renkleri"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 Şekil 12.15. Durma Ekle Komutu"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Adobe Photoshop programı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Adobe Photoshop’un son sürümü Creative Cloud 2015'tir.",
+      "B) CC sürümünde yazılımın satın alınması mümkün değildir.",
+      "C) Yazılımın ücretsiz deneme süresi 30 gündür.",
+      "D) Adobe Photoshop piksel tabanlı resim işleme editörüdür.",
+      "E) Adobe Photoshop'un dosya biçimi PSD’dir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Adobe Photoshop’un son sürümü Creative Cloud 2018'dir"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Photoshop programında bir resimdeki pozitif görüntüyü negatif veya negatif görüntüyü pozitif yapmak için kullanılan ayarlar paneli ögesi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Renk arama",
+      "B) Kanal karıştırıcı",
+      "C) Ters çevir",
+      "D) Posterleştir",
+      "E) Seçmeli renk"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 10 Ters Çevir komutu görüntüdeki renkleri ters çevirir. Bu komut, pozitif görüntüyü negatif veya negatif görüntüyü pozitif yapmak için kullanılır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Photoshop’ta çizilen bir dikdörtgenin yükseklik ve genişliği ile ilgili ayarların düzenleneceği ekran aşağıdaki menülerden hangisinde bulunmaktadır?",
+    "seçenekler": [
+      "A) Pencere > Ayarlar",
+      "B) Pencere > Özellikler",
+      "C) Düzenle > Ayarlar",
+      "D) Düzenle > Özellikler",
+      "E) Kanallar > Katmanlar"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Kartvizitin üst kısmında bulunan şekil için arka plandan bir ton daha açık bir siyah renk barındıran genişlik 650 piksel (px) ve uzunluk 664 px olan bir dikdörtgen çizilir. Bu çizilen dikdörtgenin ayarları Pencere > Özellikler menüsüne tıklandığında açılan panelden düzenlenebilir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Photoshop programında bir resimdeki belirli bir renk aralığının tonunu, doygunluğunu ve parlaklığını değiştirmek için seçilmesi gereken ayar aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Parlaklık / Kontrast",
+      "B) Düzeyler",
+      "C) Eğriler",
+      "D) Ton / Doygunluk",
+      "E) Canlılık"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 Bu ayarlama resimdeki belirli bir renk aralığının tonunu, doygunluğunu ve parlaklığını ayarlamaya olanak tanır. Bu ayarlama özellikle baskı alınacak resimlerde ince renk ayarlarının yapılması açısından faydalıdır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Photoshop \"\"Eylemler\"\" paneline aşağıdaki hangi menüden ulaşılmaktadır?",
+    "seçenekler": [
+      "A) Metin",
+      "B) Seç",
+      "C) Katman",
+      "D) Görüntü",
+      "E) Pencere"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 12 Eylemler paneline Pencere/Eylemler adımlarını takip edilerek ulaşılmaktadır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında görüntülere hareket vermek için aşağıdaki panellerden hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) Zaman çizelgesi",
+      "B) Hareket",
+      "C) Aksiyon",
+      "D) Efektler",
+      "E) Filtre"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Zaman Çizelgesi aracılığıyla görüntüye hareket vermek için Kare Animasyon Oluştur seçeneği seçilir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında yazı katmanının çizim katmanına dönüştürülmesi işlemine ne ad verilir?",
+    "seçenekler": [
+      "A) Konturlama",
+      "B) Rasterleştirme",
+      "C) Karıştırma",
+      "D) Degrade kaplama",
+      "E) Serbest dönüştürme"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 5 Yazı katmanlarına diğer katmanlar gibi bir çok efekt verilebilir ancak tasarımda bu katmanı yazı yerine çizim haline getirmek istenebilir. Bunun için Katmanlar panelinde yazı katmanı üzerine sağ tıklayıp Metni, Rasterleştir (Rasterize) seçeneği seçilebilir. Bu değişiklik yapıldığı takdirde, artık o katman da diğer katmanlar gibi çizim katmanı olur, sembolü değişir ve içerisindeki yazı, (T) aracı ile değiştirilemez hale gelir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Photoshop programında bir metnin şeklini belli bir stile göre eğip bükmek için kullanılan metin sınırlama kutusu işlemi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Boyutlandırma işlemi",
+      "B) Eğriltme işlemi",
+      "C) Yönlendirme işlemi",
+      "D) Çarpıtma işlemi",
+      "E) Döndürme işlemi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 Hazırlanan tasarımlarda metnin bütünsel olarak şeklini eğip bükme işlemi metni çarpıtma olarak ele alınmaktadır. Metni çarpıtma işlemlerinin yapılabilmesi için Metin > Metni Çarpıt menüsü seçilir. Çarpıtma penceresinde uygun bir stil ayarı belirlendikten sonra eğilmek istenen yüzde değer Eğ ayarından yapılır. Ayrıca, bu pencerede Yatay ve Dikey Deformasyon ayarları yüzde olarak belirlenebilir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi resim üzerinde işlem yaparken öncelikli olarak göz önünde bulundurulmalıdır?",
+    "seçenekler": [
+      "A) Resmin çözünürlüğü",
+      "B) Resmin boyutu",
+      "C) Resmin renk ve tonlaması",
+      "D) Resmin yönelimi",
+      "E) Resmin kullanım amacına uygunluğu"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 Bir resim üzerinde işlem yaparken öncelikle resmin kullanım amacına uygunluğu değerlendirilmelidir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında \"\"arayı doldur\"\" komutunun görevi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İki nesne arasındaki boşluğu doldurmak",
+      "B) Zaman çizelgesinde iki kare arasına boşluk eklemek",
+      "C) İki ana kare arasındaki ara karelerin oluşturulmasını sağlamak",
+      "D) Ara kareleri silerek animasyonu oluşturmak",
+      "E) Animasyonu yayınlamak"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 Arayı doldurma butonu iki ana kare arasındaki ara karelerin oluşturulmasını sağlar."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında dosya kaydetme yöntemlerinden biri değildir?",
+    "seçenekler": [
+      "A) Klavyeden Ctrl+S tuş bileşenlerine basılmalıdır.",
+      "B) Düzenle menüsünden kaydet komutu seçilmelidir.",
+      "C) Dosya menüsünden farklı kaydet komutu seçilmelidir.",
+      "D) Klavyeden Shift+Ctrl+S tuş bileşenlerine tıklanmalıdır.",
+      "E) Dosya menüsünden dışa aktar komutlarından biri seçilmelidir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 Photoshop içerisinde çalışma dosyalarının farklı özelliklerde ve farklı formatlarda kaydedilmesi için çeşitli butonlar yer almaktadır. Bunlar Dosya menüsünden kaydet, farklı kaydet ve dışa aktar olmak üzere 3 farklı şekilde kullanılabilmektedir. Ayrıca, Ctrl+S ve Shift+Ctrl+S tuş kombinasyonları da kaydetme işleminde kullanılmaktadır. Fakat, düzenle menüsünde kaydet komutu bulunmamaktadır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Renk çemberi üzerinde eşit aralıklarla yer alan üç rengin oluşturduğu üçgen kullanılarak ortaya çıkan renk şeması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tek renkli (Monochromatic)",
+      "B) Triadic",
+      "C) Tetradic",
+      "D) Tamamlayıcı (Complementary)",
+      "E) Split-complementary"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "\"\"Lorem İpsum Ögesini Yapıştır\"\" sekmesi aşağıdaki menülerin hangisindedir?",
+    "seçenekler": [
+      "A) Pencere",
+      "B) Görünüm",
+      "C) Düzen",
+      "D) Giriş",
+      "E) Metin"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Son olarak en alt kısma bir yazı bölgesi eklenir ve bu bölgeye Metin > Lorem İpsum Ögesini Yapıştır menüsünden hazır bir metin eklenir. Tasarımın son hali Şekil 14.14’deki gibidir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için izlenen yoldur?",
+    "seçenekler": [
+      "A) Görünüm / Kılavuzları Temizle",
+      "B) Görünüm / Kılavuzları Kaldır",
+      "C) Düzenle / Kılavuzları Temizle",
+      "D) Düzenle / Kılavuzları Kaldır",
+      "E) Katman / Cetveli Temizle"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 6 Tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için iGörünüm menüsünden Kılavuzları Temizle seçeneğini tıklayabilirsiniz."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "I. Görsel üzerinde kalemle çizim yapma II. Görsel üzerindeki renkleri değiştirme III. Seçilen bir alanın görüntüsü kullanılarak stilize vuruşlar yapma Yukarıdakilerden hangisi ya da hangileri boyama araçlarının fonksiyonlarındandır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4 Boyama araçları kullanıcıların görseller üzerinde boyama yapmasını, kalemle çizim yapmasını, görsel üzerindeki renkleri değiştirebilmesini, seçilen bir alanın görüntüsünü kullanarak stilize vuruşlar yapmalarını sağlamaktadır. Ayrıca bu araçlar sayesinde seçilen bir alanın görüntüsü kopyalanarak geçerli alan boyanabilmekte, seçilen bir alanın görüntüsü kullanılarak stilize vuruşlar yapılabilmektedir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "I. Kalem aracıyla çizilen eğri ve doğrulardan oluşan ana hatlara yollar denir. II. Yollar seçime dönüştürülebilir veya çeşitli renklerle doldurulabilir. III. Yollar paneli, üzerine kaydedilen yolların çalışılan görüntü üzerine hızlı bir şekilde uygulanması için kullanılan bir paneldir. Yukardaki ifadelerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yanlız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Yollar, kalem aracıyla çizilen eğri ve doğrulardan oluşan ana hatlardır. Bu ana hatları seçime dönüştürebilir veya çeşitli renklerde doldurabilir veya kontur vererek ana hatlarının belirginleşmesini sağlayabilirsiniz. Kalem aracıyla çizilen her yol otomatik olarak Yollar panelinde Çalışma Yolu adı verilen bir yola kaydedilir. Yollar paneli, üzerine kaydedilen yolların çalışılan görüntü üzerine hızlı bir şekilde uygulanması için kullanılan bir paneldir. Yollar paneli açık olsun veya olmasın kalem aracı ile çizilen her yol buraya doğrudan kaydedilir."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Adobe Photoshop CC 2018'de ekrandaki görüntünün genel hatlarını koruyarak renkli alanlara kabartma eklenmesini sağlayan filtreye ne ad verilir?",
+    "seçenekler": [
+      "A) Koyu konturlar filtresi",
+      "B) Mürekkep ana hatları filtresi",
+      "C) Püskürtülmüş konturlar filtresi",
+      "D) Sıçrama filtresi",
+      "E) Çapraz tarama filtresi"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 7 Çapraz tarama filtresi, ekrandaki görüntünün genel hatlarını koruyarak, renkli alanlara kabartma eklenmesini sağlar."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "RGB renk modunun renkleri aşağıdakilerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) Gri, Mavi, Kırmızı",
+      "B) Sarı, Mavi, Yeşil",
+      "C) Kırmızı, Yeşil, Mavi",
+      "D) Cam göbeği, Macenta, Sarı",
+      "E) Sarı, Siyah, Yeşil"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi yaygın olarak kullanılan dijital resim formatları arasında yer almaz?",
+    "seçenekler": [
+      "A) JPG",
+      "B) TIFF",
+      "C) BITMAP",
+      "D) GIF",
+      "E) TGA"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 11 PNG dosya formatı kullanılan en yaygın resim formatlarından bir tanesidir. Bunun yanı sıra grafik tasarım alanında farklı türlerde dijital resim formatları da kullanılmaktadır. Bunlar arasında en yaygın olanları JPG (veya JPEG), BITMAP (BMP), TIFF ve GIF şeklinde sıralanabilir."
+  }
+]

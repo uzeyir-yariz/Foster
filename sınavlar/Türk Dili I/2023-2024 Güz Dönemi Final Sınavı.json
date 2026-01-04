@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Dün gece çok ağladım ama sesimi duyan olmadı. Verilen cümle aşağıdaki cümle çeşitlerinden hangisine örnektir?",
+    "seçenekler": [
+      "A) Birleşik",
+      "B) Bağlı",
+      "C) Basit",
+      "D) Kurallı",
+      "E) Sıralı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 13 Verilen örnek bağlı cümle örneğidir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Ufak bir tepeyi aşan izciler ağaçlıklar arasından geçerek kamp yerine ulaştılar. Cümlenin ögelerinin sıralanışı aşağıdakilerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) Özne – Zarf Tümleci – Dolaylı Tümleç – Yüklem",
+      "B) Özne – Dolaylı Tümleç – Zarf Tümleci – Yüklem",
+      "C) Nesne – Özne – Zarf Tümleci – Yüklem",
+      "D) Nesne – Özne – Dolaylı Tümleç – Yüklem",
+      "E) Nesne – Zarf Tümleci – Dolaylı Tümleç – Yüklem"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "“Kapı” sözcüğü, aşağıdaki cümlelerin hangisinde deyim içinde kullanılmamıştır?",
+    "seçenekler": [
+      "A) Patrona karşı geldiği için kapı dışarı edileceğini biliyordu.",
+      "B) Odanın kapısına yaslanarak derin bir oh çekti.",
+      "C) Babam işten çıkınca alacaklılar kapıya dayandı.",
+      "D) Küçük çocuk her gün doksan kapının ipini çekerdi.",
+      "E) Bütün kapılar tek tek yüzüne kapandı."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yükleminin yerine göre diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Kol kanat gerdim ben sana her düştüğünde.",
+      "B) Soldum gün yüzü görmemiş bir çiçek gibi.",
+      "C) İnsan yeryüzünün hastalığıdır.",
+      "D) Dildir insanın başına bela olan.",
+      "E) Ellerimi arkadan bağladım kimse görmeden."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Konuyu dikkatlice dinlersen sınava çalışman daha kolay olur. Verilen cümle aşağıdakilerden hangisine örnektir?",
+    "seçenekler": [
+      "A) Vurgu",
+      "B) Boğumlama",
+      "C) Şartlı cümle",
+      "D) Tonlama",
+      "E) Mısra vurgusu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 10 Verilen cümle şart cümlesidir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi deyime örnek değildir?",
+    "seçenekler": [
+      "A) Bol bol yiyen, bel bel bakar",
+      "B) Bir Köroğlu bir Ayvaz",
+      "C) Kara gün dostu",
+      "D) Biçilmiş kaftan",
+      "E) Korktuğum başıma geldi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 Bol bol yiyen, bel bel bakar deyim değil atasözüdür."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Türkçenin Grameri isimli eser aşağıdakilerden hangisine aitir?",
+    "seçenekler": [
+      "A) Leyla Karahan",
+      "B) Günay Karaağaç",
+      "C) Efrasiyap Gemalmaz",
+      "D) Tahsin Banguoğlu",
+      "E) Zeynep Korkmaz"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Türkçenin Grameri isimli eser Tahsin Banguoğlu'na aitir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi cümleyi yapısına göre  incelerken aranmaz?",
+    "seçenekler": [
+      "A) Basit",
+      "B) Devrik",
+      "C) Sıralı",
+      "D) Bağlı",
+      "E) Birleşik"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Devrik, cümlede yüklemin yerine göre aranır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin kullanılış yerine göre adlandırılmasına bir örnektir?",
+    "seçenekler": [
+      "A) Çocuk dili",
+      "B) Arkaik dil",
+      "C) Gazete dili",
+      "D) Konuşma dili",
+      "E) Ana dil"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 1 Gazete dili"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisinde “–den” eki diğerlerinden farklı bir görevde kullanılmıştır?",
+    "seçenekler": [
+      "A) Kazayı öğrenince kadıncağız üzüntüden hasta oldu.",
+      "B) Otobüs her sabah bu duraktan geçer.",
+      "C) Ayağı takılınca tüm kâğıtları elinden yere düşürdü.",
+      "D) Gelecek ay bu evden de taşınmak zorunda kalacağız.",
+      "E) Hesabı kapatarak hastaneden ayrıldılar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 7 sayfa 14 paragraf 10 de yer almaktadır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "“O zaman vecd ile bin secde eder varsa taşım.” cümlesinin özellikleri aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) Kurallı, fiil, şartlı birleşik, olumlu",
+      "B) Kurallı, isim, bağlı, olumlu",
+      "C) Devrik, fiil, şartlı birleşik, olumlu",
+      "D) Devrik, isim, şartlı birleşik, olumsuz",
+      "E) Devrik, isim, sıralı, olumlu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 Bir önceki ünitede yüklemin türüne ve yerine göre cümle çeşitleri konusunu işlemiştik. Bu ünitede ise anlamına ve yapısına göre cümle çeşitlerini göreceğiz."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi vurgu türlerinden biri değildir?",
+    "seçenekler": [
+      "A) Cümle vurgusu",
+      "B) Şiddet vurgusu",
+      "C) Kelime vurgusu",
+      "D) Ünsüz vurgusu",
+      "E) Mısra vurgusu"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 Sayılanlar türler arasında ünsüz vurgusu bulunmamaktadır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Türkiye Türkçesinin yazı dili aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İstanbul ağzı",
+      "B) Konya ağzı",
+      "C) Gaziantep ağzı",
+      "D) Ankara ağzı",
+      "E) Erzurum ağzı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "“Sora sora Bağdat bulunur.” cümlesinin özellikleri aşağıdakilerin hangisinde belirtilmiştir?",
+    "seçenekler": [
+      "A) Olumlu – sıralı – devrik – ad",
+      "B) Olumlu – basit – devrik – eylem",
+      "C) Olumsuz – sıralı – kurallı – ad",
+      "D) Olumlu – birleşik – kurallı – eylem",
+      "E) Olumsuz – birleşik – kurallı – eylem"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 14 (Cümlenin Ögeleri, Yüklemin Türüne ve Anlamına Göre Cümleler) [2, 3, 4] • Örnek cümle: Akıl akıldan üstündür. Cümlenin ögeleri: Akıl (özne)+akıldan (dolaylı tümleç)+üstündür(yüklem)"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "I. Toplumların tarihsel belleğidir. II. Sosyal ve kültürel değerlerin taşıyıcısıdır. III. Birlik ve beraberliğin en temel simgesidir. Dil ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) Yalnız III",
+      "C) I ve III",
+      "D) I, II ve III",
+      "E) II ve III"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 Sayfa 3 paragraf 5 de yer almaktadır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük mecaz anlamıyla kullanılmıştır?",
+    "seçenekler": [
+      "A) Az sonra içeri beyazlar içerisinde bir gelin girdi.",
+      "B) Patronla görüşmek ve zam istemek istiyordu.",
+      "C) Annesi, çocuğun uyku probleminden bahsediyordu.",
+      "D) Gelecek hafta yapılacak toplantıda bu konu görüşülmelidir.",
+      "E) Boş sözlerle bugüne kadar zar zor geldik işte."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 8 Doğru cevap açıklaması 4. sayfa 2. paragraftadır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türkiye Türkçesinin ses özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Türkiye Türkçesinde \"\"c, ğ, l, m, n, r, z\"\" sesleriyle sözcük başlamaz.",
+      "B) Türkçede şedde vardır.",
+      "C) Türkçede iki ünsüz ile hece başlamaz.",
+      "D) Türkiye Türkçesinde içinde \"\"j\"\" bulunan sözcükler Türkçe değildir.",
+      "E) Türkiye Türkçesinde \"\"b, c, d, g\"\" sesleri genellikle sözcüklerin sonunda bulunmaz."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 Arap yazısında, bir ünsüzün iki kez okunması gerektiğini gösteren ve harfin üstüne konan işarete şedde denir. Türkçede şeddeli okunuş yoktur."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdaki atasözlerinden hangisi gerçek anlamıyla kullanılmıştır?",
+    "seçenekler": [
+      "A) Minareyi çalan kılıfını hazırlar.",
+      "B) Çivi çiviyi söker.",
+      "C) Mum dibine ışık vermez.",
+      "D) Ayağını yorganına göre uzat.",
+      "E) Sebepsiz ölüm olmaz."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 5 Ölüm hak, miras helâl."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi Altay dilleri ile Türkiye Türkçesinin ortak özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Anlatım ve çekim son eklerle yapılır.",
+      "B) Cinsiyet ayrımı gösteren ek yoktur.",
+      "C) Genel olarak \"\"özne-tümleç-nesne-yüklem\"\" sırası vardır.",
+      "D) Tamlamalarda tamlayan önde, tamlanan ise sonda gelir.",
+      "E) Çift ünsüzle başlayan kelime sayısı çoktur."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Anlatıma akıcılık ve zenginlik kazandırmak için birden fazla sözcükten en az birinin gerçek anlamından uzaklaştırılmasıyla oluşturulmuş söz gruplarına ne ad verilir?",
+    "seçenekler": [
+      "A) Atasözü",
+      "B) Kalıp söz",
+      "C) İkileme",
+      "D) Argo",
+      "E) Deyim"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 8 Anlatıma akıcılık ve zenginlik kazandırmak için birden fazla sözcükten en az birinin gerçek anlamından uzaklaştırılmasıyla oluşturulmuş söz gruplarına deyim adı verilir. CEVAP ANAHTARI"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Bir döngünün belirli bir iterasyonunda iken kalan komutları atlayıp bir sonraki iterasyona geçmek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) switch",
+      "B) continue",
+      "C) break",
+      "D) throw",
+      "E) case"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Bir C++ programının yazılması ve çalıştırılmasında gerçekleşen işlemler aşağıdakilerden hangisinde doğru sırada verilmiştir?",
+    "seçenekler": [
+      "A) Derleme, Çalıştırma, Bağlama, Kaynak Dosya Yazımı",
+      "B) Kaynak Dosya Yazımı, Çalıştırma, Derleme, Bağlama",
+      "C) Kaynak Dosya Yazımı, Bağlama, Derleme, Çalıştırma",
+      "D) Kaynak Dosya Yazımı, Derleme, Bağlama, Çalıştırma",
+      "E) Kaynak Dosya Yazımı, Derleme, Çalıştırma, Bağlama"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "İki boyutlu dizi elemanlarına atama işlemlerinden hangisi doğrudur?",
+    "seçenekler": [
+      "A) int a[5][2] = {5,2};",
+      "B) int a[5][2] = {1,2,3,4,5,6,7};",
+      "C) int a[5][2] = {1,2,3,4,5,6,7,8,9,10};",
+      "D) int a[5][2] = {{1,2,3,4,5,{2}};",
+      "E) int a[5][2] = {{5,{2}};"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Visual Studio 2017 BGO ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Yazım hataları derleyici tarafından yakalanamazlar.",
+      "B) Kod dosyalarının görüntülenmesini ve yönetilmesini çözüm gezgini sağlar.",
+      "C) C++ kaynak dosyasının uzantısı .cpp'dir.",
+      "D) IntelliSense kod düzenleyicide kod ile ilgili bilgi verir ve bazı durumlarda küçük kod parçalarını kullanıcı için tamamlar.",
+      "E) Mantıksal hatalar derleyici tarafından yakalanamazlar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Bir fonksiyonun çıkış değeri olarak 5.25 değeri geri döndürülmek isteniyor ise aşağıdaki tanımlamalardan hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) int Fonksiyon(int a) {return 5.25;}",
+      "B) bool Fonksiyon(int a) {return 5.25;}",
+      "C) double Fonksiyon(int a) {return 5.25;}",
+      "D) double Fonksiyon(int a) { a=5.25; return a;}",
+      "E) void Fonksiyon() {return 5.25;}"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi sadece giriş birimi olarak kullanılır?",
+    "seçenekler": [
+      "A) Sabit disk",
+      "B) Dokunmatik ekran",
+      "C) Flaş bellek",
+      "D) Klavye",
+      "E) Optik disk"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Cebirsel bir ifade işletilirken işlem önceliği en yüksek olan aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Parantez",
+      "B) Çarpma operatörü",
+      "C) Modül operatörü",
+      "D) Çıkarma operatörü",
+      "E) Toplama operatörü"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdaki adımlardan hangisi dosyanın kapatılması ve işlem sona erdiğinde dosya ile ilgili kaynakların serbest bırakılmasını içerir?",
+    "seçenekler": [
+      "A) Dosya Okuma İşlemi",
+      "B) Dosya Türleri",
+      "C) Dosya İşleme Adımları",
+      "D) Dosya Açma Modları",
+      "E) Dosya İşleminin Sonlandırılması"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "C++ deyimlerinden hangisinde söz dizimi hatası yapılmamıştır?",
+    "seçenekler": [
+      "A) cout<<\"\"Haftalik olarak\\odevler verilecek\\n\"\";",
+      "B) cout<<\"\"C++\\n dersine hosgeldiniz\\n\"\";",
+      "C) cout<<\"\"Basarilar dilerim\\n';",
+      "D) cout<<\"\"Final sinavinda 10 soru olacak\\n;",
+      "E) cout<<\"\"Ders notunun %20 si uygulamalardan olusacak\\n\"\";"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki depo yapılarından hangisi bir değeri birden fazla sayıda tutmaz?",
+    "seçenekler": [
+      "A) vector",
+      "B) list",
+      "C) multiset",
+      "D) deque",
+      "E) set"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "int a = 6, b =0; switch (a * b) {case 10: cout << 1 << endl; break; case 20: cout << 2 << endl; break; case 30: cout << 3 << endl; break; case 40: cout << 4 << endl; break; default: cout << 5 << endl;break; } Yukarıdaki C++ kod bloğunun ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3",
+      "B) 2",
+      "C) 4",
+      "D) 5",
+      "E) 1"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Döngüde, döngü değişkeninin değerini 1 arƴrmak için ...... tekli (unary) operatörü kullanılır. Cümlede boş bırakılan yere aşağıdaki operatörlerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) --",
+      "B) ++",
+      "C) <=",
+      "D) ==",
+      "E) &&"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Sınıf oluşturmak için aşağıdaki yapılardan hangisi kesinlikle kullanılmalıdır?",
+    "seçenekler": [
+      "A) class",
+      "B) private",
+      "C) int",
+      "D) ::",
+      "E) public"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi nesneye yönelik programlamanın özelliklerinden değildir?",
+    "seçenekler": [
+      "A) Bir nesnenin birden çok örneğine sahip olmak mümkündür.",
+      "B) Yeni veri ve fonksiyonlar gerektiğinde kolayca eklenebilir.",
+      "C) Nesneler birbirleriyle iletişim kurabilir.",
+      "D) Nesnelerin ilk kullanıma hazırlanması için yapıcı fonksiyon kullanılır.",
+      "E) Sınıf yapısı olmadan nesne oluşturulabilir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki string işleme fonksiyonlarından hangisi, bir string ifadesine yeni bir karakter eklemek amacıyla kullanılır?",
+    "seçenekler": [
+      "A) capacity",
+      "B) resize",
+      "C) assign",
+      "D) append",
+      "E) clear"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "SET X=50 SET Y=2 IF X>20 VE Y%2==0 THEN    COMPUTE X=X+20    COMPUTE Y=Y+1 ELSE    COMPUTE  X=Y+20    COMPUTE Y=X+1 ENDIF PRINT X,Y Verilen sözde kod işletildiğinde aşağıdaki çıktılardan hangisini üretir?",
+    "seçenekler": [
+      "A) 22,51",
+      "B) 50,2",
+      "C) 20,3",
+      "D) 70,0",
+      "E) 70,3"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Kısayol ve işlev eşleştirmelerinden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Shift + F10: adımla",
+      "B) F5: hata ayıklamasız derle",
+      "C) F9: Kesme noktası oluştur",
+      "D) Ctrl + F9: tüm kesme noktalarını sil",
+      "E) Ctrl + F5: hata ayıkla"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "#include <iostream> using namespace std; int Fonksiyon(int x, int y) { x = a + 3; y = b + 3; return x + y; } int main() { int a = 1, b = 2; cout <<a<<\"\" \"\"<<b<<\"\" \"\"<<Fonksiyon(a,b); return 0; } Yukarıdaki C++ programı çalıştırıldığında çıktısı aşağıdakilerden hangisi olur?",
+    "seçenekler": [
+      "A) Hata verir, çalışmaz.",
+      "B) Ekrana \"\"1 9 2\"\" yazar.",
+      "C) Ekrana \"\"1 2 9\"\" yazar.",
+      "D) Ekrana \"\"4 5 9\"\" yazar.",
+      "E) Ekrana \"\"1 239\"\" yazar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "#include <iostream> using namespace std; int main() {      int dizi[5] = {3,4,5,6,7};      cout << dizi[3];      return 0; } Yukarıdaki C++ programı çalıştırıldığında ekrana hangi çıktıyı yansıtır?",
+    "seçenekler": [
+      "A) 3",
+      "B) 7",
+      "C) 6",
+      "D) 4",
+      "E) 5"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I. Dosya giriş ve çıkış işlemlerini gerçekleştirir. II. istream sınıfından türetilmiştir. III. Dosyadan okuma işlemlerinde kullanılabilir. IV. Dosyaya yazma işlemlerinde kullanılmaz. Yukarıdakilerden hangisi ya da hangileri C++ dilinde fstream sınıfının özelliklerindendir?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve III",
+      "C) II ve IV",
+      "D) II, III ve IV",
+      "E) I ve II"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  }
+]

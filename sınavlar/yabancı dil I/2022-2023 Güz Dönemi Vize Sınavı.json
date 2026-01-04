@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Please, be quiet. Our baby .................... . Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) do sleep",
+      "B) sleep",
+      "C) sleep not",
+      "D) is sleeping",
+      "E) is not sleeping"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Bu soruda sizden istenen Şimdiki Zaman (The Present Continuous Tense) adlı konunun açıklamasını 5. Ünite’nin 3., 4., 5. ve 6. sayfalarında yer alan ‘Dil bilgisi: Şimdiki Zaman (The Present Continuous Tense’ başlığı altında bulabilirsiniz."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "They ...... studying at university 3 years ago. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) are",
+      "B) were",
+      "C) was",
+      "D) is",
+      "E) am"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Did he .......... football last Saturday? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) do",
+      "B) did",
+      "C) playing",
+      "D) played",
+      "E) play"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Passenger: What time does the bus leave? Clerk: ........................................... Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) One adult and a child",
+      "B) At eleven o'clock",
+      "C) For weekend",
+      "D) Far from the city centre",
+      "E) It's quite cheap"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Otobüsün hareket saatini soran yolcu yanıt olarak da 11 de hareket edeceğini ifade ediyor."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Dilek had an .................. yesterday and she called an ambulance. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) fall",
+      "B) look",
+      "C) accident",
+      "D) face",
+      "E) travel"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Accident: \"\"Kaza\"\". Gerçek yaşamda sıklıkla kullanılan kelimeler arasındadır. Kitap metninde geçmektedir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Michael Jackson ...................... a universal pop-star. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am",
+      "B) is",
+      "C) are",
+      "D) be",
+      "E) being"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "My wife and I ....... in Spain last summer. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am",
+      "B) are",
+      "C) is",
+      "D) were",
+      "E) was"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "(3.sayfa, 1.paragraf) (8.sayfa, 1., 2. Paragraflar)"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "This chocolate ................. people happy and energetic. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) make",
+      "B) drink",
+      "C) hear",
+      "D) delicious",
+      "E) hope"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Our children ........... in the swimming pool now. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am",
+      "B) is",
+      "C) are",
+      "D) was",
+      "E) do"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Bu soruda sizden istenen Geniş Zaman (The Present Simple Tense) adlı dilbilgisi yapısının açıklamasını 2. Ünite’nin 3. sayfasında yer alan ‘DİL BİLGİSİ: Geniş Zaman (The Present Simple Tense)’ başlığı altında bulabilirsiniz."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "We usually have a picnic at weekends, but today it's rainy and we ............................ movie at home at the moment. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) watch",
+      "B) are watching",
+      "C) watching",
+      "D) watches",
+      "E) do watch"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Cümlenin başında rutin olarak hafta sonları yapılan eylem geniş zamanla ifade edilirken, ikinci cümlede şimdiki zaman 'at the moment' ile işaret edilerek ve 1. çoğul şahısla 'are watching' cevabı gelmelidir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Susan .............................  to play the piano. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilirse fiilin geniş zamana göre çekimlenmiş hâli olur?",
+    "seçenekler": [
+      "A) love",
+      "B) loving",
+      "C) loved",
+      "D) is loving",
+      "E) loves"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "I ....................... a student. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am",
+      "B) is",
+      "C) are",
+      "D) is not",
+      "E) are not"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Clerk : Would you like a single or ....................... ticket? Passenger: Single, please. Clerk : It is 735 TL for an adult. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) return",
+      "B) fare",
+      "C) change",
+      "D) travel",
+      "E) twin"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Diyalogda tek yön bilet mi ya da gidiş dönüş mü istendiği soruluyor. Boşluğa gidiş dönüş anlamında 'return' gelmelidir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Robert is very happy because he ............................ a crowded family. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) has got",
+      "B) have got",
+      "C) got",
+      "D) not got",
+      "E) is got"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "have got/ has got Türkçede “var” ve “sahibim” gibi anlamları vardır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Nisa and Caner ..................... married. They are very happy. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) are",
+      "B) is",
+      "C) am",
+      "D) has",
+      "E) have"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "'Burak ve ı .. (Burak ve ben...)' ifadesi birden fazla kişi olduğu için 'are' ifadesi ile tamamlanmalıdır. Doğru cevap 'A' şıkkıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "I have got ............... gifts for my family. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) a",
+      "B) an",
+      "C) some",
+      "D) any",
+      "E) many"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "A Man: What is there around your house? Are there any shops and restaurants? A Woman: Yes, ...................... a big shopping center. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) there are",
+      "B) there is",
+      "C) is there",
+      "D) there is not",
+      "E) there has"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "“There is” yapısı ile başladığımız cümleyi, sayılabilen tekil bir varlık veya sayılamayan bir varlık ve bir yer belirteç öbeği ile tamamlarız. “"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "She ............................. her teeth twice a day. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) brushes",
+      "B) brush",
+      "C) brushies",
+      "D) brushing",
+      "E) brushed"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "3. tekil şahıs zamirleri ve tekil öznelerle birlikte kullanılan fiillere, fiilin son harflerine göre “-s”, “- es” veya “-ies” soneki getirilir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "My brother Hakan and I .............a dog. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am",
+      "B) have got",
+      "C) is",
+      "D) has got",
+      "E) not"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I ........................ my aunt yesterday. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) visit",
+      "B) am visiting",
+      "C) can visit",
+      "D) will visit",
+      "E) visited"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "'Dün halamı ziyaret etim.' cümlesi geçmiş zamanda 'visited' fiiliyle kullanılır."
+  }
+]

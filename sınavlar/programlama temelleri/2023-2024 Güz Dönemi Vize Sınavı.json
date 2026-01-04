@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "#include <iostream> using namespace std; int OrnekFonksiyon(int x, int y, int z) {     x = x + y + z;     return y;     return x;     return z;     return 5; } int main() {     cout << OrnekFonksiyon(2, 3, 4);     return 0; } Yukarıdaki C++ programı çalıştırıldığında ekran çıktısı aşağıdakilerden hangisi olur?",
+    "seçenekler": [
+      "A) 5",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 9"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "OrnekFonksiyon içerisinde ilk return komutuyla y değeri döndürülüyor. Diğer return komutlarına ulaşılmıyor. Bu nedenle ekrana 3 değeri basılır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Akış diyagramlarında paralel kenar sembolünün anlamı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Girdi/Çıktı işlemi gerçekleştirme",
+      "B) Hesaplama yapma",
+      "C) Alt işlev çağırma",
+      "D) Kıyaslama yapma",
+      "E) Koşula karar verme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Girdi yada çıktı birimleri işlemleridir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "(465) 8  sayısının ikilik sistemdeki karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) (101110100) 2",
+      "B) (111011101) 2",
+      "C) (100110101) 2",
+      "D) (100101110) 2",
+      "E) (100101100) 2"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi programın çalışmasında bir problem olmadığı hâlde beklenen çıktının elde edilemediği hata tipidir?",
+    "seçenekler": [
+      "A) Yazım Hatası",
+      "B) Mantıksal Hata",
+      "C) Derleme Zamanı Hatası",
+      "D) Çalışma Zamanı Hatası",
+      "E) Kütüphane Hatası"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Mantıksal hatalar, programın çalışmasında herhangi bir problem olmadığı halde beklenen çıktının elde edilemediği hatalardır. Bu tür hatalar genellikle programcının yazdığı kodun mantığında veya algoritmasında bulunan eksiklikler veya yanlışlıklardan kaynaklanır. Örneğin, bir matematiksel işlemde \"\"+\"\" operatörünün \"\"-\"\" olarak yazılması gibi. Bu tür hatalar, programın çalışmasını durdurmaz, ancak yanlış sonuçlar üretir. Bu nedenle, bu hataların tespiti ve düzeltilmesi genellikle yazım hatalarına veya çalışma zamanı hatalarına göre daha zordur. Programcının kodu adım adım incelemesi ve test etmesi gerekmektedir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Bir C++ programında verilen y=42%5+6/2*5-3; ifadesinde y değişkeninin alacağı değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 22",
+      "B) 14",
+      "C) 26",
+      "D) 18",
+      "E) 16"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisinde bir söz dizim hatası vardır?",
+    "seçenekler": [
+      "A) int sayi; cin>>sayi; cout<<sayi + 6.0;",
+      "B) int sayi; cin>>sayi; sayi = sayi * sayi; cout<<sayi;",
+      "C) int sayi; cin>>sayi; cout<<sayi*sayi;",
+      "D) int sayi, rakam; cin>>rakam; sayi=rakam; cout<<sayi;",
+      "E) int sayi; cin>>sayi; cout>>sayi+sayi;"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "\"\"couti\"\" satırındaki okların yönü ters olmalıdır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Bütünleşik Geliştirme Ortamı (BGO) aşağıdakilerden hangisini ifade etmektedir?",
+    "seçenekler": [
+      "A) Programı derlemek için kullanılan yazılım",
+      "B) Programın hata ayıklaması için kullanılan yazılım",
+      "C) Programın yazılması için kullanılan yazılım",
+      "D) Programlama dili ile uygulama geliştirmek için kullanılan yazılım",
+      "E) Programın çalıştırılması için kullanılan yazılım"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Bütünleşik Geliştirme Ortamı (BGO), bir programlama dili ile uygulama geliştirmek için kullanılan bir yazılımdır. Bu ortamda kod yazma, derleme, çalıştırma ve hata ayıklama işlemleri gerçekleştirilebilir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "cout << \"\"Bugun hava\\ncok guzel, degil mi?\\n\"\"; Yukarıdaki C++ kodu çalıştırıldığında ekran çıktısı aşağıdakilerden hangisi olur?",
+    "seçenekler": [
+      "A) Bugun hava cok guzel, degil mi?",
+      "B) Bugun hava cok guzel, degil mi?",
+      "C) Bugun hava cok guzel, degil mi?",
+      "D) Bugun hava cok guzel, degil mi?",
+      "E) Bugun hava cok guzel, degil mi?"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "C++ dilinde, \\n kaçış karakteri yeni bir satıra geçmek için kullanılır. Bu nedenle, bu kod parçası çalıştırıldığında \"\"Bugun hava\"\" yazdıktan sonra alt satıra geçerek        \"\"cok guzel, degil mi?\"\" yazar."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "switch (harfnotu) {    case 'A':       cout << \"\"Ortalaman 91 ile 100 arasi\"\"<< endl; break;    case 'B':       cout << \"\"Ortalaman 81 ile 90 arasi\"\" << endl; break;    case 'C':       cout << \"\"Ortalaman 71 ile 80 arasi\"\" << endl; break;    case 'D':       cout << \"\"Ortalaman 61 ile 70 arasi\"\" << endl; break;    case 'E':       cout << \"\"Ortalaman 0 ile 60 arasi\"\" << endl; break;    default:       cout << \"\"Harf notu bilinmiyor\"\" << endl; break; } Yukarıdaki kod bloğunda, harfnotu değişkeninin değeri 'C' olduğunda hangi çıktı elde edilir?",
+    "seçenekler": [
+      "A) Ortalaman 91 ile 100 arası",
+      "B) Ortalaman 81 ile 90 arası",
+      "C) Ortalaman 0 ile 60 arası",
+      "D) Ortalaman 61 ile 70 arası",
+      "E) Ortalaman 71 ile 80 arası"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "harfnotu değeri 'C' olduğunda, \"\"Ortalaman 71 ile 80 arasi\"\" çıktısını alırız."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "I. Sayacın başlangıç değeri 1'dir. II. Sayaç her iterasyonda 3 birim artırılır. III. while döngüsü kullanılır. IV. Sayacın maksimum değeri 48'dir. V. Sayaç her iterasyonda 2 birim artırılır. Yukarıdakilerden hangileri 1 ile 50 arasındaki tek tam sayıları ekrana yazdırmak için kullanılan döngü özelliğidir?",
+    "seçenekler": [
+      "A) II, III ve IV",
+      "B) I, III ve V",
+      "C) I ve III",
+      "D) I, II ve IV",
+      "E) III, IV ve V"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Fonksiyon prototipi aşağıdakilerden hangisinde yanlış tanımlanmıştır?",
+    "seçenekler": [
+      "A) int Ornek(int x, int y);",
+      "B) void Ornek();",
+      "C) double Ornek(int x);",
+      "D) void Ornek(int x, int y);",
+      "E) double Ornek(int x, y);"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "\"\"double Ornek(int x, y);\"\" seçeneğinde fonksiyon prototipinde parametrelerin türleri ayrı ayrı belirtilmemiştir. Doğru tanımlama \"\"double Ornek(int x, int y);\"\" şeklinde olmalıdır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdaki operatörlerden hangisinin önceliği diğerlerinden düşüktür?",
+    "seçenekler": [
+      "A) Parantez",
+      "B) Bölme",
+      "C) Modül",
+      "D) Çarpma",
+      "E) Toplama"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "3"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "int a=0, b=0; for (int i = 0; (a < 2) && (b < 4); i++) {             a++;             b++; } cout << a <<\"\", \"\"<<b<<endl; Yukarıdaki kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 4, 4",
+      "B) 2, 2",
+      "C) 0, 0",
+      "D) 2, 4",
+      "E) 4, 2"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "#include <iostream> using namespace std; int F2(int x) { x = x + 2; return x; } int F1(int x) { x = x + 2; x = F2(x); return x; } int main() { int a=1; a=F1(a); cout << a; return 0; } Yukarıdaki C++ kodu çalıştırıldığında aşağıdaki çıktılardan hangisini üretir?",
+    "seçenekler": [
+      "A) 5",
+      "B) 4",
+      "C) Çıktı üretmez, hata verir.",
+      "D) 3",
+      "E) 0"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "F1 içinde F2 çağrılabilir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "int a = 10;            a /= 2;            cout << a <<endl; Yukarıdaki kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 2",
+      "B) 20",
+      "C) 10",
+      "D) 5",
+      "E) 0"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "if (ortalama > 90)    cout << \"\"A\"\" << endl; else if (ortalama > 80)    cout << \"\"B\"\" << endl; else if (ortalama > 70)    cout << \"\"C\"\" << endl; else if (ortalama > 60)    cout << \"\"D\"\" << endl; else    cout << \"\"E\"\" << endl; Yukarıdaki kod bloğunda, 'ortalama' değişkeninin değeri 85 olduğunda hangi ekran çıktısı elde edilir?",
+    "seçenekler": [
+      "A) E",
+      "B) D",
+      "C) B",
+      "D) C",
+      "E) A"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "'ortalama' değeri 85 olduğunda, ortalama > 80 koşulu doğru olacağı için \"\"B\"\" çıktısını alırız."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Bir öğrencinin notunun 50'den büyük olup olmadığını kontrol etmek için aşağıdaki yapılardan hangisi kullanılabilir?",
+    "seçenekler": [
+      "A) SET, INIT",
+      "B) INPUT, OUTPUT",
+      "C) COMPUTE, CALCULATE",
+      "D) IF - THEN - ELSE - ENDIF",
+      "E) WHILE - ENDWHILE"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Sözde kodda karşılaştırma sonucuna bağlı olarak hangi işin yapılacağına karar vermek için IF - THEN - ELSE - ENDIF yapısı kullanılır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "C++ programlama dilinde eşitir operatörü olarak aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) ==",
+      "B) !=",
+      "C) >=",
+      "D) <=",
+      "E) ="
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "4"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "SET A=1, B=10 DO PRINT A, B COMPUTE A = A + 3 COMPUTE B = B – 3 WHILE A < B Yukarıdaki kod işletildiğinde elde edilecek çıktı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1    10 4    7 7    4",
+      "B) 1    9 4    7",
+      "C) 1    10 4    7",
+      "D) 1    9 3    6 6    3",
+      "E) 1    10 4    7 7    4 10  1"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Visual Studio 2017 bütünleşik geliştirme ortamında yer alan aşağıdaki hangi pencere kod paylaşma işlemi için kullanılır?",
+    "seçenekler": [
+      "A) Çözüm Gezgini",
+      "B) Araç Kutusu",
+      "C) Takım Gezgini",
+      "D) Editör Penceresi",
+      "E) Çıktı Penceresi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Visual Studio 2017'de kod paylaşma işlemi için kullanılan özel bir pencere vardır. Bu pencere, kodun diğer geliştiricilerle kolayca paylaşılmasını sağlar. Takım gezgini iş öğelerini takip edip, diğerleriyle sürüm kontrol teknolojilerini kullanarak kod paylaşmayı sağlar"
+  }
+]

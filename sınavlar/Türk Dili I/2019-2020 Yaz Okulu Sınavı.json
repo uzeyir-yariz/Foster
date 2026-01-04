@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Türkçe, yapısı bakımından aşağıdaki dil gruplarından hangisinde yer alır?",
+    "seçenekler": [
+      "A) Tek heceli diller",
+      "B) Eklemeli diller",
+      "C) Çekimli diller",
+      "D) Önden eklemeli diller",
+      "E) İç-ekli diller"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "”Kır atın yanında duran ya huyundan, ya suyundan...” atasözünün ihtiva etiği anlama en yakın atasözü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Üzüm üzüme baka baka kararır.",
+      "B) Baba koruk yer, oğlunun dişi kamaşır.",
+      "C) Çanağa ne doğrarsan kaşığında o çıkar.",
+      "D) Davul birinin boynunda, tokmak bir başkasının elinde.",
+      "E) İki karpuz bir koltuğa sığmaz."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 -"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "“Ağız” sözcüğü aşağıdaki cümlelerin hangisinde deyim içinde kullanılmamıştır?",
+    "seçenekler": [
+      "A) Olanlardan haberdar olmak için ağzımı aramış.",
+      "B) Suçluyu söylememek için ağız birliği etmişler.",
+      "C) Kardeşimin ağzında yara çıktığı için onu doktora götürdük.",
+      "D) Çok fazla konuşuyor ve kimseye ağzını açtırmıyordu.",
+      "E) Hiç konuşmadan oturuyordu ve ağzını bıçak açmıyordu."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 5 \"\"Kardeşimin ağzında yara çıktığı için onu doktora götürdük.\"\" ifadesinde ağız sözcüğü deyim içinde kullanılmamıştır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "“Bu güzel eser, bir solukta okuduğum ve çok beğendiğim bir romandı.” cümlesi, yükleminin türü açısından aşağıdaki hangi cümleden farklıdır?",
+    "seçenekler": [
+      "A) Bu uzun yolculuğa geceden çıkacağız.",
+      "B) Şehrin en kalabalık yeri bu caddeydi.",
+      "C) Bu, İsveç yapımı bir saati.",
+      "D) Toplandığımız yer çok geniş bir masanın etrafıydı.",
+      "E) Karadeniz’e özgü bir oyundur horon."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 14 -"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde sözde özne kullanılmıştır?",
+    "seçenekler": [
+      "A) Çocuklar bahçede toplandılar.",
+      "B) Sabah kalkar kalkmaz yıkandı.",
+      "C) Arzu akşamdan yola koyuldu.",
+      "D) Annesine sıkıca sarıldı.",
+      "E) Eski bina dün yıkıldı."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "“Saat 5’te evdeyim.” cümlesi, yüklemin türü açısından aşağıdaki hangi cümleden farklıdır?",
+    "seçenekler": [
+      "A) Ben de bu akşam yemekteyim.",
+      "B) Açılmamış iki mektup var.",
+      "C) O da çalışsaymış biraz.",
+      "D) Gözlerinde derin bir anlam saklı.",
+      "E) Gözleri sandığımızdan daha bozukmuş."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisinde vurgu ikilemenin üzerindedir?",
+    "seçenekler": [
+      "A) Hızlı hızlı yürüyerek bu ıssız yerden geçtik.",
+      "B) Annem apar topar sofrayı hazırladı.",
+      "C) Birçok arkadaşım abur cubur yiyerek sağlıksız besleniyor.",
+      "D) Bu şehrin her yerini adım adım gezdim.",
+      "E) Yalan yanlış bilgilerle herkesi kandırdılar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 -"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Çuvaşça ve Yakutça tarihin bilinmeyen bir döneminde ayrılan iki lehçedir. Buna göre bu iki lehçe Türk dilinin hangi devresinde ayrılmış olabilir?",
+    "seçenekler": [
+      "A) Ön Türkçe Dönemi",
+      "B) Eski Türkçe Dönemi",
+      "C) Köktürkçe Dönemi",
+      "D) Uygurca Dönemi",
+      "E) Orta Türkçe Dönemi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdaki cümlelerde geçen ikilemeler yapılışlarına göre gruplandırıldığında hangisi dışarda kalır?",
+    "seçenekler": [
+      "A) Dosta düşmana karşı ne derim ben?",
+      "B) Uçurtmalar döne döne yükseldi.",
+      "C) Fabrikada işler ağır aksak yürüyor.",
+      "D) Bunları kardeşine bir bir anlat.",
+      "E) Aldığımız kumaş delik deşikti."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 \"\"Dosta düşmana karşı ne derim ben?\"\" ifadesindeki ikileme karşıt anlamlı sözcüklerden oluşan bir ikilemedir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türkçe sözcüklerin özellikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Sözcük başında c, ğ, l, m, n, r, z ünsüzleri bulunmaz.",
+      "B) Çekim, eklerle yapılır.",
+      "C) Son ek değil, ön ek kullanılır.",
+      "D) Soru ekle yapılır.",
+      "E) Bitişkendir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6 Türkçede ön ek değil, son ek kullanılır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin niteliği ile ilgili hususlardan biri değildir?",
+    "seçenekler": [
+      "A) Dil tıpkı bir canlı varlık gibi, gelişmesinde ve değişmesinde birtakım kuralların gözetilmesi gereken bir yapıdır.",
+      "B) Dil, canlı bir varlık olan ata benzetilebilir. Ona istediğiniz gibi bir tasarrufta bulunamazsınız, bir uçurumdan kendisini atması için zorlayamazsınız. Dil de böyledir.",
+      "C) Diller de canlı organizmalar gibi doğar, gelişir ve ölürler.",
+      "D) Diller canlı birer varlık oldukları için bilim adamları tarafından yeni önlemler alınmak suretiyle dillerin daha iyiye doğru yönlendirilmeleri gerekir.",
+      "E) Dilin canlı bir varlık olması, ona şahsi tasarrufların yapılamayacağı anlamına gelir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisi devrik isim cümlesidir?",
+    "seçenekler": [
+      "A) Kardeşi çok tatlı bir çocuktu.",
+      "B) Herkesi yemeğe davet etmişti.",
+      "C) Her şeyiyle bir mucizeydi hayat.",
+      "D) Bizi tanımayanlar uzaktan gelenlerdi.",
+      "E) Seni bilmeyenler belki inanır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Türk dilinin tarihi bilinen en eski metni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Bilge Tonyukuk",
+      "B) Çoyren ya da Çoyron Yazıtı",
+      "C) Kül Tigin",
+      "D) Bilge Kağan",
+      "E) Şine Usu Kitabesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerin hangisinde ek fiilin kullanımı diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) O kadar süre sonunda makale dergi tarafından raporlanmıştı.",
+      "B) Bazen çok kızdığında kendi kendine söylenirdi.",
+      "C) Tüm hatalarına rağmen o iyi bir insandı.",
+      "D) Sazını eline aldığında kendinden geçiyordu.",
+      "E) Düşmanca söylemlerinden pek sevilmezdi."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 7 Sayfa 16 paragfar 9 da yer almaktadır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "I. Toplumların tarihsel belleğidir. II. Sosyal ve kültürel değerlerin taşıyıcısıdır. III. Birlik ve beraberliğin en temel simgesidir. Dil ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız III",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Sayfa 3 paragraf 5 de yer almaktadır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "“Kullanımda kelimenin bünyesinde birtakım değişikliklerin görüldüğü dillerdir. Bu dillerde ön-ek, iç-ek ve son-ek söz konusudur. Bu gruba giren bazı dillerde ünsüzler değişmez ünlü harfler değiştirilerek yeni kelimeler meydana getirilir.” cümlesinde tanımı verilen dil grubu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tek heceli diller",
+      "B) Eklemeli diller",
+      "C) Çekimli diller",
+      "D) Önden eklemeli diller",
+      "E) İç-ekli diller"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde nesneye yer verilmemiştir?",
+    "seçenekler": [
+      "A) Ayşe ekmek almıştı.",
+      "B) Ali evi çok dağıtmıştı.",
+      "C) Bugün eve erken gelecekti.",
+      "D) Ben kitap okudum.",
+      "E) Babam eve balık aldı."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 -"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) İki yanlış bir doğru etmez.",
+      "B) Akıllı düşman, akılsız dostian yeğdir.",
+      "C) Duydum ki unutmuşsun gözlerimin rengini.",
+      "D) Güneş balçıkla sıvanmaz.",
+      "E) O gün hava parçalı bulutluydu."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisi eylem cümlesidir?",
+    "seçenekler": [
+      "A) Bu onun son konuşmasıydı.",
+      "B) Bu konuda hiç laf etmezdi.",
+      "C) Nelerdir o inanacağımız, bağlanacağımız doğrular?",
+      "D) Gözleri ışıl ışıldı.",
+      "E) Sanatsal eylemin ilk koşulu algılamaktır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Dille ilgili ilk sistematik düşüncelere aşağıdakilerden hangisinde rastlanır?",
+    "seçenekler": [
+      "A) Herakleitos",
+      "B) Hintli Yaska",
+      "C) Demokritos",
+      "D) Sokrat",
+      "E) Aristo"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  }
+]

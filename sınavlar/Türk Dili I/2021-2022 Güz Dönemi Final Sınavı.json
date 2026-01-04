@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde mecaz anlamlı sözcük kullanılmamıştır?",
+    "seçenekler": [
+      "A) Soğuk memleketin sıcak türküleriyle büyüdüm ben.",
+      "B) Benden bilgi sızdırmak için benimle samimi olmaya çalıştığını çok geç fark etim.",
+      "C) Katıldığımız etkinlikten aklımızda kalan en güzel şey, çocukların yüreklerimizi ısıtan gülümsemesiydi.",
+      "D) Ne zaman bu yollardan geçsem bir ozanın yanık sesi çınlar kulaklarımda.",
+      "E) Kara gözleriyle etrafına baktı ve kalabalık caddeye doğru ilerledi."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 8 \"\"Kara gözleriyle etrafına baktı ve kalabalık caddeye doğru ilerledi.\"\" Cümlesinde mecaz anlamlı sözcük bulunmamaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Ufak bir tepeyi aşan izciler ağaçlıklar arasından geçerek kamp yerine ulaştılar. Yukarıdaki cümlenin ögelerinin sıralanışı hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) Nesne – Özne – Zarf Tümleci – Yüklem",
+      "B) Nesne – Özne – Dolaylı Tümleç – Yüklem",
+      "C) Özne – Dolaylı Tümleç – Zarf Tümleci – Yüklem",
+      "D) Özne – Zarf Tümleci – Dolaylı Tümleç – Yüklem",
+      "E) Nesne – Zarf Tümleci – Dolaylı Tümleç – Yüklem"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi bağlı cümleye örnek oluşturmaz?",
+    "seçenekler": [
+      "A) Kuşlar uçardı ve doru atlar dört nala giderdi.",
+      "B) Duman her tarafı sarmıştı.",
+      "C) Omzuma başını koyup üzüldü ama asla ağlamadı.",
+      "D) Uyurgezer bir çocuktu fakat çok da uyanıktı.",
+      "E) İnanılmaz bir acı duydu bileklerinde ancak bu ilk değildi."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Ne olursa olsun bu işi bitireceğim. Bu cümleye altı çizili sözün kaƴğı anlam aşağıdakilerin hangisinde vardır?",
+    "seçenekler": [
+      "A) Bütün hakikatler gün yüzüne çıktı.",
+      "B) Düğüne mutlaka geleceğim.",
+      "C) Hiç vakit kaybetmeden yola koyulduk.",
+      "D) Bunların hiçbirini ben söylemedim.",
+      "E) Eşyaların tamamı selden zarar gördü."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Doğru cevap açıklaması 10. sayfa 5. paragraftadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi yapısı yönüyle basit bir cümledir?",
+    "seçenekler": [
+      "A) Vedalaşmak için terminale gitiğimde otobüs çoktan hareket etmişti.",
+      "B) Memlekete giderken yolda öğrencilerimle karşılaştım.",
+      "C) Çok beğendiğim bu köyde bir sene yaşamaya karar verdim.",
+      "D) Bazı anıların, bizim için çok özel bir yeri vardır.",
+      "E) İnsanın bilgisi ve görgüsü kitap okudukça artar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 Tek yüklemi bulunan, tek yargı bildiren cümleler yapı bakımından basit cümledir. Basit cümleyi belirleyen; tek yüklemin, tek yargının bulunmasıdır. Yüklem dışındaki diğer ögelerin sayısı önemli değildir. Basit cümleler hem isim hem de fiil cümlesi olabilir. Türkçede cümleler genellikle basit yapılıdır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi biçimce olumlu, anlamca olumsuz bir cümledir?",
+    "seçenekler": [
+      "A) Yazılmış ilk tiyatro eseri, Şinâsi’nin yazdığı “Şâir Evlenmesi” adlı eserdir.",
+      "B) Fransız İhtilâli'nin çok uluslu devletler üzerinde olumsuz etkileri olmuştur.",
+      "C) Türkçede cümle düzeni genel olarak “özne, nesne, yüklem” şeklindedir.",
+      "D) Yeryüzünde yaşayan hiçbir dil, Türkçe kadar geniş alanlara yayılmamıştır.",
+      "E) Kendi kültürünün değersiz olduğunu düşünenlerde millî bilinç nasıl gelişebilir?"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Kendi kültürünün değersiz olduğunu düşünenlerde millî bilinç nasıl gelişebilir? cümlesi biçimce olumlu anlamca olumsuzdur."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde deyim, açıklamasıyla birlikte verilmemiştir?",
+    "seçenekler": [
+      "A) Bu da benim kulağıma küpe olsun, seninle tüm bağlarımı koparıyorum.",
+      "B) Kuzenim aile şirketlerinin yönetimini üstlendi, dizginleri ele aldı artık.",
+      "C) Amcası, kasabada cimriliğiyle bilinir; eli sıkıdır.",
+      "D) Bu işi benden başka yapacak kimse olmadığı için iş başa düştü.",
+      "E) Küçücük elleriyle yaptığı çizimler herkeste şaşkınlık ve hayranlık uyandırdı, çocuk herkese parmak ısırƴ."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 \"\"Bu da benim kulağına küpe olsun, seninle tüm bağlarımı koparıyorum.\"\" ifadesinde deyim anlamı ile kullanılmamıştır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "“Sudan sebeplerle beni terk edemezsin.” cümlesi yüklemin türüne göre aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) İsim",
+      "B) Sıfat",
+      "C) Eylem",
+      "D) Zarf",
+      "E) Zamir"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 Daha önceki ünitelerde öğrendiğimiz gibi Türkçede kelimeler, isimler ve fiiller olarak ikiye ayrılmıştı. Cümlede yüklem görevinde kullanılan kelimenin türüne göre cümleler de “fiil cümlesi” ve “isim cümlesi” olarak iki gruba ayrılmaktadır. [1]"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Türklerin Arap Alfabesi ile yazdıkları ilk metnin konusu nedir?",
+    "seçenekler": [
+      "A) Araplara Türkçe öğretmek",
+      "B) Oğuzların yaşayışı",
+      "C) İslam Peygamberi'nin hayatı",
+      "D) Talas Savaşı",
+      "E) Türklerin göç maceraları"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 4 Mevcut bilgilere göre bu alfabeyle yazılan ilk metin Araplara Türkçe öğretmek için kaleme alınan Dîvanü Lügati't- Türk'tür."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük vurguludur?",
+    "seçenekler": [
+      "A) Sana yapılanları hatırla.",
+      "B) Bekleme arkasına bakmadan gidenleri.",
+      "C) Karanlıkta uyumayı çok severim.",
+      "D) Azar azar çayını yudumladı.",
+      "E) Evin kapısını açık unutmuştu."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi gerçek anlamlı atasözüne bir örnektir?",
+    "seçenekler": [
+      "A)  Acı patlıcanı kırağı çalmaz.",
+      "B)  Altın eşik, gümüş eşiğe muhtaç olur.",
+      "C)  Çivi çiviyi söker.",
+      "D)  Minareyi çalan kılıfını hazırlar.",
+      "E)  Sebepsiz ölüm olmaz."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi “bir istek bildiren” ilişki söz/kalıp sözdür?",
+    "seçenekler": [
+      "A) Senden iyi olmasın.",
+      "B) Alacağın olsun.",
+      "C) Tarih tekerrürden ibaretir.",
+      "D) İyi saatie olsunlar.",
+      "E) Sadede gelelim."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdaki atasözlerinin hangisinde yardımcı ses yoktur?",
+    "seçenekler": [
+      "A) Doğru söyleyeni dokuz köyden kovarlar.",
+      "B) İyi dost kara günde belli olur.",
+      "C) Adamın iyisi iş başında belli olur.",
+      "D) Akılsız başın cezasını ayaklar çeker.",
+      "E) Elini ayağını bağlamıştı."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde “zaman” vurgulanmaktadır?",
+    "seçenekler": [
+      "A) İki aydır beklediğim diplomam yarın gelecek.",
+      "B) Tatilde teyzemler bize geleceği için hazırlık yapıyoruz.",
+      "C) O yıllarda birilerinin bana destek olmasını ne çok isterdim.",
+      "D) Yurt dışından gelecek olan misafirlerimiz, öğleye burada olur.",
+      "E) Dedesi, elindeki saati torununun eline tutuşturdu."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 Kimi zaman vurgu, cümle içinde öne çıkarılarak özellikle belirtilmek istenen bir anlamı taşıyan kelime üzerine kaydırılır. Böyle olduğu zaman o kelime yükleme yaklaştırılır. Ahmet çalışmaya yarın gelecek. (Başka zaman değil)"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "\"\"Kardeşimin yüzünde ben çıkmış.\"\" Aşağıdaki cümlelerin hangisinde altı çizili sözcüğün sesteşi bulunmaktadır?",
+    "seçenekler": [
+      "A) Çarşafların yüzü eskimiş değişmeliyiz.",
+      "B) Bugün deniz dalgalı, yüzmeye gitme!",
+      "C) Onda yüz yok ki astarı olsun.",
+      "D) Sikkelerin bir yüzünde aslan şekli var.",
+      "E) Ey güzel! Yüzün sanki amber çiçeği"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 7 Sözcükler arasında sesteşlik ilgisinin kurulabilmesi için aralarında herhangi bir anlam ilişkisinin bulunmaması gerekmektedir."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdaki dillerden hangisi Ural-Altay dillerinden biri değildir?",
+    "seçenekler": [
+      "A)  Fince",
+      "B)  Moğolca",
+      "C)  Mançuca",
+      "D)  Arapça",
+      "E) Tunguzca"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi iki ögeli bir cümledir?",
+    "seçenekler": [
+      "A) Hayatındaki problemleri çözmeden önce onları anlaman gerekir.",
+      "B) Onun aniden gidişi bu saf, temiz ailede büyük bir etki bıraktı.",
+      "C) Vatan toprağının her köşesinde toplum ruhunun yansımaları vardır.",
+      "D) Türk milleti, geçmişten bugüne sahip olduğu her kutsala sadık kalmıştır.",
+      "E) Gurbet mektupları, en saf duyguların, sevgilerin hazinesidir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 11 Gurbet mektupları özne, geri kalan kısım ise yüklemdir."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Yunan filozof Herakleitos'a (M.Ö. V. yy.) göre dili anlamak evreni anlamak demektir. Cümlede altı çizili sözle anlatılmak istenen aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) Her dilin kendine özgü bir evren tasarımı vardır.",
+      "B) İnsanlar ana dillerinin penceresinden hayata bakarlar.",
+      "C) Dilini anladığımız insanın evren tasarımını da kolayca anlarız.",
+      "D) İnsanlar konuştukları dil sayesinde evreni anlamlandırabilirler.",
+      "E) Dil; baktığımız her şeyi görmemizi, gördüğümüz her şeyi algılamamızı sağlayan sistemler üzerine kurulu bir araçtır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 1 Dil; baktığımız her şeyi görmemizi, gördüğümüz her şeyi algılamamızı sağlayan bir sisteme sahip olduğu için bu sistemin işleyişini çözen evrenin işleyişini de çözmüş demektir (Ekti, 2010)."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi \"\"olumlu, isim, kurallı, basit\"\" cümle şeklindedir?",
+    "seçenekler": [
+      "A) İnsan, çok yönlü bir varlıktır.",
+      "B) Onlar, onlardan korkarlar ve kaçarlar.",
+      "C) Gökyüzünde sayısız yıldız bulunur, yıldızlar birer ışık huzmesi gibi görünür.",
+      "D) Sen onunla konuşmadıkça seni affetmeyeceğim.",
+      "E) Vardır ellerimde sayısız çiçeğin kokusu."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 14 (Cümlenin Ögeleri, Yüklemin Türüne ve Anlamına Göre Cümleler) [2, 3, 4] • Örnek cümle: Akıl akıldan üstündür. Cümlenin ögeleri: Akıl (özne)+akıldan (dolaylı tümleç)+üstündür(yüklem)"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I. Dil, toplumun kültürel anlayışını yansıtan en önemli araçtır. II. Kültürel derinlik ancak dilin zenginliğiyle ölçülebilir. III. Kültürel değerlerin izlerini dil üzerinde sürmek mümkündür. Dil ve kültür ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) I ve III",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Sayfa 13 paragraf 3 de yer almaktadır."
+  }
+]

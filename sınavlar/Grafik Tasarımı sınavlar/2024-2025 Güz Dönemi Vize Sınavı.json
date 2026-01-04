@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Seçim araçları arasında aşağıdakilerden hangisi yer almaz?",
+    "seçenekler": [
+      "A) Yavaş seçim",
+      "B) İşaretleme",
+      "C) Hızlı seçim",
+      "D) Kement",
+      "E) Taşıma"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Adobe Photoshop CC 2018'de yer alan filtreler ve işlevlerine yönelik aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Vitray filtresi - Ekrandaki görüntünün tek renkli bitişik hücrelerden oluşacak şekilde tekrar boyanmasını sağlama",
+      "B) Doku filtreleri - Derinlik veya organik görünüm verme",
+      "C) Yamalı filtresi - Ekrandaki görüntü üzerinde küçük çatlaklardan oluşan bir ağın oluşmasını sağlama",
+      "D) Dokulaştırıcı filtresi - Ekrandaki görüntüye seçilen dokuyu uygulama",
+      "E) Mozaik döşemeler filtresi - Ekrandaki görüntünün küçük karolardan yapılmış gibi görünmesini sağlama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında yazı katmanının çizim katmanına dönüştürülmesi işlemine ne ad verilir?",
+    "seçenekler": [
+      "A) Karıştırma",
+      "B) Konturlama",
+      "C) Degrade kaplama",
+      "D) Serbest dönüştürme",
+      "E) Rasterleştirme"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Photoshop'ta Filtre Galerisi'ne ulaşmak için izlenmesi gereken yol aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Filtre Galerisi",
+      "B) Filtre > Mercek düzeltme",
+      "C) Filtre > Sıvılaştır",
+      "D) Filtre > Filtre Galerisi",
+      "E) Filtre"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında yer alan rötuş araçları arasında aşağıdakilerden hangisi yer almaz?",
+    "seçenekler": [
+      "A) Yama aracı",
+      "B) Dilim aracı",
+      "C) Kırmızı göz aracı",
+      "D) Nokta düzeltme fırçası",
+      "E) Düzeltme fırçası"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop CC 2018 programında yeni katman oluşturmak için klavyede kullanılan kısa yol tuşlarıdır?",
+    "seçenekler": [
+      "A) Shift-Ctrl-Y",
+      "B) Shift-Ctrl-S",
+      "C) Shift-Ctrl-M",
+      "D) Shift-Ctrl-N",
+      "E) Shift-Ctrl-P"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında perspektif düzenlemeyi sağlayan filtre aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Ufuk noktası filtresi",
+      "B) Uyarlanabilir geniş açı filtresi",
+      "C) Deforme etme filtresi",
+      "D) Stilize etme filtresi",
+      "E) Doku filtresi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi grafik tasarım programları arasında yer almaz?",
+    "seçenekler": [
+      "A) Adobe Photoshop",
+      "B) Microsoft Windows 10",
+      "C) Adobe InDesign",
+      "D) Adobe Illustrator",
+      "E) Corel Draw"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Cetveller ilk olarak görünür olduğunda etkin pencerenin üst ve sol kenarı boyunca aşağıda verilen hangi noktada konumlanır?",
+    "seçenekler": [
+      "A) (0,0)",
+      "B) (0,100)",
+      "C) (100,0)",
+      "D) (0,50)",
+      "E) (50,0)"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi PNG türündeki resimlerin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) PNG, JPG ve GIF'in özelliklerini birleştirir.",
+      "B) Kayıpsız sıkıştırma özelliği sunabilir.",
+      "C) JPG kalitesinde olup GIF gibi saydamlık ve şeffaflık özelliği bulunur.",
+      "D) Web için geliştirilmiştir.",
+      "E) Renk paletinde 2 ile 16 arası renk olabilir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Photoshop programının birden fazla resmi aynı anda yeniden boyutlandırabilme, renk efekti verebilme veya biçimini değiştirebilme özelliğine ne ad verilir?",
+    "seçenekler": [
+      "A) Katmanlama",
+      "B) Efekt verme",
+      "C) Yeniden boyutlandırma",
+      "D) Yığın işleme",
+      "E) Mod düzenleme"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi RGB renk skalası ile ilgili değildir?",
+    "seçenekler": [
+      "A) Kırmızı, yeşil ve mavi renklerin baş harflerini temsil etmektedir.",
+      "B) Bu renk modelinde değişik ışık frekansları birleşerek gözümüze ulaşmaktadır.",
+      "C) Poster, broşür, kartvizit, kitap, dergi basımında kullanılır.",
+      "D) Tarayıcılar, dijital kameralar ve bilgisayar ekranları renkleri göstermek için kullanır.",
+      "E) Kırmızı, yeşil ve mavi ışık dalga boyları farklı oranlarda kullanılarak değişik renkler elde edilmektedir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi en yaygın kullanılan dijital resim biçimidir?",
+    "seçenekler": [
+      "A) DOC",
+      "B) PDF",
+      "C) XLS",
+      "D) PSD",
+      "E) ZIP"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi çember üzerinde iki tamamlayıcı renk kullanılarak dikdörtgen oluşturulmasıyla açığa çıkan renk şemasıdır?",
+    "seçenekler": [
+      "A) Tamamlayıcı renkler",
+      "B) Ayrık tanımlayıcı renkler",
+      "C) Tetradic renkler",
+      "D) Triadik renkler",
+      "E) Benzer renkler"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Adobe Photoshop programında kullanıcıların programı kullanırken yapmış oldukları tüm eylemleri gösteren panel  aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Renk paneli",
+      "B) Geçmiş paneli",
+      "C) Araçlar paneli",
+      "D) Eğitim paneli",
+      "E) Katmanlar paneli"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Adobe Photoshop programının ekranında yer alan cetvelleri görünür hale getirmek veya gizlemek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) Ctrl+P",
+      "B) Ctrl+L",
+      "C) Ctrl+C",
+      "D) Ctrl+Z",
+      "E) Ctrl+R"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Adobe Photoshop programı ücretli bir yazılımdır ancak ücretsiz denemek Adobe firması belirli bir süre izin verebilmektedir. Bu süre seçeneklerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) 15 gün",
+      "B) 30 gün",
+      "C) 5 gün",
+      "D) 20  gün",
+      "E) 25 gün"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Çözünürlükle ilgili aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Çözünürlük piksellerin (noktaların) birbirine ne kadar yakın olduğunu ifade eder.",
+      "B) Birbirine uzak olan noktaların, yüksek bir çözünürlüğe sahip olduğu söylenir.",
+      "C) Sadece yatayda bulunan piksel sayısı çözünürlüğü verir.",
+      "D) Birbirine yakın olan noktaların, düşük bir çözünürlüğe sahip olduğu söylenir.",
+      "E) Sadece dikeyde bulunan piksel sayısı çözünürlüğü verir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi Adobe Photoshop programının araçlar panelinde yer alan gruplardan biridir?",
+    "seçenekler": [
+      "A) Kayıt araçları",
+      "B) Transfer araçları",
+      "C) Sürükleme araçları",
+      "D) Silme araçları",
+      "E) Rötuş araçları"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi grafiksel ögeleri konumlandırmak için kullanılan bir araç değildir?",
+    "seçenekler": [
+      "A) Cetveller",
+      "B) Kılavuz çizgileri",
+      "C) Katmanlar",
+      "D) Izgaralar",
+      "E) Akıllı kılavuzlar"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  }
+]

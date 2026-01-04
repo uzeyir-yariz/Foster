@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "SET X =0, SET Toplam = 0 WHILE X <= 20    IF X % 2 == 0 THEN        COMPUTE Toplam = Toplam + X         X = X + 2    ELSE         X = X + 2    ENDIF ENDWHILE PRINT Toplam Yukarıdaki sözde kodun çıktısı aşağıdaklerden hangisidir?",
+    "seçenekler": [
+      "A) 110",
+      "B) 100",
+      "C) 46",
+      "D) 30",
+      "E) 16"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 0'dan 20'e kadar çift sayıların toplamı=2+4+...+20=110"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Hata ayıklama yaklaşımları arasında aşağıdakilerden hangisi yer almaz?",
+    "seçenekler": [
+      "A) Kaba kuvvetle hata ayıklama",
+      "B) Geriye doğru hata ayıklama",
+      "C) İleriye doğru hata ayıklama",
+      "D) Test ederek hata ayıklama",
+      "E) Tüme varım yöntemi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Hata Ayıklama Yaklaşımları başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "for (int i=0; i< 5; i++) {    for(int j=0; j<5; j++)    {        a[i][j] = i * j;    } } Yukarıdaki kod parçası aşağıdaki işlevlerden hangisini yerine getirmektedir?",
+    "seçenekler": [
+      "A) Dizinin tüm elemanlarına bulundukları satır ve sütün indis değerlerinin çarpım sonucunu yazar.",
+      "B) Dizinin tüm elemanlarına 5 yazar.",
+      "C) Dizinin tüm elemanlarına 25 yazar.",
+      "D) Dizinin ilk 5 satırının ilk 5 sütununa 25 yazar.",
+      "E) Dizinin ilk 5 satırının ilk 5 sütununa 5 yazar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 FONKSİYONLARA İKİ BOYUTLU DİZİLERİN AKTARILMASI bailıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Genel olarak bir bütünleşik geliştirme ortamı hakkında aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Farklı programlama dillerinde uygulama geliştirilmesine olanak sağlar.",
+      "B) Programın yazılması için gerekli araçları sağlar.",
+      "C) Programı derlemek için farklı bir programa ihtiyaç duyar.",
+      "D) Program çalıştırıldığında oluşan hataları gösterir.",
+      "E) Program çıktılarının takibine olanak sağlar."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "İki boyutlu bir dizi x adet satır ve y adet de sütun ihtiva eden bir tablo gibi düşünülebilir. Bu x ve y için aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) x ve y birer ondalıklı sayıdır.",
+      "B) x ve y birer doğal sayıdır.",
+      "C) x ve y birer pozitif tam sayıdır.",
+      "D) x ve y birer negatif tam sayıdır.",
+      "E) x ve y birer kompleks sayıdır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 10 İki boyutlu bir dizi x adet satır ve y adet de sütun ihtiva eden bir tablo gibi düşünülebilir. x ve y sıfırdan büyük birer tam sayı olmalıdır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "cout<<\"\"Bugun hava\\ncok guzel.\\n\"\"; deyimi çalıştırıldığında ekrana aşağıdakilerden hangisini yazdırır?",
+    "seçenekler": [
+      "A) Bugun hava cok guzel.",
+      "B) Bugun hava cok guzel.",
+      "C) Bugun hava cok guzel.",
+      "D) Bugun hava cok guzel.",
+      "E) Bugun hava cok guzel."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 3"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Büyük eşitir operatörünün doğru kullanımı aşağıdakilerden hangisinde verilmiştir?",
+    "seçenekler": [
+      "A) =>",
+      "B) >=",
+      "C) =>=",
+      "D) !>",
+      "E) >!"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Bir sınıfa ait özelliklere ve metotlara erişebilmek için kullanılan operatör aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Erişim operatörü",
+      "B) Nokta operatörü",
+      "C) Virgül operatörü",
+      "D) Ünlem operatörü",
+      "E) Eşitir operatörü"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Bir sınıfa ait özelliklere ve metotlara erişebilmek için nokta operatörü (.) kullanılmaktadır"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "bool Foo(int x ) { if (x>=0 && x < 10) return true; else return false; } Yukarıdaki Foo() fonksiyonu için aşağıdakilerden hangisi doğru fonksiyon çağrımı değildir?",
+    "seçenekler": [
+      "A) int y=-1; cout<<Foo(y);",
+      "B) int y=4; bool x=Foo(y*y);",
+      "C) int y; if(Foo())    y=1; else    y=-1;",
+      "D) bool y; y=Foo(0) && Foo(1);",
+      "E) int y=0; if(Foo(y))      cout<<\"\"y=\"\"<<y<<endl;"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 7 foo() çağrılırken int türünde bir parametre almalıdır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Dosya işlemlerinde kullanılan dosya emniyet seviyelerinden hangisi salt okunur dosya türünü ifade etmektedir?",
+    "seçenekler": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 4",
+      "E) 8"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 13 Tablo 13.2. Dosyaların Emniyet Seviyeleri ve Anlamları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Dizi aşağıdakilerden hangisinde yanlış tanımlanmıştır?",
+    "seçenekler": [
+      "A) int dizi[4] = {4,6,8,10};",
+      "B) int dizi = { 4,6,8,10 };",
+      "C) int dizi[4] = {};",
+      "D) int dizi[4];",
+      "E) int dizi[] = {4,6,8,10};"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 Dizi Tanımlama başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi dizideki kayıt alanlarının sırasını verir?",
+    "seçenekler": [
+      "A) Değişken",
+      "B) Size",
+      "C) İndis",
+      "D) Return",
+      "E) Char"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Dizinin elemanlarına erişmek için indis kullanılır. İndis dizideki kayıt alanlarının sırasını verir"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Bir C++ programının çalışması sırasında, programın herhangi bir kısmında sıfıra bölme hatası meydana gelebilir. Bu hatanın türü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Mantık hatası",
+      "B) Yazım hatası",
+      "C) Çalışma zamanı hatası",
+      "D) Derleme hatası",
+      "E) İşlem hatası"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "String sınıfı değişkende arama yapmayı sağlayan find üye fonksiyonu aşağıdakilerin hangisinde hatalı kullanılmıştır?",
+    "seçenekler": [
+      "A) ornekString.find(\"\"abc\"\");",
+      "B) ornekString.find(0,1,\"\"abc\"\");",
+      "C) ornekString.find(2,5,\"\"abc\"\",0,2);",
+      "D) ornekString.find(1,2,3,\"\"abc\"\",1,2,3);",
+      "E) ornekString.find(3,\"\"abc\"\",1);"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 11 substr Üye Fonksiyonu başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi string sınıfı değişkenlerde metin düzenleme üye fonksiyonlarından biri değildir?",
+    "seçenekler": [
+      "A) + operatörü",
+      "B) += operatörü",
+      "C) push",
+      "D) push_back",
+      "E) erase"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 Yapılan çalışmalarda bu tür metin işlemleri oldukça sıklıkla uygulanmaktadır. Bu amaçla kullanılabilen üye fonksiyonlar aşağıda listelenmiştir: + operatörü += operatörü append push_back assign insert erase replace swap substr"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "#include <iostream> #include <vector> using namespace std; int main()   {      vector<int> vek(3);      for(unsigned i = 0; i < vek.size(); i++)         vek.at(i) = i;      for(unsigned i = 0; i <vek.size(); i++)         cout << “ “ << vek.at(i);      return 0;   } Yukarıda verilen programın çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1 2 3",
+      "B) 0 1 2 3",
+      "C) 0 1 2",
+      "D) 1 2 3 4",
+      "E) 2 1 0"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 12 İlgili sayfanın ilk örneğinde benzer bir program yer almaktadır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "#include <iostream> using namespace std; class deneme { public: int sayi; void Yaz(); }; void programlama::Yaz() { cout << \"\"Yaz fonksiyonu kullanıldı\\n\"\"; } int main() { deneme d1; d1.Yaz(); return 0; } Yukarıdaki C++ programı için aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Yaz adında üye fonksiyonu tanımlanmıştır.",
+      "B) sayi adında üye değişkeni tanımlanmıştır.",
+      "C) Üye fonksiyonun yapacağı işlem sınıf içerisinde tanımlanmıştır.",
+      "D) d1 adında nesne oluşturulmuştur.",
+      "E) Nokta operatörü kullanılmıştır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "“Programlarda karşılaşılan hataların çoğunluğu ................ kaynaklanmaktadır.” Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) kullanıcıdan",
+      "B) programlamadan",
+      "C) donanımdan",
+      "D) işletim sisteminden",
+      "E) hesaplamadan"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Programlarda karşılaşılan hatalar istatistiksel olarak incelendiğinde; hataların %1’inin donanımdan, %9’unun işletim sisteminden ve %90’ının da programlamadan kaynaklandığı ortaya çıkmaktadır [3]."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Şablon oluşturmada \"\"typename\"\" yerine aşağıdakilerden hangisi de kullanılabilir?",
+    "seçenekler": [
+      "A) Template",
+      "B) Class",
+      "C) Struct",
+      "D) Typedef",
+      "E) Define"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 12 Şablon oluşturmada typename yerine class kelimesi de kullanılabilir"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "int a= 5, b = 3; cout << (a++) * (b--) <<endl; Verilen kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 10",
+      "B) 12",
+      "C) 15",
+      "D) 18",
+      "E) 20"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6"
+  }
+]

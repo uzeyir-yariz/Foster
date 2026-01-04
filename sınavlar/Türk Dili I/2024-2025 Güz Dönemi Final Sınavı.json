@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "İlahiyatçı Dil Türeyiş Teorisi hakkında aşağıda verilenlerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Dil, kişinin kendi çabası ile üremiş ve gelişmiştir.",
+      "B) İnsanda var olan dil taklitle ortaya çıkmıştır.",
+      "C) İnsanda doğuştan var olan dil yeteneği zamanla taklit, jest ve mimiklerle ortaya çıkmıştır.",
+      "D) Dil, sosyal etkileşimden doğmuştur.",
+      "E) Dil, Hz. Âdem'e ve onun şahsında insanlara doğuştan verilmiş ilahî bir yetenektir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi şartlı birleşik cümledir?",
+    "seçenekler": [
+      "A) Beni ne kadar erken ararsan sana o kadar yardımcı olabilirim.",
+      "B) Dostu ağırlamak, düşmanı ağırlamaktan çok zordur.",
+      "C) Konuşmayı erken öğrendim ama susmayı öğrenmem için yaşlanmam gerekti.",
+      "D) Duydum ki unutmuşsun gözlerimin rengini.",
+      "E) Bu kadar işi tek başına yapmak zor olabilir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yapısına göre diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Atlar insanların en iyi dostlarındandır.",
+      "B) Havalar yavaş yavaş soğudu.",
+      "C) Hayat, kuralları basit bir oyundur.",
+      "D) Kuralları insanlar koyar ve oyun bu kurallarla oynanır.",
+      "E) Bazen en güzel tepki susmaktır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "I. Türkçe sözcüklerde söz başında bulunabilen ünsüz sayısı sınırlıdır. B, ç, d, g, k, s, t, v, y, c ünsüzü, söz başında başka ünsüzlerden değişmiş olarak birkaç sözcükte bulunur: cibinlik <çıpın vb. II. n ünsüzü Türkçe kökenli sözcükler içinde yalnız ne ve türevlerinde bulunur: ne, neden, niçin, nasıl vb. III. p ünsüzü de söz başında, birkaç Türkçe sözcükte b'den değişmiş olarak bulunur: piş- Türkçe ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) II ve III",
+      "B) I, II ve III",
+      "C) Yalnız I",
+      "D) I ve II",
+      "E) I ve III"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Birbiriyle anlam bağlantısı olan en az iki yüklem ve bağlaçlarla kurulan cümle yapısına ne denir?",
+    "seçenekler": [
+      "A) Basit",
+      "B) Girişik birleşik",
+      "C) Sıralı",
+      "D) Bağlı",
+      "E) Birleşik"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdaki cümlelerde altı çizili sözcüklerden hangisi gerçek anlamda kullanılmıştır?",
+    "seçenekler": [
+      "A) Koltukların yüzü eskiyince koltuklar depoya indirildi.",
+      "B) İri gövdesinin ardında yumuşacık bir kalbi vardı.",
+      "C) Düğünde üç el silah sıkılınca herkes kaçışmaya başladı.",
+      "D) Geminin burun kısmında ciddi bir hasar oluşmuştu.",
+      "E) Hamur makinesinin kolu kırılınca o gün ekmek çıkmadı."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdaki dizelerin hangisinde şiddet vurgusu vardır?",
+    "seçenekler": [
+      "A) Zafer ırak mı? dedim; Aha diyordu",
+      "B) Bir öğretmen gördüm çocukların başında",
+      "C) Sessizlik içinde çağlama gurbet",
+      "D) Ne söylemez akan suların dili",
+      "E) Fersiz gözlerimi dağlama gurbet"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıda altı çizili olarak verilen sözcüklerden hangisi diğerlerinden farklı bir ek almıştır?",
+    "seçenekler": [
+      "A) Ne yüzünü görmek ne de sesini duymak isterim.",
+      "B) Her aklıma geldiğinde dalar giderim uzaklara.",
+      "C) Hiç beklemediğimiz bir zamanda girdi hayatımıza.",
+      "D) Ellerim ellerinden uzak kaldı yıllarca.",
+      "E) Senin orta şekerli kahve içtiğini bilirim."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Türkçede renk ve akrabalık kavramlarının geniş bir yelpazede olması aşağıdakilerden hangisini ifade eder?",
+    "seçenekler": [
+      "A)  Birçok lehçe ve ağza sahip olmasını",
+      "B)  Ses kuralları ve ses diziminin matematiksel olduğunu",
+      "C)  Sahip olduğu kelime sayısının fazlalığını",
+      "D)  Kalıplaşmış sözlerin çok olduğunu",
+      "E)  Türkçenin köklü bir geçmişe ve deneyime sahip olduğunu"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Ne olursa olsun bu işi bitireceğim. Bu cümleye altı çizili sözün kaƴğı anlam aşağıdakilerin hangisinde vardır?",
+    "seçenekler": [
+      "A) Bunların hiçbirini ben söylemedim.",
+      "B) Düğüne mutlaka geleceğim.",
+      "C) Bütün hakikatler gün yüzüne çıktı.",
+      "D) Hiç vakit kaybetmeden yola koyulduk.",
+      "E) Eşyaların tamamı selden zarar gördü."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdaki ilişki sözlerden hangisi diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Baş üstüne",
+      "B) Bana müsaade",
+      "C) Gereğini arz ederim.",
+      "D) Bize de buyurun.",
+      "E) Sadede gelelim."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "\"\"Nasıl, ne zaman, ne kadar?” soruları yükleme yöneltildiğinde alınan cevap cümlenin hangi ögesini karşılar?",
+    "seçenekler": [
+      "A) Belirtili nesne",
+      "B) Zarf tümleci",
+      "C) Dolaylı tümleç",
+      "D) Belirtisiz nesne",
+      "E) Özne"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türklerin tarih boyunca kullandığı alfabelerden biri değildir?",
+    "seçenekler": [
+      "A) İbrani Alfabesi",
+      "B) Soğd Alfabesi",
+      "C) Uygur Alfabesi",
+      "D) Çin Alfabesi",
+      "E) Japon Alfabesi"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yapısı yönüyle diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Her sanat yapıtında, sanatçının yaşamından ve düşünce dünyasından izler bulunur.",
+      "B) Yazılarımı genellikle geceleri kaleme alırım.",
+      "C) Gerçek bir sanatçı için yaşam koşullarının bir önemi yoktur.",
+      "D) Yazarlıkta özgünlüğü ve doğallığı yakalamak, yazar için kolay bir iş değildir.",
+      "E) Birçok şair, başlangıçta sevdiği yazar ve şairleri taklit etmiştir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Edebiyatın ana malzemesi ................ ; dolayısıyla dil gibi edebiyat da ............. hem unsuru hem de taşıyıcısıdır. Cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) dildir-kültürün",
+      "B) kültürdür-toplumun",
+      "C) sanaƴr-sanatın",
+      "D) kültürdür-dilin",
+      "E) duygudur-estetiğin"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi “bir istek bildiren” ilişki söz/kalıp sözdür?",
+    "seçenekler": [
+      "A) Senden iyi olmasın.",
+      "B) İyi saatie olsunlar.",
+      "C) Alacağın olsun.",
+      "D) Tarih tekerrürden ibaretir.",
+      "E) Sadede gelelim."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Türk dilinin tarihsel dönemlerinden Orta Türkçe Dönemi hangi yüzyılları kapsar?",
+    "seçenekler": [
+      "A) VI.-X. yüzyıllar",
+      "B) XVII.-XVIII. yüzyıllar",
+      "C) XI.-XVI. yüzyıllar",
+      "D) XIV.-XIX. yüzyıllar",
+      "E) IX.-XI. yüzyıllar"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde ünlü düşmesiyle ilgili bir yazım yanlışı yapılmıştır?",
+    "seçenekler": [
+      "A) Adamın burnu çok kanamış.",
+      "B) Çocuğun boynu tutulmuştu.",
+      "C) Çocuğun ağızı yara içinde kalmış.",
+      "D) Göğsündeki sızı günden güne artıyordu.",
+      "E) Çocuk boyalarla alnını boyamıştı."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "I. Kurallı II. Birleşik III. Basit IV. Devrik Türk Dili dersinde cümle çeşitleri ünitesine çalışan Nazlı, yüklemi yerine göre incelemek istemektedir. Nazlı yukarıdakilerden hangisini ya da hangilerini kullanırsa yüklemi yerine göre doğru incelemiş olur?",
+    "seçenekler": [
+      "A) I, II, III ve IV",
+      "B) Yalnız I",
+      "C) I ve IV",
+      "D) I ve II",
+      "E) I, III ve IV"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde vurgu, zaman kavramı üzerindedir?",
+    "seçenekler": [
+      "A) Dün Ahmet okula otobüsle gitmiş",
+      "B) Otobüsle okula dün Ahmet gitmiş.",
+      "C) Okula Ahmet otobüsle dün gitmiş.",
+      "D) Ahmet okula dün otobüsle gitmiş.",
+      "E) Ahmet dün otobüsle okula gitmiş."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  }
+]

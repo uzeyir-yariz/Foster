@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi olumsuz cümleye örnek değildir?",
+    "seçenekler": [
+      "A) Elleri göğsünde bağlı uyuyordu.",
+      "B) Hiç kimse susturamazdı onu.",
+      "C) Duramazdı, devam etmek zorundaydı.",
+      "D) Gözleri görmezdi hiçbir güzelliği.",
+      "E) Gece boyu uyanık kalır hiç uyumazdı."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Yargının gerçekleşmediğini, yapılmadığını bildiren cümleler, anlam bakımından olumsuzdur. Fiilden fiil yapan –ma-, -me- olumsuzluk eki, “değil” edatı ve “yok” kelimesi cümleleri olumsuz yapan unsurlardır"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "I. Bu yılki tohum ekiminde özellikle domatese ağırlık vereceğim. II. İnşaat böyle yavaş ilerlerse kooperatife biz daha çok para öderiz. III. Arkadaşlarının arkasından konuşan insanlardan hiç hoşlanmam. Yukarıdakilerden hangisi ya da hangileri dilin anlatım işlevine örnek olabilir?",
+    "seçenekler": [
+      "A) Yalnız II",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 sayfa 6 paragraf 5 de yer almaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi eylem cümlesidir?",
+    "seçenekler": [
+      "A) Bu onun son konuşmasıydı.",
+      "B) Bu konuda hiç laf etmezdi.",
+      "C) Nelerdir o inanacağımız, bağlanacağımız doğrular?",
+      "D) Gözleri ışıl ışıldı.",
+      "E) Sanatsal eylemin ilk koşulu algılamaktır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 12 Yüklemi çekimli bir fiil olan cümleye “fiil cümlesi” denilmektedir. Yüklem görevinde kullanılan kelime fiil soyludur ve iş, oluş hareket anlamı bildirir. Fiillerin en önemli özelliği olumlu ve olumsuz şekillere girebilmesidir. “Bu gece boyunca yağmurda dolaştım.” cümlesinin yüklemi “dolaştım” kelimesidir. Yüklemin kökü “dolaş-“ fiilidir. Bu sebeple bu cümle yükleminin türüne göre bir fiil cümlesidir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Türkiye Türkçesi ve Azerbaycan Türkçesi aşağıdakilerden hangisine dâhildir?",
+    "seçenekler": [
+      "A)  Oğuz Türkçesine",
+      "B)  Çağatay Türkçesine",
+      "C)  Karahanlı Türkçesine",
+      "D)  Doğu Türkçesine",
+      "E)  Uygur Türkçesine"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yükleminin yerine göre diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Kapaƴk dükkânı güzel kardeşim.",
+      "B) Soğuk gelir pencereyi kapatmazsan.",
+      "C) Kin güderler bize karşı.",
+      "D) Nefret söylemi var dillerinde.",
+      "E) Yavaş adımlarla eve doğru yürüdüler."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 5. Yükleminin yerine göre nasıl bir cümledir? • Kurallı • Devrik"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi anlamına göre cümle çeşitlerinden biridir?",
+    "seçenekler": [
+      "A) Bağlı",
+      "B) Sıralı",
+      "C) Basit",
+      "D) Birleşik",
+      "E) Soru"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 Cümleler, anlamlarına göre türlere ayrılır. Bu, daha çok, yüklemin çekimi ile ilgilidir. Yüklemin olumlu, olumsuz ve soru biçiminde çekimlenmesi gibi özellikler, cümlenin anlamına göre türünü belirlemede ana etkenlerdir. [1, 2]"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Türkiye Türklerinin yazı dili aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Erzurum ağzı",
+      "B) Rize ağzı",
+      "C) Kütahya ağzı",
+      "D) Manisa ağzı",
+      "E) İstanbul ağzı"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 1 - Bir ülkede bir yazı dili varken aynı ülkede birden fazla konuşma dili olabilir. - Konuşma dili doğaldır, yazı dili ise yapay bir dildir. - Yazı dilinde kurallara sıkı sıkıya uyulması gerekirken, konuşma dilinde kurallara çok fazla riayet edilmeyebilir. Zira konuşma dilinde önemli olan anlaşmaktır. - Yazı dilinin kullanım alanı ve etkisi konuşma diline göre daha geniştir. - Konuşma dili günlük hayatia farklılıklar arz ederken yazı dili değişmezdir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "“Akıl kârı olmamak” deyiminin doğru karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Çok cahil olmak",
+      "B) Kötülük yapmak",
+      "C) Beğenmemek",
+      "D) Akıllı bir kişinin yapacağı iş olmamak",
+      "E) Kolayca şeytana uymak"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 Gerçek anlamından farklı bir anlam taşıyan ve çekici bir anlatım özelliğine sahip olan kelime öbeği olarak tanımlanan deyim, bir dilin ifade gücünün en büyük göstergesidir. Türkçe, deyimler açısından oldukça zengin bir dildir. Bir olayı, bir durumu çok canlı ve özgün bir biçimde dile getirmek üzere, sözcüklerin kalıplaşmasıyla oluşan ve içindeki sözcüklerin anlamlarının dışında yeni anlamlar taşıyan deyimler kullanılmaktadır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisinde sözde özne vardır?",
+    "seçenekler": [
+      "A) Konular bugün özetlendi.",
+      "B) Soruyu doğru cevapladı.",
+      "C) Konuyu yavaşça bize anlaƴ.",
+      "D) Kardeşini bizimle tanıştırdı.",
+      "E) Okula yeni başlayan öğrenciler andımızı ezberledi."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11 Yüklemde belirtilen işi yapan varlığa özne denilmektedir. Yükleme sorulacak “Kim?” ve “Ne?” soruları özneyi bulmamızı sağlamaktadır. Fiil cümlelerinde işi yapan öznedir. İsim cümlelerinde ise eylem bulunmadığı için özne, yüklemin bildirdiği durumda olandır. “Çocuklar denizde keyifle yüzüyordu.” Cümlesinde “yüzme” eylemini yapan çocuklardır. Bunu yükleme sorduğumuz “yüzen kim?” sorusu ile bulabiliriz."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Kültür ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Geçmişten günümüze kadar gelen somut değerlerin bütünüdür.",
+      "B) Bireye çevreyi ve şartları değiştirme gücü verir.",
+      "C) Nesillerden her birinin geçmişe dair bilgilerini canlı tutar.",
+      "D) İnsanların yaşama şekillerinin bütününe verilen isimdir.",
+      "E) Zamanın oluşturduğu ihtiyaçların sentezidir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Sayfa 8 paragraf 3 de yer almaktadır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Türkçenin sondan eklemeli bir dil olması ona aşağıdakilerden hangisini kazandırmıştır?",
+    "seçenekler": [
+      "A) Kolay kelime ve kavram türetmeye yarar.",
+      "B) Fiillerin cümlenin sonunda olmasını sağlar.",
+      "C) Düzenli bir cümle dizilişine yarar.",
+      "D) İki ünlünün kelime ortasında bulunmamasını sağlar.",
+      "E) Kelime başında iki ünsüzün olmasını engeller."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdaki ikilemelerden hangisi kuruluşu yönüyle diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Yamru yumru",
+      "B) Eğri büğrü",
+      "C) Eski püskü",
+      "D) Yırtık pırtık",
+      "E) Ev bark"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 İkileme aynı, yakın ya da zıt anlamlı iki veya daha çok kelimenin bir tek kelime gibi anlam göstermek üzere yan yana gelmesi ve birlikte kullanılmasıdır: “teker teker”, “düşe kalka”, “düğün dernek” vb. İkilemelerin en önemli özelliği anlatımı kuvvetlendirmesi ve etkili hâle getirmesidir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "\"\"Dün akşam evin bahçesinde kimi gördün?\"\" cümlesinde vurgu hangi kelime üzerindedir?",
+    "seçenekler": [
+      "A) Dün",
+      "B) Akşam",
+      "C) Bahçesinde",
+      "D) Kimi",
+      "E) Evin"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 Kimi (Vurgu soru kelimesi üzerinedir)."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir isim cümlesi değildir?",
+    "seçenekler": [
+      "A) Aldığımız biberlerin hepsi acı.",
+      "B) Bu, yıkanınca dağılan bir boya.",
+      "C) Ne heyecanlı bir güreş!",
+      "D) Sen de tat bu güzel tatlıdan.",
+      "E) Sonucu kötü bir savaş bu."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Yüklemi “imek” ek fiili ile fiilleştirilmiş isim soyundan bir kelime olan cümlelere “isim cümlesi” denir. İsim cümlelerinin en önemli özelliği olumsuzluk ekleriyle olumsuz hâle dönüştürülememeleridir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki altı çizili kelimelerden hangisi hâl eki almamıştır?",
+    "seçenekler": [
+      "A) Çanakkale Boğazı’ndan geçişler kapatıldı.",
+      "B) Haberleri olduğunda buna çok üzülecekler.",
+      "C) Eşyaları başkasına taşıƴlar.",
+      "D) Nihayet yolculuk başladı.",
+      "E) Yağmurlu havalarda şifayı kaptım."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 sayfa 18 paragraf 5 de yer almaktadır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yapısına göre diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) Kuralları insanlar koyar ve oyun bu kurallarla oynanır.",
+      "B) Hayat, kuralları basit bir oyundur.",
+      "C) Bazen en güzel tepki susmaktır.",
+      "D) Havalar yavaş yavaş soğudu.",
+      "E) Atlar insanların en iyi dostlarındandır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 14 Cümle çözümlemesini tam olarak yapabilmek için şu soruların cevaplarını bilmek gerekir: 1. Cümlede yüklem görevinde kullanılan kelime hangisidir? 2. Diğer ögeleri bulmak için yükleme hangi sorular sorulmalıdır? Bu ünitede bugüne kadar öğrendiklerinizle ilgili olarak cümle çözümlemeleri yapılacaktır. [2,3,4]"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Göktürk alfabesini ilk olarak çözen bilim insanı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A)  Kâzım Mirşan",
+      "B)  Jean Paul Roux",
+      "C)  Josef von Hammer",
+      "D)  Wilhelm Thomsen",
+      "E)  Andreas Tietze"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "I. Türkçede sayı sıfatlarından sonra gelen adlar çoğul eki almazlar. II. Türkçede önlük-artlık (kalınlık-incelik) ve düzlük-yuvarlaklık uyumları vardır. III. Türkçe, diğer Türk dilleriyle birlikte Altay dil ailesinin bir kolunu oluşturur. Yukarıdakilerden hangisi ya da hangileri Türkçenin genel özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türkçenin genel özellikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Türkçe sözcüklerde erillik, dişillik (yani cinsiyet ayrımı) özelliği vardır.",
+      "B) Türkçede sayı sıfatlarından sonra istisnalar hariç gelen adlar çoğul eki almaz.",
+      "C) Önlük-artlık (kalınlık-incelik) ve düzlük-yuvarlaklık uyumları vardır.",
+      "D) F, j ve h ünsüzleri Türkçe kökenli sözcüklerde bulunmaz.",
+      "E) N ünsüzü Türkçe kökenli sözcüklerde yalnız \"\"ne\"\" ve \"\"ne\"\"nin türevlerinde bulunur: ne, neden, niçin, nasıl vb."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 Türkçe sözcüklerde, erillik, dişillik (yani cinsiyet ayrımı) özelliği vardır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "En temel ihtiyaçları karşılayan kelimeler, başta organ isimleri olmak üzere yemek, içmek, uyumak, gitmek, gelmek, almak, vermek gibi kavramlar; akrabalık adları, sayılar ve maddi ve manevi kültür içine giren çeşitli kavramlar bu başlık altında incelenir. Sözü edilen başlık aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Alt Söz Varlığı",
+      "B) Temel Söz Varlığı",
+      "C) Üst Söz Varlığı",
+      "D) İnce Söz Varlığı",
+      "E) Argo Söz Varlığı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 5 Temel Söz Varlığı"
+  }
+]

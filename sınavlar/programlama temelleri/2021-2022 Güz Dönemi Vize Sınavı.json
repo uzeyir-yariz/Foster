@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Çoğu bütünleşik geliştirme ortamında bulunan intellisense özelliği aşağıdakilerden hangisi ile tanımlanabilir?",
+    "seçenekler": [
+      "A) Yazılan kodların kelime ve karakter sayılarını otomatik sayma",
+      "B) Yanlış yazılan kodları otomatik uyarma",
+      "C) Yazılan kodun farklı dillerdeki karşılığını gösterme",
+      "D) Yazılan kodun tamamlanmadan kısmen çalışmasını sağlama",
+      "E) Yazılan kodu belirli ilk değerlerle çalıştırma"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 4 Intellisense, yanlış yazılan kodları derlenmeden belirler ve uyarır, varsa doğrusunu önerir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "a ÷ b cebirsel ifadesinin C++ ifadesi olarak yazılmış hâli aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) a/b",
+      "B) a ÷ b",
+      "C) a * b",
+      "D) a|b",
+      "E) a & b"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "#include <iostream> #include <cmath> using namespace std; double NoktalarArasiUzaklik(int x1, int y1, int x2, int y2) {         int sonuc;         sonuc = pow(x2 - x1, 2) + pow(y2 - y1, 2);         sonuc = sqrt(sonuc);         return sonuc; } int main() {         cout <<NoktalarArasiUzaklik(1,1,5,4);         return 0; } Verilen C++ programının çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 0"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniği aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Algoritma",
+      "B) Akış diyagramları",
+      "C) Dönüştürücü",
+      "D) Sözde kod",
+      "E) Çizgi diyagramları"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 Sözde kod, doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniğidir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "I.   Bilgisayar sistemindeki birimlerin çalışmalarını zamanlar ve kontrol eder. II.  Giriş birimindeki verilerin bellek birimine yüklenmesi işlevini üstlenir. III. İşlem sonuçlarının çıkış birimine nasıl ve ne zaman aktarılacağı işlevini üstlenir. Yukarıdaki özellikler hangi birime aitir?",
+    "seçenekler": [
+      "A) Bellek birimi",
+      "B) Giriş birimi",
+      "C) İkincil depolama birimi",
+      "D) Merkezî işlem birimi",
+      "E) Çıkış birimi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 1 Merkezi işlem birimi, bilgisayar sistemindeki birimlerin çalışmalarını zamanlar ve kontrol eder. Giriş birimindeki verilerin bellek birimine yüklenmesi, yüklenen verilerin ALU biriminde nasıl işleneceği ve ilgili işlem sonuçlarının çıkış birimine nasıl ve ne zaman aktarılacağı gibi işlevleri üstlenir. Bir başka deyişle bilgisayardaki tüm birimlerin işleyişlerini organize etmekle sorumludur."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Bir C++ programında \"\"m\"\" değişkeninin \"\"n\"\" değişkeni ile bölünmesinden elde edilen kalan aşağıdakilerden hangisi ile bulunabilir?",
+    "seçenekler": [
+      "A) m / n",
+      "B) m * n",
+      "C) (m / n) – n",
+      "D) m % n",
+      "E) m * m - n * n"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 3 “Aritmetik İşlemler” bölümünde 2. Paragrafta sorunun cevabı yer alıyor."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Hata ayıklama olmadan programı çalıştırma işlemi klavyeden hangi tuş birleşimi kullanılarak gerçekleştirilir?",
+    "seçenekler": [
+      "A) CTRL + SHIFT + N",
+      "B) CTRL + F3",
+      "C) CTRL + F5",
+      "D) ALT + N",
+      "E) CTRL + ALT + F5"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 4 Hata ayıklama olmadan programı çalıştırma işlemi CTRL + F5 ile gerçekleştirilebilir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Bir koşul değerini yanlış ise doğru, doğru ise yanlış yapmak için hangi mantıksal operatör kullanılır?",
+    "seçenekler": [
+      "A) VE",
+      "B) VEYA",
+      "C) DEĞİL",
+      "D) EŞİTTİR",
+      "E) EŞİT DEĞİLDİR"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "C++ kaynak kodunun makine diline dönüştürülmesi hangi geliştirme aşamasında olmaktadır?",
+    "seçenekler": [
+      "A) Derleme",
+      "B) Birleştirme",
+      "C) Yükleme",
+      "D) Çalıştırma",
+      "E) Ön işleme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "C++ kaynak dosyası uzantısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) .c",
+      "B) .c++",
+      "C) .cpp",
+      "D) .m",
+      "E) .php"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi sadece giriş birimi olarak kullanılır?",
+    "seçenekler": [
+      "A) Dokunmatik ekran",
+      "B) Sabit disk",
+      "C) Klavye",
+      "D) Optik disk",
+      "E) Flaş bellek"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 1 Dokunmatik ekranlar, optik diskler, flaş bellekler, sabit diskler hem giriş hem de çıkış birimi olarak kullanılırlar."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "İlişkisel ve/veya mantıksal operatörler kullanılarak cevabı doğru veya yanlış olan ifadeler oluşturulabilir. Aşağıdakilerden hangisinde verilen bu örnek ifadenin anlamı doğru verilmiştir?",
+    "seçenekler": [
+      "A) x < 5 && y > 10    y değeri 5’ten küçük ve x değeri 10’dan büyük müdür?",
+      "B) x >= y    x değeri y değerinden küçük veya eşit midir?",
+      "C) x < y     x değeri y değerinden büyük müdür?",
+      "D) ! (x < 5)    x değeri 5’ten küçük değil midir?",
+      "E) x <= y   y değeri x değerinden küçük veya eşit midir?"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 ! (x"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "for(int x=1;x<=10;x++){   if(x<5)    continue;   if(x==9)    break;   cout<<x<<endl; } C++ programlama dilinde yazılmış olan kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3 5 7 9",
+      "B) 2 3 4 5",
+      "C) 4 5 6 7",
+      "D) 6 7 8 9",
+      "E) 5 6 7 8"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 verilen kod parçasının çıktısı 5 6 7 8"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Bir program kendisine girdi olarak aktarılan pozitif bir sayının tek ya da çift olduğunu belirleyebiliyorken negatif sayılar için daima çift sayı çıktısı üretmektedir. Yukarıdaki programda var olan hata türü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Mantık hatası",
+      "B) Çalışma zamanı hatası",
+      "C) Komut hatası",
+      "D) Yazım hatası",
+      "E) Söz dizimi hatası"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Programın çalışmasını aksatmayan ancak yanlış değerler üreten hatalara mantık hatası denir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "#include <iostream> #include <cmath> using namespace std; int main() {      int b, a = 4;      b = static_cast<int>(pow(a,2));      b = static_cast<int>(sqrt(a));      cout << a << \"\", \"\" << b;      return 0; } Yukarıdaki C++ programı çalıştırıldığında aşağıdaki ekran çıktılarından hangisini üretir?",
+    "seçenekler": [
+      "A) 4, 2",
+      "B) 2, 16",
+      "C) 4, 16",
+      "D) 4, 4",
+      "E) 2, 2"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 7 pow, üst alırken, sqrt karekök alır"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "SET x=20, y=2 DO       COMPUTE x= x / 2       COMPUTE y= y + 1       IF x>y THEN                           PRINT x, y       ENDIF WHILE x>y Yukarıdaki sözde kodun çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 20 2 10 3   5 4",
+      "B) 10 3   5 4   2,5 5",
+      "C) 20 2 20 2",
+      "D) 10 3   5 4",
+      "E) 20 3 10 4   5 5"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 Verilen sözde kodun sonucu : 10 3 5"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "int a=0, b=0; for (int i = 0; (a < 2) || (b < 4); i++) {                  a++;                  b++; } cout << a <<\"\", \"\"<<b<<endl; Yukarıda verilen kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0, 0",
+      "B) 2, 2",
+      "C) 4, 2",
+      "D) 2, 4",
+      "E) 4, 4"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Akış diyagramlarında girdi ve çıktılar aşağıdakilerden hangisi ile gösterilebilir?",
+    "seçenekler": [
+      "A) Kare",
+      "B) Baklava",
+      "C) Paralelkenar",
+      "D) Daire",
+      "E) Elips"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Mutlak değer hesaplayan fonksiyon aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) fabs",
+      "B) ceil",
+      "C) pow",
+      "D) sqrt",
+      "E) fmod"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 7 fabs mutlak değer hesaplar."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "C++ programlama dilinde mantıksal VEYA operatörü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) &&",
+      "B) ##",
+      "C) =&",
+      "D) | |",
+      "E) &?"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 5 | | ifadesi VEYA mantıksal operatörü için kullanılır."
+  }
+]

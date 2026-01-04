@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "int a=0, b=0; for (int i = 0; (a < 2) || (b < 4); i++) {                  a++;                  b++; } cout << a <<\"\", \"\"<<b<<endl; Yukarıda verilen kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0, 0",
+      "B) 2, 2",
+      "C) 4, 2",
+      "D) 2, 4",
+      "E) 4, 4"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Bir bilgisayarın birimlerini kontrol eden ve verileri işleyerek sonuçları belleğe kaydeden birim aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) RAM",
+      "B) Sabit disk",
+      "C) Flash bellek",
+      "D) İşlemci",
+      "E) Optik disk"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "int dizi[2][3][3]; Yukarıdaki gibi deklare edilmiş 3 boyutlu dizinin eleman sayısı kaçtır?",
+    "seçenekler": [
+      "A) 2",
+      "B) 3",
+      "C) 6",
+      "D) 9",
+      "E) 18"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Çok boyutlu dizilerde toplam eleman sayısı, her boyutiaki eleman sayısını çarpımına eşitir."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Bir bilgisayarın fiziksel kısmına ne ad verilmektedir?",
+    "seçenekler": [
+      "A) Anakart",
+      "B) Kasa",
+      "C) İşletim sistemi",
+      "D) Ekran",
+      "E) Donanım"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "int a= 5, b = 3; cout << (++a) * (b--) <<endl; Yukarıda verilen kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 10",
+      "B) 12",
+      "C) 15",
+      "D) 18",
+      "E) 20"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Bilgisayarlarda veri saklamak üzere kullanılan ve içerisindeki belirli bir bilgiye erişmek için en baştan  tüm verilerin okunarak ilerlenmesi gereken dosya türüne ne ad verilir?",
+    "seçenekler": [
+      "A) Geçici Dosya",
+      "B) Rastgele Erişimli Dosya",
+      "C) Çalıştırılabilir Dosya",
+      "D) Sıralı Erişimli Dosya",
+      "E) İkili Dosya"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 Sıralı erişimli dosyaların içlerindeki bilgiler sıra ile okunarak istenilen bilgiye ulaşılır, direk hedeflenen bilgiye atlama yapılamaz."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "C++ programlama dilinde eşitir operatörü olarak aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) ==",
+      "B) !=",
+      "C) =",
+      "D) >=",
+      "E) <="
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 5"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "int dizi[5] = { 5,10,15,20,25 }; for (int sayac = 0; sayac< 5; sayac++)      cout<<sayac<<\"\". sayi=\"\"<<dizi[sayac] + sayac<<endl; Verilen C++ kod parçacığı çalıştırıldığında aşağıdaki ekran çıktılarından hangisi elde edilir?",
+    "seçenekler": [
+      "A) 0. sayi=5 1. sayi=11 2. sayi=17 3. sayi=23 4. sayi=29",
+      "B) 1. sayi=5 2. sayi=10 3. sayi=15 4. sayi=20 5. sayi=25",
+      "C) 0. sayi=5 1. sayi=10 2. sayi=15 3. sayi=20 4. sayi=25",
+      "D) 0. sayi=6 1. sayi=11 2. sayi=16 3. sayi=21 4. sayi=26",
+      "E) 1. sayi=6 2. sayi=11 3. sayi=16 4. sayi=21 5. sayi=26"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 Tam sayı bir dizinin her elemanı diğer tam sayılar gibi matematiksel işlemlere girebilir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "#include <iostream> using namespace std; class deneme { public: int sayi; void Yaz(); }; void programlama::Yaz() { cout << \"\"Yaz fonksiyonu kullanıldı\\n\"\"; } int main() { deneme d1; d1.Yaz(); return 0; } Yukarıdaki C++ programı için aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Yaz adında üye fonksiyonu tanımlanmıştır.",
+      "B) sayi adında üye değişkeni tanımlanmıştır.",
+      "C) Üye fonksiyonun yapacağı işlem sınıf içerisinde tanımlanmıştır.",
+      "D) d1 adında nesne oluşturulmuştur.",
+      "E) Nokta operatörü kullanılmıştır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "string metin =\"\"Beslenme Önemlidir!\"\"; metin.resize(6); cout << metin << endl; Yukarıdaki C++ kod bloğu çalıştırıldığında aşağıdaki ekran çıktılarından hangisini üretir?",
+    "seçenekler": [
+      "A) Beslenme Önemlidir!Beslen",
+      "B) Beslen",
+      "C) Beslenme Önemlidir!",
+      "D) Besle",
+      "E) BBBBBBeslenme Önemlidir!"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 resize, string'de yer alabilecek karakter sayısını yeniden belirler."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdaki deyimlerden hangisi p adındaki bir nesnenin kendi sınıfının public üye fonksiyonlarından olan Yap() isimli fonksiyona erişimini doğru biçimde göstermektedir?",
+    "seçenekler": [
+      "A) p(Yaz);",
+      "B) p.Yaz();",
+      "C) p>>Yaz();",
+      "D) Yaz(p);",
+      "E) p_Yaz();"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Nesneler kendi sınıflarının \"\"public\"\" üyelerine nokta operatörü ( . ) ile erişebilir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Visual Studio 2017 bütünleşik geliştirme ortamında aşağıdaki programlama dillerinden hangisi yer alır?",
+    "seçenekler": [
+      "A) Pascal",
+      "B) MATLAB",
+      "C) C#",
+      "D) LISP",
+      "E) PERL"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "C++ programlama dilinde atama operatörü olarak aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) ==",
+      "B) !=",
+      "C) =",
+      "D) >=",
+      "E) <="
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "char  dizi[15] = \"\"Programlama\"\"; dizi[5]='\\0'; cout<<dizi<<endl; Yukarıdaki C++ kod parçacığı çalıştırıldığında aşağıdaki ekran çıktılarından hangisi elde edilir?",
+    "seçenekler": [
+      "A) Programlama0000",
+      "B) Progr",
+      "C) Progr\\0lama",
+      "D) Progr0mlama",
+      "E) Progrmlama"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 \\0 (ters bölü ve sıfır) özel bir karakterdir, karakter dizilerinde, metni sonlandırır. Bu karakter ve sonrasını cout komutu yazmaz."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdaki fonksiyon prototiplerinden hangisi yanlış tanımlanmıştır?",
+    "seçenekler": [
+      "A) int Soru(int a, int b);",
+      "B) void Soru(int a, int b);",
+      "C) double Soru(int a);",
+      "D) void Soru();",
+      "E) double Soru(int a, b);"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Bir programlama dilinin yazım ve gramer kurallarının ihlal edilmesi ile ortaya çıkan hata türü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Algoritma hatası",
+      "B) Söz dizim hatası",
+      "C) İşletim sistemi hatası",
+      "D) Mantık hatası",
+      "E) Yanlış kullanıcı girdisi hatası"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Söz dizim hataları, kodlama sırasında kullanılan programlama dilinin yanlış yazılmasından kaynaklanır. kodlar derlenemez ve program çalıştırılamaz."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "bool Call (int deg ) {             if (deg>=0 && deg < 10)                return true;             else                return false; } Tanımı verilen Call() fonksiyonu, herhangi bir program içerisinde nasıl çağırılabilir?",
+    "seçenekler": [
+      "A) float a=Call(5)",
+      "B) double a=Call(5)",
+      "C) if (Call(5)) cout<<\"\"rakam\"\"",
+      "D) Call(5) = \"\"rakam\"\"",
+      "E) Call(5)=a"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "stack<int> depo; depo.push(5); Yukarıdaki C++ kod bloğunun son satırında yer alan deyimin işlevi nedir?",
+    "seçenekler": [
+      "A) depo yığınının en üstüne 5 değerinde bir eleman eklemek",
+      "B) depo yığınının 5. elemanının boyutunu öğrenmek",
+      "C) depo yığınından 5 değerine sahip tüm elemanları silmek",
+      "D) depo yığınının en üstüne 5 adet eleman eklemek",
+      "E) depo yığınındaki son 5 elemanı listelemek"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 stack depo sınıflarında push ifadesi yığının en üstüne bir eleman ekler."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "a dizisinin a[2][3] elemanı aşağıdakilerden hangisiyle de okunabilir?",
+    "seçenekler": [
+      "A) a[6]",
+      "B) a[3][2]",
+      "C) a[2][3]",
+      "D) a[2,3]",
+      "E) a[3,2]"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 10 Ünitenin giriş bölümünde yer almaktadır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "char karakter; fstream dosya; dosya.open(\"\"Ornek.txt\"\"); dosya.seekp(-3L, ios::end); dosya >> karakter; dosya.seekp(1L, ios::beg); dosya << karakter; dosya.close(); İçerisinde ABCDEFGH karakterleri yer alan Ornek.txt isimli dosyanın içeriği yukarıdaki C++ kod bloğu çalıştırıldıktan sonra aşağıdakilerden hangisine dönüşür?",
+    "seçenekler": [
+      "A) ABCDECGH",
+      "B) ABCDEAGH",
+      "C) FGEAFCDEFGH",
+      "D) FGHABCDE",
+      "E) AFCDEFGH"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 Rastgele erişim ile sondan 3. karakter okunarak baştan ikinci karakter olarak yazılmıştır."
+  }
+]

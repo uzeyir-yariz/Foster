@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": ".................................... algoritması dizi listesindeki en küçük elemanı bularak listenin başındaki elemanla yer değiştirmek ile başlar ve bu adım eleman sayısı-1 adıma kadar devam eder. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Hızlı sıralama",
+      "B) Eklemeli sıralama",
+      "C) Seçmeli sıralama",
+      "D) Kabuk sıralaması",
+      "E) Birleştirmeli sıralama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Seçmeli sıralama algoritması dizi listesindeki en küçük elemanı bulur ve listenin başındaki elemanla yer değiştirir taki (eleman sayısı -1) adıma kadar devam eder."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Dizinin elemanlarına erişmek için kullanılan ve dizideki kayıt alanlarının sırasını veren ifade .......... olarak adlandırılır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Str",
+      "B) Int",
+      "C) İterasyon",
+      "D) Değişken",
+      "E) İndis"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 İndis, dizilerde elemanlara erişmek için kullanılır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "I. Stack II. Map III. Set IV. Vector V. Heap Yukarıdaki depo türlerinden hangisi veri yapısı açıklaması ile eşleştirmesi dışında kalır?",
+    "seçenekler": [
+      "A) İlk giren, ilk çıkar mantığına sahip depo türüdür.",
+      "B) Verilerin konumlarına ve büyüklüklerine bağımsız olarak sıralar.",
+      "C) Anahtar değerine göre sıralama yapar ve veri çiftlerini depolar.",
+      "D) İlk giren, son çıkar mantığına sahip depo türüdür.",
+      "E) Verileri büyüklüklerine göre sıralar ve aynı veriye birden fazla sahip olamaz."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 İlk giren, ilk çıkar mantığına sahip depo türü Queue'dür. Heap ise verileri ağaç yapısı kullanarak sıralar ve en üstie en küçük veya en büyük değer bulunur."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "READ yaş IF ? THEN                 DISPLAY “Genç” ENDIF Verilen sözde koddaki ? yerine aşağıdakilerden hangisi yazılabilir?",
+    "seçenekler": [
+      "A) yas<49",
+      "B) yas<13 ve yas>19",
+      "C) yas>19",
+      "D) yas<13 veya yas>19",
+      "E) yas>=13 ve yas <=19"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "İki boyutlu dizi elemanlarına atama işlemlerinden hangisi doğrudur?",
+    "seçenekler": [
+      "A) int a[5][2] = {{1,2,3,4,5,{2}};",
+      "B) int a[5][2] = {1,2,3,4,5,6,7,8,9,10};",
+      "C) int a[5][2] = {{5,{2}};",
+      "D) int a[5][2] = {1,2,3,4,5,6,7};",
+      "E) int a[5][2] = {5,2};"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 İKİ BOYUTLU DİZİNİN ELEMANLARINA ERİŞİM başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Yapıcı fonksiyonların görevi aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) Üye fonksiyonları tanımlamak ve kapsam çözünürlük operatörü kullanmak",
+      "B) Bellek alanını boşaltmak ve parametre almak",
+      "C) Nesneleri tanımlamak ve sınıf adını belirlemek",
+      "D) Yıkıcı fonksiyonları tanımlamak ve geriye değer döndürmek",
+      "E) Nesneleri oluşturmak ve ilgili nesnenin üye değişkenlerine ilk değer atamak"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Nesnelerin ilk kullanıma hazırlanması için yapıcı (constructor) fonksiyon kullanılır. Yapıcı fonksiyon bir nesne oluştuğunda üye değişkenlere ilk değer ataması yapmak için kullanılır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "C++ programlama dili ile yazılmış bir kaynak kodda hesaplama işlemi yapılan satırda noktalı virgülü eksik yazmak hangi tür hatadır?",
+    "seçenekler": [
+      "A) Çalışma zamanı hatası",
+      "B) Yazım hatası",
+      "C) Mantık hatası",
+      "D) İşlem hatası",
+      "E) Derleme hatası"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 HATA AYIKLAMA (DEBUGGING) konusunda anlatılmaktadır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Hata ayıklama olmadan programı çalıştırma işlemi klavyeden hangi tuş birleşimi kullanılarak gerçekleştirilir?",
+    "seçenekler": [
+      "A) CTRL + F5",
+      "B) CTRL + F3",
+      "C) CTRL + SHIFT + N",
+      "D) CTRL + ALT + F5",
+      "E) ALT + N"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 4 Hata ayıklama olmadan programı çalıştırma işlemi CTRL + F5 ile gerçekleştirilebilir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "string metin =\"\"Beslenme Önemlidir!\"\"; metin.resize(6); cout << metin << endl; Yukarıdaki C++ kod bloğu çalıştırıldığında aşağıdaki ekran çıktılarından hangisini üretir?",
+    "seçenekler": [
+      "A) Beslenme",
+      "B) Beslenme Önemlidir!",
+      "C) Beslen",
+      "D) Beslenme Önemlidir!Beslen",
+      "E) Besle"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11 resize, string'de yer alabilecek karakter sayısını yeniden belirler."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki deyimlerden hangisi p adındaki bir nesnenin kendi sınıfının public üye fonksiyonlarından olan Yaz() isimli fonksiyona erişimini doğru biçimde göstermektedir?",
+    "seçenekler": [
+      "A) p(Yaz);",
+      "B) p_Yaz();",
+      "C) Yaz(p);",
+      "D) p.Yaz();",
+      "E) p>>Yaz();"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 14 Nesneler kendi sınıflarının \"\"public\"\" üyelerine nokta operatörü ( . ) ile erişebilir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "İmlece git komutu ne işe yaramaktadır?",
+    "seçenekler": [
+      "A) İmlecin bulunduğu konum işaretlenir.",
+      "B) İmlecin bulunduğu konumdan sonrası çalıştırılır.",
+      "C) Program adım adım çalıştırılır.",
+      "D) Program imlecin bulunduğu konuma kadar çalıştırılır.",
+      "E) Koşullu kesme noktası oluşturulur."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 Geçici bir kesme noktası eklemek için “İmlece Git” uygulanabilir. Böylece imlecin bulunduğu satıra kadar program çalıştırılacak ve imlecin bulunduğu satırda beklenecektir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "C++ programlama dilinde mantıksal VE operatörü olarak aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) !&",
+      "B) !",
+      "C) ##",
+      "D) &&",
+      "E) ||"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Bir döngünün belirli bir iterasyonunda iken kalan komutları atlayıp bir sonraki iterasyona geçmek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) break",
+      "B) case",
+      "C) continue",
+      "D) switch",
+      "E) throw"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6 BREAK VE CONTINUE DEYİMLERİ başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "char karakter; fstream dosya; dosya.open(\"\"Ornek.txt\"\"); dosya.seekp(-3L, ios::end); dosya >> karakter; dosya.seekp(1L, ios::beg); dosya << karakter; dosya.close(); İçerisinde ABCDEFGH karakterleri yer alan Ornek.txt isimli dosyanın içeriği yukarıdaki C++ kod bloğu çalıştırıldıktan sonra aşağıdakilerden hangisine dönüşür?",
+    "seçenekler": [
+      "A) FGEAFCDEFGH",
+      "B) FGHABCDE",
+      "C) ABCDECGH",
+      "D) ABCDEAGH",
+      "E) AFCDEFGH"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 Rastgele erişim ile sondan 3. karakter okunarak baştan ikinci karakter olarak yazılmıştır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": ".........., program çalışırken ilgili satırda çalışmanın durdurulmasını sağlar. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Adımla",
+      "B) Üzerinde Adımla",
+      "C) Kesme noktası",
+      "D) Dışarı Adımla",
+      "E) İmlece Git"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Kesme noktası, program çalışırken ilgili satırda çalışmanın durdurulmasını sağlar. Böylece programın akışı takip edilebilmekte ve değişken değerleri anlık olarak takip edilebilmektedir."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "int matris[x][y][z] = {     {         {1, 2, 3, 4},         {5, 6, 7, 8},         {9, 10, 11, 12}     },     {         {13, 14, 15, 16},         {17, 18, 19, 20},         {21, 22, 23, 24}     } }; Yukarıda 3 boyutlu dizi tanımında x,y ve z sayıları aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) x = 4, y = 2, z = 3",
+      "B) x = 2, y = 3, z = 4",
+      "C) x = 3, y = 2, z = 4",
+      "D) x = 2, y = 4, z = 3",
+      "E) x = 3, y = 4, z = 2"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 İlk parantezden sonra 2 tane süslü parantez açılıp kapanmış yani ilk boyut 2, sonra 3x4'lük bir matris var bu da 2. ve 3. boyutları"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "pow(3,4) hazır fonksiyonunun üreteceği sonuç aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 4",
+      "B) 81",
+      "C) 3",
+      "D) 12",
+      "E) 256"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 7 Tablo 7.1. Kullanıma Hazır Bazı cmath Kütüphanesi Fonksiyonları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Depolardan hangisi ilişkisel değildir?",
+    "seçenekler": [
+      "A) deque",
+      "B) set",
+      "C) map",
+      "D) multiset",
+      "E) multimap"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Kavram ağında yer almaktadır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdaki hangi string sınıfı üye fonksiyonu, iki string ifadesinin karşılaştırılması amacıyla kullanılır ve farklı uzunlukları durumunda -1 veya +1 gibi değerler döndürebilir?",
+    "seçenekler": [
+      "A) find",
+      "B) capacity",
+      "C) resize",
+      "D) compare",
+      "E) substr"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "#include <iostream>  satırı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Satırın sonuna ';' karakteri eklenir.",
+      "B) Okuma işlemi varsayılan olarak klavye üzerinden gerçekleştirilir.",
+      "C) # karakteri ile başlayan satırlar derlenmeden önce ön işlemci tarafından çalıştırılır.",
+      "D) iostream başlık dosyası C++ programlarında okuma/yazma işlemleri için gereklidir.",
+      "E) Ön işlemciye bir bilgilendirme mesajıdır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "CEVAP ANAHTARI"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Bir fonksiyonun çıkış değeri olarak 5.25 değeri geri döndürülmek isteniyor ise aşağıdaki tanımlamalardan hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) int Fonksiyon(int a) {return 5.25;}",
+      "B) double Fonksiyon(int a) {return 5.25;}",
+      "C) bool Fonksiyon(int a) {return 5.25;}",
+      "D) double Fonksiyon(int a) { a=5.25; return a;}",
+      "E) void Fonksiyon() {return 5.25;}"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "assign() üye fonksiyonu hangi amaçla kullanılır?",
+    "seçenekler": [
+      "A) String sınıfı değişkene yeni değer atamak için",
+      "B) String sınıfı değişkenin sonuna değer eklemek için",
+      "C) String sınıfı değişkenin başına değer eklemek için",
+      "D) String sınıfı değişkenin ortasına değer eklemek için",
+      "E) String sınıfı değişkeni silmek için"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11 12. Sayfa assign üye fonksiyonu alt başlığında ilk paragraf. Assign üye fonksiyonu, String sınıfı değişkene yeni değer atamak için kullanılır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "ifstream dosyaIsleme; dosyaIsleme.open(\"\"Ornek.txt\"\", ios::in, 1); Yukarıdaki C++ kodu aşağıdakilerden hangisini karşılamaz?",
+    "seçenekler": [
+      "A) Ornek.txt isimli binary dosya oluşturulmuştur.",
+      "B) dosyaIsleme adında ifstream sınıfına ait bir nesne oluşturulmuştur.",
+      "C) Salt okunur dosya açılmıştır.",
+      "D) Dosyadan okuma işlemi yapılmak üzere dosya açılmıştır.",
+      "E) Eğer Ornek.txt adında bir dosya yoksa program hata verir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Tablo 13.1. Dosya Açma Modları ve Anlamları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "int a = 10; a = a % 2; cout << a <<endl; Yukarıda verilen kod parçasının ekran çıktısı hangisidir?",
+    "seçenekler": [
+      "A) 0",
+      "B) 2",
+      "C) 5",
+      "D) 10",
+      "E) 20"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Hata düzeltme işi sonrasında .................... için hata ayıklama işi zorlaşmaktadır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilemez?",
+    "seçenekler": [
+      "A) hatanın davranışı değişebildiği",
+      "B) başka bir hata ortaya çıkabildiği",
+      "C) program başarıyla derlenebildiği",
+      "D) programın gerçekten hatasız olduğu bilinemediği",
+      "E) program yeniden test edilmesi gerektiği"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Hata ayıklama sonrasında da programın hatalardan tamamen temizlendiği düşünülmemelidir. Bir hata düzeltme işi sonrasında, hataların davranışının değişmesi, izlerinin kaybolması veya beklenmeyen hataların ortaya çıkması mümkündür. Hatia başka bir hatanın izinin kaybolması dâhi mümkündür. Bir hatayı düzeltirken başka birinin de görünmez olması durumunda, bu iki hatanın aynı ortak sebeple oluştuğu sanılabilecektir. Bu durumda farklı veri setleriyle yeniden kontrol edilmelidir [7]."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi derleyici tarafından yakalanabilen söz dizimi hatalarından biri değildir?",
+    "seçenekler": [
+      "A) Bir deyimin sonuna noktalı virgül eklenmesinin unutulması",
+      "B) Matematiksel bir ifadede \"\"toplam\"\" olarak geçen bir değişkenin \"\"toplam1\"\" olarak tanımlanması",
+      "C) \"\"Merhaba Dünya\"\" yerine \"\"Merhba Dünya\"\" yazılması",
+      "D) Tamsayı tipinde bir değişken tanımlanırken int yerine Int yazılması",
+      "E) Programın sonunda } karakterinin unutulması"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 4 HATA DÜZELTME konusunda yer almaktadır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "class Ornek { private:        int a; public:        Ornek(int b) {a=b;} }; Yukarıdaki sınıf tanımlamasına göre hangisi doğrudur?",
+    "seçenekler": [
+      "A) Yaratılan tüm nesnelere, a üye değişkenine ek olarak b üye değişkeni de eklenir.",
+      "B) Yaratılan tüm nesnelerin a üye değişkeninin değeri otomatik olarak b parametresinin değeri olur.",
+      "C) Yaratılan tüm nesnelerin a üye değişkeni erişime kapatılır.",
+      "D) Yaratılan tüm nesnelerin a üye değişkeni silinir ve onun yerine b üye değişkeni kullanılır.",
+      "E) Yaratılan tüm nesnelerin a üye değişkeni public özelliği kazanır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Ornek() üye fonksiyonu özel bir fonksiyondur ve \"\"Yapıcı\"\" olarak adlandırılır. Parametreli yapıcılar, üye değişkenlerini otomatik olarak bir değer ile doldurur."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "\"\"İlk giren ilk çıkar.\"\" tipteki depo yapısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) queue",
+      "B) stack",
+      "C) map",
+      "D) set",
+      "E) vector"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 Tablo 12.1 C++ STL kütüphanesinin desteklediği depo yapıları tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi geçerli bir kaçış dizisi olamaz?",
+    "seçenekler": [
+      "A) \\a",
+      "B) \\%",
+      "C) \\n",
+      "D) \\*",
+      "E) \\\\"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Derleyici tarafından yakalanabilen söz dizimi hatalarından birini aşağıdakilerden hangisi oluşturur?",
+    "seçenekler": [
+      "A) Cout<",
+      "B) a=b+c;",
+      "C) cin>>a;",
+      "D) return 0;",
+      "E) a=7;"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "push_back() üye fonksiyonu hangi amaçla kullanılır?",
+    "seçenekler": [
+      "A) String sınıfı değişkeni silmek için",
+      "B) String ifadeleri karşılaştırmak için",
+      "C) String sınıfı değişkenin başına 1 karakter eklemek için",
+      "D) String sınıfı değişkenin sonuna 1 karakter eklemek için",
+      "E) String sınıfı değişkenin boş olup olmadığını kontrol etmek için"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 11 11. Sayfa push_back üye fonksiyonu alt başlığında ilk paragraf. Push back üye fonksiyonu, String sınıfı değişkenin sonuna 1 karakter eklemek için kullanılmaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "int a = 10, b =10;           switch (a + b)           {              case 10:                   cout << 1 << endl;                   break;              case 20:                   cout << 2 << endl;                   break;              case 30:                   cout << 3 << endl;                   break;              case 40:                   cout << 4 << endl;                   break;              default:                   cout << 5 << endl;                   break;        } Yukarıda verilen kod bloğunun ekran çıktısı hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 5"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 5"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "C++ programlama dilinde aşağıdakilerden hangisi seek fonksiyonu için dosya işaretçi konumunu güncel durumundan başlatır?",
+    "seçenekler": [
+      "A) ios::beg",
+      "B) SEEK_END",
+      "C) SEEK_CUR",
+      "D) ios::end",
+      "E) SEEK_SET"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 Tablo 13.3. Dosya İşaretçi Konum Değerleri tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "#include <iostream> using namespace std; int F2(int c) {           c = c + 1;           return c; } int F1(int b) {           b = b + 1;           b = F2(b);           return b; } int main() {          int a=1;          a=F1(a);          cout << a;          return 0; } Yukarıdaki C++ programı çalıştırıldığında çıktısı hangisi olur?",
+    "seçenekler": [
+      "A) Ekrana 3 yazar.",
+      "B) Ekrana 1 yazar.",
+      "C) Ekrana 2 yazar.",
+      "D) Hata verir, bir fonksiyon bitmeden diğeri çalışmaz.",
+      "E) Ekrana 0 yazar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "C++ kaynak dosyalarının uzantısı genellikle aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) .c",
+      "B) .exe",
+      "C) .obj",
+      "D) .sln",
+      "E) .cpp"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 1 C++ kaynak dosyaları .cpp uzantısı ile kaydedilir."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "class Silindir {    double yaricap;    double yukseklik;    double HacimHesapla()    {        return en * boy * yukseklik;    }    double TabanAlaniHesapla()    {        return yaricap * yaricap * 3.1417;    } }; Yukarıdaki sınıf tanımlamasına göre hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Sınıfın adı Silindir'dir.",
+      "B) Sınıfta 2 üye değişken vardır.",
+      "C) Sınıfta 2 üye fonksiyon vardır.",
+      "D) Sınıfta 2 adet private üye değişken vardır.",
+      "E) Sınıfta 2 adet public üye fonksiyon vardır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Erişim belirteci belirtilmediğinde private olarak kabul edilir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Bir koşul değerini yanlış ise doğru, doğru ise yanlış yapmak için hangi mantıksal operatör kullanılır?",
+    "seçenekler": [
+      "A) VE",
+      "B) VEYA",
+      "C) DEĞİL",
+      "D) EŞİTTİR",
+      "E) EŞİT DEĞİLDİR"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Akış diyagramlarında baklava dilimi şeklindeki bir dörtgenle ifade edilen sembolün anlamı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Matematiksel işlem yapma",
+      "B) Girdi/Çıktı işlemi yapma",
+      "C) Başlama/Bitirme işlemi yapma",
+      "D) Alt süreç işlemi yapma",
+      "E) Karşılaştırma işlemi yapma"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Baklava sembolünde bir koşul yer alır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "#include <iostream> using namespace std; int main() {      int dizi[5] = {3,4,5,6,7};      cout << dizi[3];      return 0; } Yukarıdaki C++ programı çalıştırıldığında ekrana hangi çıktıyı yansıtır?",
+    "seçenekler": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 7"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 Tüm diziye Erişimi : Dizinin tüm elemanlarına erişmek veya değerlerini değiştirmek için indis ve sayaç kullanılması gerekmektedir Bu durumda sayaç değeri 0’ dan başlar. Sayacın dizinin eleman sayısına kadar arƴrılması ile tüm değerlere erişilir."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "#include <iostream>      #include <list>      using namespace std;      int main ()      {         list<int> liste;       int toplam;         liste.push_front(1);       liste.push_front(2);       liste.push_front(10);         liste.push_back(6);         toplam=liste.front()+liste.back();         cout << toplam << endl;         return 0;      } Yukarıda verilen programın ekran çıktısı hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 7",
+      "C) 3",
+      "D) 16",
+      "E) 19"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Sayfa 15’de benzer bir uygulama yer almaktadır."
+  }
+]

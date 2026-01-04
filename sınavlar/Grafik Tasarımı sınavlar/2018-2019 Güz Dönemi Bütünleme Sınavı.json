@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Bir markanın veya değerin sembolünü ifade eden kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Logo",
+      "B) Afiş",
+      "C) Broşür",
+      "D) Kartvizit",
+      "E) İnfografik"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Logolar, bir tanıtım yapmaktan ziyade bir markanın veya değerin simgesi-sembolü değerindedir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "I. Kartvizit II. Logo III. İnfografik IV. Broşür Yukarıdakilerden hangisi ya da hangileri Photoshop programı ile hazırlanabilen tasarım ürünüdür?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I, II ve III",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Kartvizit, afiş, broşür, logo ve infografik photoshop programı ile hazırlanabilen tasarım ürünleridir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Photoshop programında görüntünün açık tonlarının bir uçtaki renkle, koyu tonlarının diğer uçtaki renkle eşleşmesi sağlayan Ayarlar Paneli komutu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Ters Çevir",
+      "B) Renk Arama",
+      "C) Kanal Karıştırıcı",
+      "D) Siyah Beyaz",
+      "E) Degrade Eşleme"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Degrade Eşleme özelliği ile seçilen iki farklı renk, görüntünün açık tonlarının bir uçtaki renkle, koyu tonlarının diğer uçtaki renkle eşleşmesi sağlanır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop’ta eklenen filtreyi geri almak için kullanılan kısa yol tuşudur?",
+    "seçenekler": [
+      "A) Ctrl+X",
+      "B) Ctrl+C",
+      "C) Ctrl+V",
+      "D) Ctrl+P",
+      "E) Ctrl+Z"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "I. Sıvılaştırma II. Ufuk noktası III. Gauss Bulanıklığı IV. Radyal Bulanıklık Yukarıdakilerden hangisi ya da hangileri 16 bitlik resimlere uygulanabilecek filtreler arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "16 bitlik resimlere uygulanabilecek filtreler şu şekildedir: Sıvılaştırma, Ufuk Noktası, Ortalama Bulanıklaştırma, Bulanıklaştırma, Daha Fazla Bulanıklaştırma, Kutu Bulanıklaştırma, Gauss Bulanıklığı, Mercek Bulanıklığı, Hareket Bulanıklığı, Radyal Bulanıklık, Yüzey Bulanıklaştırma, Şekil Bulanıklığı, Mercek Düzeltmesi, Parazit Ekleme, Gürültüyü Temizleme, Toz ve Çizikler, Medyan, Parazit Azaltma, Lifler, Bulutlar, Fark Bulutları, Mercek Parlaması, Keskinleştirme, Kenarları Keskinleştirme, Daha Fazla Keskinleştirme, Akıllı Keskinleştirme, Keskinliği Azaltma Maskesi, Kabartma, Kenarları Bulma, Solarizasyon, Taramasız Hale Getirme, NTSC Renkleri, Özel, Yüksek Geçiş, Maksimum, Minimum ve Kaydırma."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Kullanıcıların programı kullanırken yapmış oldukları tüm eylemleri gösteren panel aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Araçlar paneli",
+      "B) Geçmiş paneli",
+      "C) Renk paneli",
+      "D) Eğitim paneli",
+      "E) Katmanlar paneli"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Geçmiş paneli: Kullanıcıların programı kullanırken yapmış oldukları tüm eylemleri gösteren paneldir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "I. Katman dönüştürme II. Katman taşıma III. Katman birleştirme IV. Katman kaydetme Yukarıdakilerden hangileri katman işlemleri arasında yer alır?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) II ve III",
+      "C) III ve IV",
+      "D) II, III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Katman işlemleri: Katman Taşıma, Katman dönüştürme, Katman boyutlandırma, Katman kaydetme, Katman birleştirme, Katman gruplama"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdaki katman stillerinden hangisi, katmanın kenarlarına çerçeve ekler?",
+    "seçenekler": [
+      "A) Gölge",
+      "B) Renk Kaplama",
+      "C) Kontur",
+      "D) Dış Işıma",
+      "E) Degrade Kaplama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında paragrafta metin ekleme işlemi için doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Paragraf şeklinde metin eklemek istenildiğinde, yatay veya dikey olarak sınırların kullanılması sağlanmalıdır.",
+      "B) Paragrafta metin ekleme genellikle afiş, broşür tasarımlarında paragraf eklemek için kullanılır.",
+      "C) Paragrafta metin ekleme işlemi ile paragraf birleştirme yani bloklama yapılamaz.",
+      "D) Paragrafta metin ekleme işlemi yapılırken belirlenen sınırlandırma kutusunun alabileceğinden daha fazla metin girilmesi sağlanabilir.",
+      "E) Paragrafta metin eklemek için yatay yazı aracı tıklanır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Paragrafta metin eklem işlemi ile istenilen kadar paragraf eklenebilir ve paragraf birleştirme (bloklama) yapılabilir"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Çevre piksellerin incelenmesi sonucunda yeni pikseller eklenmesi işlemi aşağıdaki Yeniden Örnekleme özelliklerinden hangisine aitir?",
+    "seçenekler": [
+      "A) Bikübik",
+      "B) Bilineer",
+      "C) En Yakın Komşu",
+      "D) Ayrıntıları Koru",
+      "E) Bikübik Daha Yumuşak"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Bikübik: Çevre piksellerin incelenmesi sonucunda yeni pikseller eklenmesi işlemidir. Daha kesin ancak daha yavaş bir yöntemdir. Diğer örnekleme yöntemlerine göre daha karmaşık hesaplamalar yapılır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Bilgisayar programlarında kayıt işlemi esnasında kullanılan ve üzerinde çalışılan dosyanın bilgisayar içerisinde hangi klasöre kaydedilmesi gerektiğini ifade eden kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Dosya adlandırma",
+      "B) Hedef",
+      "C) Toplu işleme",
+      "D) Koşullu ifade",
+      "E) Durma"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Hedef: Bilgisayar programlarında kayıt işlemi esnasından kullanılan bir kavram olan hedef, üzerinde çalışılan dosyanın bilgisayar içerisinde hangi klasör içerisine kaydedilmesi gerektiğini ifade etmektedir. Hedef"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Photoshop programında animasyon oluştururken ekranda o anda görüntülenen karenin yanı sıra o kareden önceki ve sonraki belli sayıdaki karelerin şeffaf bir şekilde görünmesi için kullanılan komut aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Soğan zarlarını etkinleştir",
+      "B) Kare atlamaya izin ver",
+      "C) Döngüde oynat",
+      "D) Anahtar kareler",
+      "E) Video görüntüsü oluştur"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Soğan Zarlarını Etkinleştir ekranda o anda görüntülenen karenin yanı sıra o kareden önceki ve sonraki belli sayıdaki karelerin şeffaf bir şekilde görünmesi için kullanılmaktadır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi grafiksel öğeleri konumlandırmak için kullanılan bir araç değildir?",
+    "seçenekler": [
+      "A) Cetveller",
+      "B) Izgaralar",
+      "C) Kılavuz çizgileri",
+      "D) Katmanlar",
+      "E) Akıllı kılavuzlar"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Adobe Photoshop’un kendi dosyalama biçimi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) PDF",
+      "B) PSD",
+      "C) SVG",
+      "D) JPG",
+      "E) DOCX"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "3"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi grafik tasarım programları arasında yer almaz?",
+    "seçenekler": [
+      "A) Adobe Photoshop",
+      "B) Corel Draw",
+      "C) Adobe Illustrator",
+      "D) Microsoft Windows 10",
+      "E) Adobe InDesign"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Microsoft Windows 10 işletim sistemi yazılımıdır. Adobe Photoshop, Corel Draw, Adobe Illustrator, Adobe InDesign, GIMP birer grafik tasarım programıdır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Işığın nesnelere çarparak gözümüze yansımasıyla oluşan algılamalara verilen isim aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Renk tonu",
+      "B) Renk çemberi",
+      "C) Renk",
+      "D) Renk şeması",
+      "E) Renk uyumu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Işığın nesnelere çarparak gözümüze yansımasıyla oluşan algılamalara renk denir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında görsel üzerindeki istenilen bölgelerin rengini açık hale getirmeyi sağlayan araç aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Soldurma aracı",
+      "B) Yakma aracı",
+      "C) Hızlı seçim aracı",
+      "D) Sünger aracı",
+      "E) Leke aracı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Renk çemberi üzerinde eşit aralıklarla yer alan üç rengin oluşturduğu üçgen kullanılarak ortaya çıkan renk şeması aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Tek renkli (Monochromatic)",
+      "B) Triadic",
+      "C) Tetradic",
+      "D) Tamamlayıcı (Complementary)",
+      "E) Split-complementary"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Photoshop programında oluşturulan animasyonun sürekli olarak oynatılmasını sağlayan komut aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Kare atlamaya izin ver.",
+      "B) Anahtar kareler.",
+      "C) Döngüde oynat.",
+      "D) Kareleri dönüştür.",
+      "E) Göster."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Döngüde Oynat seçeneği oluşturulan animasyonun sürekli olarak oynatılmasını sağlamaktadır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Görüntüdeki pikselleri temsil etmek için iki renk değerinden (siyah veya beyaz) birini kullanan renk modu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) RGB",
+      "B) Gri tonlama",
+      "C) Lab",
+      "D) Bitmap",
+      "E) CMYK"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Bitmap modunda, görüntüdeki pikselleri temsil etmek için iki renk değerinden (siyah veya beyaz) biri kullanılır."
+  }
+]

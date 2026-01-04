@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Word programında bir metnin veya nesnenin kopyalanması için kullanılan kısayol tuş bileşeni aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) CTRL+K",
+      "B) CTRL+P",
+      "C) CTRL+T",
+      "D) CTRL+C",
+      "E) CTRL+V"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Excel 2021 için aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Önceki sürümleri ile benzerlik göstermektedir.",
+      "B) Tablolar aracılığıyla çeşitli hesaplamalar yapılmaktadır.",
+      "C) Satır ve sütunlardan oluşmaktadır.",
+      "D) Formüller yazılarak çeşitli hesaplamalar yapılmaktadır.",
+      "E) Herkes tarafından kullanılabilen ücretsiz yazılımdır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "I. TÜBİTAK-ULAKBİM tarafından desteklenmektedir. II. Kurulmadan dahi çalışmaya başlayabilir. III. Birçok dil desteği vardır. Yukarıdakilerden hangisi ya da hangileri Pardus işletim sisteminin öne çıkan özelliklerindendir?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Kişilerin istedikleri zaman istedikleri yerde öğrenme etkinliklerini yerine getirebilmeleri uzaktan eğitimin hangi avantajları arasında yer alır?",
+    "seçenekler": [
+      "A) Sosyal etkileşim",
+      "B) Bireysel öğrenme",
+      "C) Esneklik- özgürlük",
+      "D) Eğitime erişim fırsatı",
+      "E) Küreselleşme"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi blog ortamlarının kullanıcılarına sunduğu imkânlardan biri değildir?",
+    "seçenekler": [
+      "A) Güncellemelerin pratik bir şekilde ve kısa sürede yapılabilmesi",
+      "B) İzleyici ve kullanıcıların kolayca yorum yapabilmesi",
+      "C) İçeriklerin anlık olarak binlerce kişiyle eş zamanlı olarak paylaşılabilmesi",
+      "D) Aynı yerde ve anda katılma zorunluluğunun bulunması",
+      "E) Ücretsiz kullanım ve farklı ek yazılımlara ihtiyaç duymama"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "I. Eğitimde fırsat eşitliği sağlaması II. Yaşam boyu öğrenmenin niteliğini artırması III. Bireylere bilgi ve becerilerini güncelleme fırsatı sağlaması Yukarıdakilerden hangisi ya da hangileri MOOC’ların (Kitlesel Açık Çevrimiçi Kurslar) kullanıcılarına sağladığı faydalardandır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi blog uygulamalarından biri değildir?",
+    "seçenekler": [
+      "A) Medium",
+      "B) Tumblr",
+      "C) Whatsapp",
+      "D) Blogger",
+      "E) Wordpress"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi mobil öğrenmenin eğitim-öğretim sürecinde öğrenenlere sunduğu avantajlardan biri değildir?",
+    "seçenekler": [
+      "A) Öğrenenlerin öz güven ve benlik saygısını artırma",
+      "B) İsteksiz öğrenenlerin ilgisini çekme",
+      "C) Ders sırasında mobil cihazları istedikleri yer ve zamanda kullanabilme",
+      "D) Yardıma ve desteğe ihtiyaç duydukları alanları belirleme",
+      "E) Bağımsız ve iş birlikçi öğrenme deneyimi sunma"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi öğrenme yönetim sistemlerinde yer alan kullanıcı rollerinden biri değildir?",
+    "seçenekler": [
+      "A) Eğitimci",
+      "B) Düzenleyen öğrenci",
+      "C) Öğrenci",
+      "D) Yönetici",
+      "E) Misafir"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi birinci kuşak bilgisayarların temel özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Vakumlu tüpler",
+      "B) Transistörler",
+      "C) Entegre devreler",
+      "D) Mikroişlemciler",
+      "E) Delikli kartlar"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "2"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Öğretim Yönetim Sistemi'nde (ÖYS) öğrenen ve eğitimcinin aynı anda bağlanıp ders işleyebileceği modül aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Duyuru modülü",
+      "B) Anlık mesajlaşma modülü",
+      "C) Canlı ders modülü",
+      "D) Porƞolyo modülü",
+      "E) Dosya paylaşım modülü"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Galerisinde hazır kitap şablonları bulunduran ve elektronik kitapların kolay bir şekilde tasarlanmasına imkân tanıyan kelime işlemci programı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) LibreOffice",
+      "B) Apache OpenOffice",
+      "C) iWork Pages",
+      "D) Google Docs",
+      "E) Microsoft Word"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi bireyler tarafından sıklıkla kullanılan mobil öğrenme teknolojilerinden biri değildir?",
+    "seçenekler": [
+      "A) Görüntü/ses kaydediciler",
+      "B) Sanal gerçeklik",
+      "C) Dijital sözlükler",
+      "D) Küçük tabletler",
+      "E) Akıllı telefonlar"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Excel’de otomatik doldurma hangi işlemler için kullanılır?",
+    "seçenekler": [
+      "A) Yeni bir formül bulmak ve otomatik oluşturmak için",
+      "B) Hücrelerdeki verinin doldurma tutamacı aracılığıyla diğer hücrelere aktarılması için",
+      "C) Boş olan hücrelerin otomatik olarak istenen sayı ile doldurulması için",
+      "D) Önceden oluşturulmuş çalışma sayfalarının isimlerinin otomatik doldurulması için",
+      "E) Uzun olarak yazılan fonksiyonların (Eğer, Eğersay, vb.) Excel programı tarafından algılanıp kullanıcıya gerek kalmadan benzer otomatik formül oluşturulması için"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Solucanlar (Worm) ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) İnternet veya yerel ağlar üzerinde sistemden sisteme geçerek yayılma gösteren bir virüs türüdür.",
+      "B) Bu virüs türünün öncelikli hedefi reklam veya bağlantı göstermektir.",
+      "C) Sistemin yavaşlamasına, dosya ve veri kayıplarına, erişim hızının düşmesine sebebiyet vermektedir.",
+      "D) Sistem üzerinde açık bulunan bir port aracılığıyla veya e- postalar üzerinden kendini transfer ederek diğer sistemlere bulaşmaktadırlar.",
+      "E) Antivirüs yazılımı ve güvenlik duvarı kullanılarak korunulabilir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi çevrim içi öğrenme ortamlarının öğrenenlere sunduğu avantajlardan biri değildir?",
+    "seçenekler": [
+      "A) Eğitim süresince iletişim teknolojilerine bağımlı olma",
+      "B) Farklı ortam ve teknolojik uygulama zenginliğine sahip eğitim ortamları sunma",
+      "C) Öğrenmede esneklik ve serbestlik sağlama",
+      "D) Bağımsız çalışma ortamı sunma",
+      "E) Ulusal veya uluslararası düzeyde eğitim alma imkânı sağlama"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Ahmet Excel programı üzerinden ders programını hazırlamak istemektedir. A sütununa haftanın günlerini yazdırmak istemektedir. A1 hücresine “Pazartesi”, A2 hücresine “Salı” yazdıktan sonra diğer günlerin otomatik doldurulmasını istemektedir. Bunun için aşağıdaki adımlardan hangisini izlemesi gerekmektedir?",
+    "seçenekler": [
+      "A) A1 hücresini seçtikten sonra aşağıya doğru sürükle bırak yapma",
+      "B) A3 hücresine =KOPYALA(A1:A2) formülünü yazma",
+      "C) A3 hücresine =A1+7Gün ifadesini yazma",
+      "D) A3 hücresine haftanın günlerinin baş harflerini yazma",
+      "E) A1 ve A2 hücrelerini seçtikten sonra doldurma tutamacı aracılığıyla alt satırlar doldurma"
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Muhasebede çalışan bir kişi müşterisine Excel 2021’de bir tablo oluşturmuştur. Müşterisinin bu Excel çalışma sayfasında A, Ö ve F sütunlarına yazılan verilerin görüntülenmesini istememektedir. Bunun için aşağıdaki işlemlerden hangisi yapılırsa ilgili sütunlar müşteri tarafından görüntülenemez?",
+    "seçenekler": [
+      "A) A, Ö ve F sütunlarına kenarlık sekmesinden “Yok” seçeneğini seçme",
+      "B) A, Ö ve F sütunlarını seçip “Gizle” seçeneğini seçme",
+      "C) A, Ö ve F sütunlarını seçtikten sonra “Dolgu Yok” seçeneğini seçme",
+      "D) A, Ö ve F sütunlarını seçtikten sonra “Koruma” seçeneğini seçme",
+      "E) A, Ö ve F sütunlarını seçtikten sonra “Görünüm Yok” seçeneğini seçme"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "3"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Ram bellekler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Statik RAM’ler, Ram bellek çeşitlerinden biridir.",
+      "B) Dinamik RAM’ler, Ram bellek çeşitlerinden biridir.",
+      "C) Elektrik kesintisinde üzerindeki bilgiler silinir.",
+      "D) Bilgisayarın çalışma durumuna göre üzerindeki veriler değiştirilebilir.",
+      "E) Bilgisayarın performansı üzerinde bir etkisi yoktur."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Word programında belgeye içindekiler tablosu eklemek için kullanılan sekme aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Giriş",
+      "B) Tasarım",
+      "C) Ekle",
+      "D) Başvurular",
+      "E) Düzen"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  }
+]

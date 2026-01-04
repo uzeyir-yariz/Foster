@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Türk dili tarihinde en erken dönem, aşağıdaki adlandırmalardan hangisiyle yapılır?",
+    "seçenekler": [
+      "A) Altay Dil Birliği Dönemi",
+      "B) Ana Türkçe Dönemi (Proto-Türkçe)",
+      "C) İlk Türkçe Dönemi",
+      "D) Eski Türkçe Dönemi",
+      "E) Orta Türkçe Dönemi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Altay Dil Birliği Dönemi"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Dil bilimcilere göre dünya üzerinde günümüzde yaklaşık olarak ............’den fazla dil konuşulmaktadır? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) 1000",
+      "B) 2000",
+      "C) 3000",
+      "D) 4000",
+      "E) 5000"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "I. Türkçede sayı sıfatlarından sonra gelen adlar çoğul eki almazlar. II. Türkçede önlük-artlık (kalınlık-incelik) ve düzlük-yuvarlaklık uyumları vardır. III. Türkçe, diğer Türk dilleriyle birlikte Altay dil ailesinin bir kolunu oluşturur. Yukarıdakilerden hangisi ya da hangileri Türkçenin genel özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I,II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi yazı dilinin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A)  Bir ülkede bir yazı dili vardır.",
+      "B)  Konuşma diline göre yapay bir özelliği vardır.",
+      "C)  Kuralları konuşma diline göre daha sıkıdır.",
+      "D)  Etki alanı konuşmaya göre daha geniştir.",
+      "E)  Bir yöreye, bölgeye has özellikler barındırabilir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Ağşağıdakilerden hangisi \"\"kalıp / ilişki sözlerin\"\" özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Bu sözler ekleme ve çıkarma yapılamayan, değiştirilemeyen türden dil birimleridir.",
+      "B) Genellikle cümle veya kelime öbeği dizilişiyle var olurlar.",
+      "C) Kimi cümle ve kelime öbeği türlerinde yer alırlar.",
+      "D) Bu tür sözlerde kelimelerin yer değiştirmesi anlamda değişmeye neden olmaz.",
+      "E) Az sayıda kelimeden oluşurlar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Bu tür sözlerde kelimelerin yer değiştirmesi anlamda değişmeye neden olmaz."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdaki atasözlerinin hangisinde yardımcı ses yoktur?",
+    "seçenekler": [
+      "A) Doğru söyleyeni dokuz köyden kovarlar.",
+      "B) İyi dost kara günde belli olur.",
+      "C) Adamın iyisi iş başında belli olur.",
+      "D) Akılsız başın cezasını ayaklar çeker.",
+      "E) Elini ayağını bağlamıştı."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi mecaz anlamla ilgili bir özelliği belirtmez?",
+    "seçenekler": [
+      "A) Kelimenin temel anlamıyla bağlantılı olarak zamanla ortaya çıkan değişik anlamlarını ifade eder.",
+      "B) Bir sözcüğün gerçek anlamından bütünüyle uzaklaşarak kazandığı yeni anlamları ifade eder.",
+      "C) Bir kelimenin gerçek anlamı dışında, başka bir kelimenin yerine kullanılmasını ifade eder.",
+      "D) Anlatımı renklendirmeyi ve kuvvetlendirmeyi esas alır.",
+      "E) Anlatıma deyimsel ifadelerin girmesini sağlar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Kelimenin temel anlamıyla bağlantılı olarak zamanla ortaya çıkan değişik anlamlarını ifade eder."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdaki atasözlerinin hangisinde mecazlı bir söyleyiş yoktur?",
+    "seçenekler": [
+      "A)  Açık yaraya tuz ekilmez.",
+      "B)  Ay var yılı besler, yıl var ayı beslemez.",
+      "C)  Ak gün ağartır, kara gün karartır.",
+      "D)  Âlim unutmuş, kalem unutmamış.",
+      "E)  Dost ile ye iç; alışveriş etme."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "2"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Cümle çözümlemesinde aşağıdaki özelliklerden hangisi aranmaz?",
+    "seçenekler": [
+      "A) Yüklemin türü",
+      "B) Yüklemin cümledeki yeri",
+      "C) Cümlenin anlamı",
+      "D) Cümlenin ögelerine göre sıralanışı",
+      "E) Cümledeki kelime sayısı"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Cümledeki kelime sayısı"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde dolaylı tümleç yoktur?",
+    "seçenekler": [
+      "A) Tolga sinemaya gidiyordu.",
+      "B) Ali evi çok dağıtmıştı.",
+      "C) Ahmet'ten zarar gelmez.",
+      "D) Babamla evde oturduk.",
+      "E) Akşam vakti nehirden geçtik."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Ali evi çok dağıtmıştı."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi kurallı bir isim cümlesidir?",
+    "seçenekler": [
+      "A) Okulumuz, eve birkaç yüz metre uzaklıktaydı.",
+      "B) Oyundan, sahneye aktarılamayacak bölümleri çıkardık.",
+      "C) Sanma gidersen gelirim arkandan.",
+      "D) İncecikten bir yağmur yağıyordu yollara.",
+      "E) Kitaplarımı güzelce ciltledim."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Okulumuz, eve birkaç yüz metre uzaklıktaydı."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi konuşma dilinin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Bu dil, doğal olduğu için konuşurken ifadelerin kurallı olup olmadığına dikkat edilmez.",
+      "B) İnsanların karşılıklı ve sesli olarak görüşürken konuştukları dil “konuşma dili”dir.",
+      "C) Konuşma dili, sosyal hayatımızda çevremizdeki insanlarla iletişim kurmak için konuşurken kullandığımız dile verilen addır.",
+      "D) Konuşma dili, bölgeden bölgeye değişir.",
+      "E) Konuşma dili, lehçelerden veya ağızlardan birine göre şekillenir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Konuşma dili, lehçelerden veya ağızlardan birine göre şekillenir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi kültür tanımları arasında yer almaz?",
+    "seçenekler": [
+      "A)  Bir topluluğa özgü düşünce ve sanat eserlerinin bütünüdür.",
+      "B)  Bir millete şahsiyetini veren, diğer milletlerle arasındaki farkı tespite yarayan, tarih içerisinde teşekkül etmiş maddi ve manevi değerlerin bütünüdür.",
+      "C) Bir toplumun bütün hayat biçimleridir.",
+      "D)  Kâinatın kalbimize nakşetiği plandır.",
+      "E)  Tarihî, toplumsal gelişme süreci içinde yaratılan bütün maddi ve manevi değerler ile bunları yaratmada, sonraki nesillere iletmede kullanılan, insanın doğal ve toplumsal çerçevesine egemenliğinin ölçüsünü gösteren araçların bütünü; hars, ekin."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yapı bakımından olumsuz olduğu hâlde soru yolu ile olumlu anlam kazanmıştır?",
+    "seçenekler": [
+      "A) Bugün derse neden gelmedin?",
+      "B) Kapıyı çalanı niçin bana söylemedin?",
+      "C) Bundan sonra kimseyi kandırmayacak.",
+      "D) Bana yalvaran sen değil miydin?",
+      "E) Ben değilim seni bütün gün bekleyen."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Bana yalvaran sen değil miydin? (sendin)"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin iletişimde yer alan ögelerinden biri değildir?",
+    "seçenekler": [
+      "A) Kaynak",
+      "B) Dönüt",
+      "C) Frekans",
+      "D) Bağlam",
+      "E) Kanal"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Frekans"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Türkçede p, ç, t, k ünsüzleri ünlü ile başlayan bir ek aldıklarında b, c, d, ğ ünsüzlerine dönüşür. Aşağıdaki kelimelerden hangisi bu kurala uymaz?",
+    "seçenekler": [
+      "A) Dip",
+      "B) Ağaç",
+      "C) Yurt",
+      "D) Türk",
+      "E) Sokak"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Türk"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi Türkçenin ses kurallarına göre şekillenmeyen yabancı kelimeler arasında yer alır?",
+    "seçenekler": [
+      "A) Mandıra",
+      "B) Kilise",
+      "C) Panayır",
+      "D) Enflasyon",
+      "E) Körfez"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "enflasyon"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerin hangisinde isimde küçültme vardır?",
+    "seçenekler": [
+      "A) Mavimsi bir elbise giymişti.",
+      "B) Ağlanacak halleri vardı her birinin.",
+      "C) Köyümüz şu tepeciğin ardındadır.",
+      "D) Masanın üzerindeki irice elmayı aldı.",
+      "E) Çocuğun yanında şişmanca bir kadın oturuyor."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "3"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Bir dilde bulunan isim ve fiil kökleri varlıkların, kavramların, hareketlerin teker teker karşılığını verecek kadar çok değildir. Gerekli olan kelimeler bu köklere yapım ekleri getirilerek sağlanır. Bu yolla yapılmış kelimelere gövde denir. Aşağıdaki cümlelerin  hangisinde gövde yoktur?",
+    "seçenekler": [
+      "A) Yağmurlu havaları severim.",
+      "B) Bugün Erzurum'a kar yağdı.",
+      "C) Ankara'ya uçak ile giti.",
+      "D) Olayı yerinde gözlemledi.",
+      "E) Hayat zorluklarla doludur."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Bugün Erzurum'a kar yağdı."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdaki Türk Dillerinden hangisi \"\"Batı Grubu / Oğuz Grubu\"\" kolunda yer almaz?",
+    "seçenekler": [
+      "A) Özbek Türkçesi",
+      "B) Azerbaycan Türkçesi",
+      "C) Gagavuz Türkçesi",
+      "D) Türkiye Türkçesi",
+      "E) Türkmen Türkçesi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Özbek Türkçesi"
+  }
+]

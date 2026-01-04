@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "C++ programlama dilinde dosya işlemede kullanılan seekp() fonksiyonunun ikinci parametresi aşağıdakilerden hangisi olamaz?",
+    "seçenekler": [
+      "A) ios::cur",
+      "B) SEEK_SET",
+      "C) ios::beg",
+      "D) ios::end",
+      "E) SEEK_START"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 Tablo 13.3. Dosya İşaretçi Konum Değerleri tablosunda yer almaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Akış diyagramları için aşağıdakilerden hangisi söylenemez?",
+    "seçenekler": [
+      "A) Görsel sembollerle ifade edilir.",
+      "B) Program yazarken sürecin izlenmesine yardımcı olur.",
+      "C) Algoritmaları başka insanlara açıklarken yardımcı olur.",
+      "D) Diyagramda şekiller arasındaki akışı ok yönü ile gösterir.",
+      "E) Programlama dilinin anahtar kelimelerini kullanır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 Sözde kod yazılırken algoritmanın ileride bilgisayara aktarılacağı programlama dilinin anahtar kelimeleri kullanılır"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Üye fonksiyonlarını sınıf dışında tanımlamak için aşağıdaki operatörlerden hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) #",
+      "B) =",
+      "C) .",
+      "D) ;",
+      "E) ::"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Kapsam çözünürlük operatörünün kullanımı aşağıdaki örnekte gösterilmiştir. Programlama adında bir sınıf oluşturulduktan sonra Yaz isimli üye fonksiyonu tanımlanmıştır. Ancak Yaz üye fonksiyonunun içeriği sınıf dışında yazılmıştır. Programlama::Yaz() kullanılarak kapsam çözünürlük operatörü(::) sayesinde üye fonksiyonu sınıfın dışında tanımlanmıştır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Bir bilgisayar programındaki anlam bilimsel hataları bulmak amacıyla programın sonlanmadan durdurulmasını ve değişkenlerin o anki değerlerinin izlenmesini sağlayan, önceden işaretlenmiş satıra ne ad verilir?",
+    "seçenekler": [
+      "A) İzleme Satırı",
+      "B) İzleme Noktası",
+      "C) Kesme Noktası",
+      "D) Hata Noktası",
+      "E) İstisnai Durum"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Kesme noktası, program derlendikten sonraki çalışmasını belirli bir satırda durdurmak için eklenir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi stack veri yapısının fonksiyonlarından biri değildir?",
+    "seçenekler": [
+      "A) push",
+      "B) pop",
+      "C) top",
+      "D) queue",
+      "E) size"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Stack veri yapısının fonksiyonları aşağıda listelenmiştir: pop Yığın’ın en üst elemanını siler. push Yığın’ın en üstüne yeni eleman ekler. top Yığın’ın en üst elemanını döndürür. size Yığın’ın eleman sayısını döndürür."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "int a=10; int b=3; int c; c=b+a/2; if(c>7) {    switch(c)    {             case 10:                          c=15;                          cout << c << endl;                          break;             case  9:                          cout << a << endl;                           break;             case  8:                          cout << b << endl;                           break;    } } else if(c<7) {      a=c+3;      cout << a << endl; } else      cout << b+a<< endl; Verilen kod parçasının ekran görüntüsü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 10",
+      "B) 3",
+      "C) 13",
+      "D) 9.5",
+      "E) 15"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 5 Ekrana 3 sayısı yazdırılır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Menülerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Dosya menüsünde yeni bir proje oluşturma, son açılan projelere ulaşma, proje kaydetme, yazdırma gibi işlemler bulunur.",
+      "B) Kopyalama, kesme, bulma ve değiştirme işlemlerinin yapıldığı menü Düzen menüsüdür.",
+      "C) Proje menüsü; oluşturulan bir projeye yeni öge ekle, öge çıkar gibi işlemlerin gerçekleştirildiği menüdür.",
+      "D) Kullanıcı ihtiyaçları doğrultusunda kişiselleştirilmesi işlemleri Araçlar menüsünden gerçekleştirilir.",
+      "E) Geliştirilen yazılımın performans ve analizleri için Derle menüsü kullanılır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4 Geliştirilen yazılımın performans ve analizleri için Analiz menüsü kullanılır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Herhangi bir fonksiyonun içindeki kodlar hata ayıklamaya tabi tutulmadan, fonksiyondan bir sonraki satırdan devam edilerek hata ayıklanması istenirse Üzerinden Adımla uygulanabilmektedir. Üzerinden adımla için aşağıdaki fonksiyon tuşlarından hangisine basılmalıdır?",
+    "seçenekler": [
+      "A) F8",
+      "B) F9",
+      "C) F10",
+      "D) F11",
+      "E) F12"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 8 Herhangi bir fonksiyonun içindeki kodlar hata ayıklamaya tabi tutulmadan, fonksiyondan bir sonraki satırdan devam edilerek hata ayıklanması istenirse de “Üzerinden Adımla” uygulanabilmektedir. Üzerinden Adımla’ nın kısayol tuşu ise F10’dur."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "#include <iostream> using namespace std; int Fonksiyon(int *A, int n) {        int dondur=0;        for (int i = 0; i < n; i++) {              if (A[i] % 2 == 0)                   dondur++; }        return dondur; } int main() {        int dizi[5] = { 12,5,7,4,9 };        cout << Fonksiyon(dizi, 5);        return 0; } Yukarıdaki kod çalıştırılmak istendiğinde sonuç ne olur?",
+    "seçenekler": [
+      "A) Ekrana \"\"3\"\" yazar.",
+      "B) Ekrana \"\"2\"\" yazar.",
+      "C) Ekrana \"\"12 4\"\" yazar.",
+      "D) Ekrana \"\"5 7 9\"\" yazar.",
+      "E) Ekrana \"\"12 5 7 4 9\"\" yazar."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 Dizilerin Fonksiyonlara Gönderimi başlıklı konu içeriğinde yer almaktadır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Bir C++ programının daha anlaşılır olması için, hâlihazırda kod içerisinde var olan açıklamaların koddan çıkartılması hangi geliştirme aşamasında gerçekleştirilir?",
+    "seçenekler": [
+      "A) Önişleme",
+      "B) Derleme",
+      "C) Birleştirme",
+      "D) Yükleme",
+      "E) Çalıştırma"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Önişleme, kaynak kodun derlenmesi aşamasına geçilmeden önce kaynak kodla ilgili yapılması gereken düzenlemelerin önişleme komutları kullanılarak gerçekleştirilmesidir."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "#include <iostream> using namespace std; int main() {        char dizi[10] = \"\"deneme1234\"\";        cout << dizi[6];        return 0; } Yukarıdaki C++ programı çalıştırıldığında ekrana hangi çıktıyı yansıtır?",
+    "seçenekler": [
+      "A) Ekrana \"\"deneme1234\"\" yazar.",
+      "B) Ekrana \"\"deneme\"\" yazar.",
+      "C) Ekrana \"\"1234\"\" yazar.",
+      "D) Ekrana \"\"1\"\" yazar.",
+      "E) Hata verir, çalıştırılamaz."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 9 Tüm diziye erişim başlıklı konu içeriğinde yer almaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Stack veri yapısına aşağıdaki komutlardan hangisi ile yeni bir veri eklenir?",
+    "seçenekler": [
+      "A) push",
+      "B) pop",
+      "C) add",
+      "D) push_back",
+      "E) set"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Short veri tipinin alabileceği değer aralığı nedir?",
+    "seçenekler": [
+      "A) 0 ile 65535",
+      "B) -127 ile 127",
+      "C) true, false",
+      "D) -32768 ile 32767",
+      "E) 0 ile 4294967295"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 3 short ver, tipi -32768 ile 32767 aralığında değer alabilir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "İki boyutlu bir dizinin toplam eleman sayısı nasıl hesaplanır?",
+    "seçenekler": [
+      "A) Birinci boyut eleman sayısı ile ikinci boyut eleman sayısı toplanır.",
+      "B) Birinci boyut eleman sayısı ile ikinci boyut eleman sayısı çarpılır.",
+      "C) Birinci boyut eleman sayısı iki ile çarpılır.",
+      "D) İkinci boyut eleman sayısı iki ile çarpılır.",
+      "E) Birinci boyut eleman sayısının karesi ile ikinci boyut eleman sayısının karesi toplanır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 Örnek 4-1: İKİ BOYUTLU DİZİLERİN ÇARPIMI 1 (KARE MATRİS ÇARPIMI) başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Program içerisinde rastgele erişimli dosyadan okuma yapmak için kaynak koda aşağıdakilerden hangisinin eklenmesi gereklidir?",
+    "seçenekler": [
+      "A) <fstream> başlık dosyası</fstream>",
+      "B) <ofstream> başlık dosyası</ofstream>",
+      "C) <ifstream> başlık dosyası</ifstream>",
+      "D) <afstream> başlık dosyası </afstream>",
+      "E) <ffstream> başlık dosyası</ffstream>"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Program içerisinde rastgele erişimli dosyadan okuma yapmak için kaynak koda başlık dosyasının eklenmesi gerekmektedir."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "for (int i = 0; i <= 3; i++)      cout << \"\"Merhaba\"\" << endl; Yukarıda verilen döngü kaç defa çalıştırılır?",
+    "seçenekler": [
+      "A) 0",
+      "B) 1",
+      "C) 2",
+      "D) 3",
+      "E) 4"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 6 FOR DÖNGÜSÜ başlıklı konuda anlatılmıştır. Ayrıca benzer örnekler yer almaktadır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "for (int n = 0; n<i; n++) {     for (int m = 0; m<j; m++)     {        a[n][m] = n+1;     } } Bu kod parçacığının yaptığı işlemi aşağıdakilerden hangisi doğru şekilde anlatmaktadır?",
+    "seçenekler": [
+      "A) a dizisinin i * j adet elemanı silinir.",
+      "B) a dizisinin j adet satırındaki i adet elemana birinci boyut indisinin bir fazlası yazılır.",
+      "C) a dizisinin i adet satırındaki j adet elemana birinci boyut indisinin bir fazlası yazılır.",
+      "D) a dizisinin j adet satırındaki i adet elemana ikinci boyut indisinin bir fazlası yazılır.",
+      "E) a dizisinin i adet satırındaki j adet elemana ikinci boyut indisinin bir fazlası yazılır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 10 FONKSİYONLARA İKİ BOYUTLU DİZİLERİN AKTARILMASI başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi nesneye yönelik programlamanın önemli yapı taşlarından biri değildir?",
+    "seçenekler": [
+      "A) Kalıtım",
+      "B) Çok biçimlilik",
+      "C) Sınıf",
+      "D) Nesne",
+      "E) Döngüler"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 Sayfa 3 Paragraf 3 Ünite içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "\"\"Örnek String.\"\" string ifadesinin boyut bilgisi kaçtır?",
+    "seçenekler": [
+      "A) 9",
+      "B) 10",
+      "C) 11",
+      "D) 12",
+      "E) 13"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 11 string ornekString = \"\"Ilk string tanimlama.\"\"; Yukarıdaki string ifadesinde 21 karakter bulunmaktadır. Çift tırnaklar arasındaki başta rakamlar ve harfler olmak üzere noktalama işaretleri ve matematiksel işaretler gibi bütün karakterler bu string değişkenin bir parçasıdır. Yalnızca farklı işlevleri olan bazı karakterle"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "C++ programlama dilinde iki tam sayıdan büyük olanını bulup geriye döndüren fonksiyon aşağıdakilerin hangisinde doğru yazılmıştır?",
+    "seçenekler": [
+      "A) int max(sayi1,sayi2) {    int sonuc;    if (sayi1> sayi2)       sonuc= sayi1;    else       sonuc = sayi2;    return sonuc; }",
+      "B) int max(int sayi1,int sayi2) {    int sonuc;    if (sayi1> sayi2)       sonuc= sayi1;    else       sonuc = sayi2; }",
+      "C) int max(sayi1,sayi2) {    int sonuc;    if (sayi1> sayi2)       sonuc= sayi1;    else       sonuc = sayi2; }",
+      "D) int max(int sayi1,int sayi2) {    int sonuc;    if (sayi1> sayi2)       sonuc= sayi1;    else       sonuc = sayi2;    return sonuc; }",
+      "E) int max(int sayi1,int sayi2) {    int sonuc;    if (sayi1< sayi2)       sonuc= sayi1;    else       sonuc = sayi2; }"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 int max(int sayi1, int sayi2) { int sonuc; if (sayi1> sayi2) sonuc= sayi1; else sonuc = sayi2; return sonuc; } doğru kod parçası"
+  }
+]

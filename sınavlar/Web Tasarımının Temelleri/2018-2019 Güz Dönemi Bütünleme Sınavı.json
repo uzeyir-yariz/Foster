@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "SEO (Search Engine Optimization) açısından en önemli etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) div",
+      "B) span",
+      "C) title",
+      "D) i",
+      "E) u"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "title etiketi seo açısından en önemli etiketir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdaki hangi font etiketi parametreleri ile yazı tipi belirlenir?",
+    "seçenekler": [
+      "A) face",
+      "B) ground",
+      "C) right",
+      "D) size",
+      "E) color"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi internetin sunduğu hizmetlerden biri değildir?",
+    "seçenekler": [
+      "A) e-posta",
+      "B) alış-veriş",
+      "C) ftp",
+      "D) örgün eğitim",
+      "E) sosyal medya"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Sayfada tercih edilen dil aşağıdaki hangi temel HTML etiketi ile yapılır?",
+    "seçenekler": [
+      "A) <html>",
+      "B) <!doctype html>",
+      "C) <head>...</head>",
+      "D) <html lang= “tr”>",
+      "E) <meta charset=”uƞ-8”>"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilernden hangisi Crawler'in özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Derin araştırma",
+      "B) Description",
+      "C) Stop kelimeleri",
+      "D) Açık kaynak",
+      "E) Keywords"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Crawler'in açık kaynak diye bir özelliği bulunmamaktadır"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "<ul class=\"\"menu\"\">         <li>Bir</li>         <li>İki</li>         <li>Üç</li>  </ul> Yukarıdaki ul elementi içerisinde yer alan li elementlerinden sadece ilkinin yazı rengini değiştirmek için yazılması gereken CSS kodu hangisidir?",
+    "seçenekler": [
+      "A) ul.menu > li{color:red;}",
+      "B) ul.menu > li:first{color:red;}",
+      "C) ul.menu > li:1{color:red;}",
+      "D) ul.menu > li:0{color:red;}",
+      "E) ul.menu > li:first-child{color:red;}"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "ilk alt elemanı seçmek için first-child kodu kullanılır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "I.   headers II.  colspan III. rowspan IV. charoff Yukarıda verilen td elementinin parametrelerinden hangisi ya da hangileri HTML5 tarafından desteklenmez?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) III ve IV",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "HTML5 ile charoff parametresinin desteği kaldırılmıştır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Bir HTML sayfasına resim ekleyip bu resme bağlantı vermek için kullanılması gereken etiketler aşağıdakilerden hangisinde bir arada verilmiştir?",
+    "seçenekler": [
+      "A) link - image",
+      "B) a - img",
+      "C) a - photo",
+      "D) img - href",
+      "E) href - src"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "bir resme link vermek için önce a tagı içerisinde de img tagı kullanılmalıdır"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Tabloya yeni bir satır eklemek için aşağıdaki hangi etiket kullanılır?",
+    "seçenekler": [
+      "A) <NL>",
+      "B) <TH>",
+      "C) <Table>",
+      "D) <TD>",
+      "E) <TR>"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Frameset elementinde ekranı yatay olarak iki eşit parçaya bölmek için aşağıdakilerden hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) rows=\"\"50%, 50%\"\"",
+      "B) rows=\"\"1, 1\"\"",
+      "C) cols=\"\"50%, 50%\"\"",
+      "D) frame=\"\"1, 1\"\"",
+      "E) frame=\"\"50%, 50%\"\""
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "yatay olarak iki eşit parçaya bölmek için rows=\"\"50%, 50%\"\" kullanılır"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "I- JPG II- PNG III-GIF IV-BMP Yukarıdaki resim türlerinin hangisinde ya da hangilerinde görselde saydamlık sağlanabilir?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I, II ve III",
+      "E) Yalnız IV"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "saydamlık için png veya gif uzantılı resimler kullanılır"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "CSS'de bir elemente iç açıklık vermek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) margin",
+      "B) padding",
+      "C) border",
+      "D) background",
+      "E) font"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "CSS'de elemente iç açıklık vermek için padding kullanılır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Belirli bir olayın ilerleme durumunu izlemek için kullanılan HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) span",
+      "B) div",
+      "C) progress",
+      "D) style",
+      "E) meta"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Belli bir olayın ilerleme durumunu ya da yüzdesini izlemek için progress etiketi kullanılır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Tabloları başlık ve gövde bölümlerine ayırmak için kullanılan HTML etiketleri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) border - padding",
+      "B) thead - tbody",
+      "C) top - body",
+      "D) td - tr",
+      "E) row - col"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "tabloda başlık ve gövdeyi ayırmak için thead ve tbody etiketleri kullanılır."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "I. strong II. li III. b IV. u Yukardaki HTML etiklerinin hangi ikisi kullanıldığında metnin kalınlaştırılması sağlanır?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) II ve III",
+      "C) I ve IV",
+      "D) I ve III",
+      "E) III ve IV"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "strong ve b etiketlerinin ikisi de metini kalınlaştırır"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi teknolojik gelişmeleri öncelikli olarak uygulamasıyla bilinen bir arama motorudur?",
+    "seçenekler": [
+      "A) Contenko",
+      "B) Crawler",
+      "C) Info",
+      "D) Mywebsearch",
+      "E) Ixquick"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdaki bağlantılardan hangisi ile sayfa yeni bir pencerede açılır?",
+    "seçenekler": [
+      "A) target=”_blank”",
+      "B) target=”_parent”",
+      "C) target=”_self”",
+      "D) target=”_top”",
+      "E) target=”_çerçeve_adi”"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "HTML'de elemente odaklanıldığı anda javascript kodunun çalıştırılması isteniyorsa aşağıdaki olaylardan (event) hangisi kullanılır?",
+    "seçenekler": [
+      "A) onClick",
+      "B) onFocus",
+      "C) onKeyUp",
+      "D) onChange",
+      "E) onKeyPress"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "odaklanma olayı onFocus dur."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Bir satır aşağıya inmek için aşağıdaki hangi etiket kullanılır?",
+    "seçenekler": [
+      "A) <bl>",
+      "B) <newline>",
+      "C) <breaknew>",
+      "D) <p>",
+      "E) <br>"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "htip://www.atauni.edu.tr web adresinde bulunan \"\"tr\"\" ifadesi aşağıdakilerden hangisini ifade eder?",
+    "seçenekler": [
+      "A) Site içeriğinin türünü",
+      "B) Bağlantıyı sağlayan protokolü",
+      "C) Sitenin ait olduğu ülkeyi",
+      "D) Sitede kullanılan teknolojiyi",
+      "E) Sitenin portunu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "tr kodu sitenin ait olduğu ülkeyi ifade eder."
+  }
+]

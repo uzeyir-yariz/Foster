@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Rules bağımsız değişkeni kullanılarak yalnızca dikey çizgiler çizilmek istendiğinde hangi değer tercih edilir?",
+    "seçenekler": [
+      "A) cols",
+      "B) all",
+      "C) groups",
+      "D) rows",
+      "E) none"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi IP’nin (Internet Protokol) görevi değildir?",
+    "seçenekler": [
+      "A) Bağlantı yapar.",
+      "B) Virüsleri engeller.",
+      "C) Karşılıklı anlaşma yapar.",
+      "D) İstemci kullanır.",
+      "E) Sunucu kullanır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "IP (Internet Protocol, İnternet Protokolü) başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdaki TD etiketinin hangi parametresi ile tablodaki hücre genişliği belirlenir?",
+    "seçenekler": [
+      "A) bgcolor",
+      "B) background",
+      "C) valign",
+      "D) height",
+      "E) width"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Width Parametresi Tablonun piksel cinsinden genişliğini belirler. Bu parametreyi kullanmazsanız, web tarayıcısı hücre içinde yer alan bilgilerden en geniş olanı dikkate alarak tabloya otomatik olarak atayacaktır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "HTML etiketleri aşağıdaki sembollerden hangisi arasında yazılır?",
+    "seçenekler": [
+      "A) “ “",
+      "B) < >",
+      "C) _ _",
+      "D) ( )",
+      "E) [ ]"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Ünite genelinde yer almaktadır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "HTML sayfasının arka zeminini sarı (yellow) yapmak için aşağıdaki hangi body parametresi kullanılır?",
+    "seçenekler": [
+      "A) body color",
+      "B) body color name",
+      "C) body set",
+      "D) body background",
+      "E) body bgcolor"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "METİN İLE İLGİLİ BAZI ETİKETLER başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "ATA-AÖF yazısının  koyu (bold) yazılmasını sağlayan etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) < big > ATA-AÖF < / big >",
+      "B) < u > ATA-AÖF < / u >",
+      "C) < hx > ATA-AÖF < / hx >",
+      "D) < b > ATA-AÖF < / b >",
+      "E) < ı > ATA-AÖF < / ı >"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Çapa oluştururken <a> etiketinin aşağıdaki parametrelerinin hangisinden yararlanılır?",
+    "seçenekler": [
+      "A) href",
+      "B) target",
+      "C) #",
+      "D) name",
+      "E) /"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Çapa Oluşturmak başlıklı konu içerisinde yer almaktadır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Bağlantının yeni bir pencerede açılması için aşağıdaki parametrelerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) target=”_blank”",
+      "B) target=”_parent”",
+      "C) target=”_self”",
+      "D) target=”_top”",
+      "E) target=”_çerçeve_adi”"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "<hr align=”right” size=”50%” width=”1”> yatay çizgi için yazılan komutla aşağıdakilerden hangisi yapılmak istenmektedir?",
+    "seçenekler": [
+      "A) Ekranın sağına dayalı uzunluğu %75 ve çizgi kalınlığı 1 piksel",
+      "B) Ekranın soluna dayalı uzunluğu %50 ve çizgi kalınlığı 1 piksel",
+      "C) Ekrana göre ortalı uzunluğu %50 ve çizgi kalınlığı 2 piksel",
+      "D) Ekranın sağına dayalı uzunluğu %50 ve çizgi kalınlığı 1 piksel",
+      "E) Ekranın soluna dayalı uzunluğu %50 ve çizgi kalınlığı 2 piksel"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "METİN DÜZENLEME ETİKETLERİ başlıklı konuda yer almaktadır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Yazılan metni normal görünümden büyük görünüme çeviren etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) < sup > ... < / sup >",
+      "B) < big > ... < / big >",
+      "C) < u > ... < / u >",
+      "D) < i > ... < / i >",
+      "E) < sub > ... < / sub >"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "2"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi internet terimlerinden biri değildir?",
+    "seçenekler": [
+      "A) Domain",
+      "B) Hard Disk",
+      "C) Sunucu",
+      "D) Alan adı",
+      "E) www"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Ünite genelinde yer almaktadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Sayfa dışı bağlantı oluştururken URL veya hedef yolu belirlemek için aşağıdaki parametrelerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) name",
+      "B) target",
+      "C) href",
+      "D) mailto",
+      "E) link"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Onaltılık sayı sisteminde (hexadecimal) bir yazıya renk verirken sayı düzeninde rakam sayısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3",
+      "B) 6",
+      "C) 5",
+      "D) 4",
+      "E) 7"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Color Color parametresi ile yazının rengi (red, green gibi renklerin İngilizce karşılığı ya da RGB renk değeri) belirlenir. HTML'de renkler hexadecimal (onaltılık) sayı sistemi ile ifade edilir. Bir renk 16'lık sayı düzeninde 6 rakamdan oluşur. Bu düzende 9'dan sonraki sayıları göstermek için A’dan F’ye kadar olan harfler kullanılır. Bununla birlikte HTML bazı renklerin İngilizce isimlerini de anlar, aşağıdaki örnekte bu renkleri ve İngilizce karşılıklarını görmektesiniz [1, 2, 4, 5, 8,10]."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir arama motoru türüdür?",
+    "seçenekler": [
+      "A) Arama dizini (directory)",
+      "B) Spiders",
+      "C) Database",
+      "D) Sıralama ölçütü",
+      "E) Periyot"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Arama motorları: • Arama dizini (directory) • Arama motoru (search engine) • Metasearch şeklinde üç farklı türden oluşur."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Tarayıcı sayfasının sol üst kısmında tarayıcı ile birlikte görülen yazı hangi etiket ile elde edilir?",
+    "seçenekler": [
+      "A) < title >",
+      "B) < head >",
+      "C) < body >",
+      "D) < html >",
+      "E) < ol >"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Yazılan metni normal görünümden küçük görünüme çeviren etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) sup",
+      "B) big",
+      "C) sub",
+      "D) small",
+      "E) br"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Küçük Yazı Etiketi Yazılan metni normal görünümden küçük görünüme çevirebilmek için ... etiketlerinden yararlanılır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Genellikle sayfanın en üstünde kullanılan, firma ya da kurumların adını, logosunu, banner’ini, menü veya slogan gibi bilgilerini web sayfalarında gösteren HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) nav",
+      "B) article",
+      "C) aside",
+      "D) section",
+      "E) header"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ": Bir WEB sayfasının, makalenin veya bölümün başlık bilgisini içerir. Genellikle sayfanın en üstünde kullanılan etiketi sayfa içinde bulunan firmanın adını, logosunu, bannerını, menü veya slogan gibi bilgilerini kapsar. Başlık bilgisi etiketi içinde kullanılır ve etiketi ilgili makale ya da bölümle ilgili başlıkları barındırır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi Meta etiketinin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Sayfa hakkında tarayıcılara bilgi verir.",
+      "B) Tanımlanan bilgileri kullanıcılara göstermez.",
+      "C) İki bağımsız değişkene sahiptir.",
+      "D) Sayfa hakkında arama motorlarına bazı bilgileri sunar.",
+      "E) Tanımlanan bilgileri kullanıcılara gösterir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "•HTML etiketleri olduğu gibi “” sembolleri arasına yazılır. Etiketler büyük ya da küçük harfle yazılabilir. Etiketlerde (ş, ç, ı, ü, ğ, ö) gibi Türkçe karakterler kullanılmamalıdır. •Temel HTML etiketleri arasında; !doctype html, html, head, body, title, meta charset=”uƞ-8” ve !-- açıklama -- vardır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Rules bağımsız değişkeninin tablonun iç çizgilerini kaldıran değeri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) all",
+      "B) cols",
+      "C) rows",
+      "D) none",
+      "E) groups"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "none İç çizgileri kaldırır"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Belirli bir olayın ilerleme durumunu izlemek için kullanılan HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) span",
+      "B) div",
+      "C) progress",
+      "D) style",
+      "E) meta"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Belli bir olayın ilerleme durumunu ya da yüzdesini izlemek için progress etiketi kullanılır."
+  }
+]

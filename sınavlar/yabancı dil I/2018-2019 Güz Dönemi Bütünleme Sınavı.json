@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "........ ten students in the classroom yesterday. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Are there",
+      "B) There is",
+      "C) There are",
+      "D) There were",
+      "E) Is there"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Geçmiş zamanda bir yerde birşeyin bulunması durumunda çoğul isimler için there were kullanılır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "I __________ a student. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am",
+      "B) is",
+      "C) are",
+      "D) is not",
+      "E) are not"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "......... students are there in the classroom? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) How much",
+      "B) How long",
+      "C) What",
+      "D) How many",
+      "E) Where"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Sayılabilen isimlerin sayısını sorarken \"\"how many\"\" kullanılır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "....... your sister brush her teeth everyday? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Do",
+      "B) Don't",
+      "C) Is",
+      "D) Does",
+      "E) Are"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Geniş zamanda 3. tekil şahıs \"\"Does\"\" yardımcı fiili ile kullanılır."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "My sister hasn’t  finished her homework ............... . Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) since",
+      "B) just",
+      "C) already",
+      "D) yet",
+      "E) ago"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Perfect tense kullanımında olumsuz ve soru cümlelerinde daha anlamında kullanılan zarf \"\"yet \"\" tir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "While I was studying, she ..... listening to music. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) was",
+      "B) were",
+      "C) am",
+      "D) is",
+      "E) are"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "I am _______ İskender kebap now. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) eats",
+      "B) eating",
+      "C) not eat",
+      "D) eat",
+      "E) not eats"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Melek ...... a film right now. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) is watch",
+      "B) watch",
+      "C) watches",
+      "D) are watch",
+      "E) is watching"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "şimdiki zamanda 3. tekil şahıs \"\"is\"\" yardımcı fiili ile ana fiilin sonuna \"\"ing\"\" takısı getirilir."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "I __________university 3 years ago. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) started",
+      "B) start",
+      "C) starting",
+      "D) starts",
+      "E) are starting"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "My brother Hakan and I __________ a dog. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am",
+      "B) have got",
+      "C) is",
+      "D) has got",
+      "E) not"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "2"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "When you called me, ........... . Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) I study for my exam.",
+      "B) you are studying  for your exam.",
+      "C) I was studying for my exam.",
+      "D) you didn’t study for your exam.",
+      "E) I am studying for my exam."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Geçmiş zamanda aynı anda yapılan iki eylem anlatılırken geçmiş zamanın hikayesi ve geçmiş zaman iki cümlecik halinde kullanılır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "A: What does your brother look like? B:_________________________ . Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) He likes coffee",
+      "B) He is tall and fat",
+      "C)  He is very well",
+      "D) He is friendly",
+      "E) He is a kind man"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Birinin fiziksel görünüşünden bahsederken yaygın olarak kullanılan ifade \"\"look like\"\" fiilidir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "The train _______ the station before  Ali arrived. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) did leave",
+      "B) was left",
+      "C) had left",
+      "D) have left",
+      "E) have been leaving"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Past perfect tense kullanımında önce olan eylem \"\"had yardımcı fiili ve fiilin 3. haliyle\"\" kullanılır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "We’re going to theatre. Do you want to come with ......? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) your",
+      "B) our",
+      "C) us",
+      "D) my",
+      "E) we"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "nesne niteliğinde zamir kullanıldığında birinci çoğul şahısta \"\"us\"\" alır"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "A: What have you been doing? B: _____________________ . Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) I have watching TV",
+      "B) I don’t have an exam",
+      "C) She has been at home",
+      "D) You have been sleep",
+      "E) I have been studying"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Present perfect cont. tense olumlu cümle kuruluşuna örnek bir cümledir. have /has yardımcı fiilinden sonra fiil -ing formuyla kullanılır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "A: Where did Duygu see her friends? B: .......................................... Aşağıdakilerden hangisi yukarıdaki konuşmayı doğru şekilde tamamlar?",
+    "seçenekler": [
+      "A) Her friends  didn’t call Duygu.",
+      "B) She saw  them at the cafe.",
+      "C) Duygu see her friends yesterday.",
+      "D) Duygu has got two friends.",
+      "E) She doesn’t see her friends."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Geçmiş zamanda fiilin 2. hali kullanılır. Yer sorulurken \"\"where\"\" soru kelimesi kullanılır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "There is a picture___ the wall. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) at",
+      "B) into",
+      "C) down",
+      "D) from",
+      "E) on"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Açık yüzeylerde bulunma, asılı olma durumlarında \"\"on\"\" edatı kullanılır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "We will meet .......... 9:30. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) at",
+      "B) on",
+      "C) in",
+      "D) onto",
+      "E) into"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Saat dilimlerini belirtirken \"\"at\"\" kullanılır"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "It usually __________ (snow) every day here. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) snowing",
+      "B) snow",
+      "C) snows",
+      "D) is snow",
+      "E) is snowing"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "How __________ apples and oranges did you put in the box? Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) much",
+      "B) a little",
+      "C) little",
+      "D) any",
+      "E) many"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  }
+]

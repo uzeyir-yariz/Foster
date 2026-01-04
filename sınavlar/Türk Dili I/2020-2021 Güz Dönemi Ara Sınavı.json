@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Türkiye Türkçesinde kullanılan Latin alfabesinin kabul ediliş tarihi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "seçenekler": [
+      "A) 1 Kasım 1928",
+      "B) 21 Kasım 1928",
+      "C) 11 Kasım 1928",
+      "D) 15 Kasım 1928",
+      "E) 16 Kasım 1928"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "1 Kasım"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Şimdi bir rüzgâr geçti buradan. Koştum ama yetişemedim. Sorsaydım söylerdi herhâlde. Soramadım. “Yetişmek” kelimesi aşağıdakilerin hangisinde bu dizelerdeki anlamıyla kullanılmıştır?",
+    "seçenekler": [
+      "A) Arkadan bize laf yetiştiriyordu.",
+      "B) Otobüse son dakikada yetişebildim.",
+      "C) Bu proje yarına yetişmeli.",
+      "D) Tam bir asker olarak yetiştirildi.",
+      "E) Çocuğun boyu bana yetişti."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Kullanılan atasözünün mecazi bir anlam ifade etmediği, sadece gerçek anlamıyla kullanıldığı durumlardır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi dilin türeyişi ile ilgili olarak ortaya atılan görüşlerden biri değildir?",
+    "seçenekler": [
+      "A) Metafizik Görüş",
+      "B) İlahiyatçı Görüş",
+      "C) Deneyimci Görüş",
+      "D) Doğuştancı Görüş",
+      "E) Antropolojik Görüş"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Dilin nasıl türediği konusunda pek çok görüş ortaya atılmıştır. Bunları dört ana bölümde değerlendirmek mümkündür:İlahiyatçı/Teolojik Görüş,İlahiyatçı/Teolojik Görüş,Deneyimci Görüş,Antropolojik Görüş"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi Altay dilleri ile Türkiye Türkçesinin ortak özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A)  Çift ünsüzle başlayan kelime sayısı çoktur.",
+      "B)  Cinsiyet ayrımı gösteren ek yoktur.",
+      "C)  Anlatım ve çekim son eklerle yapılır.",
+      "D)  Genel olarak \"\"özne-tümleç-nesne-yüklem\"\" sırası vardır.",
+      "E)  Tamlamalarda tamlayan önde, tamlanan ise sonda gelir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Türklerin kullandığı bu alfabe 4’ü sesli, 26’sı sessiz, 8’i bitişken olmak üzere 38 harften oluşur. Sağdan sola ve yukarıdan aşağıya doğru yazılır. Harfler birbiriyle bitişmez, çivi yazısına benzerliğinden dolayı taş ve eşya üzerine kazınmaya elverişlidir. Paragrafta bazı özellikleri verilen alfabe aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Uygur alfabesi",
+      "B) Göktürk alfabesi",
+      "C) Latin alfabesi",
+      "D) Kiril alfabesi",
+      "E) Brahmi alfabesi"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Göktürk Alfabesi"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Dillerin doğuşu aşağıdaki bilim dallarından hangisinin merak konusu olamaz?",
+    "seçenekler": [
+      "A) Dilbilim",
+      "B) Genetik bilim",
+      "C) Ruh bilim",
+      "D) İnsan bilim",
+      "E) Tıp bilim"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Tıp bilim"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Türkçe bir kelimede yuvarlak ünlülerden (o, ö, u, ü) sonra ya dar yuvarlak ünlüler (u, ü) ya da düz geniş ünlüler (a, e) gelir. Aşağıdakilerden hangisi bu kurala uymaz?",
+    "seçenekler": [
+      "A) Uzak",
+      "B) Okul",
+      "C) Ordular",
+      "D) Ürkek",
+      "E) Otomobil"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Otomobil"
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi gerçek anlamlı atasözüne bir örnektir?",
+    "seçenekler": [
+      "A)  Acı patlıcanı kırağı çalmaz.",
+      "B)  Altın eşik, gümüş eşiğe muhtaç olur.",
+      "C)  Çivi çiviyi söker.",
+      "D)  Minareyi çalan kılıfını hazırlar.",
+      "E)  Sebepsiz ölüm olmaz."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "2"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Dilin sadece sözcüklerden ve dil bilgisi yapılarından ibaret olarak görülmesi yanlıştır. Dil, toplumsal ve kültürel birikimin aklın ve mantığın temelinde estetik bir duyuşla işlendiği muazzam bir varlıktır. Paragrafta dilin hangi işlevinden bahsedilmektedir?",
+    "seçenekler": [
+      "A) Anlatım",
+      "B) Betimleme",
+      "C) Edebî",
+      "D) Toplumsal",
+      "E) Çağrı"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Sayfa 7 paragraf 6 da yer almaktadır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Deneyimci Görüş Teorisi aşağıdakilerden hangisini savunmaktadır?",
+    "seçenekler": [
+      "A)  İnsan, çevresinin etkisiyle konuşma yetisini kazanır.",
+      "B) İnsan, ırkının etkisiyle konuşma ve dil yetisini kazanır.",
+      "C)  Birey, doğuştan dil yetisine sahiptir.",
+      "D)  Kişinin dil yetisi, yaşı büyüdükçe gelişir.",
+      "E)  Kişi, yaşadığı çağa göre dil özellikleri edinir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Türk dili tarihinde en erken dönem, aşağıdaki adlandırmalardan hangisiyle yapılır?",
+    "seçenekler": [
+      "A) İlk Türkçe Dönemi",
+      "B) Ana Türkçe Dönemi (Proto-Türkçe)",
+      "C) Altay Dil Birliği Dönemi",
+      "D) Eski Türkçe Dönemi",
+      "E) Orta Türkçe Dönemi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Altay Dil Birliği Dönemi"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Dil ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Teknolojik gelişmelerle birlikte dilin sınırlandırıcı etkisi giderek azalmaktadır.",
+      "B) Çağımızda yaşanan önemli değişimler dilin önemini daha da artırmıştır.",
+      "C) Dil, insanın geleceğe kalma arzusunun ürünüdür.",
+      "D) Dil, günümüzde pek çok araştırmanın konusu olmaya devam etmektedir.",
+      "E) Dilin, millî kimliğin inşasında önemli bir rolü vardır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Sayfa 3 paragraf 5 de yer almaktadır."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "I. Türkçe sözcüklerde söz başında bulunabilen ünsüz sayısı sınırlıdır: b, ç, d, g, k, s, t, v, y, c ünsüzü, söz başında başka ünsüzlerden değişmiş olarak birkaç sözcükte bulunur: cibinlik <çıpın vb. II. n ünsüzü Türkçe kökenli sözcükler içinde yalnız ne ve türevlerinde bulunur: ne, neden, niçin, nasıl vb. III. p ünsüzü de söz başında, birkaç Türkçe sözcükte b'den değişmiş olarak bulunur: piş- <biş-, parmak <barmak vb. Türkçe ile ilgili olarak yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I, II ve III",
+      "D) II ve III",
+      "E) I ve III"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Altay dillerinin özellikleri verildikten sonra Türkçenin genel özellikleri şu şekilde sıralanabilir: • Türkçe, diğer Türk dilleriyle birlikte Altay dil ailesinin bir kolunu oluşturur. Bu ailenin diğer üyeleri Moğolca, Mançu- Tunguzcadır. Günümüzde Korece ve Japoncanın da Altay dil grubunun üyeleri oldukları varsayılmaktadır.Türkçe, diğer Altay dilleri gibi eklemeli, yani sözcüklerin eklerle yapıldığı ve çekildiği, sondan eklemeli bir dildir. • Türkçe sözcüklerde, Arapça, Almanca vb. dillerde görülen erillik, dişillik (yani cinsiyet ayrımı) özelliği yoktur. • Türkçede sayı sıfatlarından sonra gelen adlar çoğul eki almazlar. Örneğin, üç ağaçlar değil, üç ağaç. • Önlük-artlık (kalınlık-incelik) ve düzlük-yuvarlaklık uyumları vardır. İlk uyuma göre bir sözcükteki ünlüler ya hep art ya da ön, ikinci uyuma göre de ya hep düz ya da yuvarlak olurlar. • f, j ve h ünsüzleri Türkçe kökenli sözcüklerde bulunmazlar. (Bir kaç Türkçe sözcükte başka seslerden değişmiş olarak f görülebilir: öŅe"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerin hangisinde birleşik sözcüklerin yazımında hata yapılmıştır?",
+    "seçenekler": [
+      "A) Dinlediği muhteşem ezgiden mest oldu.",
+      "B) Kitabını tamamladıktan sonra basımevine teslim eti.",
+      "C) Bodrum’a gidince kesinlikle Turgutreis’e uğramalısın.",
+      "D) Her cuma çamaşırhanenin önünde kuyruk olurdu.",
+      "E) Çay içmek için onu yazıhaneme davet etim."
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Bazı araştırmacılar insanı diğer varlıklardan ayıran en önemli özelliğin zekâ ve düşünme yeteneği olduğunu, zekâ ve düşünme yeteneğinin insanın benliğinin oluşmasını sağlayan ögeler ve bu ögelerin oluşturduğu duygu ve düşüncelerin dışarı aktarımında en büyük yardımcının .......................... olduğunu belirtmektedirler. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) sanat",
+      "B) kültür",
+      "C) bilim",
+      "D) dil",
+      "E) din"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Sayfa 4 paragraf 1 de yer almaktadır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerin hangisinde \"\"Türkçedeki ünsüzlerin sınıflandırılması\"\" yanlıştır?",
+    "seçenekler": [
+      "A) Dudak ünsüzleri: b, p, m",
+      "B) Diş-dudak ünsüzleri: f, v, c",
+      "C) Ön damak ünsüzleri: g, k, l, r, y",
+      "D) Arka damak ünsüzleri: ğ",
+      "E) Gırtlak ünsüzü: h"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Diş-dudak ünsüzleri: f, v, c"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Türkçede renk ve akrabalık kavramlarının geniş bir yelpazede olması aşağıdakilerden hangisini ifade eder?",
+    "seçenekler": [
+      "A)  Birçok lehçe ve ağza sahip olmasını",
+      "B)  Sahip olduğu kelime sayısının fazlalığını",
+      "C)  Türkçenin köklü bir geçmişe ve deneyime sahip olduğunu",
+      "D)  Ses kuralları ve ses diziminin matematiksel olduğunu",
+      "E)  Kalıplaşmış sözlerin çok olduğunu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Türkiye, Azerbaycan, Kırgız, Kazak ve Türkmen Türkçelerinin arasındaki fark aşağıdaki kavramlardan hangisiyle ifade edilir?",
+    "seçenekler": [
+      "A) Ağız",
+      "B) Lehçe",
+      "C) Şive",
+      "D) Diksiyon",
+      "E) Dil ailesi"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Şive"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Türkçede p, ç, t, k ünsüzleri ünlü ile başlayan bir ek aldıklarında b, c, d, ğ ünsüzlerine dönüşür. Aşağıdakilerden hangisi bu kurala uymaz?",
+    "seçenekler": [
+      "A) Dip",
+      "B) Ağaç",
+      "C) Yurt",
+      "D) Türk",
+      "E) Sokak"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Türk"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerin hangisinde ünlü düşmesi yoktur?",
+    "seçenekler": [
+      "A) Seni aklımdan bir türlü çıkaramıyorum.",
+      "B) Yine burnundan soluyor.",
+      "C) Kısa süreli ömründe çok mutlu oldu.",
+      "D) Yine bacaklarım sızlamaya başladı.",
+      "E) Sinirlenince ağzına geleni söyledi."
+    ],
+    "doğru cevap indeksi": null,
+    "doğru cevap": "",
+    "açıklama": ""
+  }
+]

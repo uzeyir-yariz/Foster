@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi internet kavramı için kullanılamaz?",
+    "seçenekler": [
+      "A) Bilgisayar sistemlerini birbirine bağlar.",
+      "B) İnternet ile “www” kavramları farklı anlama gelir.",
+      "C) 1993 yılında kamunun kullanabileceği hâle gelmiştir.",
+      "D) Sadece web sitelerine girmek için kullanılır.",
+      "E) İlk yıllarında e-posta uygulaması yaygınlaşmıştır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Harici bir CSS stil dosyasını web sayfasına entegre etmek için aşağıdaki HTML etiketlerinden hangisi kullanılır?",
+    "seçenekler": [
+      "A) script",
+      "B) bady",
+      "C) head",
+      "D) link",
+      "E) div"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Çapraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi kod uyumluluğunu ifade eder?",
+    "seçenekler": [
+      "A) Web sitesinin istenilen şekilde görünüp görünmediğini kontrol eder.",
+      "B) CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder.",
+      "C) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı çözünürlükteki görünümünü kontrol eder.",
+      "D) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.",
+      "E) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 13 Kod uyumluluğu CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi HTML5’in yenilikleri arasında yer almaz?",
+    "seçenekler": [
+      "A) Önceki sürümleri desteklemesi",
+      "B) Kısa DOCTYPE tanımlaması",
+      "C) Birçok yeni yapısal ve içerik etiketlerin olması",
+      "D) Sadece çevrimiçi çalışabilmesi",
+      "E) Charset özelliğinin eklenmesi"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi prototip çalışmalarının amaçlarından biridir?",
+    "seçenekler": [
+      "A) Arka plan resimleri, simgeler ve diğer dekoratif ögelerin seçimlerini yapmak",
+      "B) Web sitesi ve kullanıcı arasındaki etkileşim eksikliklerini ve hatalarını keşfetmek",
+      "C) Web sitesi için oluşturulmuş olan yönlendirmelerin nasıl görüneceğini belirlemek",
+      "D) Web sitesinde bulunması gereken özellikleri belirlemek",
+      "E) Sayfalar arasındaki geçişleri belirlemek"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi “Form Validation (Doğrulama)” işlemi için form elementinin class tanımına eklenmesi gereken ifadedir?",
+    "seçenekler": [
+      "A) novalidate",
+      "B) validate-form",
+      "C) form-validate",
+      "D) form-valid",
+      "E) needs-validation"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Front-end programlamada kullanılan teknolojilerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) CSS ve Javascript kodları doğrudan HTML dosyası içine yazılamaz.",
+      "B) HTML web tarayıcılarının okuyup yorumlayabildiği bir etiket yapısına sahiptir.",
+      "C) JAVASCRİPT dosyaları “js” uzantısına, CSS dosyaları ise “CSS” uzantısına sahiptir.",
+      "D) Tim Berners-Lee tarafında geliştirilen HTML, 1991 yılında genel kullanıma açılmıştır.",
+      "E) Yaygın olarak bir web projesinin front-end kısmı kendi içinde HTML, CSS ve Javascript olarak üç katmana ayrılır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Geliştirici uygun gördüğü durumlarda şekil 1.2. deki gibi CSS ve Javascript kodlarını doğrudan HTML dosyası içine yazabilir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir form elementinin responsive özelliği kazanabilmesi için alabileceği class tanımlarından biridir?",
+    "seçenekler": [
+      "A) form-label-check",
+      "B) form-responsive",
+      "C) form-control",
+      "D) form-element",
+      "E) form-adaptive"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 11"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "CSS Flexbox’ta birden çok satıra yaymak için hangi özellik kullanılır?",
+    "seçenekler": [
+      "A) column",
+      "B) Align-item",
+      "C) Align-content",
+      "D) Flex-wrap",
+      "E) Flex-grow"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi kullanılan cihaz ya da ekranı tamamen kapsayan \"\"container\"\" tanımıdır?",
+    "seçenekler": [
+      "A) container",
+      "B) container-fluid",
+      "C) container-sm",
+      "D) container-full",
+      "E) container-xxl"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi mobil uyumlu web siteyi tanımlamaktadır?",
+    "seçenekler": [
+      "A) Tek ekran üzerinden çalışılıp paylaşılan web sayfalarıdır.",
+      "B) Masaüstü tasarımı olarak ayarlanıp kullanıcıların mobil cihazları ile giriş yaptığı tüm siteler mobil uyumlu web sitelerdir.",
+      "C) Alan adının önünde sadece “m.alanadi.com” olan siteler mobil uyumlu sitelerdir.",
+      "D) Farklı çözünürlük ve boyutlardaki cihazlarda ideal görüntülenmesi için tasarlanan web sayfalarıdır.",
+      "E) Alan adının sonunda sadece “alanadi.com/m” olan siteler mobil uyumlu sitelerdir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "................. kullanıcının tarayıcısında girdiği web sayfasının kapladığı alandır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Robots",
+      "B) Viewport",
+      "C) Refresh",
+      "D) Author",
+      "E) Charset"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 Viewport kullanıcının tarayıcısında girdiği web sayfasının kapladığı alana denmektedir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi uyarlanabilir tasarım özelliklerinden biridir?",
+    "seçenekler": [
+      "A) JavaScript kodları, uyarlanabilir tasarımlarda web site bileşenlerini kontrol etmek için kullanılabilir.",
+      "B) Duyarlı tasarım farklı cihazlarda benzer bir tasarım düzeni sunmaktadır.",
+      "C) Farklı ekranlara göre farklı düzenlemeler yapılamaz.",
+      "D) Belirli bir hedef kitlesi yoktur.",
+      "E) Uyarlanabilir tasarımda farklı ekranların site bileşenlerinin boyut ve davranışları özelleştirilemez."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 12 JavaScript kodları, uyarlanabilir tasarımlarda web site bileşenlerini kontrol etmek için kullanılabilir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "............. bir web sitesinin herhangi bir tarayıcıda beklendiği gibi çalışıp çalışmadığı anlamına gelir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Çapraz tarayıcı uyumluluğu",
+      "B) Yazılım dili",
+      "C) JavaScript",
+      "D) CSS3",
+      "E) HTML5"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Az yoğunlukta ve genellikle tek sayfadan veya ekrandan oluşan çalışmalarda insan gözünün hareket etiği yolu açıklamaya çalışan tasarım modeli aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Z-Deseni",
+      "B) Gutenberg",
+      "C) F-Deseni",
+      "D) N-Deseni",
+      "E) V-Deseni"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 14 Gutenberg modeli doğru cevaptır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "HTML 5 ile yeni gelen API’lerden “websocket”in görevi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Konum bilgisini tanımlar.",
+      "B) Sayfa içindeki nesnelere sürükle-bırak tanımlar.",
+      "C) Yazdırma desteği sağlar.",
+      "D) İstemci bilgisayarına veri depolamayı tanımlar.",
+      "E) Sunucu, istemci arasındaki çift yönlü bağlantıyı tanımlar."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Çok satırlı yapılarda ögeleri çapraz eksende (dikey) hizalamak için kullanılan align-content değerlerinden biri aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) space-around",
+      "B) order",
+      "C) flex-wrap",
+      "D) flex-grow",
+      "E) flex-direction"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 space-around doğru cevap olup öğeleri satır araları eşit boşluklarda olacak şekilde dikey eksende ortalar."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "I. Breakpoints (Kesme Noktaları) II. Containers (Kapsayıcılar) III. Grid (Izgara) IV. Tables (Tablolar) Yukarıdakilerden hangisi ya da hangileri Layout (Düzen) Sistemi'nin bileşenleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) I, II ve III",
+      "E) I, II ve IV"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10"
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi yatay gezinme çubuğuna ait elemanlar arasında yatay bir düzen oluşturmak için kullanılan stil tanımıdır?",
+    "seçenekler": [
+      "A) pull",
+      "B) offset",
+      "C) float",
+      "D) margin",
+      "E) padding"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi 2 boyutlu dönüştürme yöntemlerinden biri değildir?",
+    "seçenekler": [
+      "A) rotate",
+      "B) grow",
+      "C) scaleY",
+      "D) skewX",
+      "E) matrix"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 9 Böyle bir yöntem yoktur. CEVAP ANAHTARI"
+  }
+]

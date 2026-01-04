@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir çerçeve türü değildir?",
+    "seçenekler": [
+      "A) frameset",
+      "B) frame",
+      "C) iframe",
+      "D) window",
+      "E) object"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 Ünite genelinde anlatılmaktadır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Bir sayfaya resim eklemek için aşağıdaki hangi HTML elementi kullanılır?",
+    "seçenekler": [
+      "A) < medya >< /medya >",
+      "B) < gorsel >< / gorsel >",
+      "C) < resim >< / resim >",
+      "D) < img > < img / >",
+      "E) < metin >< / metin >"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 HTML sayfalarına görsel eklemek için elementi kullanılabilir. Bu element öznitelik olarak “src” parametresinin tanımlanmasını zorunlu tutmaktadır. Ayrıca; “alt” parametresinin tanımlanması W3 tarafından doğrulanabilmek için gereklidir."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir videonun boyutunu (sabit diskte kapladığı alanı) belirleyen faktörler arasında yer almaz?",
+    "seçenekler": [
+      "A) Videonun çözünürlüğü",
+      "B) Videonun saniyedeki kare sayısı",
+      "C) Videonun süresi",
+      "D) Videonun hızlı oynatılması",
+      "E) Videonun formatı"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 videonun hızlı veya yavaş oynatılması boyutunda bir değişikliğe neden olmaz."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Bir yorumlama motoru olan V8 hangi tarayıcı tarafından kullanılmaktadır?",
+    "seçenekler": [
+      "A) Microsoft Internet Explorer",
+      "B) Mozilla Firefox",
+      "C) Apple Safari",
+      "D) Opera",
+      "E) Google Chrome"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Çerçevelerden oluşmuş bir HTML sayfasında body yerine aşağıdaki elementlerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) table",
+      "B) title",
+      "C) head",
+      "D) frameset",
+      "E) meta"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 9 çerçevelerden oluşan sayfada body yerine frameset elementi kullanılır"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdakilerden hangisi CSS'de \"\"background-repeat\"\" kodunun alabileceği değerlerden biri değildir?",
+    "seçenekler": [
+      "A) repeat",
+      "B) repeat-x",
+      "C) repeat-y",
+      "D) repeat-xy",
+      "E) no-repeat"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 background-repeat in alabileceği değerler arasında repeat-xy bulunmamaktadır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "İnternet sitesindeki menüler hangi amaçla kullanılır?",
+    "seçenekler": [
+      "A) Sayfalara erişim için",
+      "B) Ses çalmak için",
+      "C) Video silmek için",
+      "D) Siteyi kopyalamak için",
+      "E) Resim oluşturmak için"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 13 Ünitenin genelinde anlatılmaktadır."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "HTML'de ziyaretçilerden alınan bilgilerin sunucu bilgisayarına gönderilmesi işlemi aşağıdakilerden hangisi kullanılarak yapılır?",
+    "seçenekler": [
+      "A) form",
+      "B) span",
+      "C) div",
+      "D) table",
+      "E) progress"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 sunucuya veri göndermek için form elementleri kullanılır"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir arama motoru türüdür?",
+    "seçenekler": [
+      "A) Arama dizini (directory)",
+      "B) Spiders",
+      "C) Database",
+      "D) Sıralama ölçütü",
+      "E) Periyot"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Arama motorları: • Arama dizini (directory) • Arama motoru (search engine) • Metasearch şeklinde üç farklı türden oluşur."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Belirli bir olayın ilerleme durumunu izlemek için kullanılan HTML etiketi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) span",
+      "B) div",
+      "C) progress",
+      "D) style",
+      "E) meta"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 5 Belli bir olayın ilerleme durumunu ya da yüzdesini izlemek için progress etiketi kullanılır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "ATA-AÖF yazısının kalın (bold) yazılmasını sağlayan etiket aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) < big > ATA-AÖF < / big >",
+      "B) < u > ATA-AÖF < / u >",
+      "C) < hx > ATA-AÖF < / hx >",
+      "D) < b > ATA-AÖF < / b >",
+      "E) < ı > ATA-AÖF < / ı >"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 4 , metni kalın yazdıran (bold) Etiketir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Bağlantının yeni bir pencerede açılması için aşağıdaki parametrelerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) target=”_blank”",
+      "B) target=”_parent”",
+      "C) target=”_self”",
+      "D) target=”_top”",
+      "E) target=”_çerçeve_adi”"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Internet Explorer tarafından sunulan “Geliştirici Araçları” klavyede hangi tuşa basıldığında aktifleşir?",
+    "seçenekler": [
+      "A) F10",
+      "B) F12",
+      "C) Ctrl+Enter",
+      "D) F1",
+      "E) F8"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "2013 yılında en çok tercih edilen tarayıcı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Microsoft Internet Explorer",
+      "B) Mozilla Firefox",
+      "C) Apple Safari",
+      "D) Google Chrome",
+      "E) Opera"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "CSS3 teknolojisi ile çizgisel gradyent oluşturmak için “background-image” özelliğine aşağıdakilerden hangisi yazılmalıdır?",
+    "seçenekler": [
+      "A) color( #renkust, #renkalt )",
+      "B) gradient-line( #renkust, #renkalt )",
+      "C) linear-gradient( #renkust, #renkalt )",
+      "D) transform( #renkust, #renkalt )",
+      "E) url( #renkust, #renkalt )"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 13 CSS3 de çizgisel gradyent oluşturmak için linear-gradient kullanılır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Bir web sayfası tasarlanırken aşağıdaki form nesnelerinden hangisi kullanılırsa, ziyaretçinin birbiriyle alakalı bir grup öge arasından bir ya da birden fazla seçeneği seçebilmesi sağlanır?",
+    "seçenekler": [
+      "A) Radio",
+      "B) Text",
+      "C) Textarea",
+      "D) Password",
+      "E) Checkbox"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 8 -"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Tarayıcı sayfasının sol üst kısmında tarayıcı ile birlikte görülen yazı hangi etiket ile elde edilir?",
+    "seçenekler": [
+      "A) < title >",
+      "B) < head >",
+      "C) < body >",
+      "D) < html >",
+      "E) < ol >"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi arka plan özelliği değildir?",
+    "seçenekler": [
+      "A) background-color",
+      "B) background-repeat",
+      "C) background-image",
+      "D) background-exit",
+      "E) background-position"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 12 Tablo 12.1. Arka plan özellikleri tablosunda yer almaktadır. CSS3 özelliklerinden; “background- size” için “cover” değeri ile arka plan görselinin sayfayı kaplamasını sağlayabilirsiniz."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdaki TD etiketinin hangi parametresi ile tablodaki hücre genişliği belirlenir?",
+    "seçenekler": [
+      "A) bgcolor",
+      "B) background",
+      "C) valign",
+      "D) height",
+      "E) width"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 7 Width Parametresi Tablonun piksel cinsinden genişliğini belirler. Bu parametreyi kullanmazsanız, web tarayıcısı hücre içinde yer alan bilgilerden en geniş olanı dikkate alarak tabloya otomatik olarak atayacaktır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi internet terimlerinden biri değildir?",
+    "seçenekler": [
+      "A) Domain",
+      "B) Hard Disk",
+      "C) Sunucu",
+      "D) Alan adı",
+      "E) www"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 Ünite genelinde yer almaktadır."
+  }
+]

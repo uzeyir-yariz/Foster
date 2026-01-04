@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi Göktürk alfabesinin özelliklerinden biri değildir?",
+    "seçenekler": [
+      "A) Sağdan sola veya yukarıdan aşağıya doğru yazılır.",
+      "B) Soldan sağa veya aşağıdan yukarıya doğru yazılır.",
+      "C) Harfler birbirinden ayrı yazılır.",
+      "D) Kelimeler arasına “:” konur.",
+      "E) Toplamda 38 harf bulunmaktadır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 4 Tablo 4.3 Yüzyıllara göre Türklerin kullandığı alfabeler"
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "“-den” eki aşağıdaki cümlelerin hangisinde karşılaştırma görevinde kullanılmıştır?",
+    "seçenekler": [
+      "A) Gün boyunca uykusuzluktan öldüm.",
+      "B) Gelecek yıl üniversiteden ayrılmayı düşünüyorum.",
+      "C) Gelecekte ışıktan hızlı ulaşım araçlarını da yapacaklar.",
+      "D) Soru kitapçıkları yayınevinden gelmiş.",
+      "E) Doktor olan oğlundan kötü haber geldi."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 7 sayfa 14 paragraf 7 de yer almaktadır."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "“Türkü söyleyen kimdi?” sorusunun cevabı hangi ögeyi bulmaya yöneliktir?",
+    "seçenekler": [
+      "A) Yüklem",
+      "B) Nesne",
+      "C) Özne",
+      "D) Yer tamlayıcısı",
+      "E) Zarf tümleci"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi konuşma dili ile yazı dili arasındaki farklardan biri değildir?",
+    "seçenekler": [
+      "A) Bir ülkede bir konuşma dili, birden fazla yazı dili olabilir.",
+      "B) Konuşma dili doğaldır, yazı dili ise yapay bir dildir.",
+      "C) Yazı dilinde kurallara sıkı sıkıya uyulması gerekirken konuşma dilinde esneklik söz konusudur.",
+      "D) Konuşma dilinin etki alanı yazı diline göre daha dardır.",
+      "E) Konuşma dili günlük hayatia farklılıklar arz ederken yazı dili değişmezdir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 Bir ülkede bir yazı dili, birden fazla konuşma dili olabilir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdaki cümlelerden hangisi yapı bakımından olumsuz olduğu hâlde soru yolu ile olumlu anlam kazanmıştır?",
+    "seçenekler": [
+      "A) Bugün derse neden gelmedin?",
+      "B) Kapıyı çalanı niçin bana söylemedin?",
+      "C) Doktor içeride mi?",
+      "D) Bana yalvaran sen değil miydin?",
+      "E) Niçin bu kadar geç kaldınız?"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 13 Bana yalvaran sen değil miydin? (sendin)"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Aşağıdaki ilişki sözlerin hangisi diğerlerinden farklıdır?",
+    "seçenekler": [
+      "A) İyi saatie olsunlar.",
+      "B) Yediğin içtiğin senin olsun gezdiğin gördüğün yerleri anlat.",
+      "C) Ölülerin ardından kötü söz söylenmez.",
+      "D) Küçüklerin gözlerinden büyüklerin ellerinden öperim.",
+      "E) Ayıptır söylemesi."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Türkçe kelimelerde vurgu genellikle son hecede bulunur. Aşağıdakilerin hangisinde buna aykırı bir durum vardır?",
+    "seçenekler": [
+      "A) Getirdim",
+      "B) Benimle",
+      "C) Sizlerden",
+      "D) Kurtuluş",
+      "E) Heyecanlı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde ünlü düşmesiyle ilgili bir yazım yanlışı yapılmamıştır?",
+    "seçenekler": [
+      "A) İnsan dünyayı zapt eder ama ağızını zapt edemez.",
+      "B) İnsanların karşısına ak bir alınla çıkmak gerek.",
+      "C) \"\"Benim alınım açık, yüzüm ak.\"\" dedim kendi kendime.",
+      "D) Rüzgârda yalınız başına yürüyordu.",
+      "E) Cinlerin beyinimde yaptığı düğün. Sulardan, seslerden ve gecelerden"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 \"\"İnsanların karşısına ak bir alınla çıkmak gerek.\"\" cümlesinde ünlü düşmesinden kaynaklanan bir yazım yanlışı yapılmamıştır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Teolojik Görüş aşağıdakilerden hangisini savunmaktadır?",
+    "seçenekler": [
+      "A) İnsan dili çevresinden öğrenir.",
+      "B) Dil, yaratıcı tarafından insanlara bahşedilen bir yetidir.",
+      "C) İnsan dili taklit yoluyla öğrenir.",
+      "D) İnsan önce yazmayı sonra konuşmayı öğrenir.",
+      "E) İnsanın ne zaman ve nasıl konuştuğu belli değildir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1 Üç mukaddes kitabın verdiği bilgilere göre dil, Hz. Âdem'e ve onun şahsında insanlara doğuştan verilmiş ilahî bir yetenektir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdaki atasözlerinden hangisi gerçek anlamıyla kullanılmıştır?",
+    "seçenekler": [
+      "A) Sebepsiz ölüm olmaz.",
+      "B) Çivi çiviyi söker.",
+      "C) Minareyi çalan kılıfını hazırlar.",
+      "D) Mum dibine ışık vermez.",
+      "E) Ayağını yorganına göre uzat."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 5 Ölüm hak, miras helâl."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde somut anlamlı bir sözcük soyut anlam ifade etmektedir?",
+    "seçenekler": [
+      "A) Karikatür hazırlamak ciddi entelektüel bilgi gerektirir.",
+      "B) Başarısızlığımızda acaba birilerinin parmağı mı var?",
+      "C) Kafasından geçenleri sadece kendisi bilirdi.",
+      "D) Çocukluk, ömrün en neşeli zaman dilimidir.",
+      "E) Hiçbir şeyden korkmayan cesur bir adamdı."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 8 Doğru cevap açıklaması 5. sayfa 2. paragraftadır."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisi fiil (eylem) cümlesi değildir?",
+    "seçenekler": [
+      "A) Hırsızlar kapıyı kırıp içeri girmişler.",
+      "B) Çanakkale içinde vurdular beni.",
+      "C) Ertesi gün hiç kimse ölmedi.",
+      "D) Akıl akıldan üstündür.",
+      "E) El elin eşeğini türkü çağırarak arar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "............ cümle, yüklemi kullanılmadığı hâlde yargı bildiren cümlelerdir. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Devrik",
+      "B) Eksiltili",
+      "C) Kurallı",
+      "D) Basit",
+      "E) Sıralı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 12 Yüklemi kullanılmadığı hâlde yargı bildiren cümlelerdir. Eksiltili cümleler iyi kurulmak ve yerinde kullanılmak şartıyla anlatıma güç kazandırır, özlülük sağlar."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "I. Farklı coğrafyalarda yaşamış olmaları II. Savaşlar III. Göçler Yukarıdakilerden hangisi ya da hangileri Türklerin tarih boyunca birçok alfabe kullanmalarının temel nedenleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi eklemeli dillerden biri değildir?",
+    "seçenekler": [
+      "A) Türkçe",
+      "B) Çince",
+      "C) Moğolca",
+      "D) Mançuca",
+      "E) Macarca"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 3 Türetme veya çekim sırasında kökte bir değişme olmaz. Türkçemiz bu grubun en belirgin örneğidir. (Türkçe, Moğolca,Mançuca, Tunguzca, Macarca)"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisinde ”yer” kavramı daha çok vurgulanmıştır?",
+    "seçenekler": [
+      "A) İşçiler, sabahtan beri çalışıyorlardı.",
+      "B) Her hafta sonu köyümüze giderdik.",
+      "C) Kaybolan ehliyetimi arkadaşım bulmuş.",
+      "D) Bir saatir çalışma masasını düzenliyor.",
+      "E) Akşamki maça Ali de katılacak."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerin hangisinde yalın hâlde bulunan bir sözcük cümlenin belirtisiz nesnesidir?",
+    "seçenekler": [
+      "A) Dün uçakla Adana'ya giti.",
+      "B) Aslında tüm kızgınlığım sana.",
+      "C) Kredi kartımın iptal edildiğini yeni öğrendim.",
+      "D) İstersen şu kahvehanede bir çay içelim.",
+      "E) Ben yalnızken daha iyi çalışıyorum."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 7 Sayfa 13 paragraf 7 de yer almaktadır."
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdaki kelimelerin hangisinde iç seste ünsüz türemesi olmuştur?",
+    "seçenekler": [
+      "A) Fiyat",
+      "B) Akıl",
+      "C) İstop",
+      "D) Devir",
+      "E) Fikir"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 6 fiat-fiyat: y ünsüzü türemiş."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdaki cümlelerin hangisi devrik isim cümlesidir?",
+    "seçenekler": [
+      "A) Kardeşi çok tatlı bir çocuktu.",
+      "B) Herkesi yemeğe davet etmişti.",
+      "C) Her şeyiyle bir mucizeydi hayat.",
+      "D) Bizi tanımayanlar uzaktan gelenlerdi.",
+      "E) Seni bilmeyenler belki inanır."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Dil ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Teknolojik gelişmelerle birlikte dilin sınırlandırıcı etkisi giderek azalmaktadır.",
+      "B) Çağımızda yaşanan önemli değişimler dilin önemini daha da artırmıştır.",
+      "C) Dil, insanın geleceğe kalma arzusunun ürünüdür.",
+      "D) Dil, günümüzde pek çok araştırmanın konusu olmaya devam etmektedir.",
+      "E) Dilin, millî kimliğin inşasında önemli bir rolü vardır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 2 Sayfa 3 paragraf 5 de yer almaktadır. CEVAP ANAHTARI"
+  }
+]

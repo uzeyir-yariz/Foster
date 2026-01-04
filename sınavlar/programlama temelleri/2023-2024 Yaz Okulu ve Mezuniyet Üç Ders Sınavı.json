@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "\"\"Örnek String.\"\" string ifadesinin boyut bilgisi kaçtır?",
+    "seçenekler": [
+      "A) 12",
+      "B) 10",
+      "C) 9",
+      "D) 13",
+      "E) 11"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "SET x=20, y=2 DO       COMPUTE x= x / 2       COMPUTE y= y + 1       IF x>y THEN                           PRINT x, y       ENDIF WHILE x>y Yukarıdaki sözde kodun çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 10 3   5 4   2,5 5",
+      "B) 20 3 10 4   5 5",
+      "C) 10 3   5 4",
+      "D) 20 2 10 3   5 4",
+      "E) 20 2 20 2"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniği aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Akış diyagramları",
+      "B) Dönüştürücü",
+      "C) Algoritma",
+      "D) Çizgi diyagramları",
+      "E) Sözde kod"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Dosyadan okuma işlemi için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) >",
+      "B) <<",
+      "C) >>",
+      "D) <",
+      "E) ="
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "cout << \"\"Bugun hava\\ncok guzel, degil mi?\\n\"\"; Yukarıdaki C++ kodu çalıştırıldığında ekran çıktısı aşağıdakilerden hangisi olur?",
+    "seçenekler": [
+      "A) Bugun hava cok guzel, degil mi?",
+      "B) Bugun hava cok guzel, degil mi?",
+      "C) Bugun hava cok guzel, degil mi?",
+      "D) Bugun hava cok guzel, degil mi?",
+      "E) Bugun hava cok guzel, degil mi?"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "#include <iostream> #include <cmath> using namespace std; double NoktalarArasiUzaklik(int x1, int y1, int x2, int y2) {         int sonuc;         sonuc = pow(x2 - x1, 2) + pow(y2 - y1, 2);         sonuc = sqrt(sonuc);         return sonuc; } int main() {         cout <<NoktalarArasiUzaklik(1,1,5,4);         return 0; } Verilen C++ programının çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 4",
+      "B) 3",
+      "C) 5",
+      "D) 0",
+      "E) 6"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "C++ kaynak kodunun makine diline dönüştürülmesi hangi geliştirme aşamasında olmaktadır?",
+    "seçenekler": [
+      "A) Derleme",
+      "B) Çalıştırma",
+      "C) Ön işleme",
+      "D) Yükleme",
+      "E) Birleştirme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "İlişkisel ve/veya mantıksal operatörler kullanılarak cevabı doğru veya yanlış olan ifadeler oluşturulabilir. Aşağıdakilerden hangisinde verilen bu örnek ifadenin anlamı doğru verilmiştir?",
+    "seçenekler": [
+      "A) x < 5 && y > 10    y değeri 5'ten küçük ve x değeri 10'dan büyük müdür?",
+      "B) ! (x < 5)    x değeri 5'ten küçük değil midir?",
+      "C) x >= y    x değeri y değerinden küçük veya eşit midir?",
+      "D) x <= y   y değeri x değerinden küçük veya eşit midir?",
+      "E) x < y     x değeri y değerinden büyük müdür?"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "(465) 8  sayısının ikilik sistemdeki karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) (101110100) 2",
+      "B) (100101100) 2",
+      "C) (111011101) 2",
+      "D) (100101110) 2",
+      "E) (100110101) 2"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "#include <iostream> using namespace std; int main() { char dizi[10] = \"\"deneme123\"\"; dizi[4] = '\\0'; cout << dizi; return 0; } Yukarıdaki C++ programı çalıştırıldığında ekrana hangi çıktıyı yansıtır?",
+    "seçenekler": [
+      "A) Ekrana \"\"d\"\" yazar.",
+      "B) Ekrana dizinin adresini yazar.",
+      "C) Hata verir, çalışmaz.",
+      "D) Ekrana \"\"dene\"\" yazar.",
+      "E) Ekrana \"\"deneme\"\" yazar."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "int dizi[4][4] = {0}; for(int i=0; i<4; i++)    for(int j=i; j<4; j++)       dizi[i][j]= i + 1; for(int i=0; i<4; i++) {    for(int j=0; j<4; j++)       cout<<dizi[i][j]<<\"\",\"\";    cout<<endl; } Yukarıdaki C++ kod bloğu çalıştırıldığında aşağıdaki ekran çıktılarından hangisini üretir?",
+    "seçenekler": [
+      "A) 1,1,1,1, 2,2,2, 3,3, 4,",
+      "B) 1,1,1,1, 0,2,2,2, 0,0,3,3, 0,0,0,4,",
+      "C) 0,1,1,1, 0,2,2,2, 0,3,3,3, 0,4,4,4,",
+      "D) 1,1,1,1, 2,2,2,2, 3,3,3,3, 4,4,4,4,",
+      "E) 0,0,0,1, 0,0,2,2, 0,3,3,3, 4,4,4,4,"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Bir C++ programında verilen y=3*5-6*2%5+3; ifadesinde y değişkeninin alacağı değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 24",
+      "B) 28",
+      "C) 12",
+      "D) 16",
+      "E) 26"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "İlk giren son çıkar ilkesine göre aşağıdaki depo yapılarından hangisi çalışır?",
+    "seçenekler": [
+      "A) set",
+      "B) list",
+      "C) vector",
+      "D) map",
+      "E) stack"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Sınıf içinde üyelere ulaşım belirteçleri aşağıdakilerden hangisinde yer almaktadır?",
+    "seçenekler": [
+      "A) public ve/veya private",
+      "B) public ve/veya protected",
+      "C) private",
+      "D) protected ve/veya private",
+      "E) protected"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Hatasız kod yazımı için aşağıdakilerden hangisi tavsiye edilmektedir?",
+    "seçenekler": [
+      "A) Kodlamada bir seferde birden fazla değişiklik yapılması",
+      "B) Test veri setinin kapsamlı olarak hazırlanması",
+      "C) Kod arasına açıklama satırlarının eklenmemesi",
+      "D) Program kod bloklarının en az 20 satır olması",
+      "E) Varsayılan değer bağımlılığının olması"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Program çalıştırma işleminin klavyeden kısayol tuş birleşimi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) CTRL+E",
+      "B) F2",
+      "C) F5",
+      "D) ALT+F2",
+      "E) CTRL+F5"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Bir döngünün belirli bir iterasyonunda iken kalan komutları atlayıp bir sonraki iterasyona geçmek için aşağıdakilerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) continue",
+      "B) throw",
+      "C) case",
+      "D) break",
+      "E) switch"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdaki hangi string sınıfı üye fonksiyonu, iki string ifadesinin karşılaştırılması amacıyla kullanılır ve farklı uzunlukları durumunda -1 veya +1 gibi değerler döndürebilir?",
+    "seçenekler": [
+      "A) find",
+      "B) substr",
+      "C) compare",
+      "D) resize",
+      "E) capacity"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "C++ programlama dilinde aşağıdaki kod satırlarından hangisi var olan dosya içerisindeki verilere dokunmadan sondan başlayarak yeni veri kaydetmemize olanak tanıyan yöntemi içerir?",
+    "seçenekler": [
+      "A) dosyaIsleme.open(\"\"Kayit.txt\"\", ios::out, 1);",
+      "B) dosyaIsleme.open(\"\"Kayit.txt\"\", ios::app, 0);",
+      "C) dosyaIsleme.open(\"\"Kayit.txt\"\", ios::in, 1);",
+      "D) dosyaIsleme.open(\"\"Kayit.txt\"\", ios::binary);",
+      "E) dosyaIsleme.open(\"\"Kayit.txt\"\", ios::in, 0);"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "I. Stack II. Map III. Set IV. Vector V. Heap Yukarıdaki depo türlerinden hangi veri yapısı açıklaması ile eşleştirmesi dışında kalır?",
+    "seçenekler": [
+      "A) İlk giren, ilk çıkar mantığına sahip depo türüdür.",
+      "B) Verileri büyüklüklerine göre sıralar ve aynı veriye birden fazla sahip olamaz.",
+      "C) Anahtar değerine göre sıralama yapar ve veri çiftlerini depolar.",
+      "D) İlk giren, son çıkar mantığına sahip depo türüdür.",
+      "E) Verilerin konumlarına ve büyüklüklerine bağımsız olarak sıralar."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  }
+]

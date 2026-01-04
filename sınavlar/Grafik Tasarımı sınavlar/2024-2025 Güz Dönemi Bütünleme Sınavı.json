@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdaki komutlardan hangisi tasarım alanında yer alan cetvellere ait bütün kılavuz çizgilerini kaldırmak için kullanılır?",
+    "seçenekler": [
+      "A) Kılavuzları kilitle",
+      "B) Yeni kılavuz",
+      "C) Kılavuzları temizle",
+      "D) Ekran modu",
+      "E) Yapışma yeri"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop programında dosya kaydetme yöntemlerinden biri değildir?",
+    "seçenekler": [
+      "A) Klavyeden Shift+Ctrl+S tuş bileşenlerine tıklanmalıdır.",
+      "B) Dosya menüsünden farklı kaydet komutu seçilmelidir.",
+      "C) Dosya menüsünden dışa aktar komutlarından biri seçilmelidir.",
+      "D) Klavyeden Ctrl+S tuş bileşenlerine basılmalıdır.",
+      "E) Düzenle menüsünden kaydet komutu seçilmelidir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi enerji, savaş ve güç ile ilişkili bir renktir?",
+    "seçenekler": [
+      "A) Siyah",
+      "B) Sarı",
+      "C) Kırmızı",
+      "D) Beyaz",
+      "E) Yeşil"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi resim biçimlerinden biri değildir?",
+    "seçenekler": [
+      "A) PNG",
+      "B) TIFF",
+      "C) GIF",
+      "D) JPG",
+      "E) PDF"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Photoshop programında paragrafa metin ekleme işlemi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Paragrafta metin eklemek için yatay yazı aracı tıklanır.",
+      "B) Paragrafta metin ekleme işlemi yapılırken belirlenen sınırlandırma kutusunun alabileceğinden daha fazla metin girilmesi sağlanabilir.",
+      "C) Paragrafta metin ekleme genellikle afiş, broşür tasarımlarında paragraf eklemek için kullanılır.",
+      "D) Paragrafta metin ekleme işlemi ile paragraf birleştirme yani bloklama yapılamaz.",
+      "E) Paragraf şeklinde metin eklemek istenildiğinde, yatay veya dikey olarak sınırların kullanılması sağlanmalıdır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Görüntü üzerinde yapılan ton ve renk düzenlemesinin orijinal görüntü üzerinde değişiklik yaptığı menü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Düzen-Hazır Ayarlar",
+      "B) Pencere-Renk Örnekleri",
+      "C) Katman-Katman Maskesi",
+      "D) Filtre",
+      "E) Görüntü-Ayarlamalar"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında görsel üzerindeki istenilen bölgelerin rengini açık hâle getirmeyi sağlayan araç aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Sünger aracı",
+      "B) Yakma aracı",
+      "C) Hızlı seçim aracı",
+      "D) Soldurma aracı",
+      "E) Leke aracı"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "I. Sıvılaştırma II. Ufuk Noktası III. Gauss Bulanıklığı IV. Radyal Bulanıklık Yukarıdakilerden hangisi ya da hangileri 16 bitlik resimlere uygulanabilecek filtreler arasında yer alır?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) Yalnız I",
+      "C) I, II, III ve IV",
+      "D) III ve IV",
+      "E) II ve III"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisiyle Adobe Photoshop programında bir göz resmin üzerindeki kırmızılıklar giderebilir?",
+    "seçenekler": [
+      "A) Kırmızı göz aracı",
+      "B) Klonlama aracı",
+      "C) Düzeltme fırçası",
+      "D) Nokta düzeltme fırçası",
+      "E) Yama aracı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop'ta uygulanan bir filtre beğenilmediğinde değişikliklerin geri alındığı bir menüdür?",
+    "seçenekler": [
+      "A) Katman",
+      "B) Metin",
+      "C) Görüntü",
+      "D) Düzenle",
+      "E) Dosya"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Cetvellerin başlangıç konumunun bulunduğu yer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Cetvel başlığı",
+      "B) Yaslama yeri",
+      "C) Sıfır konumu",
+      "D) Cetvel boşluğu",
+      "E) Hizalama boşluğu"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programının birden fazla resmi aynı anda yeniden boyutlandırabilme, renk efekti verebilme veya biçimini değiştirebilme özelliğine ne ad verilir?",
+    "seçenekler": [
+      "A) Sıkıştırma",
+      "B) Boyutlandırma",
+      "C) Biçimlendirme",
+      "D) Katmanlama",
+      "E) Yığın işleme"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Katman paneline eklenmiş bir katmanı çoğaltmaya yarayan özellik aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Katmanı yeniden adlandır",
+      "B) Katmanı çoğalt",
+      "C) Katman sil",
+      "D) Katman bağla",
+      "E) Katman taşı"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdaki ayarların hangisinde bir resmin tonu bir grafikte düz bir çizgi olarak görülür ve grafiğin sağ üst alanı açık tonları, sol alt alanı ise gölgeleri temsil eder?",
+    "seçenekler": [
+      "A) Eğriler",
+      "B) Düzeyler",
+      "C) Canlılık",
+      "D) Pozlama",
+      "E) Renk ve Ton"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Photoshop programında animasyon oluştururken GIF dosyasının fazla alan kaplamasını engellemek için kullanılan komut aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Git",
+      "B) Animasyonu En İyileştir",
+      "C) Her Yeni Kare İçin Katman Oluştur",
+      "D) Kareleri Ters Çevir",
+      "E) Tüm Kareleri Seç"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Photoshop programında tasarım yapılan çalışma alanını kılavuz çizgilerine bölmek için kullanılan yeni kılavuz mizanpajı komutunun bulunduğu menü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Görünüm",
+      "B) Düzenle",
+      "C) Seç",
+      "D) Pencere",
+      "E) Dosya"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında yazı katmanının çizim katmanına dönüştürülmesi işlemine ne ad verilir?",
+    "seçenekler": [
+      "A) Serbest dönüştürme",
+      "B) Degrade kaplama",
+      "C) Konturlama",
+      "D) Rasterleştirme",
+      "E) Karıştırma"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Alpha ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Alpha 0 iken piksel tamamen opak, 255 iken tamamen saydam görünümdedir.",
+      "B) Pikselin saydamlık derecesidir.",
+      "C) RGBA sisteminde toplam 256x256x256x256 olasılık vardır.",
+      "D) Ekranlarda RGB renklerine ek Alpha kanalı dediğimiz görünmez kanal bulunur.",
+      "E) Alpha 0 ile 255 arasında olan bir sayıdır."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Resimdeki gölgelerin, orta tonların ve vurguların yoğunluk düzeylerini ayarlamak için aşağıdaki renk ve ton ayarlamalarından hangisini kullanmak daha uygun olur?",
+    "seçenekler": [
+      "A) Canlılık",
+      "B) Pozlama",
+      "C) Düzeyler",
+      "D) Degrade eşleme",
+      "E) Eşik"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Bilgisayar programlarında kayıt işlemi esnasında kullanılan ve ü zerinde çalışılan dosyanın bilgisayar içerisinde hangi klasöre kaydedilmesi gerektiğini ifade eden kavram aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Durma",
+      "B) Hedef",
+      "C) Toplu işleme",
+      "D) Dosya adlandırma",
+      "E) Koşullu ifade"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  }
+]

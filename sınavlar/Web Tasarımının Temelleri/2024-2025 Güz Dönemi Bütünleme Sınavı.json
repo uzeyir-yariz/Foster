@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir tablonun satır ve sütunlarına kenarlık eklemek için kullanılan özelliktir?",
+    "seçenekler": [
+      "A) bordered",
+      "B) cell-bordered",
+      "C) col-bordered",
+      "D) table-bordered",
+      "E) row-bordered"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdaki CSS (Cascading Style Sheets- Basamaklı Stil Sayfaları)  özelliklerinden hangisi ögenin dört tarafındaki kenar boşluğunu ayarlamak için kullanılır?",
+    "seçenekler": [
+      "A) margin-left",
+      "B) border-color",
+      "C) font-size",
+      "D) background-image",
+      "E) margin"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Aşağıdakilerden hangisi web tarayıcılarla ilgili olarak yanlıştır?",
+    "seçenekler": [
+      "A) Kullanıcılar ile web sitesi arasında bağlantı kurar.",
+      "B) Web sitelerinin görüntülenmesi için kullanılır.",
+      "C) Görsel ve metinsel ögeleri görüntüler.",
+      "D) Sadece bilgisayarlar üzerinde kullanılır.",
+      "E) Dosya indirme yapılabilir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdaki HTML kod bloklarından hangisi doğru yazılmıştır?",
+    "seçenekler": [
+      "A) <html><head></body></html><title></title></head><body>",
+      "B) <html><head><title></title></head><body></body></html>",
+      "C) <title><head></title></head><body></body></html><html>",
+      "D) <html><head><title></head><body></html></title></body>",
+      "E) <html><head><title></title></head><body></html></body>"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Aşağıdakilerden hangisi ekran genişliğinin 250px altında olması hâlinde arka plan rengini sarı yapan koddur?",
+    "seçenekler": [
+      "A) @media only screen and (max-with: 250px) {body {background-color:yellow;}}",
+      "B) @media only screen and (max-with: 250px) {body {background-color:red;}}",
+      "C) @media only screen and (min-with: 250px) {body {background-color:yellow;}}",
+      "D) screen and (max-with: 250px) {body {background- color:yellow;}}",
+      "E) @media only screen and (max-with: 250px)"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "CSS  (Cascading Style Sheets- Basamaklı Stil Sayfaları) tablo özelliklerinden olan caption-side'ın açıklaması aşağıdakilerden hangisinde verilmiştir?",
+    "seçenekler": [
+      "A) Tablo başlığının yazı fontunu ayarlar.",
+      "B) Tablo başlığının konumunu ayarlar.",
+      "C) Tablo başlığının rengini ayarlar.",
+      "D) Tablo başlığının kalınlığını ayarlar.",
+      "E) Tablo başlığının büyüklüğünü ayarlar."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi prototip hazırlamanın avantajlarından biri değildir?",
+    "seçenekler": [
+      "A) Geliştirme sürecini taleplere uygun şekilde planlar.",
+      "B) Hata tespiti yapar.",
+      "C) Tasarım maliyetini azaltır.",
+      "D) Ortak çalışma verimliliğini artırır.",
+      "E) Çalışmanın tamamının gözden geçirilmesine imkân sağlar."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi Transitions Metodu'na ait özelliklerden biri değildir?",
+    "seçenekler": [
+      "A) Transition-property",
+      "B) Transition-delay",
+      "C) Transition-duration",
+      "D) Transition-timed-function",
+      "E) Transition-timing-function"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi front-end ve back-end kavramlarıyla ilgili yanlış bir ifadedir?",
+    "seçenekler": [
+      "A) Back-end bölümünde ASP, PHP gibi yazılım dilleri kullanılır.",
+      "B) Front-end bölümünde Oracle, MS SQL Server gibi veri tabanı yönetim sistemleri kullanılır.",
+      "C) Front-end teknolojileriyle kullanıcı arayüzü oluşturulur.",
+      "D) Back-end teknolojileri front-end teknolojilerine alt yapı sağlar.",
+      "E) Kullanıcıların etkileşime girdiği tüm bileşenler front-end olarak anılır."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Aşağıdakilerden hangisi “Form Validation (Doğrulama)” işlemi için form elementinin class tanımına eklenmesi gereken ifadedir?",
+    "seçenekler": [
+      "A) novalidate",
+      "B) validate-form",
+      "C) needs-validation",
+      "D) form-validate",
+      "E) form-valid"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "HTML 5 ile yeni gelen API (Application Programming Interface)' lerden “websocket”in görevi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Sayfa içindeki nesnelere sürükle-bırak tanımlar.",
+      "B) Sunucu, istemci arasındaki çift yönlü bağlantıyı tanımlar.",
+      "C) İstemci bilgisayarına veri depolamayı tanımlar.",
+      "D) Konum bilgisini tanımlar.",
+      "E) Yazdırma desteği sağlar."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi CSS (Cascading Style Sheets- Basamaklı Stil Sayfaları)'de Flexbox özellikleri arasında yer alır?",
+    "seçenekler": [
+      "A) center",
+      "B) stretch",
+      "C) flex-basis",
+      "D) baseline",
+      "E) auto"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Resim ve çizim gibi bağımsız yapılar için aşağıdaki etiketlerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) summary",
+      "B) article",
+      "C) nav",
+      "D) aside",
+      "E) figure"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi dünyada en çok kullanılan tarayıcılardan biri değildir?",
+    "seçenekler": [
+      "A) Xcode",
+      "B) Firefox",
+      "C) Opera",
+      "D) Internet Explorer",
+      "E) Chrome"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Tasarlanan web sitelerinin mobil uyumlu olduğunu test etmek için aşağıdaki işlemlerden hangisi yapılır?",
+    "seçenekler": [
+      "A) Tasarımlarda logonun büyüklüğü her zaman 70px altında ise site mobil uyumludur.",
+      "B) Tasarımlarda H5 gibi küçük başlık stilleri kullanılabilir.",
+      "C) Tasarımlarda 50x50 px'i geçmeyecek şekilde resimler kullanılabilir.",
+      "D) Mobil uyumluluk test siteleri kullanılabilir.",
+      "E) Masaüstü tasarımları kontrol edilebilir."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "................. kullanıcının tarayıcısında girdiği web sayfasının kapladığı alandır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Refresh",
+      "B) Robots",
+      "C) Viewport",
+      "D) Charset",
+      "E) Author"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi W3C (World Wide Web) konsorsiyumunun temel amaçları arasında yer alır?",
+    "seçenekler": [
+      "A) Teknoloji firmaları arasındaki rekabeti artırmak",
+      "B) Büyük teknolojik firmaları korumak",
+      "C) Yeni yazılım dili oluşturmak",
+      "D) İnterneti dünyaya yaymak",
+      "E) Web alanında standartlar oluşturmak"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "HTML özel karakterleri ile “< >” ifadesini elde etmek için aşağıdaki kodlardan hangisi kullanılmalıdır?",
+    "seçenekler": [
+      "A) & lt; & gt;",
+      "B) & gt; & lt;",
+      "C) &# 160;  &# 62;",
+      "D) & lt; & rt;",
+      "E) & nbsp; & amp;"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Flexbox özelliklerinden order özelliğinin işlevi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Esnek bir uzunluğun bileşenlerini belirtir.",
+      "B) Ögenin, esnek kutu içindeki diğer ögelere göre nasıl küçüleceğini belirtir.",
+      "C) Esnek kapsayıcı içindeki esnek kutu ögelerinin çapraz eksende hizalamasını ayarlar.",
+      "D) Ögelerin yönünü belirtir.",
+      "E) Esnek kapsayıcı içindeki ögelerin kaçıncı sırada görünmesi gerektiğini belirler."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Front-end için yapılan kodlamalar aşağıdakilerden hangisi üzerinde çalışır?",
+    "seçenekler": [
+      "A) Son kullanıcıların kullandığı web tarayıcıları",
+      "B) Sunucular",
+      "C) IDE'ler",
+      "D) Veri tabanları",
+      "E) Back-End"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  }
+]

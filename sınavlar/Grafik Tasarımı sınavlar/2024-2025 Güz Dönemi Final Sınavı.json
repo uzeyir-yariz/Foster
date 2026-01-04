@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Aşağıdakilerden hangisi resmin boyutunu fare ile serbest olarak değiştirme yöntemi için doğru bir ifade değildir?",
+    "seçenekler": [
+      "A) Resmin kenarlarında beliren küçük kareler şeklindeki tutamaçlardan tutup sürüklenerek fare aracılığıyla resmin boyutu değiştirilebilir.",
+      "B) Boyutlandırma yapılırken klavyeden Tab tuşuna basılı tutulursa resmin en boy oranı sabit kalır.",
+      "C) Resmin boyutunu fare ile değiştirebilmek için resmi katmana dönüştürmek gerekir.",
+      "D) Eğer Alt tuşuna basılı tutulursa resmin eni ve boyu karşı kenara göre otomatik olarak büyür veya küçülür.",
+      "E) Düzenle menüsünden Serbest Dönüştürme seçilir."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Adobe Photoshop CC 2018 programında mobil aygıtlardaki en iyileştirilmiş görüntüyü elde etmek için kullanılan format aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) PSD",
+      "B) PNG",
+      "C) SVG",
+      "D) WBMP",
+      "E) EPS"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Eylem oluşturmak için  ............... paneli kullanılmaktadır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Katmanlar",
+      "B) Eylemler",
+      "C) Kanallar",
+      "D) Ayarlar",
+      "E) Stiller"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi Eylemler paneli menüsünden eyleme eklenebilecek ögelerden biri değildir?",
+    "seçenekler": [
+      "A) Stil",
+      "B) Koşullu ifade",
+      "C) Yol",
+      "D) Durma",
+      "E) Menü ögesi"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "“...............” klavye tuş kombinasyonu kullanılarak çalışma dosyasının kayıt işlemi tamamlanır. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Alt + C",
+      "B) Alt + S",
+      "C) Ctrl + S",
+      "D) Ctrl + V",
+      "E) Ctrl + C"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "Photoshop Ayarlar panelinde aşağıdakilerden hangisi yer almaz?",
+    "seçenekler": [
+      "A) Kanal karıştırıcı",
+      "B) Posterleştir",
+      "C) Fotoğraf filtresi",
+      "D) Yönlendir",
+      "E) Eğriler"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Bir metni şekle dönüştürmek için aşağıdaki menü sıralamalarından hangisi takip edilmelidir?",
+    "seçenekler": [
+      "A) Metin > Metinden Şekle",
+      "B) Pencere > Şekle Dönüşüm",
+      "C) Dönüştür > Metinden Şekle",
+      "D) Düzen > Metinden Şekle",
+      "E) Metin > Şekle Dönüştür"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Photoshop programında yeni bir dosya açma işleminin yapıldığı menü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Katman",
+      "B) Metin",
+      "C) Dosya",
+      "D) Görüntü",
+      "E) Düzenle"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop'un açabileceği dosya biçimlerinden biri değildir?",
+    "seçenekler": [
+      "A) PDF",
+      "B) DOCX",
+      "C) PSD",
+      "D) JPG",
+      "E) GIF"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "I. Tam kilit II. Boş piksel kilidi III. Dolu piksel kilidi IV. Konum kilidi Yukarıdakilerden hangisi ya da hangileri katman kilitleri arasında yer alır?",
+    "seçenekler": [
+      "A) I ve II",
+      "B) Yalnız I",
+      "C) I, II, III ve IV",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Aşağıdakilerden hangisi Photoshop CC 2018 programında yer alan boyama araçlarından biri değildir?",
+    "seçenekler": [
+      "A) Silgi aracı",
+      "B) Karıştırıcı fırça aracı",
+      "C) Renk değiştirme aracı",
+      "D) Fırça aracı",
+      "E) Kurşun kalem aracı"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Aşağıdakilerden hangisi \"\"Filtre\"\" içerisindeki filtrelerden biri değildir?",
+    "seçenekler": [
+      "A) Sanatsal",
+      "B) Bulanıklaştırma Galerisi",
+      "C) Stilize et",
+      "D) Deforme et",
+      "E) Doku"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Photoshop CC 2018 tasarım alanında cetvellere ait bütün kılavuz çizgilerini kaldırmak için izlenen yol aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Görünüm menüsünden \"\"Kılavuzları Temizle\"\" seçeneğine tıklamak",
+      "B) Görünüm menüsünden \"\"Kılavuzları Kilitle\"\" seçeneğine tıklamak",
+      "C) Görünüm menüsünden \"\"Akıllı Kılavuzlar\"\" seçeneğine tıklamak",
+      "D) Görünüm menüsünden \"\"Izgara\"\" seçeneğine tıklamak",
+      "E) Görünüm menüsünden \"\"Yeni Kılavuz\"\" seçeneğine tıklamak"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi \"\"Görüntü Boyutu\"\" penceresinde yapılabilecek işlemlerden biri değildir?",
+    "seçenekler": [
+      "A) Yeniden örnekleme",
+      "B) Sığdır",
+      "C) Farklı kaydet",
+      "D) Çözünürlük",
+      "E) Resmin fiziksel boyutu"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Photoshop programında video tasarlarken iki farklı kare arasına bir dizi kare eklenmesini sağlayan komut aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Arayı doldur",
+      "B) Animasyonu en iyileştir",
+      "C) Kareleri katmanlara düzleştir",
+      "D) Kareleri ters çevir",
+      "E) Katmanlardan kareler oluştur"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Metinlerde bulunan özel karakterleri kullanmak için aşağıdaki hangi panelden faydalanılmaktadır?",
+    "seçenekler": [
+      "A) Paragraf",
+      "B) Katmanlar",
+      "C) Simgeler",
+      "D) Glifler",
+      "E) Karakter"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Bir metni çarpıtma işlemi için aşağıdaki menü sıralamalarından hangisi takip edilmelidir?",
+    "seçenekler": [
+      "A) Metin > Paneller > Çarpıt",
+      "B) Metin > İşlemler > Çarpıt",
+      "C) Metin > Çarpıtma İşlemi",
+      "D) Metin > Çarpıt",
+      "E) Metin > Metni Çarpıt"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi sıcak ve soğuk renkler arasında yer almaz?",
+    "seçenekler": [
+      "A) Kırmızı",
+      "B) Sarı",
+      "C) Mavi",
+      "D) Pembe",
+      "E) Yeşil"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi çözünürlükten bağımsız olarak detay kaybetmeden yeniden ölçeklendirilebilen görüntü türüdür?",
+    "seçenekler": [
+      "A) GIF",
+      "B) Piksel Grafik",
+      "C) Bitmap",
+      "D) JPG",
+      "E) Vektör Grafik"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi Otomatik Şekil Araçları arasında bulunmaz?",
+    "seçenekler": [
+      "A) Elips",
+      "B) Dikdörtgen",
+      "C) Yuvarlak",
+      "D) Çizgi",
+      "E) Ay"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  }
+]

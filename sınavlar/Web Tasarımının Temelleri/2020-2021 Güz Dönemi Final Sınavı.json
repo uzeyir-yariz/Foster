@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Renk tanımlamak için kullanılan RGB teriminin açılımı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) red-green-blue",
+      "B) renk-geliştirme-belirteçleri",
+      "C) renkli-geçmiş-bellek",
+      "D) renk-genişlik-büyüklük",
+      "E) renk-genişlik-beyazlık"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11 Renk değerleri ayrıca RGB (red- green-blue) standartlarına uygun olarak numerik tanımlamalarla yapılabilir. Aşağıda belirtilen örneklerin tamamı aynı renk değerinin farklı biçimlerde belirtilmesiyle elde edilmiştir."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "\"\"Meter ve progress etiketi\"\" tarayıcı tarafından desteklenmediği durumda aşağıdakilerden hangisi olur?",
+    "seçenekler": [
+      "A) Ekranda görünen çubuğun tamamı yeşil renk olarak görünür.",
+      "B) Ekranda hiçbir bilgi yer almaz.",
+      "C) Ekranda görünen çubuğun tamamı mavi renk olarak görünür.",
+      "D) Ekrana hata mesajı gelir.",
+      "E) Etiket içindeki metin değeri görüntülenir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "I.   Top II.  Middle III. Botiom IV. ColTop Yukarıdakilerden hangisi ya da hangileri \"\"valign\"\" parametresinin alabileceği değerler arasında bulunur?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız IV",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 7 valign parametresine ColTop değeri verilmez."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Sayfaya <audio> elementi aşağıdaki hangi amaçla eklenir?",
+    "seçenekler": [
+      "A) Resim göstermek için",
+      "B) Ses dosyası çalmak için",
+      "C) Video oynatmak için",
+      "D) Metin eklemek için",
+      "E) Siteyi silmek için"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 10 Geliştirilen HTML dokümanına ses araçları eklemek için elementi kullanılır. Element, “controls” özniteliğine sahipse; ziyaretçin tarayıcısı tarafından ses dosyası için aşağıdaki görselde olduğu gibi basit kontroller eklenecektir."
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Bir tabloda bazı hücrelere kenarlık istenmiyorsa kullanılabilecek bağımsız değişken aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) bordercolor",
+      "B) bordercolorlight",
+      "C) frame",
+      "D) bordercolordark",
+      "E) background"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "HTML'de Türkçe karakterleri destekleyen bir dil kodlamasını sayfamıza entegre edebilmek için meta etiketinin content parametresine aşağıdakilerden hangisi yazılmalıdır?",
+    "seçenekler": [
+      "A) content=\"\"text/html; charset=Turkish\"\"",
+      "B) content=\"\"text/html; charset=ISO-TR\"\"",
+      "C) content=\"\"text/html; charset=uƞ-8\"\"",
+      "D) content=\"\"text/html; charset=TR-tr\"\"",
+      "E) content=\"\"text/html; charset=uƞ-TR\"\""
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 14 Türkçe karakterleri desteklemek için content=\"\"text/html; charset=uƞ-8\"\" yazılmalıdır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdakilerden hangisi target parametresinin alabileceği değerlerden biri değildir?",
+    "seçenekler": [
+      "A) target=\"\"_blank\"\"",
+      "B) target=\"\"_include\"\"",
+      "C) target=\"\"_self\"\"",
+      "D) target=\"\"_top\"\"",
+      "E) target=\"\"_parent\"\""
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 6 target parametresi _include değeri almaz."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Bir satır aşağıya inmek için aşağıdaki etiketlerden hangisi kullanılır?",
+    "seçenekler": [
+      "A) < bl >< / bl >",
+      "B) < newline >< / newline >",
+      "C) < breaknew >< / breaknew >",
+      "D) < p >",
+      "E) < br />"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4"
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "<ul class=\"\"menu\"\">         <li>Bir</li>         <li>İki</li>         <li>Üç</li>  </ul> Yukarıdaki ul elementi içerisinde yer alan li elementlerinden sadece ilkinin yazı rengini değiştirmek için yazılması gereken CSS kodu hangisidir?",
+    "seçenekler": [
+      "A) ul.menu > li{color:red;}",
+      "B) ul.menu > li:first{color:red;}",
+      "C) ul.menu > li:1{color:red;}",
+      "D) ul.menu > li:0{color:red;}",
+      "E) ul.menu > li:first-child{color:red;}"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 ilk alt elemanı seçmek için first- child kodu kullanılır."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Bağlanan doküman web sunucunuzdan tamamen ayrı bir sunucuya yerleştirilmiş ise aşağıdakilerden hangisinin kullanılması gerekir?",
+    "seçenekler": [
+      "A) Mutlak yol",
+      "B) Şartlı yol",
+      "C) Dolaylı yol",
+      "D) Göreli yol",
+      "E) Kök yol"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite:"
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Bilgisayarları, internet hizmetlerini ya da özel ağlara bağlı kaynakları hiyerarşik olarak dağıtan alan adlandırma sistemi aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) DNS (Domain Name System)",
+      "B) IP (Internet Protocol)",
+      "C) IPv6 Protokolü",
+      "D) LHS (Local Host System)",
+      "E) HTTP (Hyper-Text Transfer Protocol)"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 1 hiyerarşik olarak alan adlandırılma sistemi DNS'dir"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "I. Unicorn II. HTML III. CSS IV. İşletim Sistemi Yukarıdakilerden hangisi ya da hangileri W3C konsorsiyumunun ücretsiz olarak çevrim içi doğrulama yöntemleri arasında yer alır?",
+    "seçenekler": [
+      "A) Yalnız I",
+      "B) Yalnız IV",
+      "C)  I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 14 W3C konsorsiyumunun sunduğu ücretsiz olarak çevrimiçi doğrulama yöntemler Unicorn, HTML ve CSS dir."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Bir çerçeve içeriğinin bağlantı adresi aşağıdaki hangi öz nitelikte belirtilir?",
+    "seçenekler": [
+      "A) src",
+      "B) id",
+      "C) class",
+      "D) style",
+      "E) data"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 Src: Çerçevede görüntülenecek içeriğin bağlantı adresidir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "<frameset> elementinde dikey alanlar aşağıdaki hangi öz nitelik ile tanımlanır?",
+    "seçenekler": [
+      "A) src",
+      "B) rows",
+      "C) cols",
+      "D) link",
+      "E) id"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 9 Frameset içerisinde bulunan çerçevelerin boyutlarının ayarlanması ise “rows” ve “cols” özniteliklerinin tanımlanması ile mümkündür. Frameset için “rows” özniteliğinin tanımlanması ile yatay alanlar; “cols” özniteliğinin tanımlanması ile de dikey alanlar oluşturulabilir. Her iki değerin birlikte tanımlanması ile tablo oluşturulabilir. İç içe elementleri kullanılması da ayrıca mümkündür. “rows” ve “cols” özniteliklerinin değerleri “çoklu uzunluk değeri” seçeneklerinden olmalıdır. Çoklu uzunluk değeri, yüzde (%) veya göreceli bir değer olabilir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir formun veri gönderme metodudur?",
+    "seçenekler": [
+      "A) POST",
+      "B) SESSION",
+      "C) GLOBAL",
+      "D) RAW",
+      "E) JSON"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 Yukarıda sayılan nedenlerden dolayı, geliştiriciler metod olarak “get” yerine, “post” kullanmayı tercih etmektedirler. Ayrıca; POST metodu kullanarak gönderilen veriler için toplam boyut sınırlaması bulunmamaktadır."
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir web sitesi adresinde yer almaz?",
+    "seçenekler": [
+      "A) com",
+      "B) ftp",
+      "C) htip",
+      "D) site adı",
+      "E) www"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 1"
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "<hx> etiketinde x değerinin alabileceği en büyük değer aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 3",
+      "B) 5",
+      "C) 6",
+      "D) 7",
+      "E) 8"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 4 hx etiketinin alabileceği en büyük değer 6 dır"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Bir formda onay kutusu için hangi “input” tipi kullanılır?",
+    "seçenekler": [
+      "A) checkbox",
+      "B) image",
+      "C) password",
+      "D) submit",
+      "E) reset"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 8 Sayfanıza bir onay kutusu eklemek için, aşağıdaki örnekte olduğu gibi, elementinin “type” parametresini “checkbox” olarak ayarlamanız yeterlidir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Aşağıdakilerden hangisi ses dosyası için kullanılabilir formaƴr?",
+    "seçenekler": [
+      "A) png",
+      "B) jpg",
+      "C) gif",
+      "D) mp3",
+      "E) exe"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 10 Eklediğiniz ses dosyalarının “ogg” veya “mp3”; video dosyalarının da “mp4” formatında olması oynatıcının sorunsuz çalışması için en doğru seçim olacaktır."
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir menü türü değildir?",
+    "seçenekler": [
+      "A) Sekmeli (tab) menü",
+      "B) Dikey menü",
+      "C) Yatay menü",
+      "D) Dikey açılır menü",
+      "E) Çapraz menü"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 13 Ünite genelinde anlatılmaktadır."
+  }
+]

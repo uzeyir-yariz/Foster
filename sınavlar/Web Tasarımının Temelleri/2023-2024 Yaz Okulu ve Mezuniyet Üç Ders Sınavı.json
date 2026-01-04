@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "Türkçe hazırlamış olduğunuz HTML5 dokümanında karakter problemi yaşayabilirsiniz. Bu durumda <.........................> ibaresini <head> etiketlerinin arasında belirtebilirsiniz. Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) charset=”türkçe”",
+      "B) lang=\"\"tr\"\"",
+      "C) !DOCTYPE HTML",
+      "D) meta=”türkçe”",
+      "E) meta charset=”uƞ 8”"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Aşağıdakilerden hangisi \"\"çapraz tarayıcı uyumluluğu sorununun yaygın nedenleri\"\" arasında yer almaz?",
+    "seçenekler": [
+      "A) Tarayıcıya özel CSS kullanımı",
+      "B) Yeni tarayıcı algılama",
+      "C) DOCTYPE kullanımı",
+      "D) Eski tarayıcı algılama",
+      "E) CSS sıfırlama"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Front-end programlamada kullanılan teknolojilerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) CSS ve Javascript kodları doğrudan HTML dosyası içine yazılamaz.",
+      "B) Yaygın olarak bir web projesinin front-end kısmı kendi içinde HTML, CSS ve Javascript olarak üç katmana ayrılır.",
+      "C) HTML web tarayıcılarının okuyup yorumlayabildiği bir etiket yapısına sahiptir.",
+      "D) Tim Berners-Lee tarafında geliştirilen HTML, 1991 yılında genel kullanıma açılmıştır.",
+      "E) JAVASCRİPT dosyaları “js” uzantısına, CSS dosyaları ise “CSS” uzantısına sahiptir."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "Aşağıdakilerden hangisi API kullanmanın avantajlarından biri değildir?",
+    "seçenekler": [
+      "A) Yazılımcının işini her zaman kolaylaştırır.",
+      "B) Zor ve karmaşık görünen projelerin, içeriğinin iyi bir dilde tasarlanmasını ve uygulanmasını sağlar.",
+      "C) Entegrasyon yoluyla oluşturulan projelerin başarılı olma olasılığı daha düşüktür.",
+      "D) Kullanıcı ve müşteri dostu kolaylıklar sağlanabilir.",
+      "E) Projede daha fazla fonksiyon için fırsatlar sağlar."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "Web sitesinin en başında yer alır ve basit HTML kodlarındandır. Web sitesi hakkında bilgi vermek, içerik ve başlıkları belirtmek gibi çeşitli amaçlarla kullanılabilir. İfade edilen HTML kodu aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Meta etiketi",
+      "B) Body etiketi",
+      "C) Özel karakter",
+      "D) Arama motoru optimizasyonu",
+      "E) İndexleme"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "HTML5'te, *.css ve *.js uzantılı dosyaları HTML dokümanı içerisinde çağırırken sırasıyla hangi etiketler kullanılır?",
+    "seçenekler": [
+      "A) <  figure  > ve <  figcaption  >",
+      "B) <  link  > ve <  script  >",
+      "C) <  article  > ve <  section  >",
+      "D) <  details  > ve <  summary  >",
+      "E) <  meter  > ve <  progress  >"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Aşağıdaki alan adı uzantıları ve kullanım alanı eşleştirmelerinden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Gov – Hükûmet kurumları tarafından kullanılır.",
+      "B) Aero - Hava endüstrisi tarafından kullanılır.",
+      "C) Org – Organizasyonlar için kullanılır.",
+      "D) Edu – Eğitim kurumları tarafından kullanılır.",
+      "E) Com – Network altyapılarında kullanılır."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Aşağıdakilerden hangisi Microsoft tarafından hizmete sunulan IDE'dir?",
+    "seçenekler": [
+      "A) Rj TextEd",
+      "B) Visual Studio Code",
+      "C) Materialize",
+      "D) NetBeans",
+      "E) NotePad++"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "Aşağıdaki HTML kod bloklarından hangisi doğru yazılmıştır?",
+    "seçenekler": [
+      "A) <html><head><title></head><body></html></title></body>",
+      "B) <title><head></title></head><body></body></html><html>",
+      "C) <html><head></body></html><title></title></head><body>",
+      "D) <html><head><title></title></head><body></html></body>",
+      "E) <html><head><title></title></head><body></body></html>"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "I. rect II. strokeRect III. fillRect IV. measureText Yukarıdakilerden hangisi ya da hangileri Canvas ile dörtgen çizmek için kullanılan yöntemlerden biri değildir?",
+    "seçenekler": [
+      "A) Yalnız IV",
+      "B) II, III ve IV",
+      "C) I, II, III ve IV",
+      "D) Yalnız I",
+      "E) I, III ve IV"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "Justify Content değeri ve açıklaması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) space-around: İlk ve son öge dışındaki ögelerin arasında eşit boşluklar bırakılır.",
+      "B) flex-start: Ögeleri sola dayar ve soldan sağa hizalar.",
+      "C) space-between: İlk öge sola, son öğe sağa olacak şekilde ögeler eşit olarak hizalanır.",
+      "D) center: Ögeler sola hizalanır.",
+      "E) flex-end: Ögeler sağa dayalı (bitiş noktası) olarak hizalanır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "Flexbox özelliklerinden order özelliğinin işlevi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "seçenekler": [
+      "A) Esnek bir uzunluğun bileşenlerini belirtir.",
+      "B) Ögenin, esnek kutu içindeki diğer ögelere göre nasıl küçüleceğini belirtir.",
+      "C) Esnek kapsayıcı içindeki ögelerin kaçıncı sırada görünmesi gerektiğini belirler.",
+      "D) Esnek kapsayıcı içindeki esnek kutu ögelerinin çapraz eksende hizalamasını ayarlar.",
+      "E) Ögelerin yönünü belirtir."
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Aşağıdakilerden hangisi “Form Validation (Doğrulama)” işlemi için form elementine eklenmesi gereken bir özelliktir?",
+    "seçenekler": [
+      "A) novalidate",
+      "B) validate-form",
+      "C) form-validate",
+      "D) form-valid",
+      "E) needs-validation"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Aşağıdakilerden hangisi mobil uyumluluk testi için kullanılan sitelerden biri değildir?",
+    "seçenekler": [
+      "A) responsivetestiool.com/",
+      "B) google.com/userfriendly",
+      "C) search.google.com/test/mobile-friendly",
+      "D) ami.responsivedesign.is/",
+      "E) responsivedesignchecker.com"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Aşağıdakilerden hangisi prototip çalışmalarının amaçlarından biri değildir?",
+    "seçenekler": [
+      "A) Ürünün sözel olarak anlatılması zor olan özelliklerini de içeren bir sunum olarak da kullanmak",
+      "B) Web sitesi ve kullanıcı arasındaki etkileşim eksikliklerini ve hatalarını keşfetmek",
+      "C) Geliştirilen web sitesinde bulunması gereken özellikleri belirlemek",
+      "D) Kullanıcılara fikrin kolay aktarılabilmesi sebebiyle geri bildirim toplamayı kolaylaştırmak",
+      "E) Farklı tasarım fikirlerini kolayca karşılaştırabilmek"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Çapraz tarayıcı uyumluluğunda aşağıdaki ifadelerden hangisi davranış uyumluluğunu ifade eder?",
+    "seçenekler": [
+      "A) Responsive tasarımdaki sitenin farklı mobil cihazlarda farklı çözünürlükteki görünümünü kontrol eder. Ayrıca mobil cihazın yatay veya dikey çevrilmesi sonucundaki oluşacak görüntüyü de kontrol eder.",
+      "B) CSS ve JavaScript kodlarının farklı tarayıcılarda geçerli olup olmadığını kontrol eder.",
+      "C) Sitenin farklı tarayıcılardaki performansına bakarak performansların yakın olup olmadığını kontrol eder.",
+      "D) Web sitesinin istenilen şekilde görünüp görünmediğini kontrol eder.",
+      "E) Web sitesinin istenildiği gibi davranıp davranmadığını kontrol eder. Örneğin sitede bir butona tıklandığında yeni pencerede bir sayfa açılıyorsa bu işlemin bütün tarayıcılarda gerçekleşip gerçekleşmediğini kontrol eder."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "CSS dilinde içeriğin (metnin) altına, üstüne veya üzerine çizgi çekmeyi belirten özellik aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Text-shadow",
+      "B) Text-indent",
+      "C) Text-align",
+      "D) Text-decoration",
+      "E) Text-overflow"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi animasyon sırasında çeşitli noktalarda animasyon özellikleri için değerleri belirtir?",
+    "seçenekler": [
+      "A) animation-duration",
+      "B) animation-timing-function",
+      "C) @keyframes",
+      "D) animation-iteration-count",
+      "E) animation-name"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": ".................... x ve y ekseni bir uzayda html elementlerinin yerini değiştirme, döndürmek, ölçeklendirmek ve çarpıtmak için kullanılır. Cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) 2D Skew",
+      "B) 2D Rotate",
+      "C) 2D Translate",
+      "D) 2D Transform",
+      "E) 2D Scale"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "Grid sistemi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "seçenekler": [
+      "A) Satıları tanımlamak için row, sütunları tanımlamak için ise col class tanımı kullanılır.",
+      "B) Sütunlar farklı oranlarla birleştirilerek veya kaydırılarak kullanılabilir.",
+      "C) Satır ve sütunlardan oluşan flexbox ile geliştirilmiş Layout sisteminin bir parçasıdır.",
+      "D) Her bir satırda toplam 20 adet sütun bulunmaktadır.",
+      "E) Container yapısı altında çalışmaktadır."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "‘I want to make a cake but there are ________ eggs in the fridge. Can you go to the market and buy some eggs, please? Paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) a few",
+      "B) little",
+      "C) much",
+      "D) many",
+      "E) few"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 4 ‘I want to make a cake but there are ________ eggs in the fridge. Can you go to the market and buy some eggs, please? (Ben bir kek yapmak istiyorum fakat buzdolabında .... yumurta var. MArkete gidip birkaç yumurta alabilir misin) cümle grubundaki boşluk \"\"az\"\" manasına gelen ve sayılabilir kelimelerle kullanılan \"\"few\"\" ile doldurulmalıdır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "I/ go on / a holiday / next month / am going to Yukarıdaki kelimelerden anlamlı bir cümle yapıldığında doğru sıralama aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) I am going to go on a holiday next month.",
+      "B) Go on a holiday  I am going to  next month.",
+      "C)  I go on am going to a holiday next month.",
+      "D) Next month a holiday  I am going to go on .",
+      "E) Am going to I go on a holiday next month."
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 11 I/ go on / a holiday / next month / am going to kelimeleri I am going to go on a holiday next month. ( Gelecek ay tatile gideceğim) şeklinde sıralanmalıdır"
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "We arrived at the ........... late, so we missed the plane. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) station",
+      "B) theatre",
+      "C) garage",
+      "D) cinema",
+      "E) airport"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 10 Aranan kelime havaalanı \"\"airport \"\" olmalıdır."
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "\"\"Where are you from?\"\" Sorusunun yanıtı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) I am 16 years old.",
+      "B) I am at home.",
+      "C) I like Istanbul.",
+      "D) I am from England.",
+      "E) Yes, I am."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 1 \"\"Where are you from?\"\" (Nerelisin?) sorusunun cevabı I am from England.(İngiltereliyim)"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "We always  ....................... the exercises very carefully. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) does",
+      "B) is doing",
+      "C) has done",
+      "D) was doing",
+      "E) do"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Unite: 2 He always ____________________ the exercises very carefully (O daima egzersiz ....) cümlesindeki always sıklık zarfı geniş zamana ait bir zarftır. Egzersiz yapmak fiilinin He öznesine göre çekimi does olup, doğru seçenek does'dır."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "‘Hi, Ali. Is ____ your book?’ Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) they",
+      "B) this",
+      "C) those",
+      "D) these",
+      "E) them"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 7 ‘Hi, Ali. Is ____ your book?’ (Merhaba Ali... senin kitabın mı?) cümlesindeki boşluk için uygun kelime this((bu) olmalıdır."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "______________ 23 rooms at the hotel. Yukarıdaki cümleyi aşağdakilerden hangisi en iyi şekilde tamamlar?",
+    "seçenekler": [
+      "A) How many",
+      "B) How much",
+      "C) There are",
+      "D) There is",
+      "E) Are there"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 3 ______________ 23 rooms at the hotel. (Otelde 23 oda ...) cümlesindeki eksik \"\"var\"\"kelimesidir. 23 oda çoğulluğa işaret ettiğinden, There are seçeneği doğru seçenektir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "A: What will you have for a starter? B: _________________________. Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) Yes, it is a yogurt drink.",
+      "B) I will have the soup, please.",
+      "C) No, thank you.",
+      "D) He is medium weight.",
+      "E) Yes, please."
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 11 A: What will you have for a starter? (başlangıç için ne alacaksınız?) sorusunun cevabı I will have the soup, please (Ben çorba alayım lüƞen) şeklinde olmalıdır."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "I _____________ to Istanbul next week. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) am flying",
+      "B) fly",
+      "C) flew",
+      "D) is flying",
+      "E) flies"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 5 I _____________ to Istanbul next week.( Gelecek hafta İstanbula ...) cümesi için uygun seçenek gelecek zamana işaret eden \"\"gelecek hafta\"\" ifadesinden ötürü uçmak fiilinin \"\"am flaying\"\"(uçacağım) şeklinde çekimlenmelidir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Metin has some ___________ problems. He wants to borrow some money from his best friends. Yukarıdaki cümleyi aşağıdakilerden hangisi en iyi şekilde tamamlar?",
+    "seçenekler": [
+      "A) meant",
+      "B) recover",
+      "C) financial",
+      "D) well",
+      "E) stored"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 6 Metin has some ___________ problems. He wants to borrow some money from his best friends. (Metin bası pronblemlere .... O onun en yakın arkadaşına biraz para ödünç vermek istedi. )cümlesindeki boşluk financial(finansal) kelimesi ile doldurulmalıdır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "The bus left _______ time. Yukarıdaki cümleyi hangisi en iyi şekilde tamamlar?",
+    "seçenekler": [
+      "A) whole",
+      "B) on",
+      "C) much",
+      "D) to",
+      "E) in front"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 13 The bus left _______ time. ( Otobüs zaman...ayrılır) cümlesinde zamanında anlamını sağlamak için gerekli edat on(da)'dır"
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "My sister _________ here now. Yukarıdaki cümleyi aşağıdakilerden hangisi en iyi şekilde tamamlar?",
+    "seçenekler": [
+      "A) am",
+      "B) are",
+      "C) is",
+      "D) does",
+      "E) has"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Unite: 1 My sister is here now My sister 3. tekil şahıs olup to be fiili 'is' şeklinde kullanılır"
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "A: What have you been doing? B: _____________________ . Diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) I have been studying",
+      "B) I don’t have an exam",
+      "C) She has been at home",
+      "D) You have been sleep",
+      "E) I have watching TV"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 9 Present perfect cont. tense olumlu cümle kuruluşuna örnek bir cümledir. have /has yardımcı fiilinden sonra fiil -ing formuyla kullanılır."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Ali ____ Dede Korkut’s Stories now. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) is reading",
+      "B) are reading",
+      "C) to read",
+      "D) reading",
+      "E) read"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 5 Ali ____ Dede Korkut’s Stories now.( Ali suan Dede Korkut Hikayelerini ....) cümlesi now zaman zarfından hareketle present continues çekimli reading fiili ile doldurulmalıdır"
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "Ahmet __________ to see us yesterday evening. Yukarıdaki cümleyi aşağıdakilerden hangisi en iyi şekilde tamamlar?",
+    "seçenekler": [
+      "A) come",
+      "B) is coming",
+      "C) comes",
+      "D) came",
+      "E) are coming"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 6 Ahmet __________ to see us yesterday evening. (Ahmet dün akşam bizleri görmeye ...) cümlesindeki boşluk için came (geldi)"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "A: Do you play football every day? B: ................................................. Diyalogda aşağıdakilerden hangisi en doğru şekilde tamamlar?",
+    "seçenekler": [
+      "A) Yes, you do.",
+      "B) No, you don't.",
+      "C) Yes, I don't.",
+      "D) No, I don't.",
+      "E) Yes, we don't."
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 2 \"\"Do you play football every day? \"\"( her gün futbol oynar mısın?) sorusu Yes veya No ile başlayacak şekilde cevaplandırılmalıdır. Soru \"\"sen\"\" öznesi için sorulduğundan cevap \"\"ben\"\" şeklinde olmalıdır. Dolayısıyla uygun cevap Yes, I do( Evet yaparım) şeklinde olmalıdır."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "My hair was dirty. Now it's clean because I ___________ it. (wash) Yukarıdaki cümleyi aşağıdakilerden hangisi en iyi şekilde tamamlar?",
+    "seçenekler": [
+      "A) washed",
+      "B) was washing",
+      "C) were washing",
+      "D) have washed",
+      "E) has washed"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 8 My hair was dirty. Now it's clean because I ___________ it. (wash) (Benim saçlarım kirliydi, şu an temzi çünkü ben ...) yıkadım diyebilmek için perfect tense'deki çekimi have washed kullanılmalıdır"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Ali:         __________________? Ayşe: I have got two. Yukarıdaki diyaloğu en uygun şekilde tamamlayan seçenek hangisidir?",
+    "seçenekler": [
+      "A) How many sisters do you have?",
+      "B) Have you got a flat or a house?",
+      "C) Does your house have a garden?",
+      "D) How are you today?",
+      "E) Where are you from?"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Unite: 3 I have got two (ben iki taneye sahibim) cevabını karşılayan soru you öznesi ile sorulmalıdır. Have you got a flat or house sorusunun karşılığı aparman dairesi veya ev ifadelerini içerecek şekilde (örneğin I have got a flat) olmalıdır. Bu nedenle How many sisters do you have ( kaç kız kardeşe sahipsin) seçeneği uygun seçenektir."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "Tarkan is ______________ pupil of the school. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) intelligent",
+      "B) more intelligent",
+      "C) most intelligent",
+      "D) the most intelligent",
+      "E) more intelligent than"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "Unite: 14 Tarkan is ______________ pupil of the school. (Tarkan okulun ... öğrencisidir) cümlesi için uygun kelime \"\"the most intelligent\"\"(en zeki) olmalıdır"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "The library is ______  the bus stop. Cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "seçenekler": [
+      "A) at",
+      "B) close to",
+      "C) onto",
+      "D) under",
+      "E) to"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Unite: 12 Bir yere yakın olma durumunda \"\"close to\"\" kalıbı sıklıkla kullanılır."
+  }
+]

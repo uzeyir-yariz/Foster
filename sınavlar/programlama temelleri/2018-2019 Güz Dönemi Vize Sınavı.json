@@ -1,0 +1,282 @@
+[
+  {
+    "soru numarası": 1,
+    "soru cümlesi": "int a= 5, b = 2; cout << ++a * b-- <<endl; Yukarıda verilen C++ kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 10",
+      "B) 12",
+      "C) 5",
+      "D) 6",
+      "E) 9"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Önce artma sonra çarpma ve en son eksiltme yapılır."
+  },
+  {
+    "soru numarası": 2,
+    "soru cümlesi": "Doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniği aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Sözde kod",
+      "B) Algoritmik dil",
+      "C) Akış diyagramı",
+      "D) Yüksek düzeyli dil",
+      "E) Makine dili"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Doğal dile benzer kelimeler ve bazı özel sembollerin bir arada kullanıldığı dil, sözde koddur."
+  },
+  {
+    "soru numarası": 3,
+    "soru cümlesi": "Bir koşulun değerini yanlış ise doğru, doğru ise yanlış yapmak için kullanılacak C++ operatörü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) ==",
+      "B) <>",
+      "C) !=",
+      "D) !",
+      "E) ><"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "! operatörü, kendisinden sonraki koşulun değerini tersine çevirir"
+  },
+  {
+    "soru numarası": 4,
+    "soru cümlesi": "int i; for (i = 0; i <= 10; i++) if (i % 3 > 1 ) break; cout << i << endl; Yukarıda verilen C++ kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 10",
+      "E) 11"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "break kelimesi döngüyü durdurur"
+  },
+  {
+    "soru numarası": 5,
+    "soru cümlesi": "C++ kaynak dosyalarının uzantısı genellikle aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) .c",
+      "B) .exe",
+      "C) .cpp",
+      "D) .sln",
+      "E) .obj"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "C++ kaynak dosyaları .cpp uzantısı ile kaydedilir."
+  },
+  {
+    "soru numarası": 6,
+    "soru cümlesi": "#include <iostream> using namespace std; int F2(int x) { x = x + 2; return x; } int F1(int x) { x = x + 2; x = F2(x); return x; } int main() { int a=1; a=F1(a); cout << a; return 0; } Yukarıdaki C++ programı çalıştırıldığında aşağıdaki çıktılardan hangisini üretir?",
+    "seçenekler": [
+      "A) Çıktı üretmez, hata verir.",
+      "B) 3",
+      "C) 4",
+      "D) 5",
+      "E) 0"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "F1 içinde F2 çağrılabilir."
+  },
+  {
+    "soru numarası": 7,
+    "soru cümlesi": "Yüksek seviyeli bir dille yazılmış bir programı makine diline çevirme işlemine ne ad verilir?",
+    "seçenekler": [
+      "A) Assembler",
+      "B) İndirgeme",
+      "C) Yorumlama",
+      "D) Bağlama",
+      "E) Derleme"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Üst düzey dilden makine diline çevrilme işlemine derleme denir."
+  },
+  {
+    "soru numarası": 8,
+    "soru cümlesi": "Çıktı penceresinin görevi aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "seçenekler": [
+      "A) Programın çıktılarını gösterir.",
+      "B) Programdaki değişkenlerin sayısını gösterir.",
+      "C) Kodların makine diline dönüşmüş hâlini gösterir.",
+      "D) Programın kütüphane dosyalarını gösterir.",
+      "E) Programa ait hata iletilerini ve derleyici uyarılarını gösterir."
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "Çıktı penceresinde varsa yazım hataları veya derlemeyle ilgili bilgiler görünür."
+  },
+  {
+    "soru numarası": 9,
+    "soru cümlesi": "int a = 1, b =5, c=3; if (a >= 5) cout<< 1 <<endl; else if (b <=5) cout<< 2 <<endl; else if (b > 5) cout << 3 << endl; else if (c <= 3) cout << 4 << endl; else cout << 5 << endl; Yukarıda verilen C++ kod bloğunun ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 5"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "ikinci koşul doğru olduğu için 2 çıktısı üretilir."
+  },
+  {
+    "soru numarası": 10,
+    "soru cümlesi": "Akış diyagramlarında baklava sembolünün anlamı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Matematiksel işlem yapma",
+      "B) Girdi/Çıktı işlemi yapma",
+      "C) Karşılaştırma işlemi yapma",
+      "D) Alt süreç işlemi yapma",
+      "E) Başlama/Bitirme işlemi yapma"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Baklava sembolünde bir koşul yer alır."
+  },
+  {
+    "soru numarası": 11,
+    "soru cümlesi": "(FF) 16  sayısının ikilik sayı sistemindeki karşılığı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 11110000",
+      "B) 01111111",
+      "C) 10101111",
+      "D) 11111111",
+      "E) 10100000"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "F, onluk tabanda 15'dir. 1+2+4+8 şeklinde ifade edilir. 1111 şeklinde ikilik sistemde gösterilir. FF ise 8 tane 1 ile 11111111 şeklinde gösterilir."
+  },
+  {
+    "soru numarası": 12,
+    "soru cümlesi": "SET A=1, B=10 DO PRINT A, B COMPUTE A = A + 3 COMPUTE B = B – 3 WHILE A < B Yukarıdaki sözde kod işletildiğinde elde edilecek çıktı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1    10     4    7",
+      "B) 1    9     3    6     6    3",
+      "C) 1    9     4    7",
+      "D) 1    10     4    7     7    4     10  1",
+      "E) 1    10     4    7     7    4"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Döngü içinde önce çıktı, ardından işlem var."
+  },
+  {
+    "soru numarası": 13,
+    "soru cümlesi": "Bir program kendisine girdi olarak aktarılan pozitif bir sayının tek ya da çift olduğunu belirleyebiliyorken, negatif sayılar için daima çift sayı çıktısı üretmektedir. Yukarıdaki programda var olan hata türü aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Mantık hatası",
+      "B) Çalışma zamanı hatası",
+      "C) Komut hatası",
+      "D) Yazım hatası",
+      "E) Söz dizimi hatası"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Programın çalışmasını aksatmayan ancak yanlış değerler üreten hatalara mantık hatası denir."
+  },
+  {
+    "soru numarası": 14,
+    "soru cümlesi": "Microsoft Visual Studio 2017'de kod dosyalarını bulmayı, görüntülemeyi ve yönetmeyi sağlayan pencere aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Çözüm gezgini",
+      "B) Editör penceresi",
+      "C) Çıktı penceresi",
+      "D) Takım gezgini",
+      "E) Araç kutusu"
+    ],
+    "doğru cevap indeksi": 0,
+    "doğru cevap": "A",
+    "açıklama": "Projeyi oluşturan kod dosyalarının ve ilgili tüm dosyaları gösteren pencere Çözüm Gezginidir."
+  },
+  {
+    "soru numarası": 15,
+    "soru cümlesi": "int i; for (i = 0; i <= 5; i+=2) if (i % 2 == 0) cout << i << endl; Yukarıdaki C++ kod parçasının ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 0     1     2",
+      "B) 0     2     4     6",
+      "C) 0     1     3     5",
+      "D) 0     1     2     3     4     5",
+      "E) 0     2     4"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "çift sayıları ekrana yazar"
+  },
+  {
+    "soru numarası": 16,
+    "soru cümlesi": "Çoğu bütünleşik geliştirme ortamında bulunan intellisense özelliği aşağıdakilerden hangisi ile tanımlanabilir?",
+    "seçenekler": [
+      "A) Yazılan kodların kelime ve karakter sayılarını otomatik sayma",
+      "B) Yanlış yazılan kodları otomatik uyarma",
+      "C) Yazılan kodun farklı dillerdeki karşılığını gösterme",
+      "D) Yazılan kodun tamamlanmadan kısmen çalışmasını sağlama",
+      "E) Yazılan kodu belirli ilk değerlerle çalıştırma"
+    ],
+    "doğru cevap indeksi": 1,
+    "doğru cevap": "B",
+    "açıklama": "Intellisense, yanlış yazılan kodları derlenmeden belirler ve uyarır, varsa doğrusunu önerir."
+  },
+  {
+    "soru numarası": 17,
+    "soru cümlesi": "Aşağıdakilerden hangisi bir kaçış karakteri değildir?",
+    "seçenekler": [
+      "A) \\t",
+      "B) \\a",
+      "C) \\*",
+      "D) \\n",
+      "E) \\\\"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "\\* bir kaçış ifadesi değildir"
+  },
+  {
+    "soru numarası": 18,
+    "soru cümlesi": "Aşağıdakilerden hangisi içerisinde ondalıklı sayı saklanabilen bir veri türüdür?",
+    "seçenekler": [
+      "A) char",
+      "B) bool",
+      "C) short",
+      "D) double",
+      "E) unsigned int"
+    ],
+    "doğru cevap indeksi": 3,
+    "doğru cevap": "D",
+    "açıklama": "ondalıklı sayı türü için double ya da float değişken türü kullanılır."
+  },
+  {
+    "soru numarası": 19,
+    "soru cümlesi": "int a=1+2-3/4*5; deyimi işletildiğinde ilk önce gerçekleştirilen aritmetik işlem aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) Toplama",
+      "B) Çıkarma",
+      "C) Bölme",
+      "D) Çarpma",
+      "E) Atama"
+    ],
+    "doğru cevap indeksi": 2,
+    "doğru cevap": "C",
+    "açıklama": "Eşit öncelikte soldan sağa doğru işlem yapılır"
+  },
+  {
+    "soru numarası": 20,
+    "soru cümlesi": "int a = 6, b =0; switch (a * b) {case 10: cout << 1 << endl; break; case 20: cout << 2 << endl; break; case 30: cout << 3 << endl; break; case 40: cout << 4 << endl; break; default: cout << 5 << endl;break; } Yukarıdaki C++ kod bloğunun ekran çıktısı aşağıdakilerden hangisidir?",
+    "seçenekler": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 5"
+    ],
+    "doğru cevap indeksi": 4,
+    "doğru cevap": "E",
+    "açıklama": "60 değeri için default seçeneği devreye girer."
+  }
+]
