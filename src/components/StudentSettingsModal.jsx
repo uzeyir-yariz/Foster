@@ -1,275 +1,231 @@
 import { useState } from 'react';
+import { useAuth } from '../contexts/AuthContext';
+import { doc, setDoc } from 'firebase/firestore';
+import { db } from '../firebase/config';
 import './StudentSettingsModal.css';
 
-function StudentSettingsModal({ studentData, onClose, onUpdate }) {
+export default function StudentSettingsModal({ studentData, onClose }) {
+  const { currentUser, userProfile, clearSourceSelection } = useAuth();
   const [name, setName] = useState(studentData?.isim || '');
-  const [selectedAvatar, setSelectedAvatar] = useState(studentData?.avatar || 'avatar1.png');
-  const [showResetConfirm, setShowResetConfirm] = useState(false);
-  const [loading, setLoading] = useState(false);
+  const [status, setStatus] = useState(studentData?.durum || '');
+  const [showConfirmReset, setShowConfirmReset] = useState(false);
+  const [showConfirmSourceChange, setShowConfirmSourceChange] = useState(false);
+  const [saving, setSaving] = useState(false);
 
-  const avatars = [
-    'avatar1.png',
-    'avatar2.png',
-    'avatar3.png',
-    'avatar4.png',
-    'avatar5.png',
-    'avatar6.png'
-  ];
-
-  const handleSaveName = async () => {
-    if (!name.trim()) {
-      alert('İsim boş olamaz!');
-      return;
-    }
-
-    setLoading(true);
+  const handleSave = async () => {
+    if (!currentUser) return;
+    
     try {
-      const response = await fetch('http://localhost:3501/api/student/name', {
-        method: 'PATCH',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ name: name.trim() }),
-      });
-
-      const result = await response.json();
+      setSaving(true);
+      const userDocRef = doc(db, 'users', currentUser.uid);
       
-      if (result.success) {
-        onUpdate(result.data);
-        alert('İsim başarıyla güncellendi! ✨');
-        onClose();
-      } else {
-        alert('İsim güncellenirken hata oluştu!');
-      }
+      // Update profile in Firestore
+      await setDoc(userDocRef, {
+        profile: {
+          ...studentData,
+          isim: name,
+          durum: status
+        }
+      }, { merge: true });
+
+      alert('Değişiklikler kaydedildi!');
+      // Don't close, just reload page to show updated data
+      window.location.reload();
     } catch (error) {
-      console.error('Error updating name:', error);
-      alert('İsim güncellenirken hata oluştu!');
+      console.error('Save error:', error);
+      alert('Kaydederken hata oluştu: ' + error.message);
     } finally {
-      setLoading(false);
-    }
-  };
-
-  const handleSaveAvatar = async () => {
-    setLoading(true);
-    try {
-      // Read current data and update only avatar
-      const response = await fetch('http://localhost:3501/api/student');
-      const currentData = await response.json();
-      
-      currentData.avatar = selectedAvatar;
-      
-      const updateResponse = await fetch('http://localhost:3501/api/student', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(currentData),
-      });
-
-      const result = await updateResponse.json();
-      
-      if (result.success) {
-        onUpdate(currentData);
-        alert('Profil fotoğrafı güncellendi! 🎨');
-        onClose();
-      } else {
-        alert('Profil fotoğrafı güncellenirken hata oluştu!');
-      }
-    } catch (error) {
-      console.error('Error updating avatar:', error);
-      alert('Profil fotoğrafı güncellenirken hata oluştu!');
-    } finally {
-      setLoading(false);
+      setSaving(false);
     }
   };
 
   const handleReset = async () => {
-    setLoading(true);
+    if (!currentUser) return;
+    
     try {
-      const response = await fetch('http://localhost:3501/api/student/reset', {
-        method: 'POST',
-      });
-
-      const result = await response.json();
+      setSaving(true);
+      const userDocRef = doc(db, 'users', currentUser.uid);
       
-      if (result.success) {
-        onUpdate(result.data);
-        setShowResetConfirm(false);
-        alert('Öğrenci verileri sıfırlandı! 🔄');
-        onClose();
-      } else {
-        alert('Veriler sıfırlanırken hata oluştu!');
-      }
+      // Reset profile to default
+      const defaultProfile = {
+        isim: currentUser.displayName || currentUser.email.split('@')[0],
+        avatarUrl: currentUser.photoURL || '/avatars/avatar1.png',
+        durum: 'yeni başlangıç 🚀',
+        streak: {
+          currentStreak: 0,
+          longestStreak: 0,
+          lastActivityDate: null,
+          streakDates: []
+        },
+        istatistikler: {
+          toplamTest: 0,
+          toplamSure: 0,
+          toplamDogru: 0,
+          toplamYanlis: 0,
+          toplamBos: 0,
+          ortalamaPuan: 0
+        },
+        dersler: {},
+        sonSinav: {
+          tarih: '',
+          ders: '',
+          sinavTipi: '',
+          puan: 0,
+          dogru: 0,
+          yanlis: 0,
+          bos: 0,
+          sure: 0
+        },
+        tumYanlisSorular: []
+      };
+
+      await setDoc(userDocRef, {
+        profile: defaultProfile
+      }, { merge: true });
+
+      setShowConfirmReset(false);
+      alert('Verileriniz başarı ile sıfırlandı!');
+      window.location.reload();
     } catch (error) {
-      console.error('Error resetting data:', error);
-      alert('Veriler sıfırlanırken hata oluştu!');
+      console.error('Reset error:', error);
+      alert('Sıfırlarken hata oluştu: ' + error.message);
     } finally {
-      setLoading(false);
+      setSaving(false);
+    }
+  };
+
+  const handleSourceChange = async () => {
+    try {
+      await clearSourceSelection();
+      setShowConfirmSourceChange(false);
+      onClose();
+    } catch (error) {
+      console.error('Source change error:', error);
+      alert('Kaynak değiştirilirken hata oluştu!');
     }
   };
 
   return (
     <div className="modal-overlay" onClick={onClose}>
-      <div className="settings-modal" onClick={(e) => e.stopPropagation()}>
+      <div className="modal-content settings-modal" onClick={(e) => e.stopPropagation()}>
         <div className="modal-header">
-          <h2>⚙️ Öğrenci Ayarları</h2>
-          <button className="close-btn" onClick={onClose}>×</button>
+          <h2>⚙️ Ayarlar</h2>
+          <button className="btn-close" onClick={onClose}>✕</button>
         </div>
 
         <div className="modal-body">
-          {/* Avatar Selection Section */}
-          <div className="settings-section">
-            <label className="settings-label">
-              <span className="label-icon">📸</span>
-              Profil Fotoğrafı
-            </label>
-            
-            {/* Custom Upload */}
-            <div className="custom-upload-section">
-              <label className="upload-label">
-                <input
-                  type="file"
-                  accept="image/*"
-                  style={{ display: 'none' }}
-                  onChange={async (e) => {
-                    const file = e.target.files[0];
-                    if (file) {
-                      setLoading(true);
-                      try {
-                        const formData = new FormData();
-                        formData.append('avatar', file);
-                        
-                        const response = await fetch('http://localhost:3501/api/upload-avatar', {
-                          method: 'POST',
-                          body: formData,
-                        });
-                        
-                        const result = await response.json();
-                        
-                        if (result.success) {
-                          setSelectedAvatar(result.avatar);
-                          onUpdate(result.data);
-                          alert('Kendi fotoğrafın yüklendi! 🎉');
-                          onClose(); // Close modal after successful upload
-                        } else {
-                          alert('Dosya yüklenirken hata oluştu!');
-                        }
-                      } catch (error) {
-                        console.error('Error uploading file:', error);
-                        alert('Dosya yüklenirken hata oluştu!');
-                      } finally {
-                        setLoading(false);
-                      }
-                    }
-                  }}
-                />
-                <div className="upload-button">
-                  <span className="upload-icon">📤</span>
-                  <span>Kendi Fotoğrafını Yükle</span>
-                  <span className="upload-hint">(JPEG, PNG, GIF - Max 5MB)</span>
-                </div>
-              </label>
-            </div>
-
-            <div className="divider">
-              <span>veya hazır avatarlardan seç</span>
-            </div>
-
-            <div className="avatar-grid">
-              {avatars.map((avatar) => (
-                <div
-                  key={avatar}
-                  className={`avatar-option ${selectedAvatar === avatar ? 'selected' : ''}`}
-                  onClick={() => setSelectedAvatar(avatar)}
-                >
-                  <img src={`/avatars/${avatar}`} alt={avatar} />
-                  {selectedAvatar === avatar && <div className="check-mark">✓</div>}
-                </div>
-              ))}
-            </div>
-            <button 
-              className="btn btn-primary btn-save"
-              onClick={handleSaveAvatar}
-              disabled={loading || selectedAvatar === studentData?.avatar}
-            >
-              🎨 Profil Fotoğrafını Kaydet
-            </button>
-          </div>
-
-          {/* Name Change Section */}
-          <div className="settings-section">
-            <label className="settings-label">
-              <span className="label-icon">👤</span>
-              Öğrenci İsmi
-            </label>
+          <div className="setting-group">
+            <label>Öğrenci İsmi</label>
             <input
               type="text"
-              className="settings-input"
               value={name}
               onChange={(e) => setName(e.target.value)}
               placeholder="İsminizi girin"
-              disabled={loading}
             />
-            <button 
-              className="btn btn-primary btn-save"
-              onClick={handleSaveName}
-              disabled={loading || !name.trim() || name === studentData?.isim}
-            >
-              💾 İsmi Kaydet
-            </button>
           </div>
 
-          {/* Reset Section */}
-          <div className="settings-section danger-section">
-            <label className="settings-label danger">
-              <span className="label-icon">⚠️</span>
-              Tehlikeli Bölge
-            </label>
-            <p className="warning-text">
-              Tüm istatistikleriniz, test geçmişiniz ve yanlış sorularınız silinecektir. 
-              Bu işlem geri alınamaz!
-            </p>
-            
-            {!showResetConfirm ? (
+          <div className="setting-group">
+            <label>Durum Mesajı</label>
+            <input
+              type="text"
+              value={status}
+              onChange={(e) => setStatus(e.target.value)}
+              placeholder="Durum mesajınız"
+            />
+          </div>
+
+          <div className="setting-group">
+            <label>Seçili Sınav Kaynağı</label>
+            <div className="source-display">
+              <p className="current-source">
+                {userProfile?.selectedSourceId?.includes('erzurum')
+                  ? '🏛️ Erzurum Açık Üniversitesi Sınavları' 
+                  : '👨‍🏫 Öğretmen Sınavları'}
+              </p>
               <button 
-                className="btn btn-danger"
-                onClick={() => setShowResetConfirm(true)}
-                disabled={loading}
+                className="btn btn-warning" 
+                onClick={() => setShowConfirmSourceChange(true)}
               >
-                🗑️ Öğrenciyi Sıfırla
+                Kaynağı Değiştir
               </button>
-            ) : (
-              <div className="confirm-reset">
-                <p className="confirm-text">Emin misiniz? Bu işlem geri alınamaz!</p>
-                <div className="confirm-actions">
-                  <button 
-                    className="btn btn-danger btn-confirm"
-                    onClick={handleReset}
-                    disabled={loading}
-                  >
-                    {loading ? '⏳ Sıfırlanıyor...' : '✓ Evet, Sıfırla'}
-                  </button>
-                  <button 
-                    className="btn btn-secondary"
-                    onClick={() => setShowResetConfirm(false)}
-                    disabled={loading}
-                  >
-                    ✗ Vazgeç
-                  </button>
-                </div>
-              </div>
-            )}
+            </div>
+            <p className="warning-text">
+              ⚠️ Kaynağı değiştirdiğinizde kaynak seçim ekranına döneceksiniz
+            </p>
+          </div>
+
+          <div className="danger-zone">
+            <h3>Tehlikeli Alan</h3>
+            <p>Tüm ilerlemenizi silemek için verileri sıfırlayabilirsiniz.</p>
+            <button
+              className="btn btn-danger"
+              onClick={() => setShowConfirmReset(true)}
+              disabled={saving}
+            >
+              🗑️ Tüm Verileri Sıfırla
+            </button>
           </div>
         </div>
 
         <div className="modal-footer">
-          <button className="btn btn-secondary" onClick={onClose} disabled={loading}>
-            Kapat
+          <button className="btn btn-secondary" onClick={onClose} disabled={saving}>
+            İptal
+          </button>
+          <button className="btn btn-primary" onClick={handleSave} disabled={saving}>
+            {saving ? 'Kaydediliyor...' : 'Kaydet'}
           </button>
         </div>
+
+        {/* Reset Confirmation Modal */}
+        {showConfirmReset && (
+          <div className="confirmation-overlay">
+            <div className="confirmation-dialog">
+              <h3>⚠️ Emin misiniz?</h3>
+              <p>Tüm istatistikleriniz, sınavlarınız ve ilerlemeniz silinecek!</p>
+              <div className="confirmation-actions">
+                <button 
+                  className="btn btn-secondary" 
+                  onClick={() => setShowConfirmReset(false)}
+                  disabled={saving}
+                >
+                  İptal
+                </button>
+                <button 
+                  className="btn btn-danger" 
+                  onClick={handleReset}
+                  disabled={saving}
+                >
+                  {saving ? 'Sıfırlanıyor...' : 'Evet, Sıfırla'}
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Source Change Confirmation */}
+        {showConfirmSourceChange && (
+          <div className="confirmation-overlay">
+            <div className="confirmation-dialog">
+              <h3>🔄 Kaynak Değiştir</h3>
+              <p>Kaynağınızı değiştirmek istediğinize emin misiniz? Kaynak seçim ekranına geri döneceksiniz.</p>
+              <div className="confirmation-actions">
+                <button  
+                  className="btn btn-secondary" 
+                  onClick={() => setShowConfirmSourceChange(false)}
+                >
+                  İptal
+                </button>
+                <button 
+                  className="btn btn-primary" 
+                  onClick={handleSourceChange}
+                >
+                  Evet, Değiştir
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );
 }
-
-export default StudentSettingsModal;

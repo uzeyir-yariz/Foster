@@ -204,16 +204,16 @@ export function updateStudentData(currentData, examResult) {
  * Get course statistics
  */
 export function getCourseStats(studentData, courseName = 'programlama temelleri') {
-  const courseData = studentData.dersler[courseName];
+  const courseData = studentData.dersler?.[courseName];
   if (!courseData) return null;
   
   return {
-    testCount: courseData.testSayisi,
-    averageScore: courseData.ortalamaPuan.toFixed(2),
-    highestScore: courseData.enYuksekPuan.toFixed(2),
-    lowestScore: courseData.enDusukPuan.toFixed(2),
-    totalCorrect: courseData.toplamDogru,
-    totalWrong: courseData.toplamYanlis,
-    wrongQuestionsCount: courseData.yanlisSorular.length
+    testCount: courseData.testSayisi || 0,
+    averageScore: Number(courseData.ortalamaPuan || 0).toFixed(2),
+    highestScore: Number(courseData.enYuksekPuan || 0).toFixed(2),
+    lowestScore: Number(courseData.enDusukPuan || 0).toFixed(2),
+    totalCorrect: courseData.toplamDogru || 0,
+    totalWrong: courseData.toplamYanlis || 0,
+    wrongQuestionsCount: courseData.yanlisSorular?.length || 0
   };
 }

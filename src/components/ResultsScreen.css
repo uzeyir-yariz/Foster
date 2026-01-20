@@ -242,8 +242,10 @@
 /* Actions */
 .results-actions {
   display: flex;
-  justify-content: center;
   gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .results-actions .btn {

@@ -1,0 +1,36 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    
+    // Helper functions
+    function isSignedIn() {
+      return request.auth != null;
+    }
+    
+    function isEmailVerified() {
+      return request.auth.token.email_verified == true;
+    }
+    
+    function isValidImage() {
+      return request.resource.size < 5 * 1024 * 1024 && // 5MB max
+             request.resource.contentType.matches('image/.*');
+    }
+    
+    // Avatar storage rules
+    match /avatars/{userId}/{fileName} {
+      // Users can read their own avatars, all verified users can read others' avatars
+      allow read: if isSignedIn() && isEmailVerified();
+      
+      // Users can only upload to their own folder
+      allow create, update: if isSignedIn() && 
+                              isEmailVerified() &&
+                              request.auth.uid == userId &&
+                              isValidImage();
+      
+      // Users can delete their own avatars
+      allow delete: if isSignedIn() && 
+                      isEmailVerified() &&
+                      request.auth.uid == userId;
+    }
+  }
+}

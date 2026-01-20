@@ -1,10 +1,11 @@
 import { formatTime } from '../utils/scoreCalculator';
 import { getCourseStats, downloadStudentData } from '../utils/studentDataManager';
+import { validateStreak } from '../utils/streakManager';
 import StreakDisplay from './StreakDisplay';
 import './StatisticsPanel.css';
 
 function StatisticsPanel({ studentData, onBack }) {
-  if (!studentData) {
+  if (!studentData || !studentData.istatistikler) {
     return (
       <div className="statistics-panel container">
         <p>Veri yükleniyor...</p>
@@ -12,7 +13,10 @@ function StatisticsPanel({ studentData, onBack }) {
     );
   }
 
-  const courseStats = getCourseStats(studentData, 'programlama temelleri');
+  const courseStats = studentData.dersler ? getCourseStats(studentData, 'programlama temelleri') : null;
+  
+  // Streak'i doğrula (eski streakler sıfırlanmalı)
+  const validatedStreak = validateStreak(studentData.streak);
 
   const handleExportData = () => {
     downloadStudentData(studentData);
@@ -49,7 +53,7 @@ function StatisticsPanel({ studentData, onBack }) {
       {/* Streak Display Section */}
       <div className="streak-section">
         <h3>🔥 Çalışma Serisi</h3>
-        <StreakDisplay streak={studentData.streak} />
+        <StreakDisplay streak={validatedStreak} />
       </div>
 
       {/* Overall Statistics */}
@@ -60,7 +64,7 @@ function StatisticsPanel({ studentData, onBack }) {
             <div className="stat-icon">📊</div>
             <div className="stat-info">
               <div className="stat-label">Toplam Test</div>
-              <div className="stat-value">{studentData.istatistikler.toplamTest}</div>
+              <div className="stat-value">{studentData.istatistikler?.toplamTest || 0}</div>
             </div>
           </div>
 
@@ -68,7 +72,7 @@ function StatisticsPanel({ studentData, onBack }) {
             <div className="stat-icon">⭐</div>
             <div className="stat-info">
               <div className="stat-label">Ortalama Puan</div>
-              <div className="stat-value">{studentData.istatistikler.ortalamaPuan.toFixed(2)}</div>
+              <div className="stat-value">{Number(studentData.istatistikler?.ortalamaPuan || 0).toFixed(2)}</div>
             </div>
           </div>
 
@@ -76,7 +80,7 @@ function StatisticsPanel({ studentData, onBack }) {
             <div className="stat-icon">⏱️</div>
             <div className="stat-info">
               <div className="stat-label">Toplam Süre</div>
-              <div className="stat-value">{formatTime(studentData.istatistikler.toplamSure)}</div>
+              <div className="stat-value">{formatTime(studentData.istatistikler?.toplamSure || 0)}</div>
             </div>
           </div>
 
@@ -84,7 +88,7 @@ function StatisticsPanel({ studentData, onBack }) {
             <div className="stat-icon">✓</div>
             <div className="stat-info">
               <div className="stat-label">Toplam Doğru</div>
-              <div className="stat-value success">{studentData.istatistikler.toplamDogru}</div>
+              <div className="stat-value success">{studentData.istatistikler?.toplamDogru || 0}</div>
             </div>
           </div>
 
@@ -92,7 +96,7 @@ function StatisticsPanel({ studentData, onBack }) {
             <div className="stat-icon">✗</div>
             <div className="stat-info">
               <div className="stat-label">Toplam Yanlış</div>
-              <div className="stat-value error">{studentData.istatistikler.toplamYanlis}</div>
+              <div className="stat-value error">{studentData.istatistikler?.toplamYanlis || 0}</div>
             </div>
           </div>
 
@@ -100,7 +104,7 @@ function StatisticsPanel({ studentData, onBack }) {
             <div className="stat-icon">○</div>
             <div className="stat-info">
               <div className="stat-label">Toplam Boş</div>
-              <div className="stat-value warning">{studentData.istatistikler.toplamBos}</div>
+              <div className="stat-value warning">{studentData.istatistikler?.toplamBos || 0}</div>
             </div>
           </div>
         </div>
@@ -143,39 +147,39 @@ function StatisticsPanel({ studentData, onBack }) {
       )}
 
       {/* Last Exam */}
-      {studentData.sonSinav.tarih && (
+      {studentData.sonSinav?.tarih && (
         <div className="last-exam card">
           <h3>Son Sınav</h3>
           <div className="exam-details">
             <div className="detail-row">
               <span className="detail-label">Tarih:</span>
               <span className="detail-value">
-                {new Date(studentData.sonSinav.tarih).toLocaleString('tr-TR')}
+                {studentData.sonSinav?.tarih ? new Date(studentData.sonSinav.tarih).toLocaleString('tr-TR') : '-'}
               </span>
             </div>
             <div className="detail-row">
               <span className="detail-label">Ders:</span>
-              <span className="detail-value">{studentData.sonSinav.ders}</span>
+              <span className="detail-value">{studentData.sonSinav?.ders || '-'}</span>
             </div>
             <div className="detail-row">
               <span className="detail-label">Sınav Tipi:</span>
-              <span className="detail-value">{studentData.sonSinav.sinavTipi}</span>
+              <span className="detail-value">{studentData.sonSinav?.sinavTipi || '-'}</span>
             </div>
             <div className="detail-row">
               <span className="detail-label">Puan:</span>
-              <span className="detail-value highlight">{studentData.sonSinav.puan.toFixed(2)}</span>
+              <span className="detail-value highlight">{Number(studentData.sonSinav?.puan || 0).toFixed(2)}</span>
             </div>
             <div className="detail-row">
               <span className="detail-label">Doğru / Yanlış / Boş:</span>
               <span className="detail-value">
-                <span className="success">{studentData.sonSinav.dogru}</span> / 
-                <span className="error"> {studentData.sonSinav.yanlis}</span> / 
-                <span className="warning"> {studentData.sonSinav.bos}</span>
+                <span className="success">{studentData.sonSinav?.dogru || 0}</span> / 
+                <span className="error"> {studentData.sonSinav?.yanlis || 0}</span> / 
+                <span className="warning"> {studentData.sonSinav?.bos || 0}</span>
               </span>
             </div>
             <div className="detail-row">
               <span className="detail-label">Süre:</span>
-              <span className="detail-value">{formatTime(studentData.sonSinav.sure)}</span>
+              <span className="detail-value">{formatTime(studentData.sonSinav?.sure || 0)}</span>
             </div>
           </div>
         </div>

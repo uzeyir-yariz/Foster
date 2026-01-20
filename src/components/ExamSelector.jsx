@@ -1,58 +1,137 @@
 import { useState, useEffect } from 'react';
-import { loadAllExams, getExamTypes, getYearRange, filterExams, combineExams, getCourses } from '../utils/examLoader';
+import { useAuth } from '../contexts/AuthContext';
+import { collection, query, where, getDocs } from 'firebase/firestore';
+import { db } from '../firebase/config';
 import { randomizeQuestions } from '../utils/questionRandomizer';
+import { validateStreak } from '../utils/streakManager';
 import StreakDisplay from './StreakDisplay';
+import NotificationBell from './NotificationBell';
+import NotificationsModal from './NotificationsModal';
 import './ExamSelector.css';
 
-function ExamSelector({ onStartQuiz, onViewStats, onViewReports, onSettings, studentData }) {
+function ExamSelector({ onStartQuiz, onViewStats, onViewReportedQuestions, onViewAdminPanel, onSettings, studentData }) {
+  const { signOut, userProfile, isAdmin } = useAuth();
+  const [showNotifications, setShowNotifications] = useState(false);
   const [allExams, setAllExams] = useState([]);
-  const [filteredExams, setFilteredExams] = useState([]);
-  const [selectedExamIds, setSelectedExamIds] = useState(new Set());
-  
   const [courses, setCourses] = useState([]);
-  const [selectedCourses, setSelectedCourses] = useState(new Set());
-
   const [examTypes, setExamTypes] = useState([]);
-  const [selectedTypes, setSelectedTypes] = useState(new Set());
   
-  const [yearRange, setYearRange] = useState({ min: 2018, max: 2025 });
-  const [filterYearRange, setFilterYearRange] = useState({ min: 2018, max: 2025 });
+  const [selectedCourses, setSelectedCourses] = useState(new Set());
+  const [selectedTypes, setSelectedTypes] = useState(new Set());
+  const [selectedExamIds, setSelectedExamIds] = useState(new Set());
+  const [filteredExams, setFilteredExams] = useState([]);
+  
+  const [yearRange, setYearRange] = useState({ min: 2018, max: 2026 });
+  const [filterYearRange, setFilterYearRange] = useState({ min: 2018, max: 2026 });
+  
+  const [loading, setLoading] = useState(true);
+  const [isRolling, setIsRolling] = useState(false);
+  const [randomExamName, setRandomExamName] = useState('');
 
-  // Load exams on mount
-  useEffect(() => {
-    try {
-      const exams = loadAllExams();
-      setAllExams(exams);
+  // Handle random exam selection
+  const handleRandomExam = () => {
+    if (filteredExams.length === 0) return;
+    
+    setIsRolling(true);
+    setRandomExamName('');
+    
+    // Simulate dice roll for 5 seconds
+    setTimeout(() => {
+      const randomIndex = Math.floor(Math.random() * filteredExams.length);
+      const randomExam = filteredExams[randomIndex];
       
-      // Extract unique courses and default select only the first one
-      const uniqueCourses = getCourses(exams);
-      setCourses(uniqueCourses);
-      if (uniqueCourses.length > 0) {
-        setSelectedCourses(new Set([uniqueCourses[0]]));
+      // Select only this exam
+      setSelectedExamIds(new Set([randomExam.id]));
+      setRandomExamName(randomExam.filename);
+      setIsRolling(false);
+    }, 2000);
+  };
+
+  // Load exams from Firestore
+  useEffect(() => {
+    if (!userProfile?.selectedSourceId) return;
+    
+    const loadExams = async () => {
+      try {
+        setLoading(true);
+        
+        // Query exams for the selected source
+        const examsRef = collection(db, 'exams');
+        const q = query(examsRef, where('sourceId', '==', userProfile.selectedSourceId));
+        const snapshot = await getDocs(q);
+        
+        const exams = snapshot.docs.map(doc => {
+          const data = doc.data();
+          return {
+            id: doc.id,
+            filename: data.examName,
+            courseName: data.courseName,
+            examType: data.type || 'Sınav',
+            year: data.year,
+            questionCount: data.questionCount || data.questions?.length || 0,
+            questions: data.questions || []
+          };
+        });
+        
+        setAllExams(exams);
+        
+        // Extract unique courses
+        const uniqueCourses = [...new Set(exams.map(e => e.courseName))].sort();
+        setCourses(uniqueCourses);
+        if (uniqueCourses.length > 0) {
+          setSelectedCourses(new Set([uniqueCourses[0]]));
+        }
+        
+        // Extract unique exam types
+        const uniqueTypes = [...new Set(exams.map(e => e.examType))].filter(Boolean).sort();
+        setExamTypes(uniqueTypes);
+        
+        // Extract year range
+        const years = exams
+          .map(e => e.year)
+          .filter(y => y && y.includes('-'))
+          .map(y => parseInt(y.split('-')[0]));
+        
+        if (years.length > 0) {
+          const min = Math.min(...years);
+          const max = Math.max(...years) + 1; // End year
+          setYearRange({ min, max });
+          setFilterYearRange({ min, max });
+        }
+        
+      } catch (error) {
+        console.error('Error loading exams:', error);
+      } finally {
+        setLoading(false);
       }
-      
-      // Use filtered exams (all initially) for metadata extraction to populate other filters relevantly
-      // But initially we want global types
-      const types = getExamTypes(exams);
-      setExamTypes(types);
-      
-      const range = getYearRange(exams);
-      setYearRange(range);
-      setFilterYearRange(range);
-    } catch (error) {
-      console.error('Error loading exams:', error);
-    }
-  }, []);
+    };
+    
+    loadExams();
+  }, [userProfile?.selectedSourceId]);
 
-  // Apply filters when selection changes
+  // Apply filters
   useEffect(() => {
-    const filtered = filterExams(allExams, {
-      courses: selectedCourses.size > 0 ? Array.from(selectedCourses) : null,
-      examTypes: selectedTypes.size > 0 ? Array.from(selectedTypes) : null,
-      yearRange: filterYearRange
+    let filtered = allExams;
+    
+    // Filter by selected courses
+    if (selectedCourses.size > 0) {
+      filtered = filtered.filter(e => selectedCourses.has(e.courseName));
+    }
+    
+    // Filter by selected types
+    if (selectedTypes.size > 0) {
+      filtered = filtered.filter(e => selectedTypes.has(e.examType));
+    }
+    
+    // Filter by year range
+    filtered = filtered.filter(e => {
+      if (!e.year || !e.year.includes('-')) return true;
+      const startYear = parseInt(e.year.split('-')[0]);
+      return startYear >= filterYearRange.min && startYear <= filterYearRange.max;
     });
+    
     setFilteredExams(filtered);
-  }, [selectedCourses, selectedTypes, filterYearRange, allExams]);
+  }, [allExams, selectedCourses, selectedTypes, filterYearRange]);
 
   const handleCourseToggle = (course) => {
     const newCourses = new Set(selectedCourses);
@@ -95,8 +174,10 @@ function ExamSelector({ onStartQuiz, onViewStats, onViewReports, onSettings, stu
 
   const handleStartQuiz = () => {
     const selected = allExams.filter(e => selectedExamIds.has(e.id));
-    const questions = combineExams(selected);
-    const randomized = randomizeQuestions(questions);
+    const allQuestions = selected.flatMap(exam => 
+      exam.questions.map(q => ({ ...q, sourcExam: exam.filename }))
+    );
+    const randomized = randomizeQuestions(allQuestions);
     
     onStartQuiz(selected, randomized);
   };
@@ -106,31 +187,102 @@ function ExamSelector({ onStartQuiz, onViewStats, onViewReports, onSettings, stu
     .filter(e => selectedExamIds.has(e.id))
     .reduce((sum, e) => sum + e.questionCount, 0);
 
+  if (loading) {
+    return (
+      <div className="exam-selector container">
+        <div className="loading-container">
+          <div className="spinner"></div>
+          <p>Sınavlar yükleniyor...</p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="exam-selector container fade-in">
       <header className="selector-header">
-        <div className="header-content">
-          <h1>Foster Sınav Sistemi</h1>
-          <p className="subtitle">Sınav ve Test Merkezi</p>
+        <div className="header-top">
+          <div className="header-content">
+            <h1>Foster Sınav Sistemi</h1>
+            <p className="subtitle">Sınav ve Test Merkezi</p>
+          </div>
+          <div className="header-actions">
+            <StreakDisplay streak={validateStreak(studentData?.streak)} compact />
+            <NotificationBell onClick={() => setShowNotifications(true)} />
+            <button
+              className="btn btn-secondary"
+              onClick={onViewStats}
+            >
+              📊 İstatistikler
+            </button>
+            {isAdmin && (
+              <>
+                <button
+                  className="btn btn-warning"
+                  onClick={onViewReportedQuestions}
+                >
+                  🚨 Hatalı Sorular
+                </button>
+                <button
+                  className="btn btn-primary"
+                  onClick={onViewAdminPanel}
+                >
+                  👥 Kullanıcı Yönetimi
+                </button>
+              </>
+            )}
+            <button
+              className="btn btn-secondary"
+              onClick={onSettings}
+            >
+              ⚙️ Ayarlar
+            </button>
+            <button
+              className="btn btn-danger"
+              onClick={signOut}
+            >
+              🚪 Çıkış
+            </button>
+          </div>
         </div>
-        <div className="header-actions">
-          <StreakDisplay streak={studentData?.streak} compact />
-          <button className="btn btn-secondary" onClick={onSettings}>
-            ⚙️ Ayarlar
-          </button>
-          <button className="btn btn-reports" onClick={onViewReports}>
-            🚨 Hatalı Sorular
-          </button>
-          <button className="btn btn-stats" onClick={onViewStats}>
-            📊 İstatistiklerim
-          </button>
-        </div>
+        
+        {userProfile?.selectedSourceId && (
+          <div className="source-info-banner">
+            <p>📚 Seçili Kaynak: <strong>{userProfile.selectedSourceId.includes('erzurum') ? 'Erzurum Açık Üniversitesi' : 'Öğretmen Sınavları'}</strong></p>
+          </div>
+        )}
       </header>
 
       <div className="selector-content">
         {/* Filters Section */}
         <div className="filters-section card">
           <h3>Filtreler</h3>
+
+          {/* Random Exam Selection - Moved to Top */}
+          <div className="random-exam-section">
+            <button 
+              className="btn btn-primary random-exam-btn" 
+              onClick={handleRandomExam}
+              disabled={filteredExams.length === 0 || isRolling}
+            >
+              {isRolling ? '🎲 Zar Atılıyor...' : '🎲 Rastgele Sınav'}
+            </button>
+
+            {/* Random Exam Rolling Animation */}
+            {isRolling && (
+              <div className="random-exam-rolling">
+                <div className="dice-animation">🎲</div>
+                <p>Zar atılıyor...</p>
+              </div>
+            )}
+
+            {/* Random Exam Result */}
+            {randomExamName && !isRolling && (
+              <div className="random-exam-result">
+                <p>✨ Seçilen Sınav: <strong>{randomExamName}</strong></p>
+              </div>
+            )}
+          </div>
 
           <div className="filter-group">
             <label>Dersler</label>
@@ -148,21 +300,23 @@ function ExamSelector({ onStartQuiz, onViewStats, onViewReports, onSettings, stu
             </div>
           </div>
           
-          <div className="filter-group">
-            <label>Sınav Tipi</label>
-            <div className="checkbox-group">
-              {examTypes.map(type => (
-                <label key={type} className="checkbox-label">
-                  <input
-                    type="checkbox"
-                    checked={selectedTypes.has(type)}
-                    onChange={() => handleTypeToggle(type)}
-                  />
-                  <span>{type}</span>
-                </label>
-              ))}
+          {examTypes.length > 0 && (
+            <div className="filter-group">
+              <label>Sınav Tipi</label>
+              <div className="checkbox-group">
+                {examTypes.map(type => (
+                  <label key={type} className="checkbox-label">
+                    <input
+                      type="checkbox"
+                      checked={selectedTypes.has(type)}
+                      onChange={() => handleTypeToggle(type)}
+                    />
+                    <span>{type}</span>
+                  </label>
+                ))}
+              </div>
             </div>
-          </div>
+          )}
 
           <div className="filter-group">
             <label>Yıl Aralığı: {filterYearRange.min} - {filterYearRange.max}</label>
@@ -242,6 +396,11 @@ function ExamSelector({ onStartQuiz, onViewStats, onViewReports, onSettings, stu
             Teste Başla ({totalQuestions} Soru)
           </button>
         </div>
+      )}
+
+      {/* Notifications Modal */}
+      {showNotifications && (
+        <NotificationsModal onClose={() => setShowNotifications(false)} />
       )}
     </div>
   );

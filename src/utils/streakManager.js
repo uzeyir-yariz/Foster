@@ -1,6 +1,44 @@
 // Streak (Günlük Seri) yönetimi
 
 /**
+ * Mevcut streak'in hala geçerli olup olmadığını kontrol eder
+ * 2+ gün geçmişse streak'i sıfırlar
+ * @param {Object} streak - Streak verileri
+ * @returns {Object} - Doğrulanmış streak bilgisi
+ */
+export function validateStreak(streak) {
+  if (!streak || !streak.lastActivityDate) {
+    return {
+      currentStreak: 0,
+      longestStreak: streak?.longestStreak || 0,
+      lastActivityDate: null,
+      streakDates: []
+    };
+  }
+  
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  
+  const lastDate = new Date(streak.lastActivityDate);
+  lastDate.setHours(0, 0, 0, 0);
+  
+  const diffDays = Math.floor((today - lastDate) / (1000 * 60 * 60 * 24));
+  
+  // 2+ gün geçmişse streak sıfırla (1 gün atlanmış demektir)
+  if (diffDays >= 2) {
+    return {
+      currentStreak: 0,
+      longestStreak: streak.longestStreak,
+      lastActivityDate: streak.lastActivityDate,
+      streakDates: []
+    };
+  }
+  
+  // Streak hala geçerli
+  return streak;
+}
+
+/**
  * Streak verisini günceller
  * @param {Object} studentData - Mevcut öğrenci verileri
  * @returns {Object} - Güncellenmiş streak bilgisi

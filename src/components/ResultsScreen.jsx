@@ -1,18 +1,7 @@
-import { useEffect } from 'react';
 import { formatTime } from '../utils/scoreCalculator';
-import { updateStudentData, saveStudentData } from '../utils/studentDataManager';
 import './ResultsScreen.css';
 
-function ResultsScreen({ results, studentData, onNewQuiz, onViewStats, onDataUpdate }) {
-  // Save results to student data on mount
-  useEffect(() => {
-    if (studentData && results) {
-      const updatedData = updateStudentData(studentData, results);
-      saveStudentData(updatedData);
-      onDataUpdate(updatedData);
-    }
-  }, []);
-
+function ResultsScreen({ results, onBackToSelector, onViewStats }) {
   return (
     <div className="results-screen container fade-in">
       <div className="results-header">
@@ -117,11 +106,11 @@ function ResultsScreen({ results, studentData, onNewQuiz, onViewStats, onDataUpd
 
       {/* Actions */}
       <div className="results-actions">
-        <button className="btn btn-primary" onClick={onNewQuiz}>
-          Yeni Test Çöz
+        <button className="btn btn-primary" onClick={onBackToSelector}>
+          🏠 Ana Sayfaya Dön
         </button>
         <button className="btn btn-secondary" onClick={onViewStats}>
-          İstatistikleri Gör
+          📊 İstatistikleri Gör
         </button>
       </div>
     </div>
